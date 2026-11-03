@@ -1,0 +1,37 @@
+content_id,exam,subject,topic,content_type,difficulty,duration
+C001,JEE,Physics,Kinematics,Lecture,Easy,45
+C002,JEE,Physics,Kinematics,PYQ,Medium,30
+C003,JEE,Physics,Newton Laws,DPP,Medium,25
+C004,JEE,Chemistry,Mole Concept,Lecture,Easy,40
+C005,JEE,Mathematics,Calculus,Lecture,Hard,60
+C006,WBJEE,Physics,Kinematics,PYQ,Medium,30
+C013,JEE,Mathematics,Calculus,DPP,Medium,25
+C014,JEE,Mathematics,Calculus,PYQ,Hard,40
+C015,JEE,Mathematics,Calculus,Practice,Medium,30
+C016,JEE,Physics,Newton Laws,Lecture,Easy,45
+C017,JEE,Physics,Newton Laws,PYQ,Medium,35
+C018,JEE,Physics,Newton Laws,Practice,Medium,30
+C019,JEE,Chemistry,Mole Concept,DPP,Medium,25
+C020,JEE,Chemistry,Mole Concept,PYQ,Hard,35
+C021,WBJEE,Physics,Kinematics,PYQ,Medium,30
+C022,WBJEE,Physics,Kinematics,Lecture,Easy,40
+C007,WBJEE,Mathematics,Calculus,DPP,Hard,25
+C023,WBJEE,Mathematics,Calculus,Lecture,Medium,50
+C024,WBJEE,Mathematics,Calculus,PYQ,Hard,35
+C008,WBJEE,Chemistry,Organic Chemistry,Lecture,Medium,50
+C025,WBJEE,Chemistry,Organic Chemistry,DPP,Medium,25
+C026,WBJEE,Chemistry,Organic Chemistry,PYQ,Hard,35
+C009,NEET,Physics,Kinematics,Lecture,Easy,40
+C027,NEET,Physics,Kinematics,DPP,Medium,25
+C028,NEET,Physics,Kinematics,PYQ,Medium,30
+C010,NEET,Chemistry,Mole Concept,PYQ,Medium,30
+C029,NEET,Chemistry,Mole Concept,Lecture,Easy,40
+C030,NEET,Chemistry,Mole Concept,DPP,Medium,25
+C011,NEET,Biology,Cell Biology,Lecture,Easy,35
+C031,NEET,Biology,Cell Biology,PYQ,Medium,30
+C032,NEET,Biology,Cell Biology,DPP,Medium,25
+C012,NEET,Biology,Human Physiology,DPP,Medium,25
+C033,NEET,Biology,Human Physiology,Lecture,Easy,40
+C034,NEET,Biology,Human Physiology,PYQ,Medium,30
+C035,JEE,Mathematics,Calculus,Lecture,Easy,40
+C036,JEE,Mathematics,Calculus,Practice,Easy,25
