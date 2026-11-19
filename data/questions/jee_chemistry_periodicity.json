@@ -1,0 +1,452 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "According to the modern periodic law, the properties of elements are a periodic function of their:",
+  "options": {
+   "A": "atomic mass",
+   "B": "atomic number",
+   "C": "number of neutrons",
+   "D": "atomic volume"
+  },
+  "correct_answer": "B",
+  "explanation": "Moseley showed that atomic number, not atomic mass, is the basis of periodicity.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Classification of Elements and Periodicity"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The element with atomic number 17 belongs to group:",
+  "options": {
+   "A": "15",
+   "B": "16",
+   "C": "17",
+   "D": "18"
+  },
+  "correct_answer": "C",
+  "explanation": "Cl has configuration [Ne]3s²3p⁵, which has 7 valence electrons, so it is in group 17 (halogens).",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Classification of Elements and Periodicity"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following has the largest atomic radius?",
+  "options": {
+   "A": "Li",
+   "B": "Na",
+   "C": "K",
+   "D": "Rb"
+  },
+  "correct_answer": "D",
+  "explanation": "Atomic radius increases down a group, and Rb is the lowest of these.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Classification of Elements and Periodicity"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Among the isoelectronic species N³⁻, O²⁻, F⁻ and Na⁺, the one with the largest ionic radius is:",
+  "options": {
+   "A": "N³⁻",
+   "B": "O²⁻",
+   "C": "F⁻",
+   "D": "Na⁺"
+  },
+  "correct_answer": "A",
+  "explanation": "All have 10 electrons, so the species with the smallest nuclear charge (N³⁻, Z = 7) is the largest.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Classification of Elements and Periodicity"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following has the highest first ionisation enthalpy?",
+  "options": {
+   "A": "He",
+   "B": "Ne",
+   "C": "Ar",
+   "D": "Kr"
+  },
+  "correct_answer": "A",
+  "explanation": "Ionisation enthalpy decreases down the group, and He is smallest with a full shell.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Classification of Elements and Periodicity"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Among B, Be, N and O, the element with the highest first ionisation enthalpy is:",
+  "options": {
+   "A": "B",
+   "B": "Be",
+   "C": "N",
+   "D": "O"
+  },
+  "correct_answer": "C",
+  "explanation": "N has the stable half-filled 2p³ configuration. Be is higher than B, and O is lower than N.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Classification of Elements and Periodicity"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The most electronegative element in the periodic table is:",
+  "options": {
+   "A": "Cl",
+   "B": "O",
+   "C": "N",
+   "D": "F"
+  },
+  "correct_answer": "D",
+  "explanation": "F has the highest electronegativity (3.98 on the Pauling scale).",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Classification of Elements and Periodicity"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which element has the most negative electron gain enthalpy?",
+  "options": {
+   "A": "F",
+   "B": "Cl",
+   "C": "Br",
+   "D": "I"
+  },
+  "correct_answer": "B",
+  "explanation": "Cl is more negative than F because the very small 2p subshell of F causes strong electron–electron repulsion.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Classification of Elements and Periodicity"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which pair shows a diagonal relationship?",
+  "options": {
+   "A": "Li and Mg",
+   "B": "Li and Na",
+   "C": "Be and Ca",
+   "D": "B and Ga"
+  },
+  "correct_answer": "A",
+  "explanation": "Li and Mg are diagonal neighbours and have similar properties. Be and Al, and B and Si, are the other classic pairs.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Classification of Elements and Periodicity"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is an amphoteric oxide?",
+  "options": {
+   "A": "Na₂O",
+   "B": "MgO",
+   "C": "Al₂O₃",
+   "D": "P₄O₁₀"
+  },
+  "correct_answer": "C",
+  "explanation": "Al₂O₃ reacts with both acids and bases. Na₂O and MgO are basic and P₄O₁₀ is acidic.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Classification of Elements and Periodicity"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which species is isoelectronic with Ar?",
+  "options": {
+   "A": "Na⁺",
+   "B": "K⁺",
+   "C": "Mg²⁺",
+   "D": "F⁻"
+  },
+  "correct_answer": "B",
+  "explanation": "Ar has 18 electrons, and K⁺ (19 − 1) also has 18. Na⁺, Mg²⁺ and F⁻ have 10.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Classification of Elements and Periodicity"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "An element with the configuration [Ar]3d⁵4s² belongs to the:",
+  "options": {
+   "A": "s-block",
+   "B": "p-block",
+   "C": "d-block",
+   "D": "f-block"
+  },
+  "correct_answer": "C",
+  "explanation": "The last electron enters the 3d subshell (this is Mn).",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Classification of Elements and Periodicity"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The lanthanoid contraction is responsible for the similar atomic radii of:",
+  "options": {
+   "A": "Zr and Hf",
+   "B": "Li and Na",
+   "C": "Fe and Co only",
+   "D": "Mg and Ca"
+  },
+  "correct_answer": "A",
+  "explanation": "Poor shielding by 4f electrons cancels the expected increase in size from 4d to 5d, so Zr and Hf have almost equal radii.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Classification of Elements and Periodicity"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Across a period from left to right, the metallic character generally:",
+  "options": {
+   "A": "increases",
+   "B": "decreases",
+   "C": "stays constant",
+   "D": "first decreases then increases at the end"
+  },
+  "correct_answer": "B",
+  "explanation": "Effective nuclear charge increases and atoms hold electrons more tightly.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Classification of Elements and Periodicity"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following has the highest second ionisation enthalpy?",
+  "options": {
+   "A": "Na",
+   "B": "Mg",
+   "C": "Al",
+   "D": "Si"
+  },
+  "correct_answer": "A",
+  "explanation": "Removing a second electron from Na⁺ breaks the stable neon core (2p⁶), which is very difficult.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Classification of Elements and Periodicity"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The number of elements in the fourth period is:",
+  "options": {
+   "A": "8",
+   "B": "18",
+   "C": "32",
+   "D": "10"
+  },
+  "correct_answer": "B",
+  "explanation": "The 4th period fills 4s, 3d and 4p, which is 2 + 10 + 6 = 18 elements.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Classification of Elements and Periodicity"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Elements with the outer configuration ns²np⁵ are called:",
+  "options": {
+   "A": "alkali metals",
+   "B": "chalcogens",
+   "C": "halogens",
+   "D": "noble gases"
+  },
+  "correct_answer": "C",
+  "explanation": "ns²np⁵ is the group 17 configuration, the halogens.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Classification of Elements and Periodicity"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is the most metallic?",
+  "options": {
+   "A": "Be",
+   "B": "Mg",
+   "C": "Ca",
+   "D": "Ba"
+  },
+  "correct_answer": "D",
+  "explanation": "Metallic character increases down a group.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Classification of Elements and Periodicity"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The inert pair effect is most pronounced in:",
+  "options": {
+   "A": "B",
+   "B": "Al",
+   "C": "Ga",
+   "D": "Tl"
+  },
+  "correct_answer": "D",
+  "explanation": "In Tl the 6s² electrons are reluctant to participate, so +1 is more stable than +3.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Classification of Elements and Periodicity"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following has the smallest ionic radius?",
+  "options": {
+   "A": "Na⁺",
+   "B": "Mg²⁺",
+   "C": "Al³⁺",
+   "D": "F⁻"
+  },
+  "correct_answer": "C",
+  "explanation": "These are isoelectronic, so the highest nuclear charge (Al³⁺, Z = 13) gives the smallest radius.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Classification of Elements and Periodicity"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is a metalloid?",
+  "options": {
+   "A": "Na",
+   "B": "Si",
+   "C": "Cl",
+   "D": "Fe"
+  },
+  "correct_answer": "B",
+  "explanation": "Silicon has properties of both metals and non-metals.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Classification of Elements and Periodicity"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The correct increasing order of first ionisation enthalpy is:",
+  "options": {
+   "A": "Na < Mg < Al < Si",
+   "B": "Na < Al < Mg < Si",
+   "C": "Na < Al < Si < Mg",
+   "D": "Al < Na < Mg < Si"
+  },
+  "correct_answer": "B",
+  "explanation": "Mg is higher than Al because Mg has a filled 3s², while Al loses a 3p electron. So Na (496) < Al (578) < Mg (738) < Si (786 kJ/mol).",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Classification of Elements and Periodicity"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which of the following species are isoelectronic with Ne?",
+  "options": {
+   "A": "N³⁻",
+   "B": "O²⁻",
+   "C": "Mg²⁺",
+   "D": "Cl⁻"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "N³⁻, O²⁻ and Mg²⁺ each have 10 electrons. Cl⁻ has 18.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Classification of Elements and Periodicity"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which of the following statements are correct?",
+  "options": {
+   "A": "Atomic radius generally decreases across a period",
+   "B": "First ionisation enthalpy generally increases across a period",
+   "C": "Electronegativity decreases down a group",
+   "D": "The electron gain enthalpy of F is more negative than that of Cl"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "Cl has the more negative electron gain enthalpy, so D is false.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Classification of Elements and Periodicity"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of elements in the third period is:",
+  "options": null,
+  "correct_answer": "8",
+  "explanation": "The third period fills 3s and 3p, giving 2 + 6 = 8 elements.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Classification of Elements and Periodicity"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of valence electrons in an atom of phosphorus (Z = 15) is:",
+  "options": null,
+  "correct_answer": "5",
+  "explanation": "P is [Ne]3s²3p³, so 2 + 3 = 5 valence electrons.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Classification of Elements and Periodicity"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of elements in the sixth period is:",
+  "options": null,
+  "correct_answer": "32",
+  "explanation": "The sixth period fills 6s, 4f, 5d and 6p, which is 2 + 14 + 10 + 6 = 32 elements.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Classification of Elements and Periodicity"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of unpaired electrons in a ground-state nitrogen atom (Z = 7) is:",
+  "options": null,
+  "correct_answer": "3",
+  "explanation": "N is 1s²2s²2p³, with one electron in each of the three 2p orbitals.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Classification of Elements and Periodicity"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "Among Na⁺, Mg²⁺, F⁻, O²⁻, Cl⁻ and K⁺, the number of species isoelectronic with Ne is:",
+  "options": null,
+  "correct_answer": "4",
+  "explanation": "Na⁺, Mg²⁺, F⁻ and O²⁻ each have 10 electrons. Cl⁻ and K⁺ have 18.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Classification of Elements and Periodicity"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The atomic number of the element in period 3 and group 16 is:",
+  "options": null,
+  "correct_answer": "16",
+  "explanation": "This is sulphur: [Ne]3s²3p⁴, with Z = 16.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Classification of Elements and Periodicity"
+ }
+]

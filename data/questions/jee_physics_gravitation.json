@@ -1,0 +1,452 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "The gravitational force between two 1 kg masses placed 1 m apart is approximately:",
+  "options": {
+   "A": "6.67 × 10⁻¹¹ N",
+   "B": "6.67 × 10⁻⁹ N",
+   "C": "9.8 N",
+   "D": "6.67 × 10¹¹ N"
+  },
+  "correct_answer": "A",
+  "explanation": "F = GMm/r² = G = 6.67 × 10⁻¹¹ N for unit masses at unit distance.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Gravitation"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "If the distance between two masses is doubled, the gravitational force between them becomes:",
+  "options": {
+   "A": "one-half",
+   "B": "double",
+   "C": "one-fourth",
+   "D": "four times"
+  },
+  "correct_answer": "C",
+  "explanation": "F ∝ 1/r², so doubling r divides F by 4.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Gravitation"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The acceleration due to gravity at a height equal to the radius R of the Earth above its surface is:",
+  "options": {
+   "A": "g/2",
+   "B": "g/9",
+   "C": "2g",
+   "D": "g/4"
+  },
+  "correct_answer": "D",
+  "explanation": "g′ = g R²/(R + h)² = g R²/(2R)² = g/4.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Gravitation"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The acceleration due to gravity at a depth R/2 below the Earth's surface (uniform density) is:",
+  "options": {
+   "A": "g/4",
+   "B": "g/2",
+   "C": "2g",
+   "D": "zero"
+  },
+  "correct_answer": "B",
+  "explanation": "g′ = g(1 − d/R) = g(1 − 1/2) = g/2.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Gravitation"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The escape velocity from the surface of the Earth is approximately:",
+  "options": {
+   "A": "11.2 km/s",
+   "B": "7.9 km/s",
+   "C": "9.8 km/s",
+   "D": "3 × 10⁵ km/s"
+  },
+  "correct_answer": "A",
+  "explanation": "v_e = √(2gR) ≈ 11.2 km/s.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Gravitation"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Near the Earth's surface, the ratio of the escape velocity to the orbital velocity is:",
+  "options": {
+   "A": "2",
+   "B": "1/√2",
+   "C": "√2",
+   "D": "1"
+  },
+  "correct_answer": "C",
+  "explanation": "v_e = √(2gR) and v_o = √(gR), so v_e/v_o = √2.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Gravitation"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A planet orbits the Sun at a distance 4 times that of the Earth. Its orbital period in years is:",
+  "options": {
+   "A": "4",
+   "B": "16",
+   "C": "2",
+   "D": "8"
+  },
+  "correct_answer": "D",
+  "explanation": "T² ∝ r³, so T = 4^(3/2) = 8 years.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Gravitation"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Taking g = 10 m/s² and R = 6400 km, the time period of a satellite orbiting very close to the Earth's surface is about:",
+  "options": {
+   "A": "24 hours",
+   "B": "84 minutes",
+   "C": "42 minutes",
+   "D": "6 hours"
+  },
+  "correct_answer": "B",
+  "explanation": "T = 2π√(R/g) = 2π√(6.4 × 10⁶/10) ≈ 5030 s ≈ 84 minutes.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Gravitation"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The gravitational potential energy of a mass m at the surface of the Earth (mass M, radius R), taking zero at infinity, is:",
+  "options": {
+   "A": "−GMm/R",
+   "B": "+GMm/R",
+   "C": "−GMm/R²",
+   "D": "+mgR"
+  },
+  "correct_answer": "A",
+  "explanation": "U = −GMm/r, which is negative because gravity is attractive, so at r = R it is −GMm/R.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Gravitation"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The total energy of a satellite of mass m in a circular orbit of radius r around the Earth (mass M) is:",
+  "options": {
+   "A": "+GMm/2r",
+   "B": "−GMm/r",
+   "C": "−GMm/2r",
+   "D": "+GMm/r"
+  },
+  "correct_answer": "C",
+  "explanation": "K = GMm/2r and U = −GMm/r, so E = −GMm/2r.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Gravitation"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A planet has twice the mass and twice the radius of the Earth. Its escape velocity compared with that of the Earth is:",
+  "options": {
+   "A": "√2 times",
+   "B": "2 times",
+   "C": "half",
+   "D": "the same"
+  },
+  "correct_answer": "D",
+  "explanation": "v_e ∝ √(M/R) = √(2/2) = 1.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Gravitation"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The mass of the Moon is 1/81 of the Earth's and its radius is 1/4 of the Earth's. The ratio g_moon/g_earth is:",
+  "options": {
+   "A": "1/81",
+   "B": "16/81",
+   "C": "1/4",
+   "D": "4/81"
+  },
+  "correct_answer": "B",
+  "explanation": "g ∝ M/R² = (1/81)/(1/16) = 16/81.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Gravitation"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Because of the Earth's rotation, the effective acceleration due to gravity on the Earth's surface is least at:",
+  "options": {
+   "A": "the equator",
+   "B": "the poles",
+   "C": "latitude 45°",
+   "D": "all places equally"
+  },
+  "correct_answer": "A",
+  "explanation": "The centrifugal effect is greatest at the equator, which also lies farthest from the centre, so g is least there.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Gravitation"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The weight of a body at the centre of the Earth is:",
+  "options": {
+   "A": "mg",
+   "B": "mg/2",
+   "C": "zero",
+   "D": "infinite"
+  },
+  "correct_answer": "C",
+  "explanation": "At the centre g = g(1 − d/R) with d = R, which is zero.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Gravitation"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The orbital speed of a satellite at distance r from the Earth's centre is proportional to:",
+  "options": {
+   "A": "r^(1/2)",
+   "B": "r^(−1)",
+   "C": "r^(3/2)",
+   "D": "r^(−1/2)"
+  },
+  "correct_answer": "D",
+  "explanation": "v = √(GM/r) ∝ r^(−1/2).",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Gravitation"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Kepler's second law (equal areas in equal times) is a consequence of the conservation of:",
+  "options": {
+   "A": "linear momentum",
+   "B": "angular momentum",
+   "C": "mechanical energy",
+   "D": "mass"
+  },
+  "correct_answer": "B",
+  "explanation": "Gravity is a central force, so the torque about the Sun is zero and angular momentum is conserved.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Gravitation"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A planet moves around the Sun in an elliptical orbit. Its speed is maximum at:",
+  "options": {
+   "A": "perihelion",
+   "B": "aphelion",
+   "C": "the ends of the minor axis",
+   "D": "every point equally"
+  },
+  "correct_answer": "A",
+  "explanation": "Angular momentum conservation makes the speed greatest at the closest point, perihelion.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Gravitation"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The gravitational field at any point inside a uniform hollow spherical shell is:",
+  "options": {
+   "A": "GM/R²",
+   "B": "GM/r²",
+   "C": "zero",
+   "D": "constant but non-zero"
+  },
+  "correct_answer": "C",
+  "explanation": "By Newton's shell theorem there is no net gravitational field inside a uniform shell.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Gravitation"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Taking g = 10 m/s² and R = 6.4 × 10⁶ m, the work needed to take a 1 kg mass from the Earth's surface to infinity is:",
+  "options": {
+   "A": "6.4 × 10⁶ J",
+   "B": "6.4 × 10⁴ J",
+   "C": "3.2 × 10⁷ J",
+   "D": "6.4 × 10⁷ J"
+  },
+  "correct_answer": "D",
+  "explanation": "W = GMm/R = gRm = 10 × 6.4 × 10⁶ × 1 = 6.4 × 10⁷ J.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Gravitation"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "If v₀ is the orbital speed of a satellite just above the Earth's surface, its orbital speed at a height R above the surface is:",
+  "options": {
+   "A": "v₀/2",
+   "B": "v₀/√2",
+   "C": "√2 v₀",
+   "D": "v₀"
+  },
+  "correct_answer": "B",
+  "explanation": "v ∝ r^(−1/2), and r changes from R to 2R, so v = v₀/√2.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Gravitation"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "An astronaut in a satellite orbiting the Earth feels weightless because:",
+  "options": {
+   "A": "the astronaut and the satellite are both in free fall with the same acceleration",
+   "B": "there is no gravitational force at that height",
+   "C": "the Moon's gravity cancels the Earth's",
+   "D": "the satellite is outside the Earth's atmosphere"
+  },
+  "correct_answer": "A",
+  "explanation": "Gravity still acts, but the astronaut and satellite fall together, so there is no normal reaction.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Gravitation"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The energy needed to remove a satellite of mass m from a circular orbit of radius r around the Earth (mass M) to infinity is:",
+  "options": {
+   "A": "GMm/r",
+   "B": "2GMm/r",
+   "C": "GMm/2r",
+   "D": "GMm/4r"
+  },
+  "correct_answer": "C",
+  "explanation": "The total energy is −GMm/2r, so GMm/2r must be supplied to reach zero energy.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Gravitation"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which of the following statements about the gravitational force are correct?",
+  "options": {
+   "A": "It depends on the medium between the masses",
+   "B": "It acts along the line joining two point masses",
+   "C": "It is always attractive",
+   "D": "It is a conservative force"
+  },
+  "correct_answer": "B,C,D",
+  "explanation": "Gravity is attractive, conservative and central. Unlike electrostatic forces it does not depend on the intervening medium.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Gravitation"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "For a satellite in a circular orbit around the Earth, which statements are correct?",
+  "options": {
+   "A": "Its angular momentum about the Earth's centre is conserved",
+   "B": "Its total energy is negative",
+   "C": "Its orbital speed decreases as the orbital radius increases",
+   "D": "Its orbital speed depends on its own mass"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "v = √(GM/r) is independent of the satellite's mass and falls with r. E = −GMm/2r is negative, and gravity exerts no torque about the centre.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Gravitation"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A body weighs 90 N on the Earth's surface. Its weight (in N) at a height 2R above the surface (distance 3R from the centre) is:",
+  "options": null,
+  "correct_answer": "10",
+  "explanation": "Weight ∝ 1/r², so W = 90/9 = 10 N.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Gravitation"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A planet has 8 times the mass and 2 times the radius of the Earth. Taking g = 10 m/s² on the Earth, the value of g (in m/s²) on this planet is:",
+  "options": null,
+  "correct_answer": "20",
+  "explanation": "g ∝ M/R² = 8/4 = 2, so g = 20 m/s².",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Gravitation"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A planet orbits the Sun at a distance of 4 AU. Taking the Earth's period as 1 year, its orbital period (in years) is:",
+  "options": null,
+  "correct_answer": "8",
+  "explanation": "T² ∝ r³ gives T² = 64, so T = 8 years.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Gravitation"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A planet has radius 3200 km and g = 10 m/s² on its surface. Its escape velocity (in km/s) is:",
+  "options": null,
+  "correct_answer": "8",
+  "explanation": "v = √(2gR) = √(2 × 10 × 3.2 × 10⁶) = 8000 m/s = 8 km/s.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Gravitation"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "Taking G = 6 × 10⁻¹¹ N m² kg⁻², the gravitational force between masses of 2 kg and 3 kg placed 1 m apart is x × 10⁻¹⁰ N. The value of x is:",
+  "options": null,
+  "correct_answer": "3.6",
+  "explanation": "F = 6 × 10⁻¹¹ × 2 × 3/1 = 3.6 × 10⁻¹⁰ N.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Gravitation"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "Taking g = 10 m/s² and R = 6.4 × 10⁶ m, the work done (in units of 10⁷ J) to raise a 1 kg mass from the Earth's surface to a height R above it is:",
+  "options": null,
+  "correct_answer": "3.2",
+  "explanation": "ΔU = GMm/R − GMm/2R = gRm/2 = 10 × 6.4 × 10⁶/2 = 3.2 × 10⁷ J.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Gravitation"
+ }
+]

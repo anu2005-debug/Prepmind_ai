@@ -1,0 +1,452 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "The radius of the first Bohr orbit of hydrogen is:",
+  "options": {
+   "A": "5.3 Å",
+   "B": "0.053 Å",
+   "C": "0.53 Å",
+   "D": "1.06 Å"
+  },
+  "correct_answer": "C",
+  "explanation": "a₀ = 0.529 Å ≈ 0.53 Å.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Atoms and Nuclei"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The energy of the electron in the n = 2 state of hydrogen is:",
+  "options": {
+   "A": "−13.6 eV",
+   "B": "−6.8 eV",
+   "C": "−1.51 eV",
+   "D": "−3.4 eV"
+  },
+  "correct_answer": "D",
+  "explanation": "E_n = −13.6/n² = −13.6/4 = −3.4 eV.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Atoms and Nuclei"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The energy of the photon emitted in the transition n = 3 → n = 2 in hydrogen is about:",
+  "options": {
+   "A": "12.09 eV",
+   "B": "10.2 eV",
+   "C": "1.89 eV",
+   "D": "0.66 eV"
+  },
+  "correct_answer": "C",
+  "explanation": "E = 13.6(1/4 − 1/9) = 13.6 × 5/36 ≈ 1.89 eV.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Atoms and Nuclei"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The ionisation energy of a He⁺ ion in its ground state is:",
+  "options": {
+   "A": "13.6 eV",
+   "B": "54.4 eV",
+   "C": "27.2 eV",
+   "D": "122.4 eV"
+  },
+  "correct_answer": "B",
+  "explanation": "E = 13.6 Z² = 13.6 × 4 = 54.4 eV.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Atoms and Nuclei"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The ground state energy of a Li²⁺ ion is:",
+  "options": {
+   "A": "−122.4 eV",
+   "B": "−40.8 eV",
+   "C": "−13.6 eV",
+   "D": "−27.2 eV"
+  },
+  "correct_answer": "A",
+  "explanation": "E = −13.6 Z² = −13.6 × 9 = −122.4 eV.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Atoms and Nuclei"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In the hydrogen spectrum, the Lyman series corresponds to transitions ending at the level:",
+  "options": {
+   "A": "n = 2",
+   "B": "n = 3",
+   "C": "n = 4",
+   "D": "n = 1"
+  },
+  "correct_answer": "D",
+  "explanation": "Lyman lines arise from transitions to n = 1 and lie in the ultraviolet.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Atoms and Nuclei"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The longest wavelength in the Lyman series of hydrogen is about (R = 1.097 × 10⁷ m⁻¹):",
+  "options": {
+   "A": "91 nm",
+   "B": "656 nm",
+   "C": "121.5 nm",
+   "D": "365 nm"
+  },
+  "correct_answer": "C",
+  "explanation": "1/λ = R(1 − 1/4) = 3R/4, so λ = 4/(3R) ≈ 121.5 nm.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Atoms and Nuclei"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "According to Bohr's model, the angular momentum of the electron in the nth orbit is:",
+  "options": {
+   "A": "nh/2π",
+   "B": "n²h/2π",
+   "C": "h/2πn",
+   "D": "nh"
+  },
+  "correct_answer": "A",
+  "explanation": "Bohr's quantisation condition is L = nh/2π.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Atoms and Nuclei"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The radius of the third Bohr orbit of hydrogen (a₀ = 0.53 Å) is:",
+  "options": {
+   "A": "1.59 Å",
+   "B": "4.77 Å",
+   "C": "2.12 Å",
+   "D": "0.177 Å"
+  },
+  "correct_answer": "B",
+  "explanation": "r_n = n²a₀ = 9 × 0.53 = 4.77 Å.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Atoms and Nuclei"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The ratio of the speed of the electron in the first Bohr orbit to that in the second is:",
+  "options": {
+   "A": "1 : 2",
+   "B": "1 : 1",
+   "C": "4 : 1",
+   "D": "2 : 1"
+  },
+  "correct_answer": "D",
+  "explanation": "v ∝ 1/n, so v₁/v₂ = 2/1.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Atoms and Nuclei"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In Rutherford's experiment, most α particles passed through a thin gold foil undeflected. This showed that:",
+  "options": {
+   "A": "the nucleus carries negative charge",
+   "B": "the atom is mostly empty space",
+   "C": "electrons are heavier than α particles",
+   "D": "the atom is a solid sphere"
+  },
+  "correct_answer": "B",
+  "explanation": "Undeflected passage means that most of the atom's volume contains no massive or charged matter.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Atoms and Nuclei"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Two nuclei have mass numbers 8 and 27. The ratio of their nuclear radii is:",
+  "options": {
+   "A": "2 : 3",
+   "B": "8 : 27",
+   "C": "3 : 2",
+   "D": "4 : 9"
+  },
+  "correct_answer": "A",
+  "explanation": "R ∝ A^(1/3), so the ratio is 8^(1/3) : 27^(1/3) = 2 : 3.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Atoms and Nuclei"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A nucleus of ²³⁸₉₂U undergoes α decay. The daughter nucleus has:",
+  "options": {
+   "A": "Z = 92, A = 234",
+   "B": "Z = 90, A = 238",
+   "C": "Z = 90, A = 234",
+   "D": "Z = 94, A = 242"
+  },
+  "correct_answer": "C",
+  "explanation": "An α particle removes 2 protons and 4 nucleons: Z = 90, A = 234.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Atoms and Nuclei"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In β⁻ decay, the daughter nucleus has:",
+  "options": {
+   "A": "Z decreased by 1 and the same A",
+   "B": "Z increased by 2",
+   "C": "A decreased by 1",
+   "D": "Z increased by 1 and the same A"
+  },
+  "correct_answer": "D",
+  "explanation": "A neutron converts to a proton, so Z increases by 1 and A is unchanged.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Atoms and Nuclei"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A radioactive sample has a half-life of 10 days. The fraction left after 30 days is:",
+  "options": {
+   "A": "1/2",
+   "B": "1/4",
+   "C": "1/8",
+   "D": "1/6"
+  },
+  "correct_answer": "C",
+  "explanation": "30 days is 3 half-lives, so the fraction is (1/2)³ = 1/8.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Atoms and Nuclei"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A radioactive substance has a half-life of 693 s. Its decay constant is (ln 2 = 0.693):",
+  "options": {
+   "A": "10⁻² s⁻¹",
+   "B": "10⁻³ s⁻¹",
+   "C": "0.693 s⁻¹",
+   "D": "693 s⁻¹"
+  },
+  "correct_answer": "B",
+  "explanation": "λ = 0.693/T½ = 0.693/693 = 10⁻³ s⁻¹.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Atoms and Nuclei"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A radioactive substance has decay constant 0.02 s⁻¹. Its mean life is:",
+  "options": {
+   "A": "50 s",
+   "B": "0.02 s",
+   "C": "20 s",
+   "D": "34.65 s"
+  },
+  "correct_answer": "A",
+  "explanation": "τ = 1/λ = 1/0.02 = 50 s.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Atoms and Nuclei"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The binding energy per nucleon is greatest for nuclei with mass numbers around those of:",
+  "options": {
+   "A": "hydrogen",
+   "B": "uranium",
+   "C": "iron",
+   "D": "helium"
+  },
+  "correct_answer": "C",
+  "explanation": "The binding energy per nucleon peaks near A ≈ 56 (iron), about 8.8 MeV.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Atoms and Nuclei"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The mass defect of a nucleus is 0.03 u (1 u = 931.5 MeV). Its binding energy is about:",
+  "options": {
+   "A": "2.8 MeV",
+   "B": "0.28 MeV",
+   "C": "280 MeV",
+   "D": "28 MeV"
+  },
+  "correct_answer": "D",
+  "explanation": "E = 0.03 × 931.5 ≈ 28 MeV.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Atoms and Nuclei"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The energy of the Sun is mainly produced by:",
+  "options": {
+   "A": "nuclear fission of uranium",
+   "B": "nuclear fusion of hydrogen into helium",
+   "C": "burning of chemical fuel",
+   "D": "radioactive decay of heavy elements"
+  },
+  "correct_answer": "B",
+  "explanation": "Hydrogen nuclei fuse into helium in the Sun's core, releasing energy.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Atoms and Nuclei"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which statement about the nuclear force is correct?",
+  "options": {
+   "A": "It is long-range",
+   "B": "It depends on the charge of the nucleons",
+   "C": "It is purely electrostatic",
+   "D": "It is short-range and strong"
+  },
+  "correct_answer": "D",
+  "explanation": "The nuclear force is very strong at about 1 fm, but negligible beyond a few fm, and it is charge-independent.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Atoms and Nuclei"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The number of neutrons in the nucleus of ²³⁵₉₂U is:",
+  "options": {
+   "A": "143",
+   "B": "92",
+   "C": "235",
+   "D": "327"
+  },
+  "correct_answer": "A",
+  "explanation": "N = A − Z = 235 − 92 = 143.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Atoms and Nuclei"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which statements about the Bohr model of hydrogen are correct?",
+  "options": {
+   "A": "The angular momentum of the electron is quantised as nh/2π",
+   "B": "The energy of the nth state is −13.6/n² eV",
+   "C": "The radius of the nth orbit is proportional to n²",
+   "D": "The electron radiates continuously while in a stationary orbit"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "In Bohr's model the electron does not radiate in a stationary orbit. Radiation occurs only in transitions between orbits.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Atoms and Nuclei"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which statements about radioactivity are correct?",
+  "options": {
+   "A": "An α particle is a helium nucleus",
+   "B": "γ rays are electromagnetic radiation and carry no charge",
+   "C": "β⁻ particles are electrons",
+   "D": "The half-life of a substance depends on its temperature"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "Radioactive decay is a nuclear process, so the half-life is independent of temperature and pressure.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Atoms and Nuclei"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The energy (in eV) of the photon emitted in the transition n = 2 → n = 1 in hydrogen is:",
+  "options": null,
+  "correct_answer": "10.2",
+  "explanation": "E = 13.6(1 − 1/4) = 10.2 eV.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Atoms and Nuclei"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A sample has a half-life of 5 days and an initial mass of 160 g. The mass left (in g) after 20 days is:",
+  "options": null,
+  "correct_answer": "10",
+  "explanation": "20 days is 4 half-lives, so the mass is 160/16 = 10 g.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Atoms and Nuclei"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A nucleus has a mass defect of 0.2 u. Taking 1 u = 931 MeV, its binding energy (in MeV) is:",
+  "options": null,
+  "correct_answer": "186.2",
+  "explanation": "E = 0.2 × 931 = 186.2 MeV.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Atoms and Nuclei"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The radius of a nucleus of mass number 64 is (R₀ = 1.2 fm, R = R₀A^(1/3)), in fm:",
+  "options": null,
+  "correct_answer": "4.8",
+  "explanation": "R = 1.2 × 64^(1/3) = 1.2 × 4 = 4.8 fm.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Atoms and Nuclei"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A radioactive sample has a half-life of 2 h and initially contains 640 undecayed nuclei. The number of undecayed nuclei after 6 h is:",
+  "options": null,
+  "correct_answer": "80",
+  "explanation": "6 h is 3 half-lives, so N = 640/8 = 80.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Atoms and Nuclei"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The magnitude of the energy (in eV) of the electron in the n = 2 orbit of a He⁺ ion is:",
+  "options": null,
+  "correct_answer": "13.6",
+  "explanation": "E = 13.6 Z²/n² = 13.6 × 4/4 = 13.6 eV.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Atoms and Nuclei"
+ }
+]

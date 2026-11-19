@@ -1,0 +1,482 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "Sponges belong to the phylum:",
+  "options": {
+   "A": "Porifera",
+   "B": "Cnidaria",
+   "C": "Ctenophora",
+   "D": "Echinodermata"
+  },
+  "correct_answer": "A",
+  "explanation": "Porifera are pore-bearing animals with a canal system and a cellular level of organisation.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Animal Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Choanocytes (collar cells) are characteristic of:",
+  "options": {
+   "A": "Cnidaria",
+   "B": "Annelida",
+   "C": "Mollusca",
+   "D": "Porifera"
+  },
+  "correct_answer": "D",
+  "explanation": "They line the spongocoel and the canals and help in water circulation.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Animal Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Cnidoblasts (stinging cells) are found in:",
+  "options": {
+   "A": "Porifera",
+   "B": "Cnidaria",
+   "C": "Ctenophora",
+   "D": "Platyhelminthes"
+  },
+  "correct_answer": "B",
+  "explanation": "The stinging capsule is called a nematocyst.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Animal Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following belongs to Cnidaria?",
+  "options": {
+   "A": "Pleurobrachia",
+   "B": "Taenia",
+   "C": "Physalia",
+   "D": "Ascaris"
+  },
+  "correct_answer": "C",
+  "explanation": "Physalia (the Portuguese man-of-war) is a cnidarian, and Pleurobrachia is a ctenophore.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Animal Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Comb plates and bioluminescence are the characters of:",
+  "options": {
+   "A": "Ctenophora",
+   "B": "Cnidaria",
+   "C": "Porifera",
+   "D": "Echinodermata"
+  },
+  "correct_answer": "A",
+  "explanation": "Ctenophores, or sea walnuts, have eight rows of ciliated comb plates.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Animal Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Flame cells are the excretory structures of:",
+  "options": {
+   "A": "Annelida",
+   "B": "Arthropoda",
+   "C": "Mollusca",
+   "D": "Platyhelminthes"
+  },
+  "correct_answer": "D",
+  "explanation": "Flatworms are acoelomate, and the flame cells help in osmoregulation and excretion.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Animal Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Taenia and Fasciola are placed in:",
+  "options": {
+   "A": "Aschelminthes",
+   "B": "Platyhelminthes",
+   "C": "Annelida",
+   "D": "Cnidaria"
+  },
+  "correct_answer": "B",
+  "explanation": "They are endoparasitic flatworms.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Animal Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Pseudocoelomate animals with separate sexes, such as Ascaris, belong to:",
+  "options": {
+   "A": "Platyhelminthes",
+   "B": "Annelida",
+   "C": "Aschelminthes",
+   "D": "Arthropoda"
+  },
+  "correct_answer": "C",
+  "explanation": "Their body cavity is not lined by mesoderm.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Animal Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Metameric segmentation is the characteristic of:",
+  "options": {
+   "A": "Annelida",
+   "B": "Aschelminthes",
+   "C": "Porifera",
+   "D": "Cnidaria"
+  },
+  "correct_answer": "A",
+  "explanation": "The body is divided into segments, as in the earthworm Pheretima.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Animal Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The earthworm, Nereis and leech belong to:",
+  "options": {
+   "A": "Arthropoda",
+   "B": "Mollusca",
+   "C": "Platyhelminthes",
+   "D": "Annelida"
+  },
+  "correct_answer": "D",
+  "explanation": "These are coelomate, segmented, bilaterally symmetrical animals.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Animal Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The largest phylum of the animal kingdom is:",
+  "options": {
+   "A": "Mollusca",
+   "B": "Arthropoda",
+   "C": "Chordata",
+   "D": "Annelida"
+  },
+  "correct_answer": "B",
+  "explanation": "Insects alone account for over two-thirds of all named species.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Animal Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Jointed appendages and a chitinous exoskeleton are the characters of:",
+  "options": {
+   "A": "Mollusca",
+   "B": "Annelida",
+   "C": "Arthropoda",
+   "D": "Echinodermata"
+  },
+  "correct_answer": "C",
+  "explanation": "Examples include Apis, Bombyx, Laccifer and Locusta.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Animal Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The body cavity of arthropods, filled with blood, is called:",
+  "options": {
+   "A": "haemocoel",
+   "B": "pseudocoelom",
+   "C": "spongocoel",
+   "D": "enteron"
+  },
+  "correct_answer": "A",
+  "explanation": "Arthropods and molluscs have an open circulatory system.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Animal Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The second largest phylum of animals, with a soft body covered by a calcareous shell, is:",
+  "options": {
+   "A": "Arthropoda",
+   "B": "Chordata",
+   "C": "Echinodermata",
+   "D": "Mollusca"
+  },
+  "correct_answer": "D",
+  "explanation": "Molluscs have a muscular foot and a mantle, and they use a rasping organ called the radula.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Animal Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is a mollusc?",
+  "options": {
+   "A": "Asterias",
+   "B": "Octopus",
+   "C": "Apis",
+   "D": "Hydra"
+  },
+  "correct_answer": "B",
+  "explanation": "Octopus, Sepia and Loligo are cephalopod molluscs.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Animal Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A water-vascular system and spiny skin are the characters of:",
+  "options": {
+   "A": "Mollusca",
+   "B": "Annelida",
+   "C": "Echinodermata",
+   "D": "Cnidaria"
+  },
+  "correct_answer": "C",
+  "explanation": "Examples include Asterias (starfish), Echinus (sea urchin) and Antedon (sea lily).",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Animal Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Adult echinoderms are ___ symmetrical, whereas their larvae are bilaterally symmetrical.",
+  "options": {
+   "A": "radially",
+   "B": "asymmetrically",
+   "C": "bilaterally",
+   "D": "spherically"
+  },
+  "correct_answer": "A",
+  "explanation": "Adult echinoderms show radial symmetry.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Animal Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Balanoglossus belongs to:",
+  "options": {
+   "A": "Urochordata",
+   "B": "Cephalochordata",
+   "C": "Annelida",
+   "D": "Hemichordata"
+  },
+  "correct_answer": "D",
+  "explanation": "It is a worm-like marine animal with a proboscis, collar and trunk.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Animal Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is a feature of all chordates?",
+  "options": {
+   "A": "ventral solid nerve cord and dorsal heart",
+   "B": "notochord, dorsal hollow nerve cord and paired pharyngeal gill slits",
+   "C": "a chitinous exoskeleton and a haemocoel",
+   "D": "radial symmetry and a water vascular system"
+  },
+  "correct_answer": "B",
+  "explanation": "Chordates also have a post-anal tail and a ventral heart.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Animal Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In Urochordates, the notochord is present:",
+  "options": {
+   "A": "throughout life in the adult",
+   "B": "only in the head region",
+   "C": "only in the larval tail",
+   "D": "only in the adult"
+  },
+  "correct_answer": "C",
+  "explanation": "Ascidia, Salpa and Doliolum are examples.",
+  "difficulty": "hard",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Animal Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Petromyzon and Myxine are examples of:",
+  "options": {
+   "A": "Cyclostomata",
+   "B": "Chondrichthyes",
+   "C": "Osteichthyes",
+   "D": "Amphibia"
+  },
+  "correct_answer": "A",
+  "explanation": "They are jawless, with a circular sucking mouth and no scales.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Animal Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Cartilaginous fishes with placoid scales and no operculum are the:",
+  "options": {
+   "A": "Osteichthyes",
+   "B": "Cyclostomata",
+   "C": "Amphibia",
+   "D": "Chondrichthyes"
+  },
+  "correct_answer": "D",
+  "explanation": "Scoliodon, Carcharodon and Trygon are examples.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Animal Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is a bony fish?",
+  "options": {
+   "A": "Scoliodon",
+   "B": "Labeo rohita",
+   "C": "Pristis",
+   "D": "Trygon"
+  },
+  "correct_answer": "B",
+  "explanation": "Labeo and Catla are bony fishes with an operculum and an air bladder.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Animal Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Amphibians such as Rana have a:",
+  "options": {
+   "A": "four-chambered heart and feathers",
+   "B": "two-chambered heart and gills in the adult",
+   "C": "three-chambered heart and moist skin without scales",
+   "D": "four-chambered heart and hair"
+  },
+  "correct_answer": "C",
+  "explanation": "They have two atria and one ventricle.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Animal Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following reptiles has a four-chambered heart?",
+  "options": {
+   "A": "Crocodilus",
+   "B": "Naja",
+   "C": "Chameleon",
+   "D": "Testudo"
+  },
+  "correct_answer": "A",
+  "explanation": "Most reptiles have a three-chambered heart, but crocodiles have a four-chambered one.",
+  "difficulty": "hard",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Animal Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Birds (Aves) are characterised by:",
+  "options": {
+   "A": "hair and mammary glands",
+   "B": "moist skin and a three-chambered heart",
+   "C": "scales and a two-chambered heart",
+   "D": "feathers, pneumatic bones and a four-chambered heart"
+  },
+  "correct_answer": "D",
+  "explanation": "The forelimbs are modified into wings.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Animal Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Mammary glands and hair on the body are the characters of:",
+  "options": {
+   "A": "Aves",
+   "B": "Mammalia",
+   "C": "Reptilia",
+   "D": "Amphibia"
+  },
+  "correct_answer": "B",
+  "explanation": "Mammals feed their young with milk.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Animal Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The egg-laying mammal among the following is:",
+  "options": {
+   "A": "Macropus",
+   "B": "Pteropus",
+   "C": "Ornithorhynchus",
+   "D": "Camelus"
+  },
+  "correct_answer": "C",
+  "explanation": "The duck-billed platypus is a monotreme, and Macropus (kangaroo) carries its young in a pouch.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Animal Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In which of the following animals is the circulatory system closed?",
+  "options": {
+   "A": "Earthworm",
+   "B": "Cockroach",
+   "C": "Pila",
+   "D": "Apis"
+  },
+  "correct_answer": "A",
+  "explanation": "Annelids and chordates have a closed circulatory system.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Animal Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Cnidarians exist in two body forms. Hydra exists only as a:",
+  "options": {
+   "A": "medusa",
+   "B": "both polyp and medusa",
+   "C": "larva",
+   "D": "polyp"
+  },
+  "correct_answer": "D",
+  "explanation": "Aurelia is a medusa, whereas Obelia shows both forms, and Hydra has only the sessile polyp form.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Animal Kingdom"
+ }
+]

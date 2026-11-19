@@ -1,0 +1,452 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "The first step in a proof by mathematical induction is to:",
+  "options": {
+   "A": "assume the statement is true for n = k + 1",
+   "B": "verify that the statement is true for n = 1",
+   "C": "prove the statement for all n directly",
+   "D": "find a counterexample"
+  },
+  "correct_answer": "B",
+  "explanation": "The base case establishes the statement for the smallest value of n.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Principle of Mathematical Induction"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In the induction step, the inductive hypothesis is the assumption that:",
+  "options": {
+   "A": "P(k + 1) is true",
+   "B": "P(n) is false for some n",
+   "C": "P(1) is false",
+   "D": "P(k) is true for some natural number k"
+  },
+  "correct_answer": "D",
+  "explanation": "We assume P(k) and then prove P(k + 1) from it.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Principle of Mathematical Induction"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The sum 1 + 2 + 3 + … + n equals:",
+  "options": {
+   "A": "n(n − 1)/2",
+   "B": "n²",
+   "C": "n(n + 1)/2",
+   "D": "n(n + 1)(2n + 1)/6"
+  },
+  "correct_answer": "C",
+  "explanation": "This is the standard formula, provable by induction.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Principle of Mathematical Induction"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The sum 1² + 2² + … + n² equals:",
+  "options": {
+   "A": "n(n + 1)(2n + 1)/6",
+   "B": "n(n + 1)/2",
+   "C": "[n(n + 1)/2]²",
+   "D": "n(n + 1)(n + 2)/3"
+  },
+  "correct_answer": "A",
+  "explanation": "This is the standard formula for the sum of squares.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Principle of Mathematical Induction"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The sum 1³ + 2³ + … + n³ equals:",
+  "options": {
+   "A": "n(n + 1)(2n + 1)/6",
+   "B": "[n(n + 1)/2]²",
+   "C": "n³",
+   "D": "n(n + 1)/2"
+  },
+  "correct_answer": "B",
+  "explanation": "The sum of the first n cubes is the square of the sum of the first n natural numbers.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Principle of Mathematical Induction"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The sum of the first n odd natural numbers is:",
+  "options": {
+   "A": "n(n + 1)",
+   "B": "2n",
+   "C": "n² + 1",
+   "D": "n²"
+  },
+  "correct_answer": "D",
+  "explanation": "1 + 3 + 5 + … + (2n − 1) = n².",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Principle of Mathematical Induction"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The value of 1 + 2 + 3 + … + 10 is:",
+  "options": {
+   "A": "45",
+   "B": "50",
+   "C": "55",
+   "D": "110"
+  },
+  "correct_answer": "C",
+  "explanation": "10 × 11/2 = 55.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Principle of Mathematical Induction"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The value of 1² + 2² + 3² + 4² is:",
+  "options": {
+   "A": "30",
+   "B": "25",
+   "C": "100",
+   "D": "36"
+  },
+  "correct_answer": "A",
+  "explanation": "1 + 4 + 9 + 16 = 30.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Principle of Mathematical Induction"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The sum of the first 5 odd natural numbers is:",
+  "options": {
+   "A": "15",
+   "B": "25",
+   "C": "20",
+   "D": "30"
+  },
+  "correct_answer": "B",
+  "explanation": "1 + 3 + 5 + 7 + 9 = 25 = 5².",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Principle of Mathematical Induction"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "For all natural numbers n, which of the following is true?",
+  "options": {
+   "A": "2ⁿ < n",
+   "B": "2ⁿ = n²",
+   "C": "n² > 2ⁿ",
+   "D": "2ⁿ > n"
+  },
+  "correct_answer": "D",
+  "explanation": "It holds for n = 1 and the step 2^(k+1) = 2·2^k > 2k ≥ k + 1 completes the induction.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Principle of Mathematical Induction"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The inequality 2ⁿ > n² holds for all natural numbers n greater than or equal to:",
+  "options": {
+   "A": "3",
+   "B": "4",
+   "C": "5",
+   "D": "2"
+  },
+  "correct_answer": "C",
+  "explanation": "At n = 3 and n = 4 it fails (8 < 9 and 16 = 16), and it holds from n = 5 (32 > 25).",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Principle of Mathematical Induction"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "For every natural number n, n(n + 1) is always:",
+  "options": {
+   "A": "even",
+   "B": "odd",
+   "C": "a perfect square",
+   "D": "a multiple of 3"
+  },
+  "correct_answer": "A",
+  "explanation": "Of two consecutive integers one is even.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Principle of Mathematical Induction"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "For every natural number n, n³ − n is divisible by:",
+  "options": {
+   "A": "4",
+   "B": "6",
+   "C": "9",
+   "D": "12"
+  },
+  "correct_answer": "B",
+  "explanation": "n³ − n = (n − 1)n(n + 1), a product of three consecutive integers.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Principle of Mathematical Induction"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "For every natural number n, 3ⁿ − 1 is divisible by:",
+  "options": {
+   "A": "3",
+   "B": "4",
+   "C": "6",
+   "D": "2"
+  },
+  "correct_answer": "D",
+  "explanation": "3ⁿ is odd, so 3ⁿ − 1 is even. It is not always divisible by 4, since 3 − 1 = 2.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Principle of Mathematical Induction"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "For every natural number n, 10ⁿ − 1 is divisible by:",
+  "options": {
+   "A": "10",
+   "B": "11",
+   "C": "9",
+   "D": "7"
+  },
+  "correct_answer": "C",
+  "explanation": "10 ≡ 1 (mod 9), so 10ⁿ − 1 ≡ 0 (mod 9).",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Principle of Mathematical Induction"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "For every natural number n, 4ⁿ − 1 is divisible by:",
+  "options": {
+   "A": "3",
+   "B": "4",
+   "C": "5",
+   "D": "2"
+  },
+  "correct_answer": "A",
+  "explanation": "4 ≡ 1 (mod 3), so 4ⁿ − 1 ≡ 0 (mod 3).",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Principle of Mathematical Induction"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The sum 1/(1·2) + 1/(2·3) + … + 1/(n(n + 1)) equals:",
+  "options": {
+   "A": "1/(n + 1)",
+   "B": "n/(n + 1)",
+   "C": "(n + 1)/n",
+   "D": "1 − 1/n"
+  },
+  "correct_answer": "B",
+  "explanation": "The terms telescope: 1/(k(k + 1)) = 1/k − 1/(k + 1).",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Principle of Mathematical Induction"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The sum 1·2 + 2·3 + … + n(n + 1) equals:",
+  "options": {
+   "A": "n(n + 1)/2",
+   "B": "n(n + 1)(2n + 1)/6",
+   "C": "n²(n + 1)",
+   "D": "n(n + 1)(n + 2)/3"
+  },
+  "correct_answer": "D",
+  "explanation": "It equals Σn² + Σn = n(n + 1)(n + 2)/3.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Principle of Mathematical Induction"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The sum 1 + 2 + 4 + … + 2^(n − 1) equals:",
+  "options": {
+   "A": "2ⁿ",
+   "B": "2ⁿ + 1",
+   "C": "2ⁿ − 1",
+   "D": "2^(n − 1)"
+  },
+  "correct_answer": "C",
+  "explanation": "This is a geometric series with ratio 2.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Principle of Mathematical Induction"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "To verify P(1) for the statement 1 + 3 + 5 + … + (2n − 1) = n², we check that:",
+  "options": {
+   "A": "1 = 1²",
+   "B": "3 = 2²",
+   "C": "1 = 2",
+   "D": "1 + 3 = 1²"
+  },
+  "correct_answer": "A",
+  "explanation": "For n = 1 the left side is 1 and the right side is 1² = 1.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Principle of Mathematical Induction"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In the induction step of a proof, we show that:",
+  "options": {
+   "A": "P(k + 1) implies P(k)",
+   "B": "P(k) implies P(k + 1)",
+   "C": "P(1) implies P(2) only",
+   "D": "P(k) is false"
+  },
+  "correct_answer": "B",
+  "explanation": "Together with the base case, this proves the statement for all natural numbers.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Principle of Mathematical Induction"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The statement 'n² + n + 41 is prime for every natural number n' is:",
+  "options": {
+   "A": "true, as proved by induction",
+   "B": "true for all n except n = 41",
+   "C": "false, since n = 2 gives 47",
+   "D": "false, since n = 40 gives 1681 = 41²"
+  },
+  "correct_answer": "D",
+  "explanation": "Passing the base case is not enough. n = 40 gives 40² + 40 + 41 = 1681 = 41 × 41, so the statement fails.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Principle of Mathematical Induction"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which of the following statements are true for every natural number n?",
+  "options": {
+   "A": "n² > n",
+   "B": "n³ + 2n is divisible by 3",
+   "C": "n² + n is even",
+   "D": "2ⁿ > n"
+  },
+  "correct_answer": "B,C,D",
+  "explanation": "For n = 1, n² = n, so n² > n is false.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Principle of Mathematical Induction"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which of the following summation formulas are correct?",
+  "options": {
+   "A": "1 + 3 + … + (2n − 1) = n(n + 1)",
+   "B": "1 + 2 + … + n = n(n + 1)/2",
+   "C": "1² + 2² + … + n² = n(n + 1)(2n + 1)/6",
+   "D": "1³ + 2³ + … + n³ = [n(n + 1)/2]²"
+  },
+  "correct_answer": "B,C,D",
+  "explanation": "The sum of the first n odd numbers is n², not n(n + 1).",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Principle of Mathematical Induction"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The value of 1² + 2² + 3² + 4² + 5² is:",
+  "options": null,
+  "correct_answer": "55",
+  "explanation": "5 × 6 × 11/6 = 55.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Principle of Mathematical Induction"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The value of 1³ + 2³ + 3³ + 4³ is:",
+  "options": null,
+  "correct_answer": "100",
+  "explanation": "[4 × 5/2]² = 100.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Principle of Mathematical Induction"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The sum of the first 12 odd natural numbers is:",
+  "options": null,
+  "correct_answer": "144",
+  "explanation": "12² = 144.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Principle of Mathematical Induction"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The largest integer that divides n⁵ − n for every natural number n is:",
+  "options": null,
+  "correct_answer": "30",
+  "explanation": "n⁵ − n gives 30 for n = 2 and 240 for n = 3, and gcd(30, 240) = 30. It is always divisible by 2, 3 and 5.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Principle of Mathematical Induction"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The value of 10 × [1/(1·2) + 1/(2·3) + … + 1/(9·10)] is:",
+  "options": null,
+  "correct_answer": "9",
+  "explanation": "The sum is n/(n + 1) = 9/10 for n = 9.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Principle of Mathematical Induction"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The value of 1·2 + 2·3 + 3·4 is:",
+  "options": null,
+  "correct_answer": "20",
+  "explanation": "2 + 6 + 12 = 20.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Principle of Mathematical Induction"
+ }
+]

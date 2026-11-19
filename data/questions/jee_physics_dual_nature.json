@@ -1,0 +1,452 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "The energy of a photon of wavelength 400 nm is (hc = 1240 eV nm):",
+  "options": {
+   "A": "1.55 eV",
+   "B": "3.1 eV",
+   "C": "6.2 eV",
+   "D": "0.31 eV"
+  },
+  "correct_answer": "B",
+  "explanation": "E = 1240/400 = 3.1 eV.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Dual Nature of Matter and Radiation"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The energy of a photon of wavelength 620 nm is (hc = 1240 eV nm):",
+  "options": {
+   "A": "0.5 eV",
+   "B": "1 eV",
+   "C": "4 eV",
+   "D": "2 eV"
+  },
+  "correct_answer": "D",
+  "explanation": "E = 1240/620 = 2 eV.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Dual Nature of Matter and Radiation"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Photons of energy 5 eV fall on a metal of work function 2 eV. The maximum kinetic energy of the emitted photoelectrons is:",
+  "options": {
+   "A": "7 eV",
+   "B": "2.5 eV",
+   "C": "3 eV",
+   "D": "10 eV"
+  },
+  "correct_answer": "C",
+  "explanation": "K_max = hν − φ = 5 − 2 = 3 eV.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Dual Nature of Matter and Radiation"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Photons of energy 5 eV fall on a metal of work function 2 eV. The stopping potential is:",
+  "options": {
+   "A": "3 V",
+   "B": "5 V",
+   "C": "2 V",
+   "D": "7 V"
+  },
+  "correct_answer": "A",
+  "explanation": "eV₀ = K_max = 3 eV, so V₀ = 3 V.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Dual Nature of Matter and Radiation"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A metal has a work function of 2.5 eV. Its threshold wavelength is (hc = 1240 eV nm):",
+  "options": {
+   "A": "248 nm",
+   "B": "620 nm",
+   "C": "496 nm",
+   "D": "310 nm"
+  },
+  "correct_answer": "C",
+  "explanation": "λ₀ = hc/φ = 1240/2.5 = 496 nm.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Dual Nature of Matter and Radiation"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In a photoelectric experiment the intensity of the incident light is increased while its frequency stays the same (above threshold). Then:",
+  "options": {
+   "A": "both the photocurrent and the maximum kinetic energy increase",
+   "B": "the photocurrent decreases",
+   "C": "the maximum kinetic energy increases but the current is unchanged",
+   "D": "the photocurrent increases and the maximum kinetic energy is unchanged"
+  },
+  "correct_answer": "D",
+  "explanation": "More intensity means more photons, so more photoelectrons per second. Each photon has the same energy, so K_max is unchanged.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Dual Nature of Matter and Radiation"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A metal has threshold frequency 5 × 10¹⁴ Hz. Light of frequency 8 × 10¹⁴ Hz falls on it (h = 6.6 × 10⁻³⁴ J s, 1 eV = 1.6 × 10⁻¹⁹ J). The maximum kinetic energy of the photoelectrons is about:",
+  "options": {
+   "A": "1.24 eV",
+   "B": "2.48 eV",
+   "C": "0.62 eV",
+   "D": "3.1 eV"
+  },
+  "correct_answer": "A",
+  "explanation": "K_max = h(ν − ν₀) = 6.6 × 10⁻³⁴ × 3 × 10¹⁴ = 1.98 × 10⁻¹⁹ J ≈ 1.24 eV.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Dual Nature of Matter and Radiation"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The de Broglie wavelength of an electron accelerated through 100 V is about:",
+  "options": {
+   "A": "12.27 Å",
+   "B": "1.227 Å",
+   "C": "0.1227 Å",
+   "D": "122.7 Å"
+  },
+  "correct_answer": "B",
+  "explanation": "λ = 12.27/√V Å = 12.27/10 = 1.227 Å.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Dual Nature of Matter and Radiation"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The momentum of a moving particle is doubled. Its de Broglie wavelength:",
+  "options": {
+   "A": "becomes half",
+   "B": "remains unchanged",
+   "C": "doubles",
+   "D": "becomes four times"
+  },
+  "correct_answer": "A",
+  "explanation": "λ = h/p, so doubling p halves λ.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Dual Nature of Matter and Radiation"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Two particles of masses m and 4m have the same kinetic energy. The ratio of their de Broglie wavelengths (λ for m : λ for 4m) is:",
+  "options": {
+   "A": "1 : 2",
+   "B": "1 : 4",
+   "C": "4 : 1",
+   "D": "2 : 1"
+  },
+  "correct_answer": "D",
+  "explanation": "λ = h/√(2mK), so λ ∝ 1/√m. The ratio is √(4m/m) = 2 : 1.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Dual Nature of Matter and Radiation"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A 0.1 kg ball moves at 10 m/s (h = 6.6 × 10⁻³⁴ J s). Its de Broglie wavelength is:",
+  "options": {
+   "A": "6.6 × 10⁻³³ m",
+   "B": "6.6 × 10⁻³⁴ m",
+   "C": "6.6 × 10⁻³⁵ m",
+   "D": "6.6 × 10⁻³² m"
+  },
+  "correct_answer": "B",
+  "explanation": "λ = h/mv = 6.6 × 10⁻³⁴/(0.1 × 10) = 6.6 × 10⁻³⁴ m.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Dual Nature of Matter and Radiation"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The momentum of a photon of wavelength 660 nm is (h = 6.6 × 10⁻³⁴ J s):",
+  "options": {
+   "A": "10⁻²⁶ kg m/s",
+   "B": "10⁻²⁸ kg m/s",
+   "C": "10⁻²⁷ kg m/s",
+   "D": "10⁻²⁵ kg m/s"
+  },
+  "correct_answer": "C",
+  "explanation": "p = h/λ = 6.6 × 10⁻³⁴/6.6 × 10⁻⁷ = 10⁻²⁷ kg m/s.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Dual Nature of Matter and Radiation"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which phenomenon demonstrates the particle nature of light?",
+  "options": {
+   "A": "Interference",
+   "B": "Diffraction",
+   "C": "Polarisation",
+   "D": "Photoelectric effect"
+  },
+  "correct_answer": "D",
+  "explanation": "The photoelectric effect is explained only by treating light as photons.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Dual Nature of Matter and Radiation"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The Davisson–Germer experiment demonstrated:",
+  "options": {
+   "A": "the particle nature of light",
+   "B": "the wave nature of electrons",
+   "C": "the existence of the neutron",
+   "D": "the quantisation of charge"
+  },
+  "correct_answer": "B",
+  "explanation": "Electrons were diffracted by a nickel crystal, confirming their wave nature.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Dual Nature of Matter and Radiation"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The stopping potential in the photoelectric effect depends on:",
+  "options": {
+   "A": "the frequency of the light and the nature of the metal",
+   "B": "the intensity of the light",
+   "C": "the area of the cathode",
+   "D": "the distance of the source"
+  },
+  "correct_answer": "A",
+  "explanation": "eV₀ = hν − φ, so V₀ depends on ν and φ but not on intensity.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Dual Nature of Matter and Radiation"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The slope of a graph of stopping potential against frequency of incident light is:",
+  "options": {
+   "A": "h",
+   "B": "e/h",
+   "C": "h/e",
+   "D": "he"
+  },
+  "correct_answer": "C",
+  "explanation": "V₀ = (h/e)ν − φ/e, so the slope is h/e.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Dual Nature of Matter and Radiation"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The saturation photocurrent depends on:",
+  "options": {
+   "A": "the frequency of the light",
+   "B": "the work function",
+   "C": "the stopping potential",
+   "D": "the intensity of the light"
+  },
+  "correct_answer": "D",
+  "explanation": "Saturation current is proportional to the number of photons per second, that is, the intensity.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Dual Nature of Matter and Radiation"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A metal has work function 4.14 eV. Its threshold wavelength is about (hc = 1240 eV nm):",
+  "options": {
+   "A": "150 nm",
+   "B": "300 nm",
+   "C": "600 nm",
+   "D": "450 nm"
+  },
+  "correct_answer": "B",
+  "explanation": "λ₀ = 1240/4.14 ≈ 300 nm.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Dual Nature of Matter and Radiation"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The energy of a photon of frequency 10¹⁵ Hz is (h = 6.6 × 10⁻³⁴ J s):",
+  "options": {
+   "A": "6.6 × 10⁻¹⁹ J",
+   "B": "6.6 × 10⁻⁴⁹ J",
+   "C": "6.6 × 10⁻²⁰ J",
+   "D": "6.6 × 10⁻¹⁸ J"
+  },
+  "correct_answer": "A",
+  "explanation": "E = hν = 6.6 × 10⁻³⁴ × 10¹⁵ = 6.6 × 10⁻¹⁹ J.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Dual Nature of Matter and Radiation"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The de Broglie wavelength of an electron of kinetic energy 150 eV is about:",
+  "options": {
+   "A": "0.1 Å",
+   "B": "10 Å",
+   "C": "100 Å",
+   "D": "1 Å"
+  },
+  "correct_answer": "D",
+  "explanation": "λ = 12.27/√150 Å ≈ 12.27/12.25 ≈ 1 Å.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Dual Nature of Matter and Radiation"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "An electron and a proton move at the same speed. The ratio λ_electron/λ_proton is about:",
+  "options": {
+   "A": "1/1836",
+   "B": "1836",
+   "C": "1",
+   "D": "918"
+  },
+  "correct_answer": "B",
+  "explanation": "λ = h/mv, so the ratio equals m_p/m_e ≈ 1836.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Dual Nature of Matter and Radiation"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Light whose frequency is below the threshold frequency of a metal falls on it with very high intensity. Photoelectrons are:",
+  "options": {
+   "A": "not emitted at all",
+   "B": "emitted after a long delay",
+   "C": "emitted with very low kinetic energy",
+   "D": "emitted only if the intensity is large enough"
+  },
+  "correct_answer": "A",
+  "explanation": "Each photon must individually carry energy at least equal to the work function, and intensity cannot compensate.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Dual Nature of Matter and Radiation"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which statements about the photoelectric effect are correct?",
+  "options": {
+   "A": "Emission of photoelectrons is practically instantaneous",
+   "B": "The maximum kinetic energy is independent of the intensity of the light",
+   "C": "There is a threshold frequency below which no emission occurs",
+   "D": "The maximum kinetic energy increases with the intensity of the light"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "K_max depends on frequency, not intensity. Emission has no measurable delay, and a threshold frequency exists.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Dual Nature of Matter and Radiation"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which statements about matter waves are correct?",
+  "options": {
+   "A": "The de Broglie wavelength is λ = h/p",
+   "B": "Macroscopic objects have extremely small de Broglie wavelengths",
+   "C": "The wavelength of a particle increases as its speed increases",
+   "D": "Electron beams can show diffraction"
+  },
+  "correct_answer": "A,B,D",
+  "explanation": "λ = h/mv decreases as the speed increases, so C is false.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Dual Nature of Matter and Radiation"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The energy (in eV) of a photon of wavelength 310 nm is (hc = 1240 eV nm):",
+  "options": null,
+  "correct_answer": "4",
+  "explanation": "E = 1240/310 = 4 eV.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Dual Nature of Matter and Radiation"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "Photons of energy 6 eV fall on a metal of work function 2 eV. The stopping potential (in V) is:",
+  "options": null,
+  "correct_answer": "4",
+  "explanation": "eV₀ = 6 − 2 = 4 eV, so V₀ = 4 V.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Dual Nature of Matter and Radiation"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A metal has work function 3.1 eV. Its threshold wavelength (in nm) is (hc = 1240 eV nm):",
+  "options": null,
+  "correct_answer": "400",
+  "explanation": "λ₀ = 1240/3.1 = 400 nm.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Dual Nature of Matter and Radiation"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A source of power 3.2 W emits light of wavelength 620 nm (hc = 1240 eV nm, 1 eV = 1.6 × 10⁻¹⁹ J). The number of photons emitted per second, in units of 10¹⁸, is:",
+  "options": null,
+  "correct_answer": "10",
+  "explanation": "Photon energy = 2 eV = 3.2 × 10⁻¹⁹ J, so N = 3.2/3.2 × 10⁻¹⁹ = 10¹⁹ = 10 × 10¹⁸.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Dual Nature of Matter and Radiation"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A particle has a de Broglie wavelength of 2 Å (h = 6.6 × 10⁻³⁴ J s). Its momentum, in units of 10⁻²⁴ kg m/s, is:",
+  "options": null,
+  "correct_answer": "3.3",
+  "explanation": "p = h/λ = 6.6 × 10⁻³⁴/2 × 10⁻¹⁰ = 3.3 × 10⁻²⁴ kg m/s.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Dual Nature of Matter and Radiation"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "Light of frequency equal to twice the threshold frequency falls on a metal of work function 2.5 eV. The maximum kinetic energy of the photoelectrons (in eV) is:",
+  "options": null,
+  "correct_answer": "2.5",
+  "explanation": "hν = 2φ, so K_max = 2φ − φ = φ = 2.5 eV.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Dual Nature of Matter and Radiation"
+ }
+]

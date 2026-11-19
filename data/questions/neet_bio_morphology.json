@@ -1,0 +1,482 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "The root cap protects:",
+  "options": {
+   "A": "root hairs",
+   "B": "the apical meristem",
+   "C": "lateral roots",
+   "D": "the xylem"
+  },
+  "correct_answer": "B",
+  "explanation": "The root cap covers the root apical meristem and protects it as the root pushes through soil.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Morphology of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Roots that arise from parts of the plant other than the radicle are called:",
+  "options": {
+   "A": "tap roots",
+   "B": "adventitious roots",
+   "C": "primary roots",
+   "D": "secondary roots"
+  },
+  "correct_answer": "B",
+  "explanation": "Roots arising from the stem, leaves or other parts are adventitious, as in grasses.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Morphology of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A fibrous root system is characteristic of:",
+  "options": {
+   "A": "mustard",
+   "B": "gram",
+   "C": "wheat",
+   "D": "mango"
+  },
+  "correct_answer": "C",
+  "explanation": "In monocots such as wheat the primary root is short-lived and replaced by adventitious roots.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Morphology of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Pneumatophores, which help in respiration, are found in:",
+  "options": {
+   "A": "Rhizophora",
+   "B": "banyan",
+   "C": "maize",
+   "D": "Monstera"
+  },
+  "correct_answer": "A",
+  "explanation": "Rhizophora grows in swampy areas and has pneumatophores that rise above the water or soil.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Morphology of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Stilt roots that give extra support arise from the lower nodes in:",
+  "options": {
+   "A": "mustard",
+   "B": "maize",
+   "C": "carrot",
+   "D": "turnip"
+  },
+  "correct_answer": "B",
+  "explanation": "Maize and sugarcane have stilt roots from the lower nodes of the stem.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Morphology of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The main function of the prop roots of banyan is:",
+  "options": {
+   "A": "absorption of water",
+   "B": "mechanical support",
+   "C": "food storage",
+   "D": "respiration"
+  },
+  "correct_answer": "B",
+  "explanation": "Prop roots hang from the branches and support the heavy crown.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Morphology of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Root hairs are formed in the region of:",
+  "options": {
+   "A": "maturation",
+   "B": "meristematic activity",
+   "C": "elongation",
+   "D": "the root cap"
+  },
+  "correct_answer": "A",
+  "explanation": "Root hairs arise from epidermal cells in the region of maturation and absorb water and minerals.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Morphology of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The tap root of turnip is:",
+  "options": {
+   "A": "conical",
+   "B": "napiform",
+   "C": "fusiform",
+   "D": "tuberous"
+  },
+  "correct_answer": "B",
+  "explanation": "Turnip is napiform (swollen and spherical), carrot is conical and radish is fusiform.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Morphology of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Parallel venation is found in the leaves of:",
+  "options": {
+   "A": "mustard",
+   "B": "hibiscus",
+   "C": "mango",
+   "D": "wheat"
+  },
+  "correct_answer": "D",
+  "explanation": "Monocot leaves such as wheat show parallel venation; dicots show reticulate venation.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Morphology of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A palmately compound leaf is found in:",
+  "options": {
+   "A": "neem",
+   "B": "mango",
+   "C": "silk cotton (Bombax)",
+   "D": "rose"
+  },
+  "correct_answer": "C",
+  "explanation": "In palmate compound leaves the leaflets attach at a common point; neem and rose are pinnate and mango is simple.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Morphology of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Alternate phyllotaxy, with a single leaf at each node, is seen in:",
+  "options": {
+   "A": "China rose",
+   "B": "Calotropis",
+   "C": "guava",
+   "D": "Alstonia"
+  },
+  "correct_answer": "A",
+  "explanation": "Mustard, sunflower and China rose are alternate; Calotropis and guava are opposite; Alstonia is whorled.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Morphology of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Whorled phyllotaxy is seen in:",
+  "options": {
+   "A": "guava",
+   "B": "mustard",
+   "C": "sunflower",
+   "D": "Alstonia"
+  },
+  "correct_answer": "D",
+  "explanation": "In whorled phyllotaxy more than two leaves arise at a node.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Morphology of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The tendrils of Cucurbita are modified:",
+  "options": {
+   "A": "leaves",
+   "B": "stems",
+   "C": "roots",
+   "D": "stipules"
+  },
+  "correct_answer": "B",
+  "explanation": "They arise from axillary buds, so they are modified stems; in pea the tendrils are modified leaflets.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Morphology of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The thorns of Citrus and Bougainvillea are modified:",
+  "options": {
+   "A": "stems",
+   "B": "leaves",
+   "C": "roots",
+   "D": "stipules"
+  },
+  "correct_answer": "A",
+  "explanation": "Thorns are modified axillary buds (stems) and protect the plant from browsing animals.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Morphology of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In Australian acacia the leaves are small and short-lived, and the petiole becomes flattened and green to form a:",
+  "options": {
+   "A": "phylloclade",
+   "B": "phyllode",
+   "C": "cladode",
+   "D": "spine"
+  },
+  "correct_answer": "B",
+  "explanation": "The flattened green petiole, called a phyllode, takes over photosynthesis.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Morphology of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Potato is a:",
+  "options": {
+   "A": "root tuber",
+   "B": "rhizome",
+   "C": "corm",
+   "D": "stem tuber"
+  },
+  "correct_answer": "D",
+  "explanation": "Potato tubers are swollen tips of underground stems and bear eyes, which are nodes with buds.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Morphology of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is a corm?",
+  "options": {
+   "A": "ginger",
+   "B": "Colocasia",
+   "C": "onion",
+   "D": "potato"
+  },
+  "correct_answer": "B",
+  "explanation": "Colocasia has a corm; ginger is a rhizome, onion is a bulb and potato is a stem tuber.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Morphology of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In a racemose inflorescence the flowers are borne in:",
+  "options": {
+   "A": "basipetal succession",
+   "B": "acropetal succession",
+   "C": "random order",
+   "D": "a single whorl"
+  },
+  "correct_answer": "B",
+  "explanation": "The main axis keeps growing, so the younger flowers are near the tip (acropetal).",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Morphology of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In a cymose inflorescence the flowers are arranged in:",
+  "options": {
+   "A": "acropetal order",
+   "B": "basipetal order",
+   "C": "alternate whorls",
+   "D": "a spiral on the axis"
+  },
+  "correct_answer": "B",
+  "explanation": "The main axis ends in a flower, and the lateral flowers are younger toward the base (basipetal).",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Morphology of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Stamens attached to the petals are called:",
+  "options": {
+   "A": "epipetalous",
+   "B": "epiphyllous",
+   "C": "monadelphous",
+   "D": "polyandrous"
+  },
+  "correct_answer": "A",
+  "explanation": "Epipetalous stamens are seen in brinjal; epiphyllous stamens attach to perianth lobes, as in lily.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Morphology of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The stamens of pea are:",
+  "options": {
+   "A": "monadelphous",
+   "B": "polyadelphous",
+   "C": "diadelphous",
+   "D": "syngenesious"
+  },
+  "correct_answer": "C",
+  "explanation": "Pea has two bundles of filaments (9 + 1), which is the diadelphous condition.",
+  "difficulty": "hard",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Morphology of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "An epigynous flower with an inferior ovary is seen in:",
+  "options": {
+   "A": "mustard",
+   "B": "plum",
+   "C": "brinjal",
+   "D": "guava"
+  },
+  "correct_answer": "D",
+  "explanation": "Guava and cucumber are epigynous; mustard and brinjal are hypogynous; plum and rose are perigynous.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Morphology of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The placentation in pea is:",
+  "options": {
+   "A": "axile",
+   "B": "parietal",
+   "C": "marginal",
+   "D": "basal"
+  },
+  "correct_answer": "C",
+  "explanation": "In pea the ovary is one-chambered and the placenta runs along the ventral suture, which is marginal placentation.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Morphology of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Axile placentation is found in:",
+  "options": {
+   "A": "mustard",
+   "B": "sunflower",
+   "C": "Dianthus",
+   "D": "tomato"
+  },
+  "correct_answer": "D",
+  "explanation": "Tomato, lemon and China rose have axile placentation; mustard is parietal, sunflower is basal and Dianthus is free central.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Morphology of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Free central placentation is found in:",
+  "options": {
+   "A": "pea",
+   "B": "Dianthus",
+   "C": "marigold",
+   "D": "lemon"
+  },
+  "correct_answer": "B",
+  "explanation": "In Dianthus and primrose the ovules sit on the central axis of a unilocular ovary.",
+  "difficulty": "hard",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Morphology of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The edible part of a mango is the:",
+  "options": {
+   "A": "epicarp",
+   "B": "mesocarp",
+   "C": "endocarp",
+   "D": "testa"
+  },
+  "correct_answer": "B",
+  "explanation": "Mango is a drupe whose fleshy mesocarp is eaten; the endocarp is hard and stony.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Morphology of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Coconut water is:",
+  "options": {
+   "A": "free nuclear endosperm",
+   "B": "cellular endosperm",
+   "C": "perisperm",
+   "D": "mesocarp"
+  },
+  "correct_answer": "A",
+  "explanation": "Coconut water is free nuclear endosperm and the white kernel is cellular endosperm.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Morphology of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is a non-endospermic seed?",
+  "options": {
+   "A": "castor",
+   "B": "maize",
+   "C": "wheat",
+   "D": "gram"
+  },
+  "correct_answer": "D",
+  "explanation": "Gram, pea and bean seeds lack endosperm because it is used up during development; castor is an endospermic dicot.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Morphology of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In the grain of maize the scutellum is the:",
+  "options": {
+   "A": "single cotyledon",
+   "B": "coleoptile",
+   "C": "coleorhiza",
+   "D": "plumule"
+  },
+  "correct_answer": "A",
+  "explanation": "The shield-shaped scutellum is the single cotyledon of a monocot seed.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Morphology of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In a monocot seed the coleorhiza encloses the:",
+  "options": {
+   "A": "plumule",
+   "B": "scutellum",
+   "C": "endosperm",
+   "D": "radicle"
+  },
+  "correct_answer": "D",
+  "explanation": "The coleorhiza covers the radicle and the coleoptile covers the plumule.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Morphology of Flowering Plants"
+ }
+]

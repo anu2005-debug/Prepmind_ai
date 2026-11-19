@@ -1,0 +1,452 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "A system absorbs 150 J of heat and does 60 J of work on the surroundings. The change in its internal energy is:",
+  "options": {
+   "A": "210 J",
+   "B": "90 J",
+   "C": "−90 J",
+   "D": "−210 J"
+  },
+  "correct_answer": "B",
+  "explanation": "ΔU = q + w = 150 − 60 = 90 J.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Thermodynamics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is a state function?",
+  "options": {
+   "A": "Heat",
+   "B": "Work",
+   "C": "Enthalpy",
+   "D": "Length of the path"
+  },
+  "correct_answer": "C",
+  "explanation": "Enthalpy depends only on the state of the system. Heat and work depend on the path.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Thermodynamics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "For N₂(g) + 3H₂(g) → 2NH₃(g), the value of Δn_g is:",
+  "options": {
+   "A": "2",
+   "B": "−2",
+   "C": "4",
+   "D": "−4"
+  },
+  "correct_answer": "B",
+  "explanation": "Δn_g = moles of gaseous products − moles of gaseous reactants = 2 − 4 = −2.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Thermodynamics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "For the free expansion of an ideal gas into a vacuum:",
+  "options": {
+   "A": "q = 0, w = 0, ΔU = 0",
+   "B": "q > 0, w = 0, ΔU > 0",
+   "C": "q = 0, w < 0, ΔU < 0",
+   "D": "q < 0, w = 0, ΔU < 0"
+  },
+  "correct_answer": "A",
+  "explanation": "There is no external pressure, so w = 0. The process is adiabatic in practice and ΔU = 0 for an ideal gas, so q = 0.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Thermodynamics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "For a spontaneous process, the entropy of the universe:",
+  "options": {
+   "A": "decreases",
+   "B": "increases",
+   "C": "stays constant",
+   "D": "becomes zero"
+  },
+  "correct_answer": "B",
+  "explanation": "The second law: ΔS_universe > 0 for a spontaneous process.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Thermodynamics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A reaction is spontaneous at all temperatures when:",
+  "options": {
+   "A": "ΔH > 0 and ΔS < 0",
+   "B": "ΔH > 0 and ΔS > 0",
+   "C": "ΔH < 0 and ΔS > 0",
+   "D": "ΔH < 0 and ΔS < 0"
+  },
+  "correct_answer": "C",
+  "explanation": "ΔG = ΔH − TΔS is negative at every T if ΔH < 0 and ΔS > 0.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Thermodynamics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following has a non-zero standard enthalpy of formation at 298 K?",
+  "options": {
+   "A": "O₂(g)",
+   "B": "C (graphite)",
+   "C": "Br₂(l)",
+   "D": "Br₂(g)"
+  },
+  "correct_answer": "D",
+  "explanation": "The standard state of bromine at 298 K is the liquid, so Br₂(g) has a non-zero ΔfH°.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Thermodynamics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Hess's law is a consequence of the fact that enthalpy is:",
+  "options": {
+   "A": "an extensive property",
+   "B": "a state function",
+   "C": "a path function",
+   "D": "always negative"
+  },
+  "correct_answer": "B",
+  "explanation": "Because ΔH depends only on the initial and final states, the total ΔH is the same however the reaction is carried out.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Thermodynamics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "At equilibrium, at constant temperature and pressure, ΔG of the system is:",
+  "options": {
+   "A": "positive",
+   "B": "negative",
+   "C": "zero",
+   "D": "equal to ΔG°"
+  },
+  "correct_answer": "C",
+  "explanation": "At equilibrium there is no driving force for change, so ΔG = 0.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Thermodynamics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "If the equilibrium constant K of a reaction is greater than 1, then ΔG° is:",
+  "options": {
+   "A": "positive",
+   "B": "zero",
+   "C": "negative",
+   "D": "infinite"
+  },
+  "correct_answer": "C",
+  "explanation": "ΔG° = −RT ln K, which is negative when K > 1.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Thermodynamics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The enthalpy of neutralisation of a strong acid with a strong base in dilute solution is about:",
+  "options": {
+   "A": "−57 kJ/mol",
+   "B": "−13.7 kJ/mol",
+   "C": "+57 kJ/mol",
+   "D": "−114 kJ/mol"
+  },
+  "correct_answer": "A",
+  "explanation": "The net reaction is H⁺ + OH⁻ → H₂O, with ΔH ≈ −57 kJ per mole of water formed.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Thermodynamics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following has the highest standard molar entropy at 298 K?",
+  "options": {
+   "A": "NaCl(s)",
+   "B": "H₂O(l)",
+   "C": "CO₂(g)",
+   "D": "C (diamond)"
+  },
+  "correct_answer": "C",
+  "explanation": "Gases have much higher entropy than liquids and solids.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Thermodynamics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The sign of ΔS for the reaction 2H₂(g) + O₂(g) → 2H₂O(l) is:",
+  "options": {
+   "A": "positive",
+   "B": "zero",
+   "C": "negative",
+   "D": "cannot be predicted"
+  },
+  "correct_answer": "C",
+  "explanation": "Three moles of gas become liquid, so the disorder decreases.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Thermodynamics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Bond enthalpies (kJ/mol) are H–H 436, Cl–Cl 243 and H–Cl 431. ΔH for H₂ + Cl₂ → 2HCl is:",
+  "options": {
+   "A": "−183 kJ",
+   "B": "+183 kJ",
+   "C": "−92 kJ",
+   "D": "−245 kJ"
+  },
+  "correct_answer": "A",
+  "explanation": "ΔH = (436 + 243) − 2(431) = 679 − 862 = −183 kJ.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Thermodynamics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In an adiabatic process the change in internal energy of a system equals:",
+  "options": {
+   "A": "zero",
+   "B": "the heat absorbed",
+   "C": "the work done on the system",
+   "D": "the enthalpy change"
+  },
+  "correct_answer": "C",
+  "explanation": "For an adiabatic process q = 0, so ΔU = w.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Thermodynamics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A reaction has ΔH = −40 kJ and ΔS = −100 J/K. It is spontaneous only below the temperature:",
+  "options": {
+   "A": "400 K",
+   "B": "40 K",
+   "C": "4000 K",
+   "D": "250 K"
+  },
+  "correct_answer": "A",
+  "explanation": "ΔG < 0 requires −40000 + 100T < 0, which gives T < 400 K.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Thermodynamics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The magnitude of work done by 1 mol of an ideal gas expanding isothermally and reversibly to double its volume at 300 K (R = 8.314 J mol⁻¹ K⁻¹) is about:",
+  "options": {
+   "A": "0.87 kJ",
+   "B": "1.73 kJ",
+   "C": "3.46 kJ",
+   "D": "2.49 kJ"
+  },
+  "correct_answer": "B",
+  "explanation": "|w| = RT ln 2 = 8.314 × 300 × 0.693 ≈ 1729 J.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Thermodynamics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "At constant pressure, the heat absorbed by a system equals the change in its:",
+  "options": {
+   "A": "internal energy",
+   "B": "enthalpy",
+   "C": "entropy",
+   "D": "free energy"
+  },
+  "correct_answer": "B",
+  "explanation": "q_p = ΔH.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Thermodynamics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is an intensive property?",
+  "options": {
+   "A": "Volume",
+   "B": "Enthalpy",
+   "C": "Heat capacity",
+   "D": "Density"
+  },
+  "correct_answer": "D",
+  "explanation": "Density does not depend on the amount of matter. The others are extensive.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Thermodynamics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The enthalpy of vaporisation of water is 40.7 kJ/mol at 373 K. The entropy of vaporisation is about:",
+  "options": {
+   "A": "109 J mol⁻¹ K⁻¹",
+   "B": "0.109 J mol⁻¹ K⁻¹",
+   "C": "10.9 J mol⁻¹ K⁻¹",
+   "D": "1090 J mol⁻¹ K⁻¹"
+  },
+  "correct_answer": "A",
+  "explanation": "At the boiling point ΔS = ΔH/T = 40700/373 ≈ 109 J mol⁻¹ K⁻¹.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Thermodynamics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Given C + O₂ → CO₂, ΔH = −393.5 kJ and CO + ½O₂ → CO₂, ΔH = −283 kJ. The ΔH for C + ½O₂ → CO is:",
+  "options": {
+   "A": "−110.5 kJ",
+   "B": "−676.5 kJ",
+   "C": "+110.5 kJ",
+   "D": "−283 kJ"
+  },
+  "correct_answer": "A",
+  "explanation": "Subtract the second equation from the first: ΔH = −393.5 − (−283) = −110.5 kJ.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Thermodynamics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "At constant T and P, if the reaction quotient Q is greater than the equilibrium constant K, then:",
+  "options": {
+   "A": "ΔG < 0 and the reaction goes forward",
+   "B": "ΔG > 0 and the reaction goes backward",
+   "C": "ΔG = 0",
+   "D": "ΔG° must be positive"
+  },
+  "correct_answer": "B",
+  "explanation": "ΔG = RT ln(Q/K). If Q > K then ΔG > 0, so the reverse reaction is spontaneous.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Thermodynamics"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which of the following are state functions?",
+  "options": {
+   "A": "Internal energy",
+   "B": "Entropy",
+   "C": "Gibbs free energy",
+   "D": "Work"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "U, S and G depend only on the state of the system. Work depends on the path.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Thermodynamics"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which statements about spontaneity are correct?",
+  "options": {
+   "A": "At constant T and P a spontaneous process has ΔG < 0",
+   "B": "A spontaneous process has ΔS_universe > 0",
+   "C": "All spontaneous reactions are exothermic",
+   "D": "An endothermic reaction can be spontaneous at high temperature if ΔS > 0"
+  },
+  "correct_answer": "A,B,D",
+  "explanation": "Spontaneity depends on ΔG = ΔH − TΔS, not on ΔH alone, so spontaneous reactions need not be exothermic.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Thermodynamics"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A system absorbs 200 J of heat and does 75 J of work. The increase in its internal energy (in J) is:",
+  "options": null,
+  "correct_answer": "125",
+  "explanation": "ΔU = 200 − 75 = 125 J.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Thermodynamics"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "For N₂O₄(g) → 2NO₂(g), the value of Δn_g is:",
+  "options": null,
+  "correct_answer": "1",
+  "explanation": "Δn_g = 2 − 1 = 1.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Thermodynamics"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "At 300 K a reaction has ΔH = +60 kJ and ΔS = +100 J/K. The value of ΔG (in kJ) is:",
+  "options": null,
+  "correct_answer": "30",
+  "explanation": "ΔG = 60 − 300 × 0.1 = 30 kJ.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Thermodynamics"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A reaction has ΔH = +30 kJ and ΔS = +100 J/K. It becomes spontaneous above a temperature (in K) of:",
+  "options": null,
+  "correct_answer": "300",
+  "explanation": "T = ΔH/ΔS = 30000/100 = 300 K.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Thermodynamics"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "6 kJ of heat is absorbed reversibly by a system at 300 K. The entropy change (in J/K) is:",
+  "options": null,
+  "correct_answer": "20",
+  "explanation": "ΔS = q/T = 6000/300 = 20 J/K.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Thermodynamics"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "For a reaction with Δn_g = 2 at 300 K (R = 8 J mol⁻¹ K⁻¹), the value of ΔH − ΔU (in J) is:",
+  "options": null,
+  "correct_answer": "4800",
+  "explanation": "ΔH − ΔU = Δn_g RT = 2 × 8 × 300 = 4800 J.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Thermodynamics"
+ }
+]

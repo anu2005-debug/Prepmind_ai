@@ -1,0 +1,452 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "The oxidation state of Mn in KMnO₄ is:",
+  "options": {
+   "A": "+2",
+   "B": "+4",
+   "C": "+6",
+   "D": "+7"
+  },
+  "correct_answer": "D",
+  "explanation": "+1 + x + 4(−2) = 0, so x = +7.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Redox Reactions and Electrochemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The oxidation state of Cr in K₂Cr₂O₇ is:",
+  "options": {
+   "A": "+3",
+   "B": "+6",
+   "C": "+7",
+   "D": "+12"
+  },
+  "correct_answer": "B",
+  "explanation": "2(+1) + 2x + 7(−2) = 0, so x = +6.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Redox Reactions and Electrochemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The average oxidation state of sulphur in Na₂S₂O₃ is:",
+  "options": {
+   "A": "+2",
+   "B": "+4",
+   "C": "+6",
+   "D": "0"
+  },
+  "correct_answer": "A",
+  "explanation": "2(+1) + 2x + 3(−2) = 0, so x = +2.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Redox Reactions and Electrochemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The oxidation state of oxygen in H₂O₂ is:",
+  "options": {
+   "A": "−2",
+   "B": "−1",
+   "C": "0",
+   "D": "+1"
+  },
+  "correct_answer": "B",
+  "explanation": "H₂O₂ has a peroxide O–O bond: 2(+1) + 2x = 0, so x = −1.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Redox Reactions and Electrochemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In the reaction 2Na + Cl₂ → 2NaCl, the oxidising agent is:",
+  "options": {
+   "A": "Na",
+   "B": "Cl₂",
+   "C": "NaCl",
+   "D": "both Na and Cl₂"
+  },
+  "correct_answer": "B",
+  "explanation": "Cl₂ gains electrons (is reduced), so it is the oxidising agent.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Redox Reactions and Electrochemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is a disproportionation reaction?",
+  "options": {
+   "A": "2H₂O₂ → 2H₂O + O₂",
+   "B": "Zn + CuSO₄ → ZnSO₄ + Cu",
+   "C": "H₂ + Cl₂ → 2HCl",
+   "D": "CaCO₃ → CaO + CO₂"
+  },
+  "correct_answer": "A",
+  "explanation": "Oxygen goes from −1 to both −2 (in H₂O) and 0 (in O₂), so the same element is oxidised and reduced.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Redox Reactions and Electrochemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The equivalent mass of KMnO₄ (molar mass M) in acidic medium is:",
+  "options": {
+   "A": "M",
+   "B": "M/3",
+   "C": "M/5",
+   "D": "M/7"
+  },
+  "correct_answer": "C",
+  "explanation": "MnO₄⁻ → Mn²⁺ involves 5 electrons, so the n-factor is 5.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Redox Reactions and Electrochemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In a galvanic cell the electrons flow:",
+  "options": {
+   "A": "from cathode to anode through the external circuit",
+   "B": "from anode to cathode through the external circuit",
+   "C": "through the salt bridge",
+   "D": "from anode to cathode through the solution"
+  },
+  "correct_answer": "B",
+  "explanation": "Oxidation at the anode releases electrons, which travel through the wire to the cathode.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Redox Reactions and Electrochemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The standard electrode potential of the standard hydrogen electrode (SHE) is taken as:",
+  "options": {
+   "A": "+1.00 V",
+   "B": "−1.00 V",
+   "C": "0.00 V",
+   "D": "+0.34 V"
+  },
+  "correct_answer": "C",
+  "explanation": "SHE is the reference electrode and is assigned 0.00 V at all temperatures.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Redox Reactions and Electrochemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "For Zn|Zn²⁺(0.01 M)||Cu²⁺(1 M)|Cu with E° = 1.10 V at 298 K, the cell potential is about:",
+  "options": {
+   "A": "1.04 V",
+   "B": "1.10 V",
+   "C": "1.16 V",
+   "D": "1.22 V"
+  },
+  "correct_answer": "C",
+  "explanation": "E = 1.10 − (0.059/2) log(0.01/1) = 1.10 + 0.059 ≈ 1.16 V.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Redox Reactions and Electrochemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Given E°(Zn²⁺/Zn) = −0.76 V and E°(Cu²⁺/Cu) = +0.34 V, the E°cell of the Daniell cell is:",
+  "options": {
+   "A": "+0.42 V",
+   "B": "−1.10 V",
+   "C": "+1.10 V",
+   "D": "−0.42 V"
+  },
+  "correct_answer": "C",
+  "explanation": "E°cell = E°cathode − E°anode = 0.34 − (−0.76) = 1.10 V.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Redox Reactions and Electrochemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "For a cell with n = 2 and E° = 1.10 V (F = 96500 C/mol), ΔG° is:",
+  "options": {
+   "A": "−212.3 kJ/mol",
+   "B": "−106.2 kJ/mol",
+   "C": "+212.3 kJ/mol",
+   "D": "−424.6 kJ/mol"
+  },
+  "correct_answer": "A",
+  "explanation": "ΔG° = −nFE° = −2 × 96500 × 1.10 = −212300 J.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Redox Reactions and Electrochemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The charge required to deposit 1 mole of aluminium from Al³⁺ is:",
+  "options": {
+   "A": "1 F",
+   "B": "2 F",
+   "C": "3 F",
+   "D": "6 F"
+  },
+  "correct_answer": "C",
+  "explanation": "Al³⁺ + 3e⁻ → Al needs 3 mol of electrons, which is 3 F.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Redox Reactions and Electrochemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The mass of copper deposited from Cu²⁺ by 1 faraday of charge (Cu = 63.5) is:",
+  "options": {
+   "A": "63.5 g",
+   "B": "31.75 g",
+   "C": "127 g",
+   "D": "15.9 g"
+  },
+  "correct_answer": "B",
+  "explanation": "1 F deposits 1 equivalent: 63.5/2 = 31.75 g.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Redox Reactions and Electrochemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A solution of conductivity 0.01 S/cm has a concentration of 0.1 M. Its molar conductivity (in S cm² mol⁻¹) is:",
+  "options": {
+   "A": "1",
+   "B": "10",
+   "C": "100",
+   "D": "1000"
+  },
+  "correct_answer": "C",
+  "explanation": "Λm = κ × 1000/M = 0.01 × 1000/0.1 = 100.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Redox Reactions and Electrochemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "By Kohlrausch's law, the limiting molar conductivity of acetic acid is:",
+  "options": {
+   "A": "Λ°(CH₃COONa) + Λ°(HCl) − Λ°(NaCl)",
+   "B": "Λ°(CH₃COONa) + Λ°(NaCl) − Λ°(HCl)",
+   "C": "Λ°(HCl) + Λ°(NaCl) − Λ°(CH₃COONa)",
+   "D": "Λ°(CH₃COONa) − Λ°(HCl) − Λ°(NaCl)"
+  },
+  "correct_answer": "A",
+  "explanation": "CH₃COO⁻ + H⁺ is obtained from CH₃COONa + HCl − NaCl (Na⁺ and Cl⁻ cancel).",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Redox Reactions and Electrochemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "On dilution, the molar conductivity of a weak electrolyte:",
+  "options": {
+   "A": "decreases",
+   "B": "increases sharply",
+   "C": "stays the same",
+   "D": "becomes zero"
+  },
+  "correct_answer": "B",
+  "explanation": "Dilution increases the degree of dissociation, so the number of ions per mole rises sharply.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Redox Reactions and Electrochemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "On dilution, the conductivity (κ) of an electrolyte solution:",
+  "options": {
+   "A": "increases",
+   "B": "decreases",
+   "C": "stays the same",
+   "D": "becomes infinite"
+  },
+  "correct_answer": "B",
+  "explanation": "Conductivity depends on the number of ions per unit volume, which falls on dilution.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Redox Reactions and Electrochemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following metals can displace hydrogen from dilute HCl?",
+  "options": {
+   "A": "Cu",
+   "B": "Ag",
+   "C": "Zn",
+   "D": "Au"
+  },
+  "correct_answer": "C",
+  "explanation": "Only metals with negative standard electrode potential (Zn, −0.76 V) are stronger reducing agents than H₂.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Redox Reactions and Electrochemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "During the discharge of a lead storage battery, the concentration of H₂SO₄:",
+  "options": {
+   "A": "increases",
+   "B": "decreases",
+   "C": "stays constant",
+   "D": "becomes zero immediately"
+  },
+  "correct_answer": "B",
+  "explanation": "H₂SO₄ is consumed to form PbSO₄ at both electrodes (and some water), so its concentration and the density fall.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Redox Reactions and Electrochemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "On electrolysis of aqueous NaCl solution, the product at the cathode is:",
+  "options": {
+   "A": "Na",
+   "B": "H₂",
+   "C": "Cl₂",
+   "D": "O₂"
+  },
+  "correct_answer": "B",
+  "explanation": "Water is reduced more easily than Na⁺ (E° = −2.71 V), so H₂ is liberated at the cathode.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Redox Reactions and Electrochemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "For the Daniell cell (n = 2, E° = 1.10 V) at 298 K, log K_c is about:",
+  "options": {
+   "A": "18.6",
+   "B": "37.3",
+   "C": "74.6",
+   "D": "1.10"
+  },
+  "correct_answer": "B",
+  "explanation": "log K = nE°/0.059 = 2 × 1.10/0.059 ≈ 37.3.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Redox Reactions and Electrochemistry"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which statements about a galvanic cell are correct?",
+  "options": {
+   "A": "Oxidation occurs at the anode",
+   "B": "Electrons flow from anode to cathode in the external circuit",
+   "C": "The anode is the positive electrode",
+   "D": "The salt bridge maintains electrical neutrality"
+  },
+  "correct_answer": "A,B,D",
+  "explanation": "In a galvanic cell the anode is the negative electrode and the cathode is positive.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Redox Reactions and Electrochemistry"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which of the following are disproportionation reactions?",
+  "options": {
+   "A": "2H₂O₂ → 2H₂O + O₂",
+   "B": "Cl₂ + 2OH⁻ → Cl⁻ + ClO⁻ + H₂O",
+   "C": "Zn + Cu²⁺ → Zn²⁺ + Cu",
+   "D": "3MnO₄²⁻ + 4H⁺ → 2MnO₄⁻ + MnO₂ + 2H₂O"
+  },
+  "correct_answer": "A,B,D",
+  "explanation": "In A, B and D one species is both oxidised and reduced. C is an ordinary displacement reaction.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Redox Reactions and Electrochemistry"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The oxidation state of phosphorus in H₃PO₄ is:",
+  "options": null,
+  "correct_answer": "5",
+  "explanation": "3(+1) + x + 4(−2) = 0, so x = +5.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Redox Reactions and Electrochemistry"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of electrons gained when one MnO₄⁻ is reduced to Mn²⁺ in acidic medium is:",
+  "options": null,
+  "correct_answer": "5",
+  "explanation": "Mn changes from +7 to +2, a gain of 5 electrons.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Redox Reactions and Electrochemistry"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of faradays required to reduce 1 mole of Cr₂O₇²⁻ to Cr³⁺ is:",
+  "options": null,
+  "correct_answer": "6",
+  "explanation": "Two Cr atoms each go from +6 to +3, so 6 electrons are needed.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Redox Reactions and Electrochemistry"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A current of 2 A is passed through CuSO₄ solution for 4825 s (F = 96500 C/mol). The moles of Cu deposited are x × 10⁻². The value of x is:",
+  "options": null,
+  "correct_answer": "5",
+  "explanation": "Q = 2 × 4825 = 9650 C = 0.1 mol e⁻, and Cu²⁺ needs 2 e⁻ per Cu, so 0.05 mol = 5 × 10⁻².",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Redox Reactions and Electrochemistry"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "Given E°(Zn²⁺/Zn) = −0.76 V and E°(Ag⁺/Ag) = +0.80 V, the value of E°cell × 100 (in V × 100) for the Zn–Ag cell is:",
+  "options": null,
+  "correct_answer": "156",
+  "explanation": "E°cell = 0.80 − (−0.76) = 1.56 V, so × 100 = 156.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Redox Reactions and Electrochemistry"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A solution of conductivity 0.02 S/cm has a concentration of 0.5 M. Its molar conductivity (in S cm² mol⁻¹) is:",
+  "options": null,
+  "correct_answer": "40",
+  "explanation": "Λm = 0.02 × 1000/0.5 = 40.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Redox Reactions and Electrochemistry"
+ }
+]

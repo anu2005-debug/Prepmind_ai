@@ -1,4 +1,3 @@
-
 import os
 import secrets
 import hashlib
@@ -23,6 +22,11 @@ from src.learning_path import generate_learning_path
 from src.hybrid_recommender import get_recommendations
 from src.feedback_api import add_feedback
 from src.database import get_connection
+from src.practice_questions import (
+    router as practice_router,
+    ensure_practice_questions_schema,
+    grade_answer,
+)
 
 
 # ============================================================
@@ -64,6 +68,14 @@ app.add_middleware(
 
 
 # ============================================================
+# ROUTERS
+# ============================================================
+
+# Adds GET /practice/questions (30 questions per chapter).
+app.include_router(practice_router)
+
+
+# ============================================================
 # REQUEST MODELS
 # ============================================================
 
@@ -101,13 +113,18 @@ class ChapterProgressRequest(BaseModel):
 
 
 class PracticeAttemptItem(BaseModel):
+    # Server-graded tests (graded_on_server = True): only question_id,
+    # selected_answer and marked_for_review are used; everything else is
+    # looked up in practice_questions.
+    # Legacy tests (question banks still inside the React app): the
+    # optional fields below are required and are stored as sent.
     question_id: int
-    question_text: str
-    question_type: str
     selected_answer: Optional[str] = None
-    correct_answer: str
-    is_correct: bool
     marked_for_review: bool = False
+    question_text: Optional[str] = None
+    question_type: Optional[str] = None
+    correct_answer: Optional[str] = None
+    is_correct: Optional[bool] = None
 
 
 class PracticeSubmissionRequest(BaseModel):
@@ -115,6 +132,7 @@ class PracticeSubmissionRequest(BaseModel):
     subject: str
     chapter: Optional[str] = None
     test_id: UUID
+    graded_on_server: bool = False
     attempts: List[PracticeAttemptItem]
 
 
@@ -476,6 +494,7 @@ def startup_event():
     ensure_password_reset_schema()
     ensure_chapter_progress_schema()
     ensure_practice_attempts_schema()
+    ensure_practice_questions_schema()
     ensure_live_classes_schema()
     update_live_class_statuses()
 
@@ -823,7 +842,7 @@ def submit_feedback(request: FeedbackRequest):
 
 
 # ============================================================
-# SUBMIT PRACTICE TEST
+# SUBMIT PRACTICE TEST (graded on the server)
 # ============================================================
 
 @app.post("/practice/submit")
@@ -853,7 +872,102 @@ def submit_practice(request: PracticeSubmissionRequest):
                 detail="Student not found."
             )
 
-        for attempt in request.attempts:
+        # Reject a second submission of the same test.
+        cursor.execute("""
+            SELECT 1
+            FROM practice_question_attempts
+            WHERE test_id = %s
+            LIMIT 1
+        """, (str(request.test_id),))
+
+        if cursor.fetchone():
+            raise HTTPException(
+                status_code=409,
+                detail="This practice test has already been submitted."
+            )
+
+        rows_to_save = []
+        results = []
+
+        if request.graded_on_server:
+            # Load the answer key from the database and grade here.
+            question_ids = [
+                attempt.question_id for attempt in request.attempts
+            ]
+
+            cursor.execute("""
+                SELECT question_id, question_type, question_text,
+                       correct_answer, explanation
+                FROM practice_questions
+                WHERE question_id = ANY(%s)
+            """, (question_ids,))
+
+            answer_key = {
+                row[0]: (row[1], row[2], row[3], row[4])
+                for row in cursor.fetchall()
+            }
+
+            unknown_ids = [
+                question_id for question_id in question_ids
+                if question_id not in answer_key
+            ]
+
+            if unknown_ids:
+                raise HTTPException(
+                    status_code=400,
+                    detail="Unknown question IDs: "
+                           + ", ".join(str(i) for i in unknown_ids)
+                )
+
+            for attempt in request.attempts:
+                question_type, question_text, correct_answer, explanation = (
+                    answer_key[attempt.question_id]
+                )
+
+                is_correct = grade_answer(
+                    question_type,
+                    attempt.selected_answer,
+                    correct_answer
+                )
+
+                rows_to_save.append((
+                    attempt, question_type, question_text,
+                    correct_answer, is_correct
+                ))
+
+                results.append({
+                    "question_id": attempt.question_id,
+                    "is_correct": is_correct,
+                    "correct_answer": correct_answer,
+                    "explanation": explanation
+                })
+        else:
+            # Legacy banks that still live in the React app.
+            for attempt in request.attempts:
+                if (
+                    attempt.question_text is None
+                    or attempt.question_type is None
+                    or attempt.correct_answer is None
+                    or attempt.is_correct is None
+                ):
+                    raise HTTPException(
+                        status_code=400,
+                        detail="Incomplete practice attempt."
+                    )
+
+                rows_to_save.append((
+                    attempt, attempt.question_type,
+                    attempt.question_text, attempt.correct_answer,
+                    bool(attempt.is_correct)
+                ))
+
+        score = 0
+
+        for (attempt, question_type, question_text,
+             correct_answer, is_correct) in rows_to_save:
+            if is_correct:
+                score += 1
+
             cursor.execute("""
                 INSERT INTO practice_question_attempts (
                     test_id,
@@ -875,20 +989,15 @@ def submit_practice(request: PracticeSubmissionRequest):
                 attempt.question_id,
                 request.subject,
                 request.chapter,
-                attempt.question_type,
-                attempt.question_text,
+                question_type,
+                question_text,
                 attempt.selected_answer,
-                attempt.correct_answer,
-                attempt.is_correct,
+                correct_answer,
+                is_correct,
                 attempt.marked_for_review
             ))
 
         connection.commit()
-
-        score = sum(
-            1 for attempt in request.attempts
-            if attempt.is_correct
-        )
 
         return {
             "message": "Practice test saved successfully.",
@@ -896,7 +1005,8 @@ def submit_practice(request: PracticeSubmissionRequest):
             "student_id": request.student_id,
             "saved_attempts": len(request.attempts),
             "score": score,
-            "total_questions": len(request.attempts)
+            "total_questions": len(request.attempts),
+            "results": results
         }
 
     except HTTPException:
@@ -1016,17 +1126,10 @@ def get_progress(student_id: str):
         # ----------------------------------------------------
         # Calculate subject-wise practice accuracy.
         # ----------------------------------------------------
-        # Keep every subject supported by the six exam tracks visible,
-        # even before the student has attempted a question in that subject.
         subject_progress = {
-            subject: 0
-            for subject in [
-                "Physics", "Chemistry", "Mathematics", "Biology",
-                "English", "Logical Reasoning", "General Test",
-                "Accountancy", "Economics", "History", "Geography",
-                "Political Science", "Business Studies", "Psychology",
-                "Sociology"
-            ]
+            "Physics": 0,
+            "Mathematics": 0,
+            "Chemistry": 0
         }
 
         cursor.execute("""
@@ -1044,8 +1147,7 @@ def get_progress(student_id: str):
         practice_subject_rows = cursor.fetchall()
 
         for subject, total, correct in practice_subject_rows:
-            if total > 0:
-                # Also retain any future/custom subject name in the response.
+            if subject in subject_progress and total > 0:
                 subject_progress[subject] = round(
                     (correct / total) * 100,
                     2
@@ -1069,7 +1171,11 @@ def get_progress(student_id: str):
         interaction_subject_rows = cursor.fetchall()
 
         for subject, average in interaction_subject_rows:
-            if average is not None and subject_progress.get(subject, 0) == 0:
+            if (
+                subject in subject_progress
+                and subject_progress[subject] == 0
+                and average is not None
+            ):
                 subject_progress[subject] = round(
                     float(average),
                     2

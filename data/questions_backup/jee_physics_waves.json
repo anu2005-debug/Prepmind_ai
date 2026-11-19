@@ -1,0 +1,452 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "A wave is described by y = 0.1 sin(200t − 2x) in SI units. Its speed is:",
+  "options": {
+   "A": "100 m/s",
+   "B": "200 m/s",
+   "C": "400 m/s",
+   "D": "50 m/s"
+  },
+  "correct_answer": "A",
+  "explanation": "v = ω/k = 200/2 = 100 m/s.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A wave has frequency 50 Hz and wavelength 4 m. Its speed is:",
+  "options": {
+   "A": "12.5 m/s",
+   "B": "200 m/s",
+   "C": "54 m/s",
+   "D": "46 m/s"
+  },
+  "correct_answer": "B",
+  "explanation": "v = fλ = 50 × 4 = 200 m/s.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The speed of a transverse wave on a stretched string of tension T and mass per unit length μ is:",
+  "options": {
+   "A": "√(μ/T)",
+   "B": "T/μ",
+   "C": "√(T/μ)",
+   "D": "T²/μ"
+  },
+  "correct_answer": "C",
+  "explanation": "For a stretched string, v = √(T/μ).",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A string has tension 100 N and mass per unit length 0.01 kg/m. The speed of a transverse wave on it is:",
+  "options": {
+   "A": "10 m/s",
+   "B": "1000 m/s",
+   "C": "10⁴ m/s",
+   "D": "100 m/s"
+  },
+  "correct_answer": "D",
+  "explanation": "v = √(100/0.01) = √10⁴ = 100 m/s.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "If the tension in a stretched string is made four times, the speed of the transverse wave on it:",
+  "options": {
+   "A": "doubles",
+   "B": "becomes four times",
+   "C": "becomes half",
+   "D": "remains unchanged"
+  },
+  "correct_answer": "A",
+  "explanation": "v ∝ √T, so four times the tension gives twice the speed.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The speed of sound in an ideal gas is proportional to (T = absolute temperature):",
+  "options": {
+   "A": "T",
+   "B": "√T",
+   "C": "1/√T",
+   "D": "T²"
+  },
+  "correct_answer": "B",
+  "explanation": "v = √(γRT/M), so v ∝ √T.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The speed of sound in air at 273 K is 330 m/s. Its speed at 1092 K is:",
+  "options": {
+   "A": "330 m/s",
+   "B": "1320 m/s",
+   "C": "990 m/s",
+   "D": "660 m/s"
+  },
+  "correct_answer": "D",
+  "explanation": "1092 K = 4 × 273 K, so v ∝ √T gives 330 × 2 = 660 m/s.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In a stationary wave, the distance between two consecutive nodes is:",
+  "options": {
+   "A": "λ",
+   "B": "2λ",
+   "C": "λ/2",
+   "D": "λ/4"
+  },
+  "correct_answer": "C",
+  "explanation": "Adjacent nodes in a standing wave are λ/2 apart.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A string of length L fixed at both ends carries waves of speed v. Its fundamental frequency is:",
+  "options": {
+   "A": "v/L",
+   "B": "v/4L",
+   "C": "2v/L",
+   "D": "v/2L"
+  },
+  "correct_answer": "D",
+  "explanation": "The fundamental fits λ/2 = L, so f = v/λ = v/2L.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "An open organ pipe and a closed organ pipe have the same length. The fundamental frequency of the open pipe is:",
+  "options": {
+   "A": "the same as the closed pipe",
+   "B": "half that of the closed pipe",
+   "C": "double that of the closed pipe",
+   "D": "four times that of the closed pipe"
+  },
+  "correct_answer": "C",
+  "explanation": "Open: f = v/2L. Closed: f = v/4L. The open pipe's frequency is double.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A closed organ pipe produces:",
+  "options": {
+   "A": "only odd harmonics",
+   "B": "only even harmonics",
+   "C": "all harmonics",
+   "D": "no harmonics"
+  },
+  "correct_answer": "A",
+  "explanation": "A closed pipe has a node at one end and an antinode at the other, so only odd harmonics occur.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A closed organ pipe is 0.85 m long and the speed of sound is 340 m/s. Its fundamental frequency is:",
+  "options": {
+   "A": "50 Hz",
+   "B": "200 Hz",
+   "C": "100 Hz",
+   "D": "400 Hz"
+  },
+  "correct_answer": "C",
+  "explanation": "f = v/4L = 340/(4 × 0.85) = 100 Hz.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "An open organ pipe is 1 m long and the speed of sound is 340 m/s. Its fundamental frequency is:",
+  "options": {
+   "A": "85 Hz",
+   "B": "340 Hz",
+   "C": "255 Hz",
+   "D": "170 Hz"
+  },
+  "correct_answer": "D",
+  "explanation": "f = v/2L = 340/2 = 170 Hz.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Two tuning forks of frequencies 256 Hz and 260 Hz are sounded together. The beat frequency is:",
+  "options": {
+   "A": "516 Hz",
+   "B": "2 Hz",
+   "C": "4 Hz",
+   "D": "258 Hz"
+  },
+  "correct_answer": "C",
+  "explanation": "Beat frequency = |260 − 256| = 4 Hz.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A source of frequency f moves towards a stationary observer at a speed of one-tenth of the speed of sound. The observed frequency is:",
+  "options": {
+   "A": "9f/10",
+   "B": "10f/9",
+   "C": "11f/10",
+   "D": "f"
+  },
+  "correct_answer": "B",
+  "explanation": "f' = f v/(v − v/10) = f/0.9 = 10f/9.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "If the intensity of a sound increases 100 times, the sound level increases by:",
+  "options": {
+   "A": "20 dB",
+   "B": "10 dB",
+   "C": "100 dB",
+   "D": "2 dB"
+  },
+  "correct_answer": "A",
+  "explanation": "Δβ = 10 log₁₀(100) = 20 dB.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "When the distance from a point source of sound is doubled, the intensity becomes:",
+  "options": {
+   "A": "1/2",
+   "B": "1/4",
+   "C": "1/8",
+   "D": "1/16"
+  },
+  "correct_answer": "B",
+  "explanation": "Intensity is proportional to 1/r², so doubling r gives 1/4 of the intensity.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Two identical coherent waves, each of intensity I, interfere constructively. The resultant intensity is:",
+  "options": {
+   "A": "2I",
+   "B": "3I",
+   "C": "I",
+   "D": "4I"
+  },
+  "correct_answer": "D",
+  "explanation": "The amplitude doubles, and intensity ∝ amplitude², so it becomes 4I.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The minimum path difference between two coherent waves for destructive interference is:",
+  "options": {
+   "A": "λ/2",
+   "B": "λ",
+   "C": "2λ",
+   "D": "0"
+  },
+  "correct_answer": "A",
+  "explanation": "Destructive interference needs a path difference of an odd multiple of λ/2, the smallest being λ/2.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which type of wave cannot propagate through a gas?",
+  "options": {
+   "A": "Longitudinal waves",
+   "B": "Transverse waves",
+   "C": "Sound waves",
+   "D": "Pressure waves"
+  },
+  "correct_answer": "B",
+  "explanation": "Gases cannot support shear stress, so transverse mechanical waves cannot travel in them.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Two points on a wave of wavelength 2 m are 0.5 m apart. The phase difference between them is:",
+  "options": {
+   "A": "π/2",
+   "B": "π",
+   "C": "π/4",
+   "D": "2π"
+  },
+  "correct_answer": "A",
+  "explanation": "φ = 2πΔx/λ = 2π × 0.5/2 = π/2.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A person hears an echo 2 s after shouting at a cliff. If the speed of sound is 340 m/s, the distance to the cliff is:",
+  "options": {
+   "A": "680 m",
+   "B": "170 m",
+   "C": "1360 m",
+   "D": "340 m"
+  },
+  "correct_answer": "D",
+  "explanation": "The sound travels there and back in 2 s, so 2d = 340 × 2 and d = 340 m.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Waves"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which statements about stationary (standing) waves are correct?",
+  "options": {
+   "A": "All particles oscillate with the same amplitude",
+   "B": "The amplitude is zero at the nodes",
+   "C": "No energy is transmitted along the medium",
+   "D": "The distance between an adjacent node and antinode is λ/4"
+  },
+  "correct_answer": "B,C,D",
+  "explanation": "In a standing wave the amplitude varies with position, nodes have zero amplitude, there is no net energy flow, and a node and the next antinode are λ/4 apart.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Waves"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which statements about sound waves in air are correct?",
+  "options": {
+   "A": "They are longitudinal waves",
+   "B": "Their speed increases as the temperature increases",
+   "C": "For an ideal gas at constant temperature their speed does not depend on the pressure",
+   "D": "They can be polarised"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "Sound in air is longitudinal, v = √(γRT/M) rises with T and is independent of pressure at fixed T. Longitudinal waves cannot be polarised.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Waves"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A string has tension 100 N and mass per unit length 0.04 kg/m. The speed of a transverse wave on it (in m/s) is:",
+  "options": null,
+  "correct_answer": "50",
+  "explanation": "v = √(T/μ) = √(100/0.04) = √2500 = 50 m/s.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Waves"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A string 0.5 m long fixed at both ends has a fundamental frequency of 100 Hz. The wave speed on it (in m/s) is:",
+  "options": null,
+  "correct_answer": "100",
+  "explanation": "f = v/2L, so v = 2Lf = 2 × 0.5 × 100 = 100 m/s.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Waves"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A closed organ pipe has a fundamental frequency of 100 Hz. The frequency of its first overtone (in Hz) is:",
+  "options": null,
+  "correct_answer": "300",
+  "explanation": "A closed pipe has only odd harmonics, so the first overtone is the third harmonic: 3 × 100 = 300 Hz.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Waves"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A sound has intensity 10⁻⁶ W/m². Taking the reference intensity as 10⁻¹² W/m², its sound level (in dB) is:",
+  "options": null,
+  "correct_answer": "60",
+  "explanation": "β = 10 log₁₀(10⁻⁶/10⁻¹²) = 10 × 6 = 60 dB.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Waves"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A source of frequency 400 Hz moves at 20 m/s towards a stationary observer. The speed of sound is 340 m/s. The observed frequency (in Hz) is:",
+  "options": null,
+  "correct_answer": "425",
+  "explanation": "f' = 400 × 340/(340 − 20) = 400 × 340/320 = 425 Hz.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Waves"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "An open organ pipe is 0.5 m long and the speed of sound is 340 m/s. The frequency of its third harmonic (in Hz) is:",
+  "options": null,
+  "correct_answer": "1020",
+  "explanation": "f₁ = v/2L = 340/1 = 340 Hz, so f₃ = 3 × 340 = 1020 Hz.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Waves"
+ }
+]

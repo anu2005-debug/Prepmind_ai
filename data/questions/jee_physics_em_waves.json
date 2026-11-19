@@ -1,0 +1,452 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "The speed of electromagnetic waves in vacuum is given by:",
+  "options": {
+   "A": "√(μ₀ε₀)",
+   "B": "μ₀ε₀",
+   "C": "1/√(μ₀ε₀)",
+   "D": "1/(μ₀ε₀)"
+  },
+  "correct_answer": "C",
+  "explanation": "Maxwell's equations give c = 1/√(μ₀ε₀).",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "An electromagnetic wave has frequency 6 × 10¹⁴ Hz. Its wavelength in vacuum is:",
+  "options": {
+   "A": "500 nm",
+   "B": "200 nm",
+   "C": "5000 nm",
+   "D": "50 nm"
+  },
+  "correct_answer": "A",
+  "explanation": "λ = c/f = 3 × 10⁸/(6 × 10¹⁴) = 5 × 10⁻⁷ m = 500 nm.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following has the highest frequency?",
+  "options": {
+   "A": "Radio waves",
+   "B": "Infrared waves",
+   "C": "Visible light",
+   "D": "X-rays"
+  },
+  "correct_answer": "D",
+  "explanation": "Among these, X-rays have the shortest wavelength and so the highest frequency.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In an electromagnetic wave in vacuum, the electric and magnetic fields are:",
+  "options": {
+   "A": "parallel to each other and to the direction of propagation",
+   "B": "perpendicular to each other and to the direction of propagation",
+   "C": "parallel to each other and perpendicular to the direction of propagation",
+   "D": "perpendicular to each other and parallel to the direction of propagation"
+  },
+  "correct_answer": "B",
+  "explanation": "EM waves are transverse: E, B and the direction of travel are mutually perpendicular.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The electric field amplitude of a plane EM wave in vacuum is 30 V/m. The magnetic field amplitude is:",
+  "options": {
+   "A": "10⁻⁶ T",
+   "B": "9 × 10⁹ T",
+   "C": "10⁻⁸ T",
+   "D": "10⁻⁷ T"
+  },
+  "correct_answer": "D",
+  "explanation": "B₀ = E₀/c = 30/(3 × 10⁸) = 10⁻⁷ T.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Displacement current arises due to:",
+  "options": {
+   "A": "the motion of free electrons",
+   "B": "a changing magnetic flux",
+   "C": "a changing electric flux",
+   "D": "conduction in a wire"
+  },
+  "correct_answer": "C",
+  "explanation": "Maxwell's displacement current is I_d = ε₀ dΦ_E/dt, produced by a time-varying electric flux.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The approximate wavelength range of visible light is:",
+  "options": {
+   "A": "400 nm to 700 nm",
+   "B": "100 nm to 400 nm",
+   "C": "700 nm to 1400 nm",
+   "D": "0.1 nm to 10 nm"
+  },
+  "correct_answer": "A",
+  "explanation": "Visible light spans roughly 400 nm (violet) to 700 nm (red).",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "TV remote controls mainly use:",
+  "options": {
+   "A": "ultraviolet rays",
+   "B": "X-rays",
+   "C": "microwaves",
+   "D": "infrared rays"
+  },
+  "correct_answer": "D",
+  "explanation": "Remote controls use infrared LEDs.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The ozone layer in the upper atmosphere protects life mainly from:",
+  "options": {
+   "A": "ultraviolet radiation",
+   "B": "infrared radiation",
+   "C": "radio waves",
+   "D": "microwaves"
+  },
+  "correct_answer": "A",
+  "explanation": "Ozone absorbs most of the harmful UV radiation from the Sun.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Radar systems mainly use:",
+  "options": {
+   "A": "X-rays",
+   "B": "gamma rays",
+   "C": "microwaves",
+   "D": "ultraviolet rays"
+  },
+  "correct_answer": "C",
+  "explanation": "Microwaves have short wavelengths that can be directed in narrow beams and reflect from objects, which suits radar.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In an EM wave in vacuum, the ratio of the average electric energy density to the average magnetic energy density is:",
+  "options": {
+   "A": "c",
+   "B": "1",
+   "C": "c²",
+   "D": "1/c"
+  },
+  "correct_answer": "B",
+  "explanation": "The electric and magnetic energy densities of an EM wave are equal, so the ratio is 1.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The intensity of an electromagnetic wave is proportional to:",
+  "options": {
+   "A": "E₀",
+   "B": "1/E₀",
+   "C": "√E₀",
+   "D": "E₀²"
+  },
+  "correct_answer": "D",
+  "explanation": "I = ½ε₀cE₀², so I ∝ E₀².",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The direction of the Poynting vector of an EM wave is along:",
+  "options": {
+   "A": "the electric field",
+   "B": "the magnetic field",
+   "C": "E × B, the direction of propagation",
+   "D": "the direction opposite to propagation"
+  },
+  "correct_answer": "C",
+  "explanation": "The Poynting vector S = (E × B)/μ₀ points along the direction of energy flow.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The wavelength of an EM wave of frequency 100 MHz in vacuum is:",
+  "options": {
+   "A": "3 m",
+   "B": "30 m",
+   "C": "0.3 m",
+   "D": "300 m"
+  },
+  "correct_answer": "A",
+  "explanation": "λ = c/f = 3 × 10⁸/10⁸ = 3 m.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "EM waves are not deflected by electric or magnetic fields because they:",
+  "options": {
+   "A": "travel very fast",
+   "B": "carry no charge",
+   "C": "are transverse",
+   "D": "have very short wavelengths"
+  },
+  "correct_answer": "B",
+  "explanation": "Fields deflect charged particles. EM waves are neutral.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Gamma rays are produced in:",
+  "options": {
+   "A": "nuclear transitions",
+   "B": "vibrations of molecules",
+   "C": "transitions of valence electrons",
+   "D": "oscillating circuits"
+  },
+  "correct_answer": "A",
+  "explanation": "Gamma rays are emitted when nuclei drop from excited states to lower energy states.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "X-rays are produced when:",
+  "options": {
+   "A": "a filament is heated",
+   "B": "nucleons make transitions",
+   "C": "a radio-frequency oscillator runs",
+   "D": "fast electrons are stopped by a metal target"
+  },
+  "correct_answer": "D",
+  "explanation": "Rapid deceleration of high-energy electrons in a metal target produces X-rays.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The speed of an EM wave in a medium of refractive index 1.5 is:",
+  "options": {
+   "A": "2 × 10⁸ m/s",
+   "B": "3 × 10⁸ m/s",
+   "C": "4.5 × 10⁸ m/s",
+   "D": "1.5 × 10⁸ m/s"
+  },
+  "correct_answer": "A",
+  "explanation": "v = c/n = 3 × 10⁸/1.5 = 2 × 10⁸ m/s.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "When an EM wave passes from vacuum into glass, which quantity remains unchanged?",
+  "options": {
+   "A": "Speed",
+   "B": "Frequency",
+   "C": "Wavelength",
+   "D": "Amplitude of E in all cases"
+  },
+  "correct_answer": "B",
+  "explanation": "The frequency is set by the source. Speed and wavelength change in the medium.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following has the longest wavelength?",
+  "options": {
+   "A": "Gamma rays",
+   "B": "X-rays",
+   "C": "Ultraviolet rays",
+   "D": "Microwaves"
+  },
+  "correct_answer": "D",
+  "explanation": "Of these, microwaves have the longest wavelength.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "An EM wave is described by E = 30 sin(6 × 10⁸ t − 2x) V/m, with x in metres. Its speed is:",
+  "options": {
+   "A": "1.2 × 10⁹ m/s",
+   "B": "3 × 10⁸ m/s",
+   "C": "1.5 × 10⁸ m/s",
+   "D": "6 × 10⁸ m/s"
+  },
+  "correct_answer": "B",
+  "explanation": "v = ω/k = 6 × 10⁸/2 = 3 × 10⁸ m/s.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A beam of intensity I falls normally on a perfectly reflecting surface. The radiation pressure is:",
+  "options": {
+   "A": "I/2c",
+   "B": "Ic",
+   "C": "2I/c",
+   "D": "I/c"
+  },
+  "correct_answer": "C",
+  "explanation": "A perfect reflector reverses the momentum of the light, so the pressure is 2I/c. A perfect absorber gives I/c.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Waves"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which statements about electromagnetic waves in vacuum are correct?",
+  "options": {
+   "A": "They are transverse waves",
+   "B": "They carry energy and momentum",
+   "C": "They require a material medium to propagate",
+   "D": "All of them travel at the same speed c"
+  },
+  "correct_answer": "A,B,D",
+  "explanation": "EM waves are transverse, carry energy and momentum, and travel at c in vacuum. They need no medium.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Waves"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which statements about the electromagnetic spectrum are correct?",
+  "options": {
+   "A": "Radio waves have the longest wavelengths",
+   "B": "Gamma rays have the highest frequencies",
+   "C": "Visible light has a higher frequency than ultraviolet",
+   "D": "X-rays have a higher frequency than ultraviolet"
+  },
+  "correct_answer": "A,B,D",
+  "explanation": "Ultraviolet has a higher frequency than visible light, so C is false.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Waves"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The wavelength (in m) of an EM wave of frequency 150 MHz in vacuum is:",
+  "options": null,
+  "correct_answer": "2",
+  "explanation": "λ = c/f = 3 × 10⁸/(1.5 × 10⁸) = 2 m.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Waves"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The electric field amplitude of an EM wave in vacuum is 90 V/m. The magnetic field amplitude, in units of 10⁻⁷ T, is:",
+  "options": null,
+  "correct_answer": "3",
+  "explanation": "B₀ = E₀/c = 90/(3 × 10⁸) = 3 × 10⁻⁷ T.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Waves"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The wavelength (in nm) of light of frequency 5 × 10¹⁴ Hz in vacuum is:",
+  "options": null,
+  "correct_answer": "600",
+  "explanation": "λ = 3 × 10⁸/(5 × 10¹⁴) = 6 × 10⁻⁷ m = 600 nm.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Waves"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "Light of intensity 300 W/m² falls normally on a perfectly reflecting surface. The radiation pressure, in units of 10⁻⁶ Pa, is:",
+  "options": null,
+  "correct_answer": "2",
+  "explanation": "P = 2I/c = 600/(3 × 10⁸) = 2 × 10⁻⁶ Pa.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Waves"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The speed of an EM wave in a medium of refractive index 2, in units of 10⁸ m/s, is:",
+  "options": null,
+  "correct_answer": "1.5",
+  "explanation": "v = c/n = 3 × 10⁸/2 = 1.5 × 10⁸ m/s.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Waves"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The Sun is 1.5 × 10¹¹ m from the Earth. The time (in s) taken by sunlight to reach the Earth is:",
+  "options": null,
+  "correct_answer": "500",
+  "explanation": "t = d/c = 1.5 × 10¹¹/(3 × 10⁸) = 500 s.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Waves"
+ }
+]

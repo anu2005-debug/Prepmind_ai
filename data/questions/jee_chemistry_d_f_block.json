@@ -1,0 +1,452 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "The ground-state electronic configuration of chromium (Z = 24) is:",
+  "options": {
+   "A": "[Ar]3d⁴4s²",
+   "B": "[Ar]3d⁵4s¹",
+   "C": "[Ar]3d⁶",
+   "D": "[Ar]4s²4p⁴"
+  },
+  "correct_answer": "B",
+  "explanation": "A half-filled 3d subshell gives extra stability, so one 4s electron moves to 3d.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "d- and f-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following ions is colourless?",
+  "options": {
+   "A": "Ti³⁺",
+   "B": "V³⁺",
+   "C": "Cr³⁺",
+   "D": "Sc³⁺"
+  },
+  "correct_answer": "D",
+  "explanation": "Sc³⁺ has a d⁰ configuration, so no d–d transitions are possible. The others have partly filled d orbitals.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "d- and f-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which ion has the highest spin-only magnetic moment?",
+  "options": {
+   "A": "Fe²⁺",
+   "B": "Mn²⁺",
+   "C": "Co²⁺",
+   "D": "Ni²⁺"
+  },
+  "correct_answer": "B",
+  "explanation": "Mn²⁺ is d⁵ with 5 unpaired electrons. Fe²⁺ has 4, Co²⁺ has 3 and Ni²⁺ has 2.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "d- and f-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The spin-only magnetic moment of Fe³⁺ is about:",
+  "options": {
+   "A": "3.87 BM",
+   "B": "4.90 BM",
+   "C": "5.92 BM",
+   "D": "1.73 BM"
+  },
+  "correct_answer": "C",
+  "explanation": "Fe³⁺ is d⁵ with 5 unpaired electrons: μ = √(5 × 7) = √35 ≈ 5.92 BM.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "d- and f-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Among the 3d transition elements, the highest oxidation state (+7) is shown by:",
+  "options": {
+   "A": "Cr",
+   "B": "Fe",
+   "C": "Mn",
+   "D": "Co"
+  },
+  "correct_answer": "C",
+  "explanation": "Mn has the configuration 3d⁵4s², so all seven electrons can be used, as in KMnO₄.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "d- and f-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In acidic medium, KMnO₄ is reduced to:",
+  "options": {
+   "A": "MnO₂",
+   "B": "MnO₄²⁻",
+   "C": "Mn²⁺",
+   "D": "Mn₂O₃"
+  },
+  "correct_answer": "C",
+  "explanation": "MnO₄⁻ + 8H⁺ + 5e⁻ → Mn²⁺ + 4H₂O.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "d- and f-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "When NaOH is added to an orange solution of potassium dichromate, the colour changes to yellow because of the formation of:",
+  "options": {
+   "A": "CrO₄²⁻",
+   "B": "Cr³⁺",
+   "C": "CrO₅",
+   "D": "Cr(OH)₃"
+  },
+  "correct_answer": "A",
+  "explanation": "Cr₂O₇²⁻ + 2OH⁻ → 2CrO₄²⁻ + H₂O. In acid the change is reversed.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "d- and f-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The lanthanoid contraction is caused by:",
+  "options": {
+   "A": "the poor shielding of the nuclear charge by 4f electrons",
+   "B": "the increase in atomic number only",
+   "C": "the good shielding by 4f electrons",
+   "D": "the relativistic effect on 6s electrons"
+  },
+  "correct_answer": "A",
+  "explanation": "The f orbitals shield poorly, so the effective nuclear charge rises steadily and the size shrinks across the series.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "d- and f-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The most common oxidation state of the lanthanoids is:",
+  "options": {
+   "A": "+2",
+   "B": "+3",
+   "C": "+4",
+   "D": "+5"
+  },
+  "correct_answer": "B",
+  "explanation": "+3 is the characteristic oxidation state of the lanthanoids.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "d- and f-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following 3d metals has the lowest melting point?",
+  "options": {
+   "A": "Sc",
+   "B": "Cr",
+   "C": "Cu",
+   "D": "Zn"
+  },
+  "correct_answer": "D",
+  "explanation": "Zn has a completely filled 3d¹⁰ subshell and no d–d bonding, so it melts at only about 693 K.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "d- and f-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Zn, Cd and Hg are not considered typical transition elements because:",
+  "options": {
+   "A": "they have partly filled d orbitals",
+   "B": "they have completely filled d¹⁰ configurations in the atom and in common ions",
+   "C": "they are non-metals",
+   "D": "they have no d electrons"
+  },
+  "correct_answer": "B",
+  "explanation": "Their d subshell is full in the ground state and in the common +2 oxidation state.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "d- and f-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The Ziegler–Natta catalyst for polymerising ethene is:",
+  "options": {
+   "A": "Fe + Mo",
+   "B": "V₂O₅",
+   "C": "TiCl₄ + Al(C₂H₅)₃",
+   "D": "Pt–Rh"
+  },
+  "correct_answer": "C",
+  "explanation": "A mixture of TiCl₄ and triethylaluminium is used to make high-density polyethylene.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "d- and f-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Interstitial compounds of transition metals are generally:",
+  "options": {
+   "A": "soft and chemically reactive",
+   "B": "very hard, chemically inert and conduct electricity",
+   "C": "ionic and brittle",
+   "D": "of lower melting point than the pure metal"
+  },
+  "correct_answer": "B",
+  "explanation": "Small atoms (H, C, N) fill the voids in the metal lattice, making the compound hard, high-melting and inert, but metallic in conductivity.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "d- and f-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Brass is an alloy of:",
+  "options": {
+   "A": "Cu and Zn",
+   "B": "Cu and Sn",
+   "C": "Fe and C",
+   "D": "Cu and Ni"
+  },
+  "correct_answer": "A",
+  "explanation": "Brass is copper with zinc. Bronze is copper with tin.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "d- and f-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Misch metal consists of a lanthanoid metal mixed with:",
+  "options": {
+   "A": "iron",
+   "B": "copper",
+   "C": "zinc",
+   "D": "aluminium"
+  },
+  "correct_answer": "A",
+  "explanation": "Misch metal is about 95% lanthanoids and about 5% iron, with traces of S, C, Ca and Al. It is used in lighter flints.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "d- and f-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The oxidation state of Cr in CrO₅ is:",
+  "options": {
+   "A": "+10",
+   "B": "+6",
+   "C": "+5",
+   "D": "+4"
+  },
+  "correct_answer": "B",
+  "explanation": "CrO₅ has a butterfly structure with two peroxide groups (four O at −1) and one O at −2: x − 4 − 2 = 0, so x = +6.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "d- and f-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following ions is coloured?",
+  "options": {
+   "A": "Zn²⁺",
+   "B": "Cu⁺",
+   "C": "Ti⁴⁺",
+   "D": "Cu²⁺"
+  },
+  "correct_answer": "D",
+  "explanation": "Cu²⁺ is d⁹ with one unpaired electron and shows d–d transitions. The others are d¹⁰ or d⁰.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "d- and f-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Actinoids show a wider range of oxidation states than lanthanoids mainly because:",
+  "options": {
+   "A": "the 5f, 6d and 7s orbitals are of comparable energy",
+   "B": "they are all radioactive",
+   "C": "they have no f electrons",
+   "D": "5f electrons are well shielded"
+  },
+  "correct_answer": "A",
+  "explanation": "The close energy of 5f, 6d and 7s lets electrons from all of them take part in bonding.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "d- and f-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In acidic solution, the manganate ion MnO₄²⁻ undergoes:",
+  "options": {
+   "A": "oxidation only",
+   "B": "reduction only",
+   "C": "disproportionation",
+   "D": "no change"
+  },
+  "correct_answer": "C",
+  "explanation": "3MnO₄²⁻ + 4H⁺ → 2MnO₄⁻ + MnO₂ + 2H₂O, so Mn(VI) is both oxidised and reduced.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "d- and f-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following ions is paramagnetic?",
+  "options": {
+   "A": "Zn²⁺",
+   "B": "Cu⁺",
+   "C": "Sc³⁺",
+   "D": "Ti³⁺"
+  },
+  "correct_answer": "D",
+  "explanation": "Ti³⁺ is d¹ with one unpaired electron. Zn²⁺ and Cu⁺ are d¹⁰ and Sc³⁺ is d⁰.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "d- and f-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Copper does not liberate hydrogen from dilute acids because:",
+  "options": {
+   "A": "it is too soft",
+   "B": "its standard electrode potential E°(Cu²⁺/Cu) is positive",
+   "C": "it forms an oxide layer",
+   "D": "its ionisation enthalpy is very low"
+  },
+  "correct_answer": "B",
+  "explanation": "E°(Cu²⁺/Cu) = +0.34 V, so Cu is a weaker reducing agent than H₂ and cannot reduce H⁺.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "d- and f-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The colour of most transition metal ions is mainly due to:",
+  "options": {
+   "A": "d–d transitions",
+   "B": "s–p transitions",
+   "C": "nuclear transitions",
+   "D": "ionisation"
+  },
+  "correct_answer": "A",
+  "explanation": "Electrons absorb visible light and move between split d orbitals, so the complementary colour is seen.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "d- and f-Block Elements"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which statements about KMnO₄ are correct?",
+  "options": {
+   "A": "The oxidation state of Mn is +7",
+   "B": "It is diamagnetic",
+   "C": "It acts as a strong oxidising agent in acidic medium",
+   "D": "It is paramagnetic with five unpaired electrons"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "Mn(VII) is d⁰, so KMnO₄ is diamagnetic. Its colour comes from ligand-to-metal charge transfer, not d–d transitions.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "d- and f-Block Elements"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which of the following ions are paramagnetic?",
+  "options": {
+   "A": "Fe³⁺",
+   "B": "Cu⁺",
+   "C": "Mn²⁺",
+   "D": "Ti³⁺"
+  },
+  "correct_answer": "A,C,D",
+  "explanation": "Fe³⁺ (d⁵), Mn²⁺ (d⁵) and Ti³⁺ (d¹) have unpaired electrons. Cu⁺ is d¹⁰.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "d- and f-Block Elements"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of unpaired electrons in Fe²⁺ (Z = 26) is:",
+  "options": null,
+  "correct_answer": "4",
+  "explanation": "Fe²⁺ is 3d⁶, with 4 unpaired electrons in the high-spin free ion.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "d- and f-Block Elements"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of unpaired electrons in Cr³⁺ (Z = 24) is:",
+  "options": null,
+  "correct_answer": "3",
+  "explanation": "Cr³⁺ is 3d³, with 3 unpaired electrons.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "d- and f-Block Elements"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The spin-only magnetic moment of Mn²⁺ is μ = √x BM. The value of x is:",
+  "options": null,
+  "correct_answer": "35",
+  "explanation": "Mn²⁺ is d⁵ with n = 5, so μ² = n(n + 2) = 35.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "d- and f-Block Elements"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The maximum oxidation state shown by manganese is:",
+  "options": null,
+  "correct_answer": "7",
+  "explanation": "Mn can use all 3d⁵4s² electrons, as in Mn₂O₇ and KMnO₄.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "d- and f-Block Elements"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of 4f electrons in a gadolinium atom (Z = 64) is:",
+  "options": null,
+  "correct_answer": "7",
+  "explanation": "Gd is [Xe]4f⁷5d¹6s², with a half-filled 4f subshell.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "d- and f-Block Elements"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of electrons in the 3d subshell of a copper atom (Z = 29) is:",
+  "options": null,
+  "correct_answer": "10",
+  "explanation": "Cu is [Ar]3d¹⁰4s¹, because a filled 3d subshell is more stable.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "d- and f-Block Elements"
+ }
+]

@@ -1,0 +1,452 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "The magnetic flux through a coil changes from 0.5 Wb to 0.1 Wb in 0.2 s. The magnitude of the induced emf is:",
+  "options": {
+   "A": "0.4 V",
+   "B": "2 V",
+   "C": "3 V",
+   "D": "1 V"
+  },
+  "correct_answer": "B",
+  "explanation": "emf = ΔΦ/Δt = 0.4/0.2 = 2 V.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Induction and AC"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A rod 0.5 m long moves at 4 m/s perpendicular to a uniform field of 0.2 T. The motional emf is:",
+  "options": {
+   "A": "0.4 V",
+   "B": "0.8 V",
+   "C": "4 V",
+   "D": "0.04 V"
+  },
+  "correct_answer": "A",
+  "explanation": "emf = BLv = 0.2 × 0.5 × 4 = 0.4 V.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Induction and AC"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Lenz's law is a consequence of the conservation of:",
+  "options": {
+   "A": "charge",
+   "B": "momentum",
+   "C": "energy",
+   "D": "mass"
+  },
+  "correct_answer": "C",
+  "explanation": "If the induced current aided the change, energy would be created from nothing, so it must oppose the change.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Induction and AC"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The current in a coil of self-inductance 2 H changes at 3 A/s. The induced emf is:",
+  "options": {
+   "A": "1.5 V",
+   "B": "3 V",
+   "C": "2/3 V",
+   "D": "6 V"
+  },
+  "correct_answer": "D",
+  "explanation": "emf = L dI/dt = 2 × 3 = 6 V.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Induction and AC"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The energy stored in an inductor of 0.2 H carrying 5 A is:",
+  "options": {
+   "A": "2.5 J",
+   "B": "5 J",
+   "C": "1 J",
+   "D": "0.5 J"
+  },
+  "correct_answer": "A",
+  "explanation": "U = ½LI² = ½ × 0.2 × 25 = 2.5 J.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Induction and AC"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Two coils have mutual inductance 0.5 H. If the current in one changes at 4 A/s, the emf induced in the other is:",
+  "options": {
+   "A": "8 V",
+   "B": "2 V",
+   "C": "0.5 V",
+   "D": "4 V"
+  },
+  "correct_answer": "B",
+  "explanation": "emf = M dI/dt = 0.5 × 4 = 2 V.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Induction and AC"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The number of turns of a solenoid is doubled while its length and area are kept the same. Its self-inductance becomes:",
+  "options": {
+   "A": "2 times",
+   "B": "half",
+   "C": "4 times",
+   "D": "unchanged"
+  },
+  "correct_answer": "C",
+  "explanation": "L = μ₀N²A/l, so L ∝ N² and doubling N gives 4 times.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Induction and AC"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The peak value of an alternating current is 10 A. Its rms value is:",
+  "options": {
+   "A": "10 A",
+   "B": "20 A",
+   "C": "5 A",
+   "D": "5√2 A"
+  },
+  "correct_answer": "D",
+  "explanation": "I_rms = I₀/√2 = 10/√2 = 5√2 A.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Induction and AC"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The household supply is 220 V rms. The peak voltage is approximately:",
+  "options": {
+   "A": "220 V",
+   "B": "440 V",
+   "C": "311 V",
+   "D": "155 V"
+  },
+  "correct_answer": "C",
+  "explanation": "V₀ = √2 × 220 ≈ 311 V.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Induction and AC"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "An inductor of L = 0.1/π H is connected to a 50 Hz supply. Its reactance is:",
+  "options": {
+   "A": "10 Ω",
+   "B": "5 Ω",
+   "C": "20 Ω",
+   "D": "100 Ω"
+  },
+  "correct_answer": "A",
+  "explanation": "X_L = 2πfL = 2π × 50 × 0.1/π = 10 Ω.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Induction and AC"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A capacitor of C = (100/π) μF is connected to a 50 Hz supply. Its reactance is:",
+  "options": {
+   "A": "10 Ω",
+   "B": "50 Ω",
+   "C": "1000 Ω",
+   "D": "100 Ω"
+  },
+  "correct_answer": "D",
+  "explanation": "X_C = 1/(2πfC) = 1/(2π × 50 × (100/π) × 10⁻⁶) = 1/10⁻² = 100 Ω.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Induction and AC"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In a series LCR circuit R = 3 Ω, X_L = 7 Ω and X_C = 3 Ω. The impedance is:",
+  "options": {
+   "A": "5 Ω",
+   "B": "7 Ω",
+   "C": "13 Ω",
+   "D": "1 Ω"
+  },
+  "correct_answer": "A",
+  "explanation": "Z = √(R² + (X_L − X_C)²) = √(9 + 16) = 5 Ω.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Induction and AC"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A series LCR circuit has L = 0.1 H and C = 10 μF. Its resonant angular frequency is:",
+  "options": {
+   "A": "100 rad/s",
+   "B": "500 rad/s",
+   "C": "10⁴ rad/s",
+   "D": "1000 rad/s"
+  },
+  "correct_answer": "D",
+  "explanation": "ω₀ = 1/√(LC) = 1/√(0.1 × 10⁻⁵) = 1/10⁻³ = 1000 rad/s.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Induction and AC"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "At resonance in a series LCR circuit, the current in the circuit is:",
+  "options": {
+   "A": "minimum",
+   "B": "zero",
+   "C": "maximum",
+   "D": "infinite for any R"
+  },
+  "correct_answer": "C",
+  "explanation": "At resonance X_L = X_C, so Z = R is minimum and the current V/R is maximum.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Induction and AC"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In a series LCR circuit R = 3 Ω and Z = 5 Ω. The power factor is:",
+  "options": {
+   "A": "0.8",
+   "B": "0.6",
+   "C": "0.5",
+   "D": "1"
+  },
+  "correct_answer": "B",
+  "explanation": "cos φ = R/Z = 3/5 = 0.6.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Induction and AC"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The average power consumed in a pure inductor over a full cycle of AC is:",
+  "options": {
+   "A": "zero",
+   "B": "V_rms I_rms",
+   "C": "½V₀I₀",
+   "D": "V₀I₀"
+  },
+  "correct_answer": "A",
+  "explanation": "The phase difference is 90°, so cos φ = 0 and the average power is zero.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Induction and AC"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "An ideal transformer has 200 primary turns and 2000 secondary turns. With 220 V at the primary, the secondary voltage is:",
+  "options": {
+   "A": "22 V",
+   "B": "220 V",
+   "C": "440 V",
+   "D": "2200 V"
+  },
+  "correct_answer": "D",
+  "explanation": "V_s/V_p = N_s/N_p = 10, so V_s = 2200 V.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Induction and AC"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "An ideal transformer converts 20 V to 200 V. The primary current is 10 A. The secondary current is:",
+  "options": {
+   "A": "100 A",
+   "B": "1 A",
+   "C": "10 A",
+   "D": "0.1 A"
+  },
+  "correct_answer": "B",
+  "explanation": "V_p I_p = V_s I_s gives I_s = 20 × 10/200 = 1 A.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Induction and AC"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In a purely capacitive AC circuit, the current:",
+  "options": {
+   "A": "lags the voltage by π/2",
+   "B": "leads the voltage by π/2",
+   "C": "is in phase with the voltage",
+   "D": "leads the voltage by π"
+  },
+  "correct_answer": "B",
+  "explanation": "In a capacitor the current leads the voltage by 90°.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Induction and AC"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Eddy currents are put to use in:",
+  "options": {
+   "A": "a filament bulb",
+   "B": "a dry cell",
+   "C": "an induction furnace",
+   "D": "a resistor"
+  },
+  "correct_answer": "C",
+  "explanation": "Changing flux induces eddy currents whose heating melts the metal in an induction furnace.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Induction and AC"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The north pole of a bar magnet is moved towards a coil. The face of the coil nearer the magnet becomes:",
+  "options": {
+   "A": "a south pole",
+   "B": "no pole",
+   "C": "alternately north and south",
+   "D": "a north pole"
+  },
+  "correct_answer": "D",
+  "explanation": "By Lenz's law the induced current opposes the approach, so the near face becomes a north pole and repels the magnet.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Induction and AC"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The average value of a sinusoidal alternating current over one full cycle is:",
+  "options": {
+   "A": "I₀/√2",
+   "B": "zero",
+   "C": "2I₀/π",
+   "D": "I₀"
+  },
+  "correct_answer": "B",
+  "explanation": "The positive and negative half-cycles cancel, so the full-cycle average is zero.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Induction and AC"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which statements about induced emf are correct?",
+  "options": {
+   "A": "It depends on the rate of change of magnetic flux",
+   "B": "Lenz's law follows from conservation of energy",
+   "C": "The induced current opposes the change that produces it",
+   "D": "It is zero whenever the flux is non-zero"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "emf = −dΦ/dt depends on the rate of change of flux, not on the flux itself. Lenz's law follows from energy conservation.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Induction and AC"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "For a series LCR circuit driven by an AC source, which statements are correct?",
+  "options": {
+   "A": "The current lags the voltage when X_L > X_C",
+   "B": "At resonance the impedance equals R",
+   "C": "An ideal capacitor consumes non-zero average power",
+   "D": "At resonance the power factor is 1"
+  },
+  "correct_answer": "A,B,D",
+  "explanation": "When X_L > X_C the circuit is inductive. At resonance Z = R and cos φ = 1. An ideal capacitor consumes no average power.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Induction and AC"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A coil of 50 turns has its flux reduced from 0.6 Wb to zero in 0.3 s. The magnitude of the induced emf (in V) is:",
+  "options": null,
+  "correct_answer": "100",
+  "explanation": "emf = NΔΦ/Δt = 50 × 0.6/0.3 = 100 V.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Induction and AC"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The current in a 4 H inductor rises uniformly from 0 to 5 A in 2 s. The induced emf (in V) is:",
+  "options": null,
+  "correct_answer": "10",
+  "explanation": "emf = L ΔI/Δt = 4 × 5/2 = 10 V.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Induction and AC"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The energy stored (in J) in a 2 H inductor carrying 3 A is:",
+  "options": null,
+  "correct_answer": "9",
+  "explanation": "U = ½LI² = ½ × 2 × 9 = 9 J.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Induction and AC"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "In a series LCR circuit R = 6 Ω, X_L = 10 Ω and X_C = 2 Ω. The impedance (in Ω) is:",
+  "options": null,
+  "correct_answer": "10",
+  "explanation": "Z = √(6² + (10 − 2)²) = √100 = 10 Ω.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Induction and AC"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A transformer has 100 primary turns and 500 secondary turns. With 20 V at the primary, the secondary voltage (in V) is:",
+  "options": null,
+  "correct_answer": "100",
+  "explanation": "V_s = V_p × N_s/N_p = 20 × 5 = 100 V.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Induction and AC"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A series LCR circuit has L = 1 H and C = 4 μF. The resonant angular frequency (in rad/s) is:",
+  "options": null,
+  "correct_answer": "500",
+  "explanation": "ω₀ = 1/√(LC) = 1/√(4 × 10⁻⁶) = 1/(2 × 10⁻³) = 500 rad/s.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electromagnetic Induction and AC"
+ }
+]

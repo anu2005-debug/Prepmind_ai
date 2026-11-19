@@ -1,0 +1,482 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "Plant growth is described as indeterminate because:",
+  "options": {
+   "A": "it is limited to the seedling stage",
+   "B": "meristems keep dividing throughout the life of the plant",
+   "C": "plants have no cell division",
+   "D": "growth stops after flowering"
+  },
+  "correct_answer": "B",
+  "explanation": "Meristems at root and shoot tips (and cambium) remain active, which gives an open form of growth.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Growth and Development"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Cells in the elongation phase of growth show:",
+  "options": {
+   "A": "rapid cell division",
+   "B": "increased vacuolation, cell enlargement and new cell wall deposition",
+   "C": "only thickening of the cell wall",
+   "D": "loss of all vacuoles"
+  },
+  "correct_answer": "B",
+  "explanation": "The meristematic phase is followed by elongation and then maturation.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Growth and Development"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In arithmetic growth, a graph of length against time is:",
+  "options": {
+   "A": "sigmoid",
+   "B": "linear",
+   "C": "exponential",
+   "D": "parabolic"
+  },
+  "correct_answer": "B",
+  "explanation": "Only one daughter cell keeps dividing while the other differentiates, so growth is at a constant rate, as in a root elongating at a constant rate.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Growth and Development"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In the sigmoid growth curve, the phase of rapid growth is the:",
+  "options": {
+   "A": "lag phase",
+   "B": "log (exponential) phase",
+   "C": "stationary phase",
+   "D": "senescence phase"
+  },
+  "correct_answer": "B",
+  "explanation": "The lag phase comes first, then the log phase, and then the stationary phase when growth slows.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Growth and Development"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In the equation W1 = W0 e^(rt), r stands for:",
+  "options": {
+   "A": "the relative growth rate",
+   "B": "the number of cells",
+   "C": "the root length",
+   "D": "the time interval"
+  },
+  "correct_answer": "A",
+  "explanation": "r is the relative growth rate, also called the efficiency index.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Growth and Development"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Absolute growth rate means:",
+  "options": {
+   "A": "total growth per unit time",
+   "B": "growth per unit initial parameter",
+   "C": "growth only in the dark",
+   "D": "the number of cells produced"
+  },
+  "correct_answer": "A",
+  "explanation": "Relative growth rate is growth per unit time expressed per unit of the initial parameter.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Growth and Development"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Permanent cells regaining the capacity to divide is called:",
+  "options": {
+   "A": "differentiation",
+   "B": "redifferentiation",
+   "C": "dedifferentiation",
+   "D": "abscission"
+  },
+  "correct_answer": "C",
+  "explanation": "Cells that have matured can become meristematic again, as in the formation of cork cambium.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Growth and Development"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Cells that arise from dedifferentiated cells and lose the ability to divide again but mature to perform a function undergo:",
+  "options": {
+   "A": "differentiation",
+   "B": "dedifferentiation",
+   "C": "senescence",
+   "D": "redifferentiation"
+  },
+  "correct_answer": "D",
+  "explanation": "Redifferentiation follows dedifferentiation.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Growth and Development"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Formation of interfascicular cambium is an example of:",
+  "options": {
+   "A": "dedifferentiation",
+   "B": "redifferentiation",
+   "C": "abscission",
+   "D": "vernalisation"
+  },
+  "correct_answer": "A",
+  "explanation": "Parenchyma cells between vascular bundles become meristematic again.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Growth and Development"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Different leaf shapes in juvenile and mature cotton or coriander plants show:",
+  "options": {
+   "A": "senescence",
+   "B": "vernalisation",
+   "C": "plasticity (heterophylly)",
+   "D": "abscission"
+  },
+  "correct_answer": "C",
+  "explanation": "Plants follow different pathways in response to the environment or phases of life, forming different structures.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Growth and Development"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Development in plants is the sum of:",
+  "options": {
+   "A": "growth and differentiation",
+   "B": "growth and respiration",
+   "C": "division and photosynthesis",
+   "D": "differentiation alone"
+  },
+  "correct_answer": "A",
+  "explanation": "It covers all changes from seed germination to senescence.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Growth and Development"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Auxin was first isolated from the tips of oat coleoptiles by:",
+  "options": {
+   "A": "F.W. Went",
+   "B": "Kurosawa",
+   "C": "Skoog and Miller",
+   "D": "Letham"
+  },
+  "correct_answer": "A",
+  "explanation": "Darwin and Darwin had observed the bending of coleoptiles toward light, and Went isolated the substance responsible.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Growth and Development"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Bakanae (foolish seedling) disease of rice led to the discovery of:",
+  "options": {
+   "A": "auxin",
+   "B": "gibberellin",
+   "C": "cytokinin",
+   "D": "abscisic acid"
+  },
+  "correct_answer": "B",
+  "explanation": "Kurosawa found that a fungal filtrate (Gibberella fujikuroi) caused the abnormal elongation.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Growth and Development"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Kinetin, the first cytokinin discovered, was obtained from:",
+  "options": {
+   "A": "coconut milk",
+   "B": "autoclaved herring sperm DNA",
+   "C": "rice seedlings",
+   "D": "ripe tomatoes"
+  },
+  "correct_answer": "B",
+  "explanation": "Skoog and Miller found that it promotes cell division in tobacco callus.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Growth and Development"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Suppression of lateral bud growth by the apical bud (apical dominance) is due to:",
+  "options": {
+   "A": "cytokinin",
+   "B": "gibberellin",
+   "C": "auxin",
+   "D": "abscisic acid"
+  },
+  "correct_answer": "C",
+  "explanation": "Removing the apical bud lets the lateral buds grow, and cytokinins help overcome the dominance.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Growth and Development"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The synthetic auxin 2,4-D is used to:",
+  "options": {
+   "A": "kill monocot weeds in dicot crops",
+   "B": "kill dicot weeds in cereal fields",
+   "C": "delay fruit ripening",
+   "D": "break dormancy of seeds"
+  },
+  "correct_answer": "B",
+  "explanation": "It kills broad-leaved dicot weeds without affecting monocot crops like wheat.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Growth and Development"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Parthenocarpy in tomato can be induced by:",
+  "options": {
+   "A": "abscisic acid",
+   "B": "ethylene",
+   "C": "auxin",
+   "D": "cytokinin"
+  },
+  "correct_answer": "C",
+  "explanation": "Auxins promote the development of seedless fruits without fertilisation.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Growth and Development"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Spraying sugarcane with gibberellin increases yield because it:",
+  "options": {
+   "A": "increases the length of the stem",
+   "B": "increases the number of roots",
+   "C": "delays flowering",
+   "D": "closes stomata"
+  },
+  "correct_answer": "A",
+  "explanation": "Gibberellins elongate stems, so more sugar-bearing stem is obtained.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Growth and Development"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Bolting, the sudden elongation of the stem of rosette plants such as cabbage before flowering, is promoted by:",
+  "options": {
+   "A": "auxin",
+   "B": "gibberellins",
+   "C": "ethylene",
+   "D": "abscisic acid"
+  },
+  "correct_answer": "B",
+  "explanation": "Gibberellins also speed up malting in the brewing industry.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Growth and Development"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which hormone delays the senescence of leaves by promoting nutrient mobilisation?",
+  "options": {
+   "A": "ethylene",
+   "B": "abscisic acid",
+   "C": "cytokinins",
+   "D": "gibberellins"
+  },
+  "correct_answer": "C",
+  "explanation": "Cytokinins also help produce new leaves and chloroplasts in the dark.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Growth and Development"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Cytokinins are naturally synthesised in regions of:",
+  "options": {
+   "A": "active cell division, such as root apices and young shoot buds",
+   "B": "mature leaves",
+   "C": "dry seeds",
+   "D": "senescent tissue"
+  },
+  "correct_answer": "A",
+  "explanation": "These are the sites where cells divide rapidly.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Growth and Development"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The only gaseous plant hormone is:",
+  "options": {
+   "A": "auxin",
+   "B": "gibberellin",
+   "C": "cytokinin",
+   "D": "ethylene"
+  },
+  "correct_answer": "D",
+  "explanation": "Ethylene is produced in large amounts by ripening fruits and tissues under stress.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Growth and Development"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Ethephon is used to:",
+  "options": {
+   "A": "delay ripening of fruits",
+   "B": "hasten fruit ripening in tomatoes and apples",
+   "C": "kill weeds",
+   "D": "prevent flowering in pineapple"
+  },
+  "correct_answer": "B",
+  "explanation": "Ethephon releases ethylene, and it also promotes female flowers in cucumbers.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Growth and Development"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Synchronised flowering and fruit set in pineapples is induced by:",
+  "options": {
+   "A": "gibberellin",
+   "B": "cytokinin",
+   "C": "ethylene",
+   "D": "abscisic acid"
+  },
+  "correct_answer": "C",
+  "explanation": "Ethylene also promotes flowering in mango.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Growth and Development"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The plant growth inhibitor that helps plants withstand stress and causes closure of stomata is:",
+  "options": {
+   "A": "auxin",
+   "B": "kinetin",
+   "C": "abscisic acid",
+   "D": "gibberellic acid"
+  },
+  "correct_answer": "C",
+  "explanation": "It is known as the stress hormone.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Growth and Development"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Abscisic acid acts as an antagonist to:",
+  "options": {
+   "A": "ethylene",
+   "B": "IAA",
+   "C": "kinetin",
+   "D": "gibberellic acid"
+  },
+  "correct_answer": "D",
+  "explanation": "ABA promotes seed dormancy, while GA breaks it.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Growth and Development"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is a short-day plant?",
+  "options": {
+   "A": "spinach",
+   "B": "radish",
+   "C": "Xanthium",
+   "D": "beet"
+  },
+  "correct_answer": "C",
+  "explanation": "Xanthium flowers when the light period is below a critical length; spinach, radish and beet are long-day plants.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Growth and Development"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In short-day plants, flowering depends on the length of the:",
+  "options": {
+   "A": "light period only",
+   "B": "continuous dark period",
+   "C": "temperature alone",
+   "D": "water supply"
+  },
+  "correct_answer": "B",
+  "explanation": "A flash of light during the dark period prevents flowering in short-day plants.",
+  "difficulty": "hard",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Growth and Development"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Vernalisation is:",
+  "options": {
+   "A": "promotion of flowering by exposure to low temperature",
+   "B": "flowering induced by short days",
+   "C": "breaking of dormancy by light",
+   "D": "ripening of fruit by ethylene"
+  },
+  "correct_answer": "A",
+  "explanation": "Some biennials and winter cereals need a cold treatment to flower.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Growth and Development"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Florigen, the hormone that induces flowering, is synthesised in the:",
+  "options": {
+   "A": "leaves",
+   "B": "roots",
+   "C": "seeds",
+   "D": "root hairs"
+  },
+  "correct_answer": "A",
+  "explanation": "It is formed in leaves that perceive the photoperiod and is transmitted to the shoot apices.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Growth and Development"
+ }
+]

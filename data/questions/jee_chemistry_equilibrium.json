@@ -1,0 +1,452 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "For the reaction N₂(g) + 3H₂(g) ⇌ 2NH₃(g), the expression for K_c is:",
+  "options": {
+   "A": "[NH₃]/([N₂][H₂])",
+   "B": "[NH₃]²/([N₂][H₂]³)",
+   "C": "[N₂][H₂]³/[NH₃]²",
+   "D": "[NH₃]²/([N₂][H₂]²)"
+  },
+  "correct_answer": "B",
+  "explanation": "Products go in the numerator and reactants in the denominator, each raised to its stoichiometric coefficient.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Equilibrium"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "For N₂O₄(g) ⇌ 2NO₂(g), the ratio K_p/K_c equals:",
+  "options": {
+   "A": "RT",
+   "B": "(RT)⁻¹",
+   "C": "1",
+   "D": "(RT)²"
+  },
+  "correct_answer": "A",
+  "explanation": "K_p = K_c(RT)^Δn with Δn = 2 − 1 = 1.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Equilibrium"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Increasing the pressure on the equilibrium PCl₅(g) ⇌ PCl₃(g) + Cl₂(g) shifts it:",
+  "options": {
+   "A": "forward",
+   "B": "backward",
+   "C": "does not shift it",
+   "D": "forward and then backward"
+  },
+  "correct_answer": "B",
+  "explanation": "Higher pressure favours the side with fewer moles of gas, which is PCl₅ (1 mol versus 2 mol).",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Equilibrium"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The pH of a 0.01 M HCl solution is:",
+  "options": {
+   "A": "1",
+   "B": "2",
+   "C": "12",
+   "D": "0.01"
+  },
+  "correct_answer": "B",
+  "explanation": "[H⁺] = 10⁻² M, so pH = 2.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Equilibrium"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The pH of a 0.001 M NaOH solution at 25°C is:",
+  "options": {
+   "A": "3",
+   "B": "9",
+   "C": "11",
+   "D": "14"
+  },
+  "correct_answer": "C",
+  "explanation": "pOH = 3, so pH = 14 − 3 = 11.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Equilibrium"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "At 80°C pure water has a pH below 7 but is still neutral because:",
+  "options": {
+   "A": "it becomes acidic on heating",
+   "B": "[H⁺] is greater than [OH⁻]",
+   "C": "K_w increases, but [H⁺] still equals [OH⁻]",
+   "D": "K_w decreases on heating"
+  },
+  "correct_answer": "C",
+  "explanation": "Ionisation of water is endothermic, so K_w rises with temperature. Both [H⁺] and [OH⁻] rise equally, so the water stays neutral.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Equilibrium"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The conjugate base of H₂SO₄ is:",
+  "options": {
+   "A": "SO₄²⁻",
+   "B": "HSO₄⁻",
+   "C": "H₃SO₄⁺",
+   "D": "OH⁻"
+  },
+  "correct_answer": "B",
+  "explanation": "The conjugate base is formed by removing one H⁺.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Equilibrium"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The conjugate acid of NH₃ is:",
+  "options": {
+   "A": "NH₂⁻",
+   "B": "NH₄⁺",
+   "C": "N₂H₄",
+   "D": "NH₄OH"
+  },
+  "correct_answer": "B",
+  "explanation": "NH₃ + H⁺ → NH₄⁺.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Equilibrium"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is a Lewis acid?",
+  "options": {
+   "A": "NH₃",
+   "B": "H₂O",
+   "C": "BF₃",
+   "D": "Cl⁻"
+  },
+  "correct_answer": "C",
+  "explanation": "BF₃ has an incomplete octet and accepts an electron pair.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Equilibrium"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following mixtures forms an acidic buffer?",
+  "options": {
+   "A": "HCl + NaCl",
+   "B": "CH₃COOH + CH₃COONa",
+   "C": "NaOH + NaCl",
+   "D": "HNO₃ + NaNO₃"
+  },
+  "correct_answer": "B",
+  "explanation": "A buffer needs a weak acid and its conjugate base (salt). HCl and HNO₃ are strong acids.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Equilibrium"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A buffer has pK_a = 4.74 and [salt]/[acid] = 10. Its pH is:",
+  "options": {
+   "A": "3.74",
+   "B": "4.74",
+   "C": "5.74",
+   "D": "6.74"
+  },
+  "correct_answer": "C",
+  "explanation": "pH = pK_a + log([salt]/[acid]) = 4.74 + 1 = 5.74.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Equilibrium"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "K_sp of AgCl is 1 × 10⁻¹⁰. Its solubility in pure water (mol/L) is:",
+  "options": {
+   "A": "1 × 10⁻¹⁰",
+   "B": "1 × 10⁻⁵",
+   "C": "1 × 10⁻²⁰",
+   "D": "2 × 10⁻⁵"
+  },
+  "correct_answer": "B",
+  "explanation": "K_sp = s², so s = √(10⁻¹⁰) = 10⁻⁵ mol/L.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Equilibrium"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The solubility product of Ca(OH)₂ in terms of its solubility s is:",
+  "options": {
+   "A": "s²",
+   "B": "4s³",
+   "C": "27s⁴",
+   "D": "s³"
+  },
+  "correct_answer": "B",
+  "explanation": "K_sp = [Ca²⁺][OH⁻]² = s(2s)² = 4s³.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Equilibrium"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The solubility of AgCl in 0.1 M NaCl solution compared with that in pure water is:",
+  "options": {
+   "A": "greater",
+   "B": "less",
+   "C": "the same",
+   "D": "zero"
+  },
+  "correct_answer": "B",
+  "explanation": "The common ion Cl⁻ suppresses the dissolution of AgCl (common ion effect).",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Equilibrium"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The degree of dissociation of a 0.1 M weak acid with K_a = 1 × 10⁻⁵ is:",
+  "options": {
+   "A": "0.1",
+   "B": "0.01",
+   "C": "0.001",
+   "D": "1 × 10⁻⁵"
+  },
+  "correct_answer": "B",
+  "explanation": "α = √(K_a/C) = √(10⁻⁵/0.1) = √(10⁻⁴) = 0.01.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Equilibrium"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A catalyst added to a reaction at equilibrium:",
+  "options": {
+   "A": "shifts the equilibrium forward",
+   "B": "shifts the equilibrium backward",
+   "C": "changes the value of K",
+   "D": "only speeds up the approach to equilibrium"
+  },
+  "correct_answer": "D",
+  "explanation": "A catalyst speeds up the forward and reverse reactions equally, so K and the equilibrium composition are unchanged.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Equilibrium"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "When the temperature of an exothermic reaction at equilibrium is raised, the value of K:",
+  "options": {
+   "A": "increases",
+   "B": "decreases",
+   "C": "stays the same",
+   "D": "becomes infinite"
+  },
+  "correct_answer": "B",
+  "explanation": "By Le Chatelier's principle the equilibrium shifts backward, so K decreases.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Equilibrium"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "If the reaction quotient Q is less than K, the reaction proceeds:",
+  "options": {
+   "A": "in the forward direction",
+   "B": "in the backward direction",
+   "C": "not at all",
+   "D": "to completion in the backward direction"
+  },
+  "correct_answer": "A",
+  "explanation": "Q < K means there are too few products, so the net reaction goes forward.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Equilibrium"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "An aqueous solution of sodium carbonate (Na₂CO₃) is:",
+  "options": {
+   "A": "acidic",
+   "B": "neutral",
+   "C": "basic",
+   "D": "amphoteric"
+  },
+  "correct_answer": "C",
+  "explanation": "CO₃²⁻ is the conjugate base of a weak acid and hydrolyses to give OH⁻.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Equilibrium"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The ionic product of water, K_w, at 25°C is:",
+  "options": {
+   "A": "10⁻⁷",
+   "B": "10⁻¹⁴",
+   "C": "10⁻¹⁰",
+   "D": "10⁻²⁸"
+  },
+  "correct_answer": "B",
+  "explanation": "K_w = [H⁺][OH⁻] = 10⁻⁷ × 10⁻⁷ = 10⁻¹⁴ at 25°C.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Equilibrium"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "For N₂ + O₂ ⇌ 2NO, K_c = 4. For ½N₂ + ½O₂ ⇌ NO at the same temperature, K_c is:",
+  "options": {
+   "A": "2",
+   "B": "4",
+   "C": "16",
+   "D": "0.5"
+  },
+  "correct_answer": "A",
+  "explanation": "Halving the coefficients takes the square root of K: √4 = 2.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Equilibrium"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The pH of a 1 × 10⁻⁸ M HCl solution at 25°C is closest to:",
+  "options": {
+   "A": "8",
+   "B": "6.98",
+   "C": "7.00",
+   "D": "6"
+  },
+  "correct_answer": "B",
+  "explanation": "The H⁺ from water (about 10⁻⁷ M) cannot be ignored. [H⁺] ≈ 1.05 × 10⁻⁷ M, so pH ≈ 6.98. An acid can never give a pH above 7.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Equilibrium"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which of the following are Lewis acids?",
+  "options": {
+   "A": "BF₃",
+   "B": "AlCl₃",
+   "C": "NH₃",
+   "D": "Fe³⁺"
+  },
+  "correct_answer": "A,B,D",
+  "explanation": "BF₃, AlCl₃ and Fe³⁺ accept electron pairs. NH₃ donates a pair, so it is a Lewis base.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Equilibrium"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which statements about chemical equilibrium are correct?",
+  "options": {
+   "A": "A catalyst does not change the value of K",
+   "B": "For an exothermic reaction K decreases when temperature rises",
+   "C": "Equilibrium is dynamic in nature",
+   "D": "At equilibrium the concentrations of reactants and products are always equal"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "At equilibrium the concentrations are constant, not necessarily equal.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Equilibrium"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The pH of a 0.001 M HCl solution is:",
+  "options": null,
+  "correct_answer": "3",
+  "explanation": "[H⁺] = 10⁻³ M, so pH = 3.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Equilibrium"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The pH of a 0.05 M H₂SO₄ solution, assuming both protons dissociate completely, is:",
+  "options": null,
+  "correct_answer": "1",
+  "explanation": "[H⁺] = 2 × 0.05 = 0.1 M, so pH = 1.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Equilibrium"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "For N₂ + 3H₂ ⇌ 2NH₃, K_p = K_c(RT)^x. The value of x is (enter the signed integer):",
+  "options": null,
+  "correct_answer": "-2",
+  "explanation": "x = Δn = 2 − 4 = −2.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Equilibrium"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "In a solution of pH 12 at 25°C, [OH⁻] = 10⁻ˣ M. The value of x is:",
+  "options": null,
+  "correct_answer": "2",
+  "explanation": "pOH = 14 − 12 = 2, so [OH⁻] = 10⁻² M.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Equilibrium"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A buffer has pK_a = 4 and [salt]/[acid] = 100. Its pH is:",
+  "options": null,
+  "correct_answer": "6",
+  "explanation": "pH = 4 + log 100 = 4 + 2 = 6.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Equilibrium"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The pH of a 0.01 M weak monobasic acid with K_a = 1 × 10⁻⁶ is:",
+  "options": null,
+  "correct_answer": "4",
+  "explanation": "[H⁺] = √(K_a C) = √(10⁻⁶ × 10⁻²) = 10⁻⁴ M, so pH = 4.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Equilibrium"
+ }
+]

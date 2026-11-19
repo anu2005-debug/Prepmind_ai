@@ -1,6 +1,49 @@
 import React, { useState, useEffect } from "react";
+import { jeeMainPhysicsUnitsQuestions } from "./jeeMainPhysicsBank";
 import "./App.css";
 import MyCourses from "./MyCourses";
+
+// ==================================================
+// SERVER-SIDE PRACTICE (JEE Main Physics, Chemistry, Mathematics)
+// Questions come from the backend (30 per chapter); answers are
+// graded on the server. Other exams still use the local bank.
+// ==================================================
+
+const PRACTICE_API_BASE = "http://127.0.0.1:8000";
+const SERVER_PRACTICE_SUBJECTS = ["Physics", "Chemistry", "Mathematics"];
+const OPTION_LETTERS = "ABCDEFGH";
+
+const usesServerPractice = (exam, subject) =>
+  /^(JEE|WBJEE)/.test(String(exam || "").toUpperCase()) /* isServerExam */ && SERVER_PRACTICE_SUBJECTS.includes(subject);
+
+// The page stores the chosen option TEXT; the server expects letters (A, B, ...).
+const toServerAnswer = (question, answer) => {
+  if (Array.isArray(answer)) {
+    return answer
+      .map((item) => OPTION_LETTERS[(question.options || []).indexOf(item)])
+      .filter(Boolean)
+      .sort()
+      .join(",");
+  }
+  if (question.type === "Numerical") {
+    return String(answer).trim();
+  }
+  const index = (question.options || []).indexOf(answer);
+  return index >= 0 ? OPTION_LETTERS[index] : null;
+};
+
+// Turn the server's correct answer (letters) back into option text.
+const fromServerAnswer = (question, correct) => {
+  if (question.type === "Numerical") {
+    return String(correct);
+  }
+  const options = question.options || [];
+  const picked = String(correct)
+    .split(",")
+    .map((letter) => options[OPTION_LETTERS.indexOf(letter.trim())])
+    .filter((value) => value !== undefined);
+  return question.type === "Multiple Correct" ? picked : picked[0];
+};
 
 // ==================================================
 // API ERROR HELPER
@@ -546,6 +589,8 @@ practiceQuestionBank.push(
 );
 
 // Exam-wise subject and chapter catalog used by Learning and Practice.
+// Add 30 JEE Main Physics questions for Units and Measurements
+practiceQuestionBank.push(...jeeMainPhysicsUnitsQuestions);
 // These are starter chapter lists; verify against the latest official exam syllabus before production.
 const examCatalog = {
   "JEE Main": {
@@ -709,10 +754,25 @@ const getChemistryPracticeQuestions = (chapter) => {
   return practiceQuestionBank.filter((q) => q.subject === "Chemistry" && q.chapter === matchingSet.chapter);
 };
 
+
+
 const getPracticeQuestions = (subject, chapter = "") => {
-  if (subject === "Chemistry" && chapter) return getChemistryPracticeQuestions(chapter);
-  return practiceQuestionBank.filter((q) => q.subject === subject && (!chapter || q.chapter === chapter));
+  if (subject === "Chemistry" && chapter) {
+    return getChemistryPracticeQuestions(chapter);
+  }
+
+  if (subject === "Physics" && chapter === "Units and Measurements") {
+    return jeeMainPhysicsUnitsQuestions;
+  }
+
+  return practiceQuestionBank.filter(
+    (q) =>
+      q.subject === subject &&
+      (!chapter || q.chapter === chapter)
+  );
 };
+
+
 
 
 // In-app revision notes. The fallback keeps every syllabus chapter readable,
@@ -891,6 +951,10 @@ function App() {
   const [practiceSubmitted, setPracticeSubmitted] =
     useState(false);
 
+  // Set only for server-graded tests (JEE Main PCM).
+  const [practiceTestId, setPracticeTestId] = useState(null);
+  const [serverPracticeCounts, setServerPracticeCounts] = useState({});
+
   const [practiceStarted, setPracticeStarted] =
     useState(false);
 
@@ -1006,14 +1070,50 @@ function App() {
   // START PRACTICE
   // ==================================================
 
-  const startPractice = (subject, chapter = "") => {
-    const questions = getPracticeQuestions(subject, chapter);
+  const startPractice = async (subject, chapter = "") => {
+    const exam = selectedExam || loggedInStudent?.exam || "JEE Main";
+    let questions;
+    let testId = null;
+
+    if (usesServerPractice(exam, subject)) {
+      try {
+        const params = new URLSearchParams({ exam, subject });
+        if (chapter) {
+          params.set("chapter", chapter);
+        }
+
+        const response = await fetch(
+          `${PRACTICE_API_BASE}/practice/questions?${params.toString()}`
+        );
+        const data = await response.json();
+
+        if (!response.ok) {
+          window.alert(
+            getApiErrorMessage(
+              data,
+              "Unable to load practice questions. Please try again."
+            )
+          );
+          return;
+        }
+
+        questions = data.questions || [];
+        testId = data.test_id;
+      } catch (error) {
+        console.error("Practice questions error:", error);
+        window.alert("Unable to reach the server. Please try again.");
+        return;
+      }
+    } else {
+      questions = getPracticeQuestions(subject, chapter);
+    }
 
     if (questions.length === 0) {
       window.alert(`The ${subject} question bank is being prepared. Please choose a subject with available questions for now.`);
       return;
     }
 
+    setPracticeTestId(testId);
     setActivePage("Practice");
     setPracticeSubject(subject);
     setPracticeChapter(chapter);
@@ -1324,9 +1424,20 @@ function App() {
       0
     );
 
+    const serverMode = Boolean(practiceTestId);
+
     const attempts = practiceQuestions.map((question) => {
       const answered = isQuestionAnswered(question);
       const answer = practiceAnswers[question.id];
+
+      if (serverMode) {
+        // The server knows the answers and grades the test itself.
+        return {
+          question_id: question.id,
+          selected_answer: answered ? toServerAnswer(question, answer) : null,
+          marked_for_review: Boolean(markedForReview[question.id]),
+        };
+      }
 
       return {
         question_id: question.id,
@@ -1351,7 +1462,8 @@ function App() {
             student_id: loggedInStudent.student_id,
             subject: practiceSubject,
             chapter: practiceChapter || null,
-            test_id: window.crypto.randomUUID(),
+            test_id: practiceTestId || window.crypto.randomUUID(),
+            graded_on_server: serverMode,
             attempts,
           }),
         }
@@ -1369,6 +1481,26 @@ function App() {
       }
 
       console.log("Practice test saved successfully:", data);
+      if (serverMode) {
+        // Reveal the correct answers so the review screen can show them.
+        const resultsById = Object.fromEntries(
+          (data.results || []).map((result) => [result.question_id, result])
+        );
+        setPracticeQuestions((previous) =>
+          previous.map((question) => {
+            const result = resultsById[question.id];
+            if (!result) {
+              return question;
+            }
+            return {
+              ...question,
+              answer: fromServerAnswer(question, result.correct_answer),
+              explanation: result.explanation,
+            };
+          })
+        );
+      }
+
       setPracticeScore(data.score ?? score);
       setPracticeSubmitted(true);
     } catch (error) {
@@ -1404,6 +1536,30 @@ function App() {
     practiceSubmitting,
     practiceTimeLeft,
   ]);
+
+  // Question counts per chapter for the Practice page (JEE Main).
+  useEffect(() => {
+    if (activePage !== "Practice" || !/^(JEE|WBJEE)/.test(String(selectedExam || "").toUpperCase()) /* isServerExam */) {
+      return undefined;
+    }
+
+    let cancelled = false;
+
+    fetch(
+      `${PRACTICE_API_BASE}/practice/counts?exam=${encodeURIComponent(selectedExam)}`
+    )
+      .then((response) => (response.ok ? response.json() : null))
+      .then((data) => {
+        if (!cancelled && data?.counts) {
+          setServerPracticeCounts(data.counts);
+        }
+      })
+      .catch(() => {});
+
+    return () => {
+      cancelled = true;
+    };
+  }, [activePage, selectedExam, practiceStarted]);
 
   // ==================================================
   // LEARNING MODULE DATA AND PROGRESS
@@ -3917,7 +4073,9 @@ function App() {
       subject,
       title: `${subject} Practice`,
       description: `Practice ${subject} topics and chapter-wise questions for ${selectedExam}.`,
-      count: practiceQuestionBank.filter((question) => question.subject === subject).length,
+      count: usesServerPractice(selectedExam, subject)
+        ? Object.values(serverPracticeCounts[subject] || {}).reduce((total, n) => total + n, 0)
+        : practiceQuestionBank.filter((question) => question.subject === subject).length,
       chapters: getChaptersForExam(selectedExam, subject),
     }));
 
@@ -3948,7 +4106,7 @@ function App() {
           </div>
 
           <div className="practice-total-badge">
-            {practiceQuestionBank.filter((question) => examSubjects.includes(question.subject)).length} Available Questions
+            {practiceItems.reduce((total, item) => total + item.count, 0)} Available Questions
           </div>
         </div>
 
@@ -3980,7 +4138,9 @@ function App() {
                   <summary style={{ cursor: "pointer", fontWeight: 600 }}>View chapters and practice</summary>
                   <ul style={{ paddingLeft: 20, lineHeight: 1.9 }}>
                     {item.chapters.map((chapter) => {
-                      const chapterCount = getPracticeQuestions(item.subject, chapter).length;
+                      const chapterCount = usesServerPractice(selectedExam, item.subject)
+                        ? (serverPracticeCounts[item.subject]?.[chapter] || 0)
+                        : getPracticeQuestions(item.subject, chapter).length;
                       return (
                         <li key={chapter} style={{ marginBottom: 6 }}>
                           <span>{chapter} ({chapterCount} questions)</span>{" "}

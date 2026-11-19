@@ -1,0 +1,242 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "In Young's double slit experiment, λ = 600 nm, slit separation d = 0.6 mm and screen distance D = 1 m. The fringe width is:",
+  "options": {
+   "A": "0.1 mm",
+   "B": "10 mm",
+   "C": "1 mm",
+   "D": "0.01 mm"
+  },
+  "correct_answer": "C",
+  "explanation": "β = λD/d = 600 × 10⁻⁹ × 1/(0.6 × 10⁻³) = 10⁻³ m = 1 mm.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Optics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In Young's double slit experiment, if the wavelength of light is doubled, the fringe width:",
+  "options": {
+   "A": "doubles",
+   "B": "halves",
+   "C": "remains unchanged",
+   "D": "becomes four times"
+  },
+  "correct_answer": "A",
+  "explanation": "β = λD/d, so β is proportional to λ.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Optics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "For constructive interference of two coherent waves, the path difference must be:",
+  "options": {
+   "A": "(2n + 1)λ/2",
+   "B": "nλ",
+   "C": "λ/4",
+   "D": "(n + 1/4)λ"
+  },
+  "correct_answer": "B",
+  "explanation": "Constructive interference occurs when the path difference is a whole number of wavelengths.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Optics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Two sources have an intensity ratio of 9 : 1. In interference, the ratio I_max : I_min is:",
+  "options": {
+   "A": "10 : 1",
+   "B": "3 : 1",
+   "C": "2 : 1",
+   "D": "4 : 1"
+  },
+  "correct_answer": "D",
+  "explanation": "The amplitude ratio is 3 : 1, so I_max/I_min = (3 + 1)²/(3 − 1)² = 16/4 = 4.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Optics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In single slit diffraction (slit width a), the first minimum occurs at an angle θ given by:",
+  "options": {
+   "A": "a sin θ = λ/2",
+   "B": "a sin θ = 3λ/2",
+   "C": "a sin θ = λ",
+   "D": "a sin θ = 0"
+  },
+  "correct_answer": "C",
+  "explanation": "The first minimum satisfies a sin θ = λ.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Optics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In a single slit experiment, λ = 500 nm, slit width 0.5 mm and screen distance 1 m. The width of the central maximum is:",
+  "options": {
+   "A": "1 mm",
+   "B": "2 mm",
+   "C": "4 mm",
+   "D": "0.5 mm"
+  },
+  "correct_answer": "B",
+  "explanation": "Width = 2λD/a = 2 × 5 × 10⁻⁷ × 1/(5 × 10⁻⁴) = 2 × 10⁻³ m = 2 mm.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Optics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Light is polarised completely on reflection from glass of refractive index √3. The polarising (Brewster) angle is:",
+  "options": {
+   "A": "30°",
+   "B": "45°",
+   "C": "90°",
+   "D": "60°"
+  },
+  "correct_answer": "D",
+  "explanation": "tan i_p = n = √3, so i_p = 60°.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Optics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Polarised light of intensity 100 units falls on an analyser whose axis makes 60° with the polarisation direction. The transmitted intensity is:",
+  "options": {
+   "A": "50",
+   "B": "25",
+   "C": "75",
+   "D": "0"
+  },
+  "correct_answer": "B",
+  "explanation": "By Malus's law I = I₀ cos²θ = 100 × (1/2)² = 25.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Optics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Unpolarised light of intensity I₀ passes through an ideal polaroid. The transmitted intensity is:",
+  "options": {
+   "A": "I₀/2",
+   "B": "I₀",
+   "C": "zero",
+   "D": "I₀/4"
+  },
+  "correct_answer": "A",
+  "explanation": "A polaroid transmits half the intensity of unpolarised light.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Optics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The phenomenon of polarisation of light shows that light waves are:",
+  "options": {
+   "A": "longitudinal",
+   "B": "particles",
+   "C": "transverse",
+   "D": "sound waves"
+  },
+  "correct_answer": "C",
+  "explanation": "Only transverse waves can be polarised.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Optics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "According to Huygens' principle:",
+  "options": {
+   "A": "light rays always travel in straight lines",
+   "B": "light is made of particles",
+   "C": "all wavefronts are plane",
+   "D": "every point on a wavefront acts as a source of secondary wavelets"
+  },
+  "correct_answer": "D",
+  "explanation": "The new wavefront is the envelope of the secondary wavelets from points on the old one.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Optics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Two sources are coherent if they:",
+  "options": {
+   "A": "have the same amplitude only",
+   "B": "have a constant phase difference",
+   "C": "have the same intensity",
+   "D": "emit different frequencies"
+  },
+  "correct_answer": "B",
+  "explanation": "Coherent sources have the same frequency and a constant phase difference with time.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Optics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Light of wavelength 6000 Å in air enters glass of refractive index 1.5. Its wavelength in glass is:",
+  "options": {
+   "A": "9000 Å",
+   "B": "6000 Å",
+   "C": "4000 Å",
+   "D": "3000 Å"
+  },
+  "correct_answer": "C",
+  "explanation": "λ' = λ/n = 6000/1.5 = 4000 Å.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Optics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A Young's double slit setup is completely immersed in water (n = 4/3). The fringe width becomes:",
+  "options": {
+   "A": "3/4 times",
+   "B": "4/3 times",
+   "C": "unchanged",
+   "D": "1/2 times"
+  },
+  "correct_answer": "A",
+  "explanation": "The wavelength falls to λ/n, so the fringe width becomes 3/4 of its original value.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Optics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The distance of the 3rd bright fringe from the central maximum in Young's experiment is (β = fringe width):",
+  "options": {
+   "A": "β",
+   "B": "2β",
+   "C": "3β",
+   "D": "3β/2"
+  },
+  "correct_answer": "C",
+  "explanation": "The nth bright fringe is at y = nβ, so the third is at 3β.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Optics"
+ }
+]

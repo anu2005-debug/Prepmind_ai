@@ -1,0 +1,452 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "Glucose is classified as:",
+  "options": {
+   "A": "an aldohexose",
+   "B": "a ketohexose",
+   "C": "an aldopentose",
+   "D": "a disaccharide"
+  },
+  "correct_answer": "A",
+  "explanation": "Glucose has six carbons and an aldehyde group (C₆H₁₂O₆).",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Glucose on oxidation with bromine water gives:",
+  "options": {
+   "A": "saccharic acid",
+   "B": "gluconic acid",
+   "C": "n-hexane",
+   "D": "sorbitol"
+  },
+  "correct_answer": "B",
+  "explanation": "Bromine water is a mild oxidant that converts only the –CHO group to –COOH.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Glucose on oxidation with concentrated HNO₃ gives:",
+  "options": {
+   "A": "gluconic acid",
+   "B": "saccharic acid",
+   "C": "glucitol",
+   "D": "n-hexane"
+  },
+  "correct_answer": "B",
+  "explanation": "Nitric acid is a strong oxidant that oxidises both the –CHO and the terminal –CH₂OH to –COOH.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is a non-reducing sugar?",
+  "options": {
+   "A": "glucose",
+   "B": "fructose",
+   "C": "maltose",
+   "D": "sucrose"
+  },
+  "correct_answer": "D",
+  "explanation": "In sucrose the glycosidic bond joins the anomeric carbons of both units, so no free aldehyde or ketone group is left.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Hydrolysis of sucrose gives an equimolar mixture of glucose and fructose, which is called invert sugar because:",
+  "options": {
+   "A": "its rotation changes from dextro to laevo",
+   "B": "it is more soluble",
+   "C": "it is non-reducing",
+   "D": "it loses its sweetness"
+  },
+  "correct_answer": "A",
+  "explanation": "Sucrose is dextrorotatory, but the product mixture is laevorotatory because laevorotatory fructose outweighs dextrorotatory glucose.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Maltose consists of two α-D-glucose units joined by a:",
+  "options": {
+   "A": "C1–C4 glycosidic linkage",
+   "B": "C1–C2 glycosidic linkage",
+   "C": "C1–C6 peptide linkage",
+   "D": "phosphodiester bond"
+  },
+  "correct_answer": "A",
+  "explanation": "Maltose has an α-1,4-glycosidic linkage between two glucose units.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Lactose is composed of:",
+  "options": {
+   "A": "two glucose units",
+   "B": "glucose and fructose",
+   "C": "β-D-galactose and β-D-glucose",
+   "D": "two fructose units"
+  },
+  "correct_answer": "C",
+  "explanation": "Lactose (milk sugar) is a disaccharide of β-D-galactose and β-D-glucose.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The water-soluble component of starch is:",
+  "options": {
+   "A": "amylopectin",
+   "B": "amylose",
+   "C": "cellulose",
+   "D": "glycogen"
+  },
+  "correct_answer": "B",
+  "explanation": "Amylose is the linear α-1,4-linked component (about 15–20%) and is water-soluble, while amylopectin is branched and insoluble.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Cellulose is a polymer of:",
+  "options": {
+   "A": "α-D-glucose",
+   "B": "β-D-glucose",
+   "C": "fructose",
+   "D": "galactose"
+  },
+  "correct_answer": "B",
+  "explanation": "Cellulose consists of β-D-glucose units joined by β-1,4 linkages, which humans cannot digest.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The carbohydrate stored in the liver and muscles of animals is:",
+  "options": {
+   "A": "starch",
+   "B": "cellulose",
+   "C": "glycogen",
+   "D": "sucrose"
+  },
+  "correct_answer": "C",
+  "explanation": "Glycogen is a highly branched polymer of glucose, similar to amylopectin.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A peptide bond is formed between:",
+  "options": {
+   "A": "the –COOH of one amino acid and the –NH₂ of another",
+   "B": "two –NH₂ groups",
+   "C": "two –COOH groups",
+   "D": "an –OH group and an –NH₂ group on the same amino acid"
+  },
+  "correct_answer": "A",
+  "explanation": "The –CO–NH– amide linkage forms with loss of water.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "At its isoelectric point an amino acid exists mainly as:",
+  "options": {
+   "A": "a cation",
+   "B": "an anion",
+   "C": "a zwitterion with zero net charge",
+   "D": "a neutral molecule with no charges anywhere"
+  },
+  "correct_answer": "C",
+  "explanation": "The –NH₃⁺ and –COO⁻ groups are both present, so the net charge is zero.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is an essential amino acid?",
+  "options": {
+   "A": "glycine",
+   "B": "alanine",
+   "C": "valine",
+   "D": "serine"
+  },
+  "correct_answer": "C",
+  "explanation": "Essential amino acids cannot be made by the body. Valine is one of them, while glycine, alanine and serine are non-essential.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The secondary structure of a protein is stabilised mainly by:",
+  "options": {
+   "A": "peptide bonds",
+   "B": "hydrogen bonds",
+   "C": "disulphide bridges",
+   "D": "ionic bonds only"
+  },
+  "correct_answer": "B",
+  "explanation": "The α-helix and β-pleated sheet are held by hydrogen bonds between the C=O and N–H groups of the backbone.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "On denaturation of a protein, which structure remains unchanged?",
+  "options": {
+   "A": "primary structure",
+   "B": "secondary structure",
+   "C": "tertiary structure",
+   "D": "quaternary structure"
+  },
+  "correct_answer": "A",
+  "explanation": "Denaturation destroys the higher-order structures but does not break the peptide bonds, so the amino acid sequence is intact.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Enzymes are mostly:",
+  "options": {
+   "A": "carbohydrates",
+   "B": "lipids",
+   "C": "globular proteins",
+   "D": "nucleic acids"
+  },
+  "correct_answer": "C",
+  "explanation": "Enzymes are biological catalysts, and nearly all are globular proteins.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Deficiency of vitamin D causes:",
+  "options": {
+   "A": "scurvy",
+   "B": "rickets",
+   "C": "night blindness",
+   "D": "beriberi"
+  },
+  "correct_answer": "B",
+  "explanation": "Vitamin D is needed for calcium absorption, and its lack causes rickets in children. Scurvy is from vitamin C, night blindness from vitamin A and beriberi from vitamin B₁.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following vitamins is water-soluble?",
+  "options": {
+   "A": "vitamin A",
+   "B": "vitamin C",
+   "C": "vitamin D",
+   "D": "vitamin K"
+  },
+  "correct_answer": "B",
+  "explanation": "Vitamins B and C are water-soluble. Vitamins A, D, E and K are fat-soluble.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The sugar present in DNA is:",
+  "options": {
+   "A": "ribose",
+   "B": "2-deoxyribose",
+   "C": "glucose",
+   "D": "fructose"
+  },
+  "correct_answer": "B",
+  "explanation": "DNA contains 2-deoxy-D-ribose, which has no –OH on C-2. RNA contains ribose.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In a DNA double helix, adenine pairs with:",
+  "options": {
+   "A": "guanine",
+   "B": "cytosine",
+   "C": "thymine",
+   "D": "uracil"
+  },
+  "correct_answer": "C",
+  "explanation": "A pairs with T and G pairs with C through hydrogen bonds.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The nitrogenous base present in RNA but not in DNA is:",
+  "options": {
+   "A": "thymine",
+   "B": "uracil",
+   "C": "adenine",
+   "D": "guanine"
+  },
+  "correct_answer": "B",
+  "explanation": "RNA contains uracil in place of thymine.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A nucleotide consists of:",
+  "options": {
+   "A": "a nitrogenous base and a sugar",
+   "B": "a nitrogenous base, a sugar and a phosphate group",
+   "C": "a sugar and a phosphate group only",
+   "D": "an amino acid and a sugar"
+  },
+  "correct_answer": "B",
+  "explanation": "A nucleoside is the base plus sugar. Adding a phosphate group gives a nucleotide.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which of the following are reducing sugars?",
+  "options": {
+   "A": "glucose",
+   "B": "fructose",
+   "C": "maltose",
+   "D": "sucrose"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "These have a free aldehyde or ketol group (or hemiacetal). Sucrose does not.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which statements about DNA are correct?",
+  "options": {
+   "A": "It has a double helix structure",
+   "B": "It contains 2-deoxyribose",
+   "C": "It contains uracil",
+   "D": "The two strands are held by hydrogen bonds between bases"
+  },
+  "correct_answer": "A,B,D",
+  "explanation": "DNA contains thymine, not uracil.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of chiral carbon atoms in open-chain glucose is:",
+  "options": null,
+  "correct_answer": "4",
+  "explanation": "C-2, C-3, C-4 and C-5 each carry four different groups.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of chiral carbon atoms in open-chain fructose is:",
+  "options": null,
+  "correct_answer": "3",
+  "explanation": "C-3, C-4 and C-5 are chiral. C-2 is the carbonyl carbon and C-1 and C-6 are CH₂OH.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of –OH groups in open-chain glucose is:",
+  "options": null,
+  "correct_answer": "5",
+  "explanation": "Four secondary –OH groups (C-2 to C-5) and one primary –OH (C-6).",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of peptide bonds in a tripeptide is:",
+  "options": null,
+  "correct_answer": "2",
+  "explanation": "A chain of n amino acids has n − 1 peptide bonds.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of hydrogen bonds between guanine and cytosine in DNA is:",
+  "options": null,
+  "correct_answer": "3",
+  "explanation": "The G–C pair is held by three hydrogen bonds.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of hydrogen bonds between adenine and thymine in DNA is:",
+  "options": null,
+  "correct_answer": "2",
+  "explanation": "The A–T pair is held by two hydrogen bonds.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Biomolecules"
+ }
+]

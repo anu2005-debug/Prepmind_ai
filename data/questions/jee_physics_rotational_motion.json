@@ -1,0 +1,452 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "The moment of inertia of a uniform ring of mass M and radius R about an axis through its centre and perpendicular to its plane is:",
+  "options": {
+   "A": "MR²/2",
+   "B": "2MR²/5",
+   "C": "MR²/12",
+   "D": "MR²"
+  },
+  "correct_answer": "D",
+  "explanation": "All the mass of a ring is at distance R from the axis, so I = MR².",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Rotational Motion"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The moment of inertia of a uniform solid sphere of mass M and radius R about a diameter is:",
+  "options": {
+   "A": "MR²/2",
+   "B": "2MR²/5",
+   "C": "MR²",
+   "D": "2MR²/3"
+  },
+  "correct_answer": "B",
+  "explanation": "For a solid sphere, I = (2/5)MR² about any diameter.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Rotational Motion"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The moment of inertia of a thin uniform rod of mass M and length L about an axis through one end and perpendicular to the rod is:",
+  "options": {
+   "A": "ML²/12",
+   "B": "ML²/2",
+   "C": "ML²/3",
+   "D": "ML²/6"
+  },
+  "correct_answer": "C",
+  "explanation": "I_cm = ML²/12. By the parallel axis theorem, I = ML²/12 + M(L/2)² = ML²/3.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Rotational Motion"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A force of 10 N acts perpendicular to a lever arm at a distance of 0.5 m from the axis. The torque is:",
+  "options": {
+   "A": "5 N m",
+   "B": "10 N m",
+   "C": "20 N m",
+   "D": "0.05 N m"
+  },
+  "correct_answer": "A",
+  "explanation": "τ = Fr = 10 × 0.5 = 5 N m.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Rotational Motion"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A torque of 20 N m acts on a body of moment of inertia 5 kg m². The angular acceleration is:",
+  "options": {
+   "A": "100 rad/s²",
+   "B": "0.25 rad/s²",
+   "C": "25 rad/s²",
+   "D": "4 rad/s²"
+  },
+  "correct_answer": "D",
+  "explanation": "α = τ/I = 20/5 = 4 rad/s².",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Rotational Motion"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A particle of mass 2 kg moves with speed 3 m/s along a straight line whose perpendicular distance from a point O is 4 m. Its angular momentum about O is:",
+  "options": {
+   "A": "6 kg m²/s",
+   "B": "24 kg m²/s",
+   "C": "12 kg m²/s",
+   "D": "48 kg m²/s"
+  },
+  "correct_answer": "B",
+  "explanation": "L = mvr = 2 × 3 × 4 = 24 kg m²/s.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Rotational Motion"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A skater spinning with her arms outstretched pulls them in, so that her moment of inertia becomes half. Her angular speed becomes:",
+  "options": {
+   "A": "half",
+   "B": "unchanged",
+   "C": "double",
+   "D": "four times"
+  },
+  "correct_answer": "C",
+  "explanation": "L = Iω is conserved, so halving I doubles ω.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Rotational Motion"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A disc of moment of inertia 2 kg m² rotates at 10 rad/s. Its rotational kinetic energy is:",
+  "options": {
+   "A": "100 J",
+   "B": "20 J",
+   "C": "200 J",
+   "D": "1000 J"
+  },
+  "correct_answer": "A",
+  "explanation": "K = ½Iω² = ½ × 2 × 100 = 100 J.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Rotational Motion"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "For a solid sphere rolling without slipping, the ratio of its rotational kinetic energy to its total kinetic energy is:",
+  "options": {
+   "A": "2/5",
+   "B": "5/7",
+   "C": "1/2",
+   "D": "2/7"
+  },
+  "correct_answer": "D",
+  "explanation": "Translational KE = ½mv², rotational KE = ½(2/5 mR²)(v/R)² = mv²/5. Total = 7mv²/10, so the ratio is (1/5)/(7/10) = 2/7.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Rotational Motion"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A solid cylinder rolls without slipping down a 30° incline (g = 10 m/s²). Its acceleration is:",
+  "options": {
+   "A": "5 m/s²",
+   "B": "10/3 m/s²",
+   "C": "2.5 m/s²",
+   "D": "20/7 m/s²"
+  },
+  "correct_answer": "B",
+  "explanation": "For a solid cylinder, a = (2/3)g sinθ = (2/3) × 10 × 0.5 = 10/3 m/s².",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Rotational Motion"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Particles of mass 2 kg and 3 kg are at x = 0 and x = 5 m respectively. The centre of mass is at:",
+  "options": {
+   "A": "2 m",
+   "B": "2.5 m",
+   "C": "3 m",
+   "D": "3.5 m"
+  },
+  "correct_answer": "C",
+  "explanation": "x_cm = (2 × 0 + 3 × 5)/5 = 3 m.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Rotational Motion"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A 60 kg man walks 4 m along a 240 kg boat floating on still water, in a straight line. Neglecting water resistance, the boat moves backward through:",
+  "options": {
+   "A": "0.8 m",
+   "B": "1 m",
+   "C": "4 m",
+   "D": "0.2 m"
+  },
+  "correct_answer": "A",
+  "explanation": "The centre of mass stays fixed. If the boat moves d, the man moves 4 − d relative to the ground, so 60(4 − d) = 240d, giving d = 0.8 m.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Rotational Motion"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The radius of gyration of a uniform solid disc of radius R about an axis through its centre and perpendicular to its plane is:",
+  "options": {
+   "A": "R",
+   "B": "R/2",
+   "C": "R√2",
+   "D": "R/√2"
+  },
+  "correct_answer": "D",
+  "explanation": "I = ½MR² = Mk², so k = R/√2.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Rotational Motion"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The moment of inertia of a uniform disc of mass M and radius R about a diameter is:",
+  "options": {
+   "A": "MR²/2",
+   "B": "MR²/4",
+   "C": "MR²/8",
+   "D": "2MR²/5"
+  },
+  "correct_answer": "B",
+  "explanation": "By the perpendicular axis theorem, 2I_diameter = ½MR², so I_diameter = MR²/4.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Rotational Motion"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The angular momentum of a body varies with time as L = 4t² (in kg m²/s, t in s). The torque acting on it at t = 2 s is:",
+  "options": {
+   "A": "8 N m",
+   "B": "32 N m",
+   "C": "16 N m",
+   "D": "4 N m"
+  },
+  "correct_answer": "C",
+  "explanation": "τ = dL/dt = 8t = 16 N m at t = 2 s.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Rotational Motion"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A wheel of radius 0.5 m rolls without slipping on a horizontal road with its centre moving at 10 m/s. The speed of the topmost point relative to the ground is:",
+  "options": {
+   "A": "20 m/s",
+   "B": "10 m/s",
+   "C": "5 m/s",
+   "D": "zero"
+  },
+  "correct_answer": "A",
+  "explanation": "The top point has speed v + ωR = 2v = 20 m/s.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Rotational Motion"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A constant torque of 5 N m rotates a body through 4 rad. The work done by the torque is:",
+  "options": {
+   "A": "1.25 J",
+   "B": "9 J",
+   "C": "5 J",
+   "D": "20 J"
+  },
+  "correct_answer": "D",
+  "explanation": "W = τθ = 5 × 4 = 20 J.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Rotational Motion"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A ring and a solid disc of the same mass and radius are released from rest at the top of an incline and roll without slipping. Which reaches the bottom first?",
+  "options": {
+   "A": "the ring",
+   "B": "the disc",
+   "C": "both together",
+   "D": "it depends on their mass"
+  },
+  "correct_answer": "B",
+  "explanation": "a = g sinθ/(1 + k²/R²). The disc has k²/R² = 1/2 and the ring has 1, so the disc has the larger acceleration.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Rotational Motion"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A 30 kg child sits 2 m from the pivot of a light seesaw. Where must a 20 kg child sit on the other side to balance it?",
+  "options": {
+   "A": "2 m",
+   "B": "4 m",
+   "C": "3 m",
+   "D": "1.5 m"
+  },
+  "correct_answer": "C",
+  "explanation": "For balance, 30 × 2 = 20 × d, so d = 3 m.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Rotational Motion"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Two 1 kg point masses are fixed at the ends of a light rod of length 2 m. The moment of inertia about an axis through the centre and perpendicular to the rod is:",
+  "options": {
+   "A": "2 kg m²",
+   "B": "1 kg m²",
+   "C": "4 kg m²",
+   "D": "0.5 kg m²"
+  },
+  "correct_answer": "A",
+  "explanation": "I = 1 × 1² + 1 × 1² = 2 kg m².",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Rotational Motion"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A flywheel of moment of inertia 0.5 kg m² starts from rest under a constant torque of 2 N m. Its angular speed after 5 s is:",
+  "options": {
+   "A": "5 rad/s",
+   "B": "10 rad/s",
+   "C": "40 rad/s",
+   "D": "20 rad/s"
+  },
+  "correct_answer": "D",
+  "explanation": "α = 2/0.5 = 4 rad/s², so ω = αt = 20 rad/s.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Rotational Motion"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Two equal and opposite parallel forces of 10 N each act at points 0.3 m apart. The torque of this couple is:",
+  "options": {
+   "A": "6 N m",
+   "B": "3 N m",
+   "C": "10 N m",
+   "D": "zero"
+  },
+  "correct_answer": "B",
+  "explanation": "Torque of a couple = F × perpendicular separation = 10 × 0.3 = 3 N m.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Rotational Motion"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "A rigid body rotates about a fixed axis with constant angular acceleration. Which statements are correct?",
+  "options": {
+   "A": "Particles farther from the axis have greater linear speed",
+   "B": "All particles have the same angular acceleration",
+   "C": "All particles have the same angular velocity at a given instant",
+   "D": "All particles have the same linear velocity"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "In a rigid body every particle has the same ω and α, while the linear speed v = ωr grows with distance from the axis.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Rotational Motion"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "A ring rolls without slipping on a horizontal surface. Which statements are correct?",
+  "options": {
+   "A": "The friction force does negative work on the ring",
+   "B": "The point of contact is instantaneously at rest relative to the ground",
+   "C": "The speed of the centre equals ωR",
+   "D": "The speed of the topmost point is twice the speed of the centre"
+  },
+  "correct_answer": "B,C,D",
+  "explanation": "In pure rolling the contact point is at rest, v_cm = ωR and the top point moves at 2v_cm. Static friction at the contact point does no work.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Rotational Motion"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A flywheel of moment of inertia 2 kg m² rotates at 6 rad/s. Its rotational kinetic energy (in J) is:",
+  "options": null,
+  "correct_answer": "36",
+  "explanation": "K = ½Iω² = ½ × 2 × 36 = 36 J.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Rotational Motion"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A uniform solid disc of mass 4 kg and radius 0.5 m rotates about its axis. Its moment of inertia (in kg m²) is:",
+  "options": null,
+  "correct_answer": "0.5",
+  "explanation": "I = ½MR² = ½ × 4 × 0.25 = 0.5 kg m².",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Rotational Motion"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A torque of 12 N m acts on a body of moment of inertia 3 kg m², starting from rest. Its angular speed (in rad/s) after 2 s is:",
+  "options": null,
+  "correct_answer": "8",
+  "explanation": "α = 12/3 = 4 rad/s², so ω = 4 × 2 = 8 rad/s.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Rotational Motion"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A body has angular momentum 10 kg m²/s and moment of inertia 2.5 kg m². Its angular speed (in rad/s) is:",
+  "options": null,
+  "correct_answer": "4",
+  "explanation": "ω = L/I = 10/2.5 = 4 rad/s.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Rotational Motion"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A particle of mass 0.5 kg moves in a circle of radius 2 m with an angular speed of 3 rad/s. Its angular momentum about the centre (in kg m²/s) is:",
+  "options": null,
+  "correct_answer": "6",
+  "explanation": "L = mr²ω = 0.5 × 4 × 3 = 6 kg m²/s.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Rotational Motion"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A uniform disc of mass 4 kg and radius 1 m rotates about an axis through its edge and perpendicular to its plane. Its moment of inertia (in kg m²) is:",
+  "options": null,
+  "correct_answer": "6",
+  "explanation": "I = ½MR² + MR² = (3/2) × 4 × 1 = 6 kg m².",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Rotational Motion"
+ }
+]

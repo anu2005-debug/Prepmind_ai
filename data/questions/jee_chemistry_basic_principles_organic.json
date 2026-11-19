@@ -1,0 +1,452 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "The IUPAC name of CH₃–CH(CH₃)–CH₂–CH₃ is:",
+  "options": {
+   "A": "3-methylbutane",
+   "B": "2-methylbutane",
+   "C": "2-ethylpropane",
+   "D": "1,1-dimethylpropane"
+  },
+  "correct_answer": "B",
+  "explanation": "The longest chain has 4 carbons. Numbering from the end nearer the branch puts the methyl group on C-2.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Some Basic Principles of Organic Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The hybridisation of each carbon atom in ethyne (HC≡CH) is:",
+  "options": {
+   "A": "sp",
+   "B": "sp²",
+   "C": "sp³",
+   "D": "sp³d"
+  },
+  "correct_answer": "A",
+  "explanation": "Each carbon forms two σ bonds and two π bonds, which needs two hybrid orbitals, so it is sp.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Some Basic Principles of Organic Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following carbocations is the most stable?",
+  "options": {
+   "A": "CH₃⁺",
+   "B": "CH₃CH₂⁺",
+   "C": "(CH₃)₂CH⁺",
+   "D": "(CH₃)₃C⁺"
+  },
+  "correct_answer": "D",
+  "explanation": "Stability increases with the number of alkyl groups through the +I effect and hyperconjugation: 3° > 2° > 1° > methyl.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Some Basic Principles of Organic Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following groups shows the strongest –I effect?",
+  "options": {
+   "A": "–CH₃",
+   "B": "–OCH₃",
+   "C": "–F",
+   "D": "–NO₂"
+  },
+  "correct_answer": "D",
+  "explanation": "–NO₂ is a very strong electron-withdrawing group. –CH₃ shows a +I effect.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Some Basic Principles of Organic Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following carbocations is stabilised by resonance?",
+  "options": {
+   "A": "CH₃CH₂⁺",
+   "B": "(CH₃)₃C⁺",
+   "C": "CH₂=CH–CH₂⁺",
+   "D": "CH₃⁺"
+  },
+  "correct_answer": "C",
+  "explanation": "The positive charge of the allyl cation is delocalised over two carbons through the adjacent π bond.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Some Basic Principles of Organic Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A functional isomer of ethanol (C₂H₆O) is:",
+  "options": {
+   "A": "dimethyl ether",
+   "B": "methanol",
+   "C": "acetaldehyde",
+   "D": "ethane"
+  },
+  "correct_answer": "A",
+  "explanation": "CH₃OCH₃ has the same formula C₂H₆O but a different functional group (ether instead of alcohol).",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Some Basic Principles of Organic Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is a nucleophile?",
+  "options": {
+   "A": "BF₃",
+   "B": "NH₃",
+   "C": "H⁺",
+   "D": "AlCl₃"
+  },
+  "correct_answer": "B",
+  "explanation": "NH₃ has a lone pair to donate. BF₃, H⁺ and AlCl₃ are electron-deficient electrophiles.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Some Basic Principles of Organic Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is an electrophile?",
+  "options": {
+   "A": "NH₃",
+   "B": "OH⁻",
+   "C": "CN⁻",
+   "D": "AlCl₃"
+  },
+  "correct_answer": "D",
+  "explanation": "AlCl₃ has an incomplete octet and accepts an electron pair.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Some Basic Principles of Organic Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Homolytic fission of a covalent bond produces:",
+  "options": {
+   "A": "carbocations",
+   "B": "carbanions",
+   "C": "free radicals",
+   "D": "ion pairs"
+  },
+  "correct_answer": "C",
+  "explanation": "Each atom takes one electron of the shared pair, giving two free radicals.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Some Basic Principles of Organic Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following carbanions is the most stable?",
+  "options": {
+   "A": "(CH₃)₃C⁻",
+   "B": "(CH₃)₂CH⁻",
+   "C": "CH₃CH₂⁻",
+   "D": "CH₃⁻"
+  },
+  "correct_answer": "D",
+  "explanation": "Alkyl groups push electrons towards the negative carbon through the +I effect and destabilise it, so the methyl carbanion is the most stable of these.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Some Basic Principles of Organic Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is the strongest acid?",
+  "options": {
+   "A": "CH₃COOH",
+   "B": "ClCH₂COOH",
+   "C": "Cl₂CHCOOH",
+   "D": "Cl₃CCOOH"
+  },
+  "correct_answer": "D",
+  "explanation": "Three chlorine atoms exert the strongest –I effect and stabilise the carboxylate ion the most.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Some Basic Principles of Organic Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following shows geometrical (cis–trans) isomerism?",
+  "options": {
+   "A": "but-1-ene",
+   "B": "propene",
+   "C": "but-2-ene",
+   "D": "2-methylpropene"
+  },
+  "correct_answer": "C",
+  "explanation": "Each carbon of the C=C in but-2-ene carries two different groups (H and CH₃).",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Some Basic Principles of Organic Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is optically active (chiral)?",
+  "options": {
+   "A": "ethanol",
+   "B": "propan-2-ol",
+   "C": "butan-2-ol",
+   "D": "2-methylpropan-2-ol"
+  },
+  "correct_answer": "C",
+  "explanation": "C-2 of butan-2-ol carries four different groups: H, OH, CH₃ and C₂H₅.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Some Basic Principles of Organic Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following can show keto–enol tautomerism?",
+  "options": {
+   "A": "benzaldehyde",
+   "B": "formaldehyde",
+   "C": "acetone",
+   "D": "2,2-dimethylpropanal"
+  },
+  "correct_answer": "C",
+  "explanation": "Tautomerism needs an α-hydrogen. Only acetone has one of these four.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Some Basic Principles of Organic Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The IUPAC name of CH₃CH₂CH(OH)CH₃ is:",
+  "options": {
+   "A": "butan-1-ol",
+   "B": "butan-2-ol",
+   "C": "2-methylpropan-1-ol",
+   "D": "3-butanol"
+  },
+  "correct_answer": "B",
+  "explanation": "The OH group gets the lowest locant (2) in the four-carbon chain.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Some Basic Principles of Organic Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The IUPAC name of CH₃–CH=CH–CHO is:",
+  "options": {
+   "A": "but-3-enal",
+   "B": "but-2-enal",
+   "C": "but-2-en-1-ol",
+   "D": "butanal"
+  },
+  "correct_answer": "B",
+  "explanation": "The aldehyde carbon is C-1, so the double bond between C-2 and C-3 gives but-2-enal.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Some Basic Principles of Organic Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is aromatic?",
+  "options": {
+   "A": "cyclopentadienyl cation",
+   "B": "cyclobutadiene",
+   "C": "cyclooctatetraene",
+   "D": "cyclopentadienyl anion"
+  },
+  "correct_answer": "D",
+  "explanation": "The cyclopentadienyl anion is planar, cyclic, fully conjugated and has 6 π electrons (4n + 2 with n = 1). The cation and cyclobutadiene have 4 π electrons and are antiaromatic.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Some Basic Principles of Organic Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In the acetate ion, the two C–O bonds are:",
+  "options": {
+   "A": "one single and one double bond of different lengths",
+   "B": "identical in length, between a single and a double bond",
+   "C": "both pure single bonds",
+   "D": "both pure double bonds"
+  },
+  "correct_answer": "B",
+  "explanation": "Resonance delocalises the negative charge over both oxygens, so the two C–O bonds are equivalent.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Some Basic Principles of Organic Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The IUPAC name of (CH₃)₃C–CH₂–CH₃ is:",
+  "options": {
+   "A": "2,2-dimethylbutane",
+   "B": "3,3-dimethylbutane",
+   "C": "2-ethyl-2-methylpropane",
+   "D": "1,1,1-trimethylpropane"
+  },
+  "correct_answer": "A",
+  "explanation": "The longest chain has 4 carbons, and the two methyl groups sit on C-2 when numbered from the end that gives the lower locants.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Some Basic Principles of Organic Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A meso compound is optically inactive because of:",
+  "options": {
+   "A": "a racemic mixture of two enantiomers",
+   "B": "internal compensation due to a plane of symmetry",
+   "C": "the absence of any chiral centre in every case",
+   "D": "the presence of a double bond"
+  },
+  "correct_answer": "B",
+  "explanation": "A meso compound has chiral centres, but the rotation of one half cancels that of the other because of an internal plane of symmetry.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Some Basic Principles of Organic Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following free radicals is the most stable?",
+  "options": {
+   "A": "methyl",
+   "B": "primary",
+   "C": "secondary",
+   "D": "tertiary"
+  },
+  "correct_answer": "D",
+  "explanation": "Alkyl groups stabilise radicals by hyperconjugation, so the order is 3° > 2° > 1° > methyl.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Some Basic Principles of Organic Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the pentane isomers has the highest boiling point?",
+  "options": {
+   "A": "n-pentane",
+   "B": "2-methylbutane",
+   "C": "2,2-dimethylpropane",
+   "D": "all have the same boiling point"
+  },
+  "correct_answer": "A",
+  "explanation": "Branching makes the molecule more compact and reduces the surface area for van der Waals forces, so the unbranched isomer boils highest.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Some Basic Principles of Organic Chemistry"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which of the following are electrophiles?",
+  "options": {
+   "A": "BF₃",
+   "B": "H⁺",
+   "C": "NH₃",
+   "D": "NO₂⁺"
+  },
+  "correct_answer": "A,B,D",
+  "explanation": "BF₃, H⁺ and NO₂⁺ are electron-deficient. NH₃ has a lone pair and acts as a nucleophile.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Some Basic Principles of Organic Chemistry"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which statements about resonance are correct?",
+  "options": {
+   "A": "Contributing structures differ only in the arrangement of electrons",
+   "B": "The resonance hybrid is more stable than any single contributing structure",
+   "C": "The contributing structures are separate isomers in rapid equilibrium",
+   "D": "All contributing structures have the same positions of atoms"
+  },
+  "correct_answer": "A,B,D",
+  "explanation": "Resonance structures are not real isomers. The molecule is a single hybrid of all of them.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Some Basic Principles of Organic Chemistry"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of structural isomers of C₄H₁₀ is:",
+  "options": null,
+  "correct_answer": "2",
+  "explanation": "They are n-butane and 2-methylpropane (isobutane).",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Some Basic Principles of Organic Chemistry"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of structural isomers of pentane (C₅H₁₂) is:",
+  "options": null,
+  "correct_answer": "3",
+  "explanation": "They are n-pentane, 2-methylbutane and 2,2-dimethylpropane.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Some Basic Principles of Organic Chemistry"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of σ bonds in a molecule of propene (CH₃–CH=CH₂) is:",
+  "options": null,
+  "correct_answer": "8",
+  "explanation": "There are 6 C–H σ bonds and 2 C–C σ bonds (the C=C contributes one σ and one π), which gives 8.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Some Basic Principles of Organic Chemistry"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of α-hydrogens available for hyperconjugation in the tert-butyl cation, (CH₃)₃C⁺, is:",
+  "options": null,
+  "correct_answer": "9",
+  "explanation": "Each of the three methyl groups attached to the positive carbon has 3 hydrogens, so 3 × 3 = 9.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Some Basic Principles of Organic Chemistry"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The total number of stereoisomers of tartaric acid (2,3-dihydroxybutanedioic acid) is:",
+  "options": null,
+  "correct_answer": "3",
+  "explanation": "There are two optically active enantiomers (d and l) and one meso form.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Some Basic Principles of Organic Chemistry"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of sp² hybridised carbon atoms in CH₂=CH–C≡CH is:",
+  "options": null,
+  "correct_answer": "2",
+  "explanation": "The two carbons of the C=C are sp². The two carbons of the C≡C are sp.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Some Basic Principles of Organic Chemistry"
+ }
+]

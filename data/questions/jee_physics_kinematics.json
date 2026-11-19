@@ -1,0 +1,452 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "A particle starts from rest with a uniform acceleration of 4 m/s². The distance it covers in the 5th second is:",
+  "options": {
+   "A": "8 m",
+   "B": "18 m",
+   "C": "32 m",
+   "D": "50 m"
+  },
+  "correct_answer": "B",
+  "explanation": "Distance in the nth second = u + a(2n − 1)/2 = 0 + 4(9)/2 = 18 m.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinematics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A car's speed increases uniformly from 10 m/s to 30 m/s over a distance of 100 m. Its acceleration is:",
+  "options": {
+   "A": "1 m/s²",
+   "B": "2 m/s²",
+   "C": "8 m/s²",
+   "D": "4 m/s²"
+  },
+  "correct_answer": "D",
+  "explanation": "v² = u² + 2as gives 900 = 100 + 200a, so a = 4 m/s².",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinematics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A ball is thrown vertically upward with a speed of 20 m/s. Taking g = 10 m/s², the maximum height reached is:",
+  "options": {
+   "A": "20 m",
+   "B": "40 m",
+   "C": "10 m",
+   "D": "200 m"
+  },
+  "correct_answer": "A",
+  "explanation": "H = u²/2g = 400/20 = 20 m.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinematics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A projectile is launched with the same speed at angles 30° and 60° to the horizontal. The ratio of their horizontal ranges is:",
+  "options": {
+   "A": "1 : √3",
+   "B": "1 : 2",
+   "C": "1 : 1",
+   "D": "√3 : 1"
+  },
+  "correct_answer": "C",
+  "explanation": "R = u² sin2θ / g. Since sin 60° = sin 120°, both angles give the same range.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinematics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "For a projectile launched at 45° to the horizontal, the ratio of its maximum height to its range is:",
+  "options": {
+   "A": "1/2",
+   "B": "1/4",
+   "C": "1/8",
+   "D": "1"
+  },
+  "correct_answer": "B",
+  "explanation": "H/R = tanθ/4. At θ = 45°, tanθ = 1, so H/R = 1/4.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinematics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A boat has a speed of 5 m/s in still water and the river flows at 3 m/s. The boat heads so that it reaches the point directly opposite on a river 200 m wide. The time taken is:",
+  "options": {
+   "A": "40 s",
+   "B": "25 s",
+   "C": "100 s",
+   "D": "50 s"
+  },
+  "correct_answer": "D",
+  "explanation": "Resultant speed across = √(5² − 3²) = 4 m/s, so t = 200/4 = 50 s.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinematics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A boat with speed 5 m/s in still water crosses a 100 m wide river flowing at 3 m/s in the minimum possible time. The drift downstream is:",
+  "options": {
+   "A": "60 m",
+   "B": "20 m",
+   "C": "40 m",
+   "D": "100 m"
+  },
+  "correct_answer": "A",
+  "explanation": "Minimum time = 100/5 = 20 s. Drift = 3 × 20 = 60 m.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinematics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The velocity of a particle increases linearly from 0 to 10 m/s in 4 s and then decreases linearly to 0 in the next 6 s. The total displacement is:",
+  "options": {
+   "A": "25 m",
+   "B": "40 m",
+   "C": "50 m",
+   "D": "100 m"
+  },
+  "correct_answer": "C",
+  "explanation": "Displacement = area of the triangle = ½ × 10 s × 10 m/s = 50 m.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinematics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The velocity of a particle is v = 3t² + 2t (in m/s). Its acceleration at t = 2 s is:",
+  "options": {
+   "A": "12 m/s²",
+   "B": "14 m/s²",
+   "C": "16 m/s²",
+   "D": "18 m/s²"
+  },
+  "correct_answer": "B",
+  "explanation": "a = dv/dt = 6t + 2 = 14 m/s² at t = 2 s.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinematics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The position of a particle moving along a line is x = t³ − 6t² + 9t (x in metres, t in seconds). The distance travelled in the first 4 s is:",
+  "options": {
+   "A": "4 m",
+   "B": "8 m",
+   "C": "16 m",
+   "D": "12 m"
+  },
+  "correct_answer": "D",
+  "explanation": "v = 3t² − 12t + 9 = 0 at t = 1 s and 3 s. x(0) = 0, x(1) = 4, x(3) = 0, x(4) = 4. Distance = 4 + 4 + 4 = 12 m.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinematics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A stone is dropped from a height of 80 m. Taking g = 10 m/s², the time taken to reach the ground is:",
+  "options": {
+   "A": "4 s",
+   "B": "2 s",
+   "C": "8 s",
+   "D": "16 s"
+  },
+  "correct_answer": "A",
+  "explanation": "h = ½gt² gives 80 = 5t², so t = 4 s.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinematics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A body falls freely from rest. The ratio of the distances covered in the 1st, 2nd and 3rd seconds is:",
+  "options": {
+   "A": "1 : 2 : 3",
+   "B": "1 : 4 : 9",
+   "C": "1 : 3 : 5",
+   "D": "1 : 1 : 1"
+  },
+  "correct_answer": "C",
+  "explanation": "Distances in successive equal intervals from rest are in the ratio 1 : 3 : 5 : 7 …",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinematics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A ball is thrown horizontally at 20 m/s from the top of a 45 m high tower. Taking g = 10 m/s², its horizontal range is:",
+  "options": {
+   "A": "30 m",
+   "B": "60 m",
+   "C": "45 m",
+   "D": "90 m"
+  },
+  "correct_answer": "B",
+  "explanation": "Time of fall = √(2 × 45/10) = 3 s. Range = 20 × 3 = 60 m.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinematics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A particle moves in a circle of radius 2 m with a constant speed of 4 m/s. Its centripetal acceleration is:",
+  "options": {
+   "A": "2 m/s²",
+   "B": "4 m/s²",
+   "C": "16 m/s²",
+   "D": "8 m/s²"
+  },
+  "correct_answer": "D",
+  "explanation": "a = v²/r = 16/2 = 8 m/s².",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinematics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A wheel rotates at 120 revolutions per minute. Its angular speed is:",
+  "options": {
+   "A": "4π rad/s",
+   "B": "2π rad/s",
+   "C": "8π rad/s",
+   "D": "120π rad/s"
+  },
+  "correct_answer": "A",
+  "explanation": "ω = 2π × (120/60) = 4π rad/s.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinematics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A car covers the first half of a distance at 30 km/h and the second half at 60 km/h. Its average speed is:",
+  "options": {
+   "A": "45 km/h",
+   "B": "50 km/h",
+   "C": "40 km/h",
+   "D": "35 km/h"
+  },
+  "correct_answer": "C",
+  "explanation": "For equal distances, average speed = 2v₁v₂/(v₁ + v₂) = 2 × 30 × 60/90 = 40 km/h.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinematics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A particle completes one full revolution of a circle in time T. Its average velocity over this time is:",
+  "options": {
+   "A": "2πr/T",
+   "B": "zero",
+   "C": "πr/T",
+   "D": "r/T"
+  },
+  "correct_answer": "B",
+  "explanation": "Displacement over one full revolution is zero, so the average velocity is zero.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinematics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Car A moves at 20 m/s and car B, 100 m behind it on the same straight road, moves at 30 m/s in the same direction. B overtakes A after:",
+  "options": {
+   "A": "5 s",
+   "B": "20 s",
+   "C": "100 s",
+   "D": "10 s"
+  },
+  "correct_answer": "D",
+  "explanation": "Relative speed = 10 m/s and the gap is 100 m, so t = 100/10 = 10 s.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinematics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A car moving at 20 m/s is brought to rest with a constant deceleration of 5 m/s². The distance covered before stopping is:",
+  "options": {
+   "A": "40 m",
+   "B": "20 m",
+   "C": "80 m",
+   "D": "100 m"
+  },
+  "correct_answer": "A",
+  "explanation": "s = u²/2a = 400/10 = 40 m.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinematics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "At the highest point of its trajectory, a projectile (neglecting air resistance) has:",
+  "options": {
+   "A": "zero velocity and zero acceleration",
+   "B": "zero velocity and acceleration g downward",
+   "C": "horizontal velocity and acceleration g downward",
+   "D": "vertical velocity and zero acceleration"
+  },
+  "correct_answer": "C",
+  "explanation": "Only the vertical component becomes zero. The horizontal component stays constant and the acceleration is always g downward.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinematics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A particle starts from rest at the origin with acceleration a = 6t m/s². Its position at t = 2 s is:",
+  "options": {
+   "A": "4 m",
+   "B": "8 m",
+   "C": "12 m",
+   "D": "16 m"
+  },
+  "correct_answer": "B",
+  "explanation": "v = ∫6t dt = 3t² and x = ∫3t² dt = t³. At t = 2 s, x = 8 m.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinematics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A ball is thrown vertically upward at 30 m/s. Taking g = 10 m/s², its velocity after 4 s is:",
+  "options": {
+   "A": "10 m/s upward",
+   "B": "20 m/s downward",
+   "C": "zero",
+   "D": "10 m/s downward"
+  },
+  "correct_answer": "D",
+  "explanation": "v = u − gt = 30 − 40 = −10 m/s, i.e. 10 m/s directed downward.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinematics"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "A particle moves along a circle with constant speed. Which of the following statements are correct?",
+  "options": {
+   "A": "Its acceleration is directed towards the centre",
+   "B": "Its average velocity over one full revolution is zero",
+   "C": "Its velocity is constant",
+   "D": "The magnitude of its acceleration is constant"
+  },
+  "correct_answer": "A,B,D",
+  "explanation": "Velocity changes direction, so it is not constant. The acceleration v²/r has constant magnitude and points to the centre, and one full revolution gives zero displacement.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinematics"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "For a projectile moving under gravity alone (no air resistance), which statements are correct?",
+  "options": {
+   "A": "The speed is constant",
+   "B": "The horizontal component of velocity is constant",
+   "C": "The vertical component of velocity is constant",
+   "D": "The acceleration is constant"
+  },
+  "correct_answer": "B,D",
+  "explanation": "The only force is gravity, so the acceleration g is constant and the horizontal velocity does not change. The vertical component and the speed both change.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinematics"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A car starts from rest and accelerates uniformly at 2 m/s² for 10 s. The distance covered (in m) is:",
+  "options": null,
+  "correct_answer": "100",
+  "explanation": "s = ½at² = ½ × 2 × 100 = 100 m.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinematics"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A stone is dropped from a height of 125 m. Taking g = 10 m/s², the time taken (in s) to reach the ground is:",
+  "options": null,
+  "correct_answer": "5",
+  "explanation": "125 = ½ × 10 × t², so t² = 25 and t = 5 s.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinematics"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A projectile is launched at 30 m/s at 30° above the horizontal from level ground (g = 10 m/s²). Its time of flight (in s) is:",
+  "options": null,
+  "correct_answer": "3",
+  "explanation": "T = 2u sinθ/g = 2 × 30 × 0.5/10 = 3 s.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinematics"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A projectile is launched at 20 m/s at 30° above the horizontal (g = 10 m/s²). Its maximum height (in m) is:",
+  "options": null,
+  "correct_answer": "5",
+  "explanation": "H = u² sin²θ/2g = 400 × 0.25/20 = 5 m.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinematics"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The velocity of a particle changes from 6 m/s towards east to 8 m/s towards north. The magnitude of the change in velocity (in m/s) is:",
+  "options": null,
+  "correct_answer": "10",
+  "explanation": "Δv = √(6² + 8²) = 10 m/s.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinematics"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A ball thrown vertically upward returns to the thrower's hand after 6 s. Taking g = 10 m/s², the maximum height reached (in m) is:",
+  "options": null,
+  "correct_answer": "45",
+  "explanation": "Time to rise = 3 s, so H = ½ × 10 × 3² = 45 m.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinematics"
+ }
+]

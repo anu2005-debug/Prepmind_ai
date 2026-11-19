@@ -1,0 +1,482 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "The most abundant protein in the whole biosphere is:",
+  "options": {
+   "A": "collagen",
+   "B": "RuBisCO",
+   "C": "haemoglobin",
+   "D": "insulin"
+  },
+  "correct_answer": "B",
+  "explanation": "RuBisCO is the most abundant protein in the biosphere; collagen is the most abundant in the animal world.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is NOT attached to the alpha carbon of an amino acid?",
+  "options": {
+   "A": "a hydrogen atom",
+   "B": "an amino group",
+   "C": "a phosphate group",
+   "D": "a carboxyl group"
+  },
+  "correct_answer": "C",
+  "explanation": "The alpha carbon carries H, an amino group, a carboxyl group and the variable R group.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The R group of glycine is:",
+  "options": {
+   "A": "hydrogen",
+   "B": "a methyl group",
+   "C": "a hydroxymethyl group",
+   "D": "a sulphydryl group"
+  },
+  "correct_answer": "A",
+  "explanation": "Glycine has H, alanine has CH3 and serine has CH2OH.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is an essential amino acid?",
+  "options": {
+   "A": "glycine",
+   "B": "alanine",
+   "C": "valine",
+   "D": "serine"
+  },
+  "correct_answer": "C",
+  "explanation": "Essential amino acids such as valine cannot be made by the body and must come from the diet.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A zwitterion is an amino acid ion that carries:",
+  "options": {
+   "A": "only a positive charge",
+   "B": "only a negative charge",
+   "C": "both a positive and a negative charge",
+   "D": "no charged group at all"
+  },
+  "correct_answer": "C",
+  "explanation": "In a zwitterion the amino group is positive and the carboxyl group is negative, so the net charge is zero.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A peptide bond is formed between:",
+  "options": {
+   "A": "two amino groups",
+   "B": "the carboxyl group of one amino acid and the amino group of another",
+   "C": "two carboxyl groups",
+   "D": "two R groups"
+  },
+  "correct_answer": "B",
+  "explanation": "It forms by dehydration, releasing one molecule of water.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The alpha-helix and the beta-pleated sheet are examples of which level of protein structure?",
+  "options": {
+   "A": "primary",
+   "B": "secondary",
+   "C": "tertiary",
+   "D": "quaternary"
+  },
+  "correct_answer": "B",
+  "explanation": "Secondary structure is the local folding of the polypeptide chain.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Haemoglobin, made of two alpha and two beta chains, shows:",
+  "options": {
+   "A": "only primary structure",
+   "B": "only secondary structure",
+   "C": "only tertiary structure",
+   "D": "quaternary structure"
+  },
+  "correct_answer": "D",
+  "explanation": "Quaternary structure is the arrangement of several polypeptide subunits.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In insulin, the A and B chains have respectively how many amino acids?",
+  "options": {
+   "A": "30 and 21",
+   "B": "21 and 30",
+   "C": "51 and 21",
+   "D": "21 and 21"
+  },
+  "correct_answer": "B",
+  "explanation": "Insulin has a 21-amino-acid A chain and a 30-amino-acid B chain joined by disulphide bonds.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Some RNA molecules show catalytic activity. These are called:",
+  "options": {
+   "A": "ribozymes",
+   "B": "isozymes",
+   "C": "apoenzymes",
+   "D": "zymogens"
+  },
+  "correct_answer": "A",
+  "explanation": "Ribozymes are catalytic RNA molecules.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Enzymes speed up a reaction by:",
+  "options": {
+   "A": "raising the temperature",
+   "B": "providing an alternative pathway with lower activation energy",
+   "C": "changing the equilibrium of the reaction",
+   "D": "supplying energy to the substrate"
+  },
+  "correct_answer": "B",
+  "explanation": "They form an enzyme-substrate complex that lowers the activation energy and are not used up.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Inhibition of succinic dehydrogenase by malonate is an example of:",
+  "options": {
+   "A": "non-competitive inhibition",
+   "B": "feedback inhibition",
+   "C": "competitive inhibition",
+   "D": "allosteric activation"
+  },
+  "correct_answer": "C",
+  "explanation": "Malonate resembles the substrate succinate and competes for the active site.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The Km of an enzyme is the substrate concentration at which the reaction velocity is:",
+  "options": {
+   "A": "equal to Vmax",
+   "B": "half of Vmax",
+   "C": "double Vmax",
+   "D": "zero"
+  },
+  "correct_answer": "B",
+  "explanation": "A low Km means high affinity of the enzyme for its substrate.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The haem group of catalase and peroxidase is an example of a:",
+  "options": {
+   "A": "coenzyme",
+   "B": "prosthetic group",
+   "C": "metal activator",
+   "D": "substrate"
+  },
+  "correct_answer": "B",
+  "explanation": "A prosthetic group is a cofactor tightly bound to the apoenzyme.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The coenzyme NAD contains the vitamin:",
+  "options": {
+   "A": "thiamine",
+   "B": "riboflavin",
+   "C": "niacin",
+   "D": "pyridoxine"
+  },
+  "correct_answer": "C",
+  "explanation": "Many coenzymes are derived from vitamins; NAD and NADP contain niacin.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which metal ion is a cofactor of the enzyme carboxypeptidase?",
+  "options": {
+   "A": "zinc",
+   "B": "magnesium",
+   "C": "iron",
+   "D": "potassium"
+  },
+  "correct_answer": "A",
+  "explanation": "Zinc is required for the activity of carboxypeptidase.",
+  "difficulty": "hard",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Enzymes that cleave bonds by means other than hydrolysis, leaving double bonds in the products, are:",
+  "options": {
+   "A": "hydrolases",
+   "B": "ligases",
+   "C": "transferases",
+   "D": "lyases"
+  },
+  "correct_answer": "D",
+  "explanation": "Lyases are one of the six classes of enzymes.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Enzymes isolated from organisms living in hot vents are generally:",
+  "options": {
+   "A": "thermostable",
+   "B": "destroyed above 25 degrees C",
+   "C": "inactive in water",
+   "D": "active only in acid"
+  },
+  "correct_answer": "A",
+  "explanation": "Thermophiles have enzymes that stay active at high temperatures.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Inulin is a polymer of:",
+  "options": {
+   "A": "glucose",
+   "B": "galactose",
+   "C": "fructose",
+   "D": "ribose"
+  },
+  "correct_answer": "C",
+  "explanation": "Inulin is a fructose polymer, whereas starch and cellulose are glucose polymers.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The storage polysaccharide of animals is:",
+  "options": {
+   "A": "starch",
+   "B": "cellulose",
+   "C": "inulin",
+   "D": "glycogen"
+  },
+  "correct_answer": "D",
+  "explanation": "Glycogen is a branched polymer of glucose.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Starch forms a blue colour with iodine because iodine gets held:",
+  "options": {
+   "A": "in the helical secondary structure of starch",
+   "B": "in its branched side chains only",
+   "C": "by its fructose units",
+   "D": "by its protein coat"
+  },
+  "correct_answer": "A",
+  "explanation": "Cellulose has no helical structure and does not hold iodine.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Sucrose is made of:",
+  "options": {
+   "A": "glucose and glucose",
+   "B": "glucose and fructose",
+   "C": "glucose and galactose",
+   "D": "fructose and fructose"
+  },
+  "correct_answer": "B",
+  "explanation": "The two monosaccharides are joined by a glycosidic bond.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The exoskeleton of arthropods is made of chitin, a polymer of:",
+  "options": {
+   "A": "glucose",
+   "B": "fructose",
+   "C": "N-acetyl glucosamine",
+   "D": "glycerol"
+  },
+  "correct_answer": "C",
+  "explanation": "Chitin is a complex polysaccharide with an amino-sugar unit.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Arachidonic acid contains how many carbon atoms, including the carboxyl carbon?",
+  "options": {
+   "A": "16",
+   "B": "18",
+   "C": "22",
+   "D": "20"
+  },
+  "correct_answer": "D",
+  "explanation": "Palmitic acid has 16 carbons and arachidonic acid has 20.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Lecithin is a:",
+  "options": {
+   "A": "phospholipid",
+   "B": "triglyceride",
+   "C": "steroid",
+   "D": "polysaccharide"
+  },
+  "correct_answer": "A",
+  "explanation": "Lecithin has a phosphate group and a nitrogenous group attached to the glycerol backbone.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A nucleoside consists of:",
+  "options": {
+   "A": "a base and a phosphate",
+   "B": "a nitrogenous base and a pentose sugar",
+   "C": "a sugar and a phosphate",
+   "D": "a base, sugar and phosphate"
+  },
+  "correct_answer": "B",
+  "explanation": "Adding a phosphate group to a nucleoside makes a nucleotide.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which pyrimidine is found in RNA but not in DNA?",
+  "options": {
+   "A": "thymine",
+   "B": "cytosine",
+   "C": "uracil",
+   "D": "adenine"
+  },
+  "correct_answer": "C",
+  "explanation": "DNA has thymine in its place; adenine is a purine.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Nucleotides in a nucleic acid strand are linked by:",
+  "options": {
+   "A": "peptide bonds",
+   "B": "glycosidic bonds",
+   "C": "hydrogen bonds",
+   "D": "phosphodiester bonds"
+  },
+  "correct_answer": "D",
+  "explanation": "A phosphodiester bond joins the 3' carbon of one sugar to the 5' carbon of the next.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The pitch of the B-form DNA helix is:",
+  "options": {
+   "A": "0.34 nm",
+   "B": "3.4 nm",
+   "C": "34 nm",
+   "D": "2 nm"
+  },
+  "correct_answer": "B",
+  "explanation": "One full turn has 10 base pairs, each 0.34 nm apart.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biomolecules"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In the chemical analysis of a tissue, the acid-soluble pool represents essentially:",
+  "options": {
+   "A": "the cytoplasmic composition, mainly micromolecules",
+   "B": "only nucleic acids",
+   "C": "only proteins",
+   "D": "only the cell wall"
+  },
+  "correct_answer": "A",
+  "explanation": "The acid-insoluble fraction holds the macromolecules.",
+  "difficulty": "hard",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biomolecules"
+ }
+]

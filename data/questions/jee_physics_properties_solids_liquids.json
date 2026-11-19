@@ -1,0 +1,452 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "Young's modulus of a material is the ratio of:",
+  "options": {
+   "A": "shear stress to shear strain",
+   "B": "pressure to volumetric strain",
+   "C": "longitudinal stress to longitudinal strain",
+   "D": "force to extension"
+  },
+  "correct_answer": "C",
+  "explanation": "Y = (F/A)/(ΔL/L), the ratio of longitudinal stress to longitudinal strain.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Properties of Solids and Liquids"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A wire of length 2 m and cross-section 1 mm² is stretched by 1 mm under a force of 100 N. Its Young's modulus is:",
+  "options": {
+   "A": "2 × 10¹¹ Pa",
+   "B": "2 × 10⁸ Pa",
+   "C": "2 × 10¹⁰ Pa",
+   "D": "2 × 10⁹ Pa"
+  },
+  "correct_answer": "A",
+  "explanation": "Y = FL/(AΔL) = 100 × 2/(10⁻⁶ × 10⁻³) = 2 × 10¹¹ Pa.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Properties of Solids and Liquids"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The elastic energy stored per unit volume in a stretched wire is:",
+  "options": {
+   "A": "stress × strain",
+   "B": "½ × stress × strain",
+   "C": "½ × stress / strain",
+   "D": "stress / strain"
+  },
+  "correct_answer": "B",
+  "explanation": "Energy density u = ½ × stress × strain.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Properties of Solids and Liquids"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A wire stretches by x under a load. A wire of the same material with twice the length and twice the radius carries the same load. Its extension is:",
+  "options": {
+   "A": "x",
+   "B": "2x",
+   "C": "x/4",
+   "D": "x/2"
+  },
+  "correct_answer": "D",
+  "explanation": "ΔL = FL/(πr²Y) ∝ L/r², so the extension becomes 2/4 = 1/2 of x.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Properties of Solids and Liquids"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The compressibility of a material is:",
+  "options": {
+   "A": "equal to its bulk modulus",
+   "B": "the square of its bulk modulus",
+   "C": "the reciprocal of its bulk modulus",
+   "D": "the negative of its bulk modulus"
+  },
+  "correct_answer": "C",
+  "explanation": "Compressibility = 1/B.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Properties of Solids and Liquids"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Taking atmospheric pressure as 10⁵ Pa, g = 10 m/s² and ρ = 1000 kg/m³, the absolute pressure at a depth of 10 m in water is:",
+  "options": {
+   "A": "2 × 10⁵ Pa",
+   "B": "10⁵ Pa",
+   "C": "10⁶ Pa",
+   "D": "1.1 × 10⁵ Pa"
+  },
+  "correct_answer": "A",
+  "explanation": "P = P₀ + ρgh = 10⁵ + 1000 × 10 × 10 = 2 × 10⁵ Pa.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Properties of Solids and Liquids"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In a hydraulic lift the area of the large piston is 50 times that of the small piston. A force of 100 N on the small piston can balance a load of:",
+  "options": {
+   "A": "2 N",
+   "B": "5000 N",
+   "C": "500 N",
+   "D": "50 N"
+  },
+  "correct_answer": "B",
+  "explanation": "Pressure is transmitted equally, so F₂ = F₁ × A₂/A₁ = 100 × 50 = 5000 N.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Properties of Solids and Liquids"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Ice of density 900 kg/m³ floats in water of density 1000 kg/m³. The fraction of its volume above the water surface is:",
+  "options": {
+   "A": "9/10",
+   "B": "1/9",
+   "C": "1/2",
+   "D": "1/10"
+  },
+  "correct_answer": "D",
+  "explanation": "The submerged fraction is 900/1000 = 9/10, so 1/10 is above the surface.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Properties of Solids and Liquids"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A body of volume 2 × 10⁻³ m³ is completely immersed in water (g = 10 m/s², ρ = 1000 kg/m³). The buoyant force on it is:",
+  "options": {
+   "A": "2 N",
+   "B": "200 N",
+   "C": "20 N",
+   "D": "2000 N"
+  },
+  "correct_answer": "C",
+  "explanation": "F = ρVg = 1000 × 2 × 10⁻³ × 10 = 20 N.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Properties of Solids and Liquids"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Water flows through a pipe whose diameter is reduced to half. The speed of the water becomes:",
+  "options": {
+   "A": "4 times",
+   "B": "2 times",
+   "C": "1/4",
+   "D": "unchanged"
+  },
+  "correct_answer": "A",
+  "explanation": "A ∝ d², so A becomes 1/4 and by the equation of continuity v becomes 4 times.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Properties of Solids and Liquids"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A small hole is made in a tank 5 m below the free surface of water (g = 10 m/s²). The speed of efflux is:",
+  "options": {
+   "A": "5 m/s",
+   "B": "10 m/s",
+   "C": "10√2 m/s",
+   "D": "50 m/s"
+  },
+  "correct_answer": "B",
+  "explanation": "v = √(2gh) = √(2 × 10 × 5) = 10 m/s.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Properties of Solids and Liquids"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The excess pressure inside a soap bubble of radius r and surface tension T is:",
+  "options": {
+   "A": "2T/r",
+   "B": "T/r",
+   "C": "8T/r",
+   "D": "4T/r"
+  },
+  "correct_answer": "D",
+  "explanation": "A soap bubble has two surfaces, so ΔP = 4T/r.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Properties of Solids and Liquids"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A capillary tube is replaced by another of half the radius. The height of capillary rise becomes:",
+  "options": {
+   "A": "half",
+   "B": "four times",
+   "C": "double",
+   "D": "unchanged"
+  },
+  "correct_answer": "C",
+  "explanation": "h = 2T cosθ/(rρg) ∝ 1/r.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Properties of Solids and Liquids"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The radius of a soap bubble increases from 1 cm to 2 cm. The surface tension is 0.03 N/m. The work done in the process is:",
+  "options": {
+   "A": "7.2π × 10⁻⁵ J",
+   "B": "3.6π × 10⁻⁵ J",
+   "C": "14.4π × 10⁻⁵ J",
+   "D": "1.8π × 10⁻⁵ J"
+  },
+  "correct_answer": "A",
+  "explanation": "W = 2T × 4π(r₂² − r₁²) = 2 × 0.03 × 4π × 3 × 10⁻⁴ = 7.2π × 10⁻⁵ J (two surfaces).",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Properties of Solids and Liquids"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A small sphere falls through a viscous liquid. If its radius is doubled (same material), its terminal velocity becomes:",
+  "options": {
+   "A": "2 times",
+   "B": "4 times",
+   "C": "8 times",
+   "D": "16 times"
+  },
+  "correct_answer": "B",
+  "explanation": "v_t = 2r²(ρ − σ)g/9η ∝ r².",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Properties of Solids and Liquids"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In streamline flow through a tube, the rate of flow of a liquid is proportional to r⁴ (Poiseuille's law). If the radius is doubled with the pressure difference unchanged, the rate of flow becomes:",
+  "options": {
+   "A": "4 times",
+   "B": "8 times",
+   "C": "2 times",
+   "D": "16 times"
+  },
+  "correct_answer": "D",
+  "explanation": "Q ∝ r⁴, so doubling r gives 2⁴ = 16 times.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Properties of Solids and Liquids"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A solid has a coefficient of linear expansion of 1 × 10⁻⁵ per °C. Its coefficient of volume expansion is:",
+  "options": {
+   "A": "1 × 10⁻⁵ per °C",
+   "B": "2 × 10⁻⁵ per °C",
+   "C": "3 × 10⁻⁵ per °C",
+   "D": "9 × 10⁻⁵ per °C"
+  },
+  "correct_answer": "C",
+  "explanation": "γ = 3α for an isotropic solid.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Properties of Solids and Liquids"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "100 g of water at 80°C is mixed with 100 g of water at 20°C in an insulated container. The final temperature is:",
+  "options": {
+   "A": "50°C",
+   "B": "40°C",
+   "C": "60°C",
+   "D": "100°C"
+  },
+  "correct_answer": "A",
+  "explanation": "Equal masses of the same liquid give the mean temperature, (80 + 20)/2 = 50°C.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Properties of Solids and Liquids"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The latent heat of fusion of ice is 80 cal/g. The heat needed to melt 100 g of ice at 0°C is:",
+  "options": {
+   "A": "800 cal",
+   "B": "8000 cal",
+   "C": "80 cal",
+   "D": "80 000 cal"
+  },
+  "correct_answer": "B",
+  "explanation": "Q = mL = 100 × 80 = 8000 cal.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Properties of Solids and Liquids"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The temperature of a black body is doubled. According to Stefan's law, the power it radiates increases by a factor of:",
+  "options": {
+   "A": "2",
+   "B": "4",
+   "C": "8",
+   "D": "16"
+  },
+  "correct_answer": "D",
+  "explanation": "P ∝ T⁴, so doubling T gives 2⁴ = 16.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Properties of Solids and Liquids"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "According to Wien's displacement law, if the temperature of a black body is doubled, the wavelength at which its emission is maximum:",
+  "options": {
+   "A": "doubles",
+   "B": "becomes four times",
+   "C": "becomes half",
+   "D": "stays the same"
+  },
+  "correct_answer": "C",
+  "explanation": "λ_max T = constant, so doubling T halves λ_max.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Properties of Solids and Liquids"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A metal rod conducts heat between two ends held at a fixed temperature difference. If both the length and the cross-sectional area of the rod are doubled, the rate of heat flow:",
+  "options": {
+   "A": "remains unchanged",
+   "B": "doubles",
+   "C": "becomes half",
+   "D": "becomes four times"
+  },
+  "correct_answer": "A",
+  "explanation": "H = kAΔT/L, and A/L stays the same when both are doubled.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Properties of Solids and Liquids"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which of the following statements about the flow of an ideal liquid are correct?",
+  "options": {
+   "A": "In a horizontal pipe the speed is greater where the cross-section is larger",
+   "B": "In a horizontal pipe the pressure is lower where the speed is higher",
+   "C": "The equation of continuity expresses conservation of mass",
+   "D": "Bernoulli's equation expresses conservation of energy"
+  },
+  "correct_answer": "B,C,D",
+  "explanation": "A·v = constant means the speed is greater where the cross-section is smaller. Bernoulli's equation then shows lower pressure where the speed is higher.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Properties of Solids and Liquids"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which of the following statements about surface tension are correct?",
+  "options": {
+   "A": "The excess pressure inside a drop is greater for a smaller drop",
+   "B": "Its SI unit is N/m",
+   "C": "It decreases as the temperature of the liquid increases",
+   "D": "It is a vector quantity"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "Surface tension is force per unit length (N/m), it falls with temperature, and the excess pressure 2T/r increases as r decreases. It is not a vector quantity.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Properties of Solids and Liquids"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A wire of length 1 m and cross-section 2 × 10⁻⁶ m² (Y = 2 × 10¹¹ Pa) carries a load of 400 N. Its extension (in mm) is:",
+  "options": null,
+  "correct_answer": "1",
+  "explanation": "ΔL = FL/(AY) = 400 × 1/(2 × 10⁻⁶ × 2 × 10¹¹) = 10⁻³ m = 1 mm.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Properties of Solids and Liquids"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "In a hydraulic press the small piston has area 5 cm² and the large piston has area 500 cm². The force (in N) needed on the small piston to lift a load of 5000 N is:",
+  "options": null,
+  "correct_answer": "50",
+  "explanation": "F₁ = F₂ × A₁/A₂ = 5000 × 5/500 = 50 N.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Properties of Solids and Liquids"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "Water flows at 2 m/s through a pipe of cross-section 4 cm² and enters a narrower section of cross-section 1 cm². The speed (in m/s) in the narrow section is:",
+  "options": null,
+  "correct_answer": "8",
+  "explanation": "A₁v₁ = A₂v₂ gives v₂ = 4 × 2/1 = 8 m/s.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Properties of Solids and Liquids"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The specific heat of water is 4.2 J g⁻¹ °C⁻¹. The heat (in kJ) needed to raise the temperature of 200 g of water from 20°C to 70°C is:",
+  "options": null,
+  "correct_answer": "42",
+  "explanation": "Q = mcΔT = 200 × 4.2 × 50 = 42 000 J = 42 kJ.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Properties of Solids and Liquids"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "Water (T = 0.07 N/m, ρ = 1000 kg/m³, angle of contact 0°) rises in a capillary tube of radius 0.5 mm. Taking g = 10 m/s², the height of rise (in cm) is:",
+  "options": null,
+  "correct_answer": "2.8",
+  "explanation": "h = 2T/(rρg) = 2 × 0.07/(5 × 10⁻⁴ × 1000 × 10) = 0.028 m = 2.8 cm.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Properties of Solids and Liquids"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A rod of thermal conductivity 400 W m⁻¹ K⁻¹, cross-section 10⁻⁴ m² and length 0.5 m has its ends at a temperature difference of 100 K. The rate of heat flow (in W) is:",
+  "options": null,
+  "correct_answer": "8",
+  "explanation": "H = kAΔT/L = 400 × 10⁻⁴ × 100/0.5 = 8 W.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Properties of Solids and Liquids"
+ }
+]

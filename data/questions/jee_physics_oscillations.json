@@ -1,0 +1,242 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "A particle executes SHM with amplitude 0.1 m and angular frequency 20 rad/s. Its maximum velocity is:",
+  "options": {
+   "A": "0.2 m/s",
+   "B": "2 m/s",
+   "C": "20 m/s",
+   "D": "200 m/s"
+  },
+  "correct_answer": "B",
+  "explanation": "v_max = Aω = 0.1 × 20 = 2 m/s.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Oscillations and Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "For the same particle (A = 0.1 m, ω = 20 rad/s), the maximum acceleration is:",
+  "options": {
+   "A": "4 m/s²",
+   "B": "2 m/s²",
+   "C": "400 m/s²",
+   "D": "40 m/s²"
+  },
+  "correct_answer": "D",
+  "explanation": "a_max = Aω² = 0.1 × 400 = 40 m/s².",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Oscillations and Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A particle in SHM has angular frequency 4π rad/s. Its time period is:",
+  "options": {
+   "A": "0.5 s",
+   "B": "2 s",
+   "C": "0.25 s",
+   "D": "4π s"
+  },
+  "correct_answer": "A",
+  "explanation": "T = 2π/ω = 2π/4π = 0.5 s.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Oscillations and Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A 2 kg mass is attached to a spring of force constant 200 N/m. The time period of oscillation is:",
+  "options": {
+   "A": "2π s",
+   "B": "0.1π s",
+   "C": "0.2π s",
+   "D": "0.02π s"
+  },
+  "correct_answer": "C",
+  "explanation": "T = 2π√(m/k) = 2π√(2/200) = 2π × 0.1 = 0.2π s.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Oscillations and Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A simple pendulum of length 1 m oscillates where g = π² m/s². Its time period is:",
+  "options": {
+   "A": "1 s",
+   "B": "2 s",
+   "C": "4 s",
+   "D": "π s"
+  },
+  "correct_answer": "B",
+  "explanation": "T = 2π√(L/g) = 2π√(1/π²) = 2 s.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Oscillations and Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The length of a simple pendulum is made four times. Its time period:",
+  "options": {
+   "A": "becomes half",
+   "B": "remains the same",
+   "C": "becomes double",
+   "D": "becomes four times"
+  },
+  "correct_answer": "C",
+  "explanation": "T ∝ √L, so quadrupling L doubles T.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Oscillations and Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "At the mean position of a particle in SHM:",
+  "options": {
+   "A": "velocity is maximum and acceleration is zero",
+   "B": "velocity is zero and acceleration is maximum",
+   "C": "both velocity and acceleration are maximum",
+   "D": "both velocity and acceleration are zero"
+  },
+  "correct_answer": "A",
+  "explanation": "At x = 0 the restoring force is zero, so a = 0, and the speed is at its maximum.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Oscillations and Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The total energy of a particle in SHM with spring constant k and amplitude A is:",
+  "options": {
+   "A": "kA²",
+   "B": "2kA²",
+   "C": "¼kA²",
+   "D": "½kA²"
+  },
+  "correct_answer": "D",
+  "explanation": "At the extreme position all energy is potential: E = ½kA².",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Oscillations and Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "At a displacement x = A/2 from the mean position, the kinetic energy of a particle in SHM is what fraction of its total energy?",
+  "options": {
+   "A": "1/4",
+   "B": "1/2",
+   "C": "1",
+   "D": "3/4"
+  },
+  "correct_answer": "D",
+  "explanation": "PE = ½k(A/2)² = E/4, so KE = E − E/4 = 3E/4.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Oscillations and Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "At what displacement from the mean position are the kinetic and potential energies of a particle in SHM equal?",
+  "options": {
+   "A": "A/2",
+   "B": "A/√2",
+   "C": "A/4",
+   "D": "A/√3"
+  },
+  "correct_answer": "B",
+  "explanation": "½k(A² − x²) = ½kx² gives x² = A²/2, so x = A/√2.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Oscillations and Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A mass m on a single spring has time period T. When the same mass is attached to two identical springs joined in parallel, the time period is:",
+  "options": {
+   "A": "T/√2",
+   "B": "T√2",
+   "C": "2T",
+   "D": "T/2"
+  },
+  "correct_answer": "A",
+  "explanation": "Parallel springs give k_eff = 2k, so T' = 2π√(m/2k) = T/√2.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Oscillations and Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A mass m on a single spring has time period T. When the same mass is attached to two identical springs joined in series, the time period is:",
+  "options": {
+   "A": "T/√2",
+   "B": "2T",
+   "C": "T/2",
+   "D": "√2 T"
+  },
+  "correct_answer": "D",
+  "explanation": "Series springs give k_eff = k/2, so T' = 2π√(2m/k) = √2 T.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Oscillations and Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A spring of force constant k is cut into two equal halves. The force constant of each half is:",
+  "options": {
+   "A": "2k",
+   "B": "k/2",
+   "C": "k",
+   "D": "4k"
+  },
+  "correct_answer": "A",
+  "explanation": "Spring constant is inversely proportional to length, so each half has constant 2k.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Oscillations and Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In SHM, the phase difference between displacement and velocity is:",
+  "options": {
+   "A": "0",
+   "B": "π/2",
+   "C": "π",
+   "D": "π/4"
+  },
+  "correct_answer": "B",
+  "explanation": "If x = A sin ωt, then v = Aω cos ωt, which leads displacement by π/2.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Oscillations and Waves"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A particle has displacement x = 3 sin ωt + 4 cos ωt (in cm). The amplitude of its SHM is:",
+  "options": {
+   "A": "7 cm",
+   "B": "1 cm",
+   "C": "5 cm",
+   "D": "3.5 cm"
+  },
+  "correct_answer": "C",
+  "explanation": "A = √(3² + 4²) = 5 cm.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Oscillations and Waves"
+ }
+]

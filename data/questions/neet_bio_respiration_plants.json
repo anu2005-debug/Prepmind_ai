@@ -1,0 +1,482 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "Glycolysis takes place in the:",
+  "options": {
+   "A": "mitochondrial matrix",
+   "B": "cytoplasm",
+   "C": "inner mitochondrial membrane",
+   "D": "nucleus"
+  },
+  "correct_answer": "B",
+  "explanation": "Glycolysis occurs in the cytoplasm of all living organisms.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Respiration in Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The net gain of glycolysis per glucose molecule is:",
+  "options": {
+   "A": "2 ATP and 2 NADH",
+   "B": "4 ATP and 4 NADH",
+   "C": "2 ATP and 2 FADH2",
+   "D": "38 ATP"
+  },
+  "correct_answer": "A",
+  "explanation": "Four ATP are made but two are used, so the net gain is two ATP plus two NADH.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Respiration in Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The end product of glycolysis is:",
+  "options": {
+   "A": "acetyl CoA",
+   "B": "lactic acid",
+   "C": "pyruvic acid",
+   "D": "ethanol"
+  },
+  "correct_answer": "C",
+  "explanation": "One glucose gives two molecules of pyruvic acid.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Respiration in Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The scheme of glycolysis was given by:",
+  "options": {
+   "A": "Krebs",
+   "B": "Calvin",
+   "C": "Mitchell",
+   "D": "Embden, Meyerhof and Parnas"
+  },
+  "correct_answer": "D",
+  "explanation": "It is also called the EMP pathway.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Respiration in Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which enzyme phosphorylates glucose to glucose-6-phosphate?",
+  "options": {
+   "A": "hexokinase",
+   "B": "enolase",
+   "C": "aldolase",
+   "D": "pyruvate kinase"
+  },
+  "correct_answer": "A",
+  "explanation": "This step uses one ATP.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Respiration in Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In yeast, pyruvic acid is converted to ethanol and CO2 by:",
+  "options": {
+   "A": "lactate dehydrogenase alone",
+   "B": "pyruvate dehydrogenase",
+   "C": "pyruvic acid decarboxylase and alcohol dehydrogenase",
+   "D": "hexokinase"
+  },
+  "correct_answer": "C",
+  "explanation": "The pathway regenerates NAD+ from NADH.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Respiration in Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In muscles during heavy exercise, pyruvic acid is reduced to lactic acid by:",
+  "options": {
+   "A": "alcohol dehydrogenase",
+   "B": "lactate dehydrogenase",
+   "C": "pyruvate kinase",
+   "D": "citrate synthase"
+  },
+  "correct_answer": "B",
+  "explanation": "The enzyme uses the NADH formed in glycolysis.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Respiration in Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Fermentation releases less than what fraction of the energy in glucose?",
+  "options": {
+   "A": "7 per cent",
+   "B": "50 per cent",
+   "C": "25 per cent",
+   "D": "90 per cent"
+  },
+  "correct_answer": "A",
+  "explanation": "Most of the energy stays in the products, which is why fermentation is inefficient.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Respiration in Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Oxidative decarboxylation of pyruvate takes place in the:",
+  "options": {
+   "A": "cytoplasm",
+   "B": "intermembrane space",
+   "C": "thylakoid lumen",
+   "D": "mitochondrial matrix"
+  },
+  "correct_answer": "D",
+  "explanation": "Pyruvate dehydrogenase converts pyruvate to acetyl CoA, NADH and CO2.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Respiration in Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The Krebs cycle begins with the condensation of acetyl CoA with:",
+  "options": {
+   "A": "oxaloacetic acid",
+   "B": "pyruvic acid",
+   "C": "succinic acid",
+   "D": "citric acid"
+  },
+  "correct_answer": "A",
+  "explanation": "The product is citric acid, which is why it is also called the citric acid cycle.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Respiration in Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "One turn of the Krebs cycle yields:",
+  "options": {
+   "A": "2 NADH, 2 FADH2 and 1 ATP",
+   "B": "4 NADH, 1 FADH2 and 2 GTP",
+   "C": "3 NADH, 1 FADH2 and 1 GTP",
+   "D": "1 NADH, 3 FADH2 and 1 GTP"
+  },
+  "correct_answer": "C",
+  "explanation": "These come from one acetyl CoA, and one glucose has two turns.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Respiration in Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Substrate-level phosphorylation in the Krebs cycle occurs during the conversion of:",
+  "options": {
+   "A": "citrate to isocitrate",
+   "B": "succinyl-CoA to succinic acid",
+   "C": "malic acid to OAA",
+   "D": "fumaric acid to malic acid"
+  },
+  "correct_answer": "B",
+  "explanation": "GTP or ATP is formed at this step.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Respiration in Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which Krebs cycle enzyme is bound to the inner mitochondrial membrane?",
+  "options": {
+   "A": "citrate synthase",
+   "B": "aconitase",
+   "C": "malate dehydrogenase",
+   "D": "succinate dehydrogenase"
+  },
+  "correct_answer": "D",
+  "explanation": "Succinate dehydrogenase is also Complex II of the electron transport system.",
+  "difficulty": "hard",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Respiration in Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The electron transport system is located in the:",
+  "options": {
+   "A": "outer mitochondrial membrane",
+   "B": "inner mitochondrial membrane",
+   "C": "mitochondrial matrix",
+   "D": "cytoplasm"
+  },
+  "correct_answer": "B",
+  "explanation": "Complexes I to IV and ATP synthase lie in the inner membrane.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Respiration in Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Complex IV of the electron transport system is:",
+  "options": {
+   "A": "NADH dehydrogenase",
+   "B": "succinate dehydrogenase",
+   "C": "cytochrome bc1 complex",
+   "D": "cytochrome c oxidase"
+  },
+  "correct_answer": "D",
+  "explanation": "It contains cytochromes a and a3 and two copper centres, and it passes electrons to O2.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Respiration in Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The final acceptor of electrons in aerobic respiration is:",
+  "options": {
+   "A": "NAD+",
+   "B": "oxygen",
+   "C": "cytochrome c",
+   "D": "pyruvate"
+  },
+  "correct_answer": "B",
+  "explanation": "Oxygen is reduced to water.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Respiration in Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The mobile carrier of electrons from Complexes I and II to Complex III is:",
+  "options": {
+   "A": "cytochrome c",
+   "B": "FAD",
+   "C": "ubiquinone",
+   "D": "NAD"
+  },
+  "correct_answer": "C",
+  "explanation": "Ubiquinone (coenzyme Q) receives electrons from NADH and FADH2 complexes, while cytochrome c links Complexes III and IV.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Respiration in Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The F1 headpiece of the mitochondrial ATP synthase:",
+  "options": {
+   "A": "forms the channel for proton passage",
+   "B": "has the site for the synthesis of ATP",
+   "C": "carries electrons",
+   "D": "oxidises NADH"
+  },
+  "correct_answer": "B",
+  "explanation": "The F0 part forms the membrane channel for protons.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Respiration in Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The total ATP produced (as per NCERT) from the complete aerobic oxidation of one glucose molecule is:",
+  "options": {
+   "A": "2",
+   "B": "8",
+   "C": "38",
+   "D": "18"
+  },
+  "correct_answer": "C",
+  "explanation": "The count is 8 from glycolysis and the link reaction (with NADH) plus the Krebs cycle and the ETS.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Respiration in Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The respiratory quotient (RQ) of carbohydrates is:",
+  "options": {
+   "A": "0.7",
+   "B": "0.9",
+   "C": "1.0",
+   "D": "infinity"
+  },
+  "correct_answer": "C",
+  "explanation": "Equal volumes of CO2 are released and O2 consumed.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Respiration in Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The RQ when fats such as tripalmitin are the substrate is:",
+  "options": {
+   "A": "1.0",
+   "B": "0.7",
+   "C": "0.9",
+   "D": "1.5"
+  },
+  "correct_answer": "B",
+  "explanation": "Fats need more O2 for oxidation, so the RQ is less than 1.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Respiration in Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The RQ when proteins are the respiratory substrate is about:",
+  "options": {
+   "A": "0.9",
+   "B": "1.0",
+   "C": "0.7",
+   "D": "2.0"
+  },
+  "correct_answer": "A",
+  "explanation": "Proteins give an RQ of about 0.9.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Respiration in Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The respiratory pathway is amphibolic because:",
+  "options": {
+   "A": "it occurs in two organelles",
+   "B": "it needs two substrates",
+   "C": "it involves both catabolism and anabolism",
+   "D": "it makes two ATP"
+  },
+  "correct_answer": "C",
+  "explanation": "Intermediates are used to make fatty acids and amino acids, and are also made by breakdown of them.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Respiration in Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Fatty acids enter the respiratory pathway as:",
+  "options": {
+   "A": "acetyl CoA",
+   "B": "pyruvic acid",
+   "C": "glucose",
+   "D": "lactic acid"
+  },
+  "correct_answer": "A",
+  "explanation": "They are broken down to acetyl CoA before they enter the Krebs cycle.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Respiration in Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Oxidative phosphorylation is:",
+  "options": {
+   "A": "ATP synthesis from glycolysis alone",
+   "B": "ATP synthesis using energy released by the oxidation of reduced coenzymes in the ETS",
+   "C": "ATP synthesis in chloroplasts",
+   "D": "loss of phosphate from ATP"
+  },
+  "correct_answer": "B",
+  "explanation": "The energy of the proton gradient drives ATP synthase.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Respiration in Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Substrate-level phosphorylation in glycolysis takes place when:",
+  "options": {
+   "A": "glucose is converted to glucose-6-phosphate",
+   "B": "fructose-6-phosphate is converted to fructose-1,6-bisphosphate",
+   "C": "1,3-bisphosphoglycerate is converted to 3-phosphoglycerate",
+   "D": "3-phosphoglycerate is converted to 2-phosphoglycerate"
+  },
+  "correct_answer": "C",
+  "explanation": "ATP is formed at this step, and also when PEP changes to pyruvic acid.",
+  "difficulty": "hard",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Respiration in Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Cyanide stops aerobic respiration by blocking:",
+  "options": {
+   "A": "hexokinase",
+   "B": "citrate synthase",
+   "C": "ATP synthase",
+   "D": "cytochrome c oxidase"
+  },
+  "correct_answer": "D",
+  "explanation": "It stops the transfer of electrons to O2.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Respiration in Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The total NADH and FADH2 produced from complete aerobic oxidation of one glucose molecule are:",
+  "options": {
+   "A": "10 NADH and 2 FADH2",
+   "B": "8 NADH and 4 FADH2",
+   "C": "12 NADH and no FADH2",
+   "D": "6 NADH and 2 FADH2"
+  },
+  "correct_answer": "A",
+  "explanation": "2 NADH from glycolysis, 2 from the link reaction and 6 from the Krebs cycle, plus 2 FADH2.",
+  "difficulty": "hard",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Respiration in Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The most common respiratory substrate is:",
+  "options": {
+   "A": "proteins",
+   "B": "fats",
+   "C": "carbohydrates",
+   "D": "organic acids"
+  },
+  "correct_answer": "C",
+  "explanation": "Carbohydrates are usually oxidised first.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Respiration in Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which statement about glycolysis is correct?",
+  "options": {
+   "A": "It needs O2",
+   "B": "It occurs in all living cells whether or not O2 is present",
+   "C": "It occurs only in mitochondria",
+   "D": "It produces CO2"
+  },
+  "correct_answer": "B",
+  "explanation": "It is the first step of both aerobic and anaerobic respiration.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Respiration in Plants"
+ }
+]

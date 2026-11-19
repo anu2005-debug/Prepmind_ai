@@ -1,0 +1,482 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "Chlorophyll-containing, simple, thalloid, autotrophic and largely aquatic organisms are:",
+  "options": {
+   "A": "bryophytes",
+   "B": "pteridophytes",
+   "C": "algae",
+   "D": "gymnosperms"
+  },
+  "correct_answer": "C",
+  "explanation": "Algae lack true roots, stems and leaves, and they occur in fresh water, marine habitats and moist soil.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The photosynthetic pigments of green algae (Chlorophyceae) are:",
+  "options": {
+   "A": "chlorophyll a and b",
+   "B": "chlorophyll a, c and fucoxanthin",
+   "C": "chlorophyll a, d and phycoerythrin",
+   "D": "chlorophyll b only"
+  },
+  "correct_answer": "A",
+  "explanation": "The pigments give them the grass-green colour.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The major pigments of brown algae (Phaeophyceae) are:",
+  "options": {
+   "A": "chlorophyll a and b",
+   "B": "chlorophyll a, d and phycoerythrin",
+   "C": "carotene only",
+   "D": "chlorophyll a, c and fucoxanthin"
+  },
+  "correct_answer": "D",
+  "explanation": "Fucoxanthin gives them the brown colour.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The major pigments of red algae (Rhodophyceae) are:",
+  "options": {
+   "A": "chlorophyll a and b",
+   "B": "chlorophyll a, d and phycoerythrin",
+   "C": "chlorophyll a, c and fucoxanthin",
+   "D": "chlorophyll b and xanthophyll"
+  },
+  "correct_answer": "B",
+  "explanation": "Phycoerythrin gives them the red colour.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The stored food of brown algae is:",
+  "options": {
+   "A": "starch",
+   "B": "floridean starch",
+   "C": "mannitol and laminarin",
+   "D": "glycogen"
+  },
+  "correct_answer": "C",
+  "explanation": "Green algae store starch, and red algae store floridean starch.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Agar, used to grow microbes and make ice-creams and jellies, is obtained from:",
+  "options": {
+   "A": "Gelidium and Gracilaria",
+   "B": "Laminaria and Fucus",
+   "C": "Chara and Volvox",
+   "D": "Spirogyra and Ulothrix"
+  },
+  "correct_answer": "A",
+  "explanation": "Both are red algae (Rhodophyceae).",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Algin, a hydrocolloid, is obtained from:",
+  "options": {
+   "A": "green algae",
+   "B": "red algae",
+   "C": "mosses",
+   "D": "brown algae"
+  },
+  "correct_answer": "D",
+  "explanation": "Algin is derived from the cell wall of brown algae such as Laminaria.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is a green alga?",
+  "options": {
+   "A": "Fucus",
+   "B": "Spirogyra",
+   "C": "Laminaria",
+   "D": "Porphyra"
+  },
+  "correct_answer": "B",
+  "explanation": "Fucus and Laminaria are brown algae, and Porphyra is a red alga.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is a red alga?",
+  "options": {
+   "A": "Chlamydomonas",
+   "B": "Sargassum",
+   "C": "Polysiphonia",
+   "D": "Ulothrix"
+  },
+  "correct_answer": "C",
+  "explanation": "Polysiphonia, Porphyra and Gracilaria are red algae.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Bryophytes are called the 'amphibians of the plant kingdom' because they:",
+  "options": {
+   "A": "live in soil but depend on water for sexual reproduction",
+   "B": "live both in sea and on land",
+   "C": "have gills and lungs",
+   "D": "produce seeds in water"
+  },
+  "correct_answer": "A",
+  "explanation": "The male gametes need water to reach the egg.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In bryophytes, the dominant plant body is the:",
+  "options": {
+   "A": "sporophyte",
+   "B": "zygote",
+   "C": "protonema only",
+   "D": "gametophyte"
+  },
+  "correct_answer": "D",
+  "explanation": "The haploid gametophyte is independent, and the sporophyte depends on it.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Rhizoids of mosses are:",
+  "options": {
+   "A": "unicellular and unbranched",
+   "B": "multicellular and branched",
+   "C": "absent",
+   "D": "vascular roots"
+  },
+  "correct_answer": "B",
+  "explanation": "In liverworts the rhizoids are unicellular, and in mosses they are multicellular and branched.",
+  "difficulty": "hard",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The peat moss used as fuel and as packing material for trans-shipment of living material is:",
+  "options": {
+   "A": "Funaria",
+   "B": "Marchantia",
+   "C": "Sphagnum",
+   "D": "Polytrichum"
+  },
+  "correct_answer": "C",
+  "explanation": "Sphagnum holds a great deal of water, so it is used as packing material.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Marchantia reproduces vegetatively by:",
+  "options": {
+   "A": "gemmae",
+   "B": "gemmules",
+   "C": "zoospores",
+   "D": "bulbils"
+  },
+  "correct_answer": "A",
+  "explanation": "Gemmae are green, multicellular asexual buds that form in gemma cups.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The sex organs of bryophytes are:",
+  "options": {
+   "A": "stamen and carpel",
+   "B": "microsporangium and megasporangium",
+   "C": "sporangium and sorus",
+   "D": "antheridium and archegonium"
+  },
+  "correct_answer": "D",
+  "explanation": "The antheridium produces the biflagellate antherozoids, and the archegonium produces a single egg.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The first terrestrial plants to possess vascular tissues, xylem and phloem, are:",
+  "options": {
+   "A": "bryophytes",
+   "B": "pteridophytes",
+   "C": "algae",
+   "D": "fungi"
+  },
+  "correct_answer": "B",
+  "explanation": "Pteridophytes include horsetails and ferns.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The main plant body in pteridophytes is a:",
+  "options": {
+   "A": "gametophyte",
+   "B": "protonema",
+   "C": "sporophyte",
+   "D": "thallus of haploid cells"
+  },
+  "correct_answer": "C",
+  "explanation": "It is differentiated into true root, stem and leaves.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The gametophyte of a fern is a small, multicellular, free-living, mostly photosynthetic structure called a:",
+  "options": {
+   "A": "prothallus",
+   "B": "protonema",
+   "C": "thallus",
+   "D": "strobilus"
+  },
+  "correct_answer": "A",
+  "explanation": "It requires cool, damp and shady places to grow.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is heterosporous?",
+  "options": {
+   "A": "Dryopteris",
+   "B": "Equisetum",
+   "C": "Pteris",
+   "D": "Selaginella"
+  },
+  "correct_answer": "D",
+  "explanation": "Selaginella and Salvinia produce two kinds of spores, macro- and microspores.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Naked seeds are characteristic of:",
+  "options": {
+   "A": "angiosperms",
+   "B": "gymnosperms",
+   "C": "pteridophytes",
+   "D": "bryophytes"
+  },
+  "correct_answer": "B",
+  "explanation": "In gymnosperms the ovules are not enclosed by an ovary wall.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The tallest gymnosperm, the redwood tree, is:",
+  "options": {
+   "A": "Cycas",
+   "B": "Ginkgo",
+   "C": "Sequoia",
+   "D": "Pinus"
+  },
+  "correct_answer": "C",
+  "explanation": "Sequoia sempervirens is among the tallest trees.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The roots of Cycas have symbiotic association with:",
+  "options": {
+   "A": "cyanobacteria in coralloid roots",
+   "B": "fungi forming mycorrhiza",
+   "C": "Rhizobium in nodules",
+   "D": "algae forming lichens"
+  },
+  "correct_answer": "A",
+  "explanation": "Pinus has mycorrhiza, and Cycas has coralloid roots with cyanobacteria.",
+  "difficulty": "hard",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The gymnosperm often called a 'living fossil' is:",
+  "options": {
+   "A": "Pinus roxburghii",
+   "B": "Cedrus deodara",
+   "C": "Cycas revoluta",
+   "D": "Ginkgo biloba"
+  },
+  "correct_answer": "D",
+  "explanation": "It is the only living species of its group.",
+  "difficulty": "hard",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In angiosperms, seeds are enclosed within:",
+  "options": {
+   "A": "cones",
+   "B": "fruits",
+   "C": "sori",
+   "D": "gemma cups"
+  },
+  "correct_answer": "B",
+  "explanation": "The ovary develops into the fruit.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The smallest flowering plant is:",
+  "options": {
+   "A": "Eucalyptus",
+   "B": "Sequoia",
+   "C": "Wolffia",
+   "D": "Cycas"
+  },
+  "correct_answer": "C",
+  "explanation": "Wolffia is a tiny duckweed, and Eucalyptus is among the tallest angiosperms.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In angiosperms, the endosperm formed after triple fusion is:",
+  "options": {
+   "A": "triploid (3n)",
+   "B": "haploid (n)",
+   "C": "diploid (2n)",
+   "D": "tetraploid (4n)"
+  },
+  "correct_answer": "A",
+  "explanation": "One male gamete fuses with two polar nuclei to give the primary endosperm nucleus.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In a haplontic life cycle, meiosis occurs in the:",
+  "options": {
+   "A": "gametes",
+   "B": "spores of the sporophyte",
+   "C": "vegetative cells",
+   "D": "zygote"
+  },
+  "correct_answer": "D",
+  "explanation": "The zygote divides by meiosis (zygotic meiosis). Volvox and Spirogyra are examples.",
+  "difficulty": "hard",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The life cycle of bryophytes and pteridophytes is:",
+  "options": {
+   "A": "haplontic",
+   "B": "haplo-diplontic",
+   "C": "diplontic",
+   "D": "triplontic"
+  },
+  "correct_answer": "B",
+  "explanation": "Both haploid and diploid phases are multicellular.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The dominant diploid free-living phase is seen in the life cycle of:",
+  "options": {
+   "A": "Volvox and Spirogyra",
+   "B": "mosses only",
+   "C": "gymnosperms and angiosperms",
+   "D": "liverworts"
+  },
+  "correct_answer": "C",
+  "explanation": "These are diplontic, and the gametophyte is highly reduced.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Kingdom"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Spores in pteridophytes are produced in:",
+  "options": {
+   "A": "sporangia borne on sporophylls",
+   "B": "gemma cups",
+   "C": "archegonia",
+   "D": "cones of Cycas only"
+  },
+  "correct_answer": "A",
+  "explanation": "Sporophylls may form compact strobili, as in Selaginella and Equisetum.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Plant Kingdom"
+ }
+]

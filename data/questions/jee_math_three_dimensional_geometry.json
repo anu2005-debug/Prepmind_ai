@@ -1,0 +1,452 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "The distance between the points (1, 2, 3) and (3, 5, 9) is:",
+  "options": {
+   "A": "6",
+   "B": "7",
+   "C": "√41",
+   "D": "5"
+  },
+  "correct_answer": "B",
+  "explanation": "d = √(2² + 3² + 6²) = √49 = 7.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Three-Dimensional Geometry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The direction cosines of the x-axis are:",
+  "options": {
+   "A": "0, 1, 0",
+   "B": "0, 0, 1",
+   "C": "1, 1, 1",
+   "D": "1, 0, 0"
+  },
+  "correct_answer": "D",
+  "explanation": "The x-axis makes angles 0°, 90°, 90° with the axes, so the direction cosines are cos 0°, cos 90°, cos 90°.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Three-Dimensional Geometry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "If l, m, n are the direction cosines of a line, then l² + m² + n² equals:",
+  "options": {
+   "A": "1",
+   "B": "0",
+   "C": "3",
+   "D": "2"
+  },
+  "correct_answer": "A",
+  "explanation": "cos²α + cos²β + cos²γ = 1 for any line.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Three-Dimensional Geometry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The direction cosines of a line with direction ratios 2, 3, 6 are:",
+  "options": {
+   "A": "2/11, 3/11, 6/11",
+   "B": "1/3, 1/2, 1",
+   "C": "2/7, 3/7, 6/7",
+   "D": "2/√7, 3/√7, 6/√7"
+  },
+  "correct_answer": "C",
+  "explanation": "√(4 + 9 + 36) = 7, so divide each ratio by 7.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Three-Dimensional Geometry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The midpoint of the line segment joining (2, 4, 6) and (4, −2, 8) is:",
+  "options": {
+   "A": "(6, 2, 14)",
+   "B": "(3, 1, 7)",
+   "C": "(1, 3, 1)",
+   "D": "(3, 3, 7)"
+  },
+  "correct_answer": "B",
+  "explanation": "Midpoint = ((2 + 4)/2, (4 − 2)/2, (6 + 8)/2) = (3, 1, 7).",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Three-Dimensional Geometry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The point dividing the join of (1, 2, 3) and (6, 7, 8) internally in the ratio 2 : 3 is:",
+  "options": {
+   "A": "(4, 5, 6)",
+   "B": "(2, 3, 4)",
+   "C": "(3.5, 4.5, 5.5)",
+   "D": "(3, 4, 5)"
+  },
+  "correct_answer": "D",
+  "explanation": "x = (2·6 + 3·1)/5 = 3, y = (2·7 + 3·2)/5 = 4, z = (2·8 + 3·3)/5 = 5.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Three-Dimensional Geometry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The angle between two lines with direction ratios (1, 1, 0) and (0, 1, 1) is:",
+  "options": {
+   "A": "60°",
+   "B": "30°",
+   "C": "45°",
+   "D": "90°"
+  },
+  "correct_answer": "A",
+  "explanation": "cos θ = (0 + 1 + 0)/(√2 · √2) = 1/2, so θ = 60°.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Three-Dimensional Geometry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The cosine of the angle between the planes 2x + y − 2z = 5 and 3x − 6y − 2z = 7 is:",
+  "options": {
+   "A": "4/7",
+   "B": "1/3",
+   "C": "4/21",
+   "D": "0"
+  },
+  "correct_answer": "C",
+  "explanation": "cos θ = |6 − 6 + 4|/(3 · 7) = 4/21.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Three-Dimensional Geometry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The distance of the plane 2x + 3y + 6z = 14 from the origin is:",
+  "options": {
+   "A": "14",
+   "B": "2",
+   "C": "7",
+   "D": "1"
+  },
+  "correct_answer": "B",
+  "explanation": "d = 14/√(4 + 9 + 36) = 14/7 = 2.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Three-Dimensional Geometry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The distance of the point (2, 1, −1) from the plane 2x − y + 2z + 8 = 0 is:",
+  "options": {
+   "A": "9",
+   "B": "1",
+   "C": "9/√3",
+   "D": "3"
+  },
+  "correct_answer": "D",
+  "explanation": "d = |4 − 1 − 2 + 8|/√(4 + 1 + 4) = 9/3 = 3.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Three-Dimensional Geometry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The equation of the plane through (1, 2, 3) with normal vector (2, −1, 1) is:",
+  "options": {
+   "A": "2x − y + z = 3",
+   "B": "2x − y + z = 0",
+   "C": "x + 2y + 3z = 3",
+   "D": "2x − y + z = 6"
+  },
+  "correct_answer": "A",
+  "explanation": "2(x − 1) − (y − 2) + (z − 3) = 0, i.e. 2x − y + z = 3.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Three-Dimensional Geometry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The x-intercept of the plane 3x + 2y + z = 6 is:",
+  "options": {
+   "A": "3",
+   "B": "6",
+   "C": "2",
+   "D": "1"
+  },
+  "correct_answer": "C",
+  "explanation": "Put y = z = 0 to get 3x = 6, so x = 2.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Three-Dimensional Geometry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The direction ratios of the line through (1, 2, 3) and (3, 6, 9) are proportional to:",
+  "options": {
+   "A": "2, 4, 3",
+   "B": "1, 2, 3",
+   "C": "3, 6, 9 with sum 0",
+   "D": "1, 1, 1"
+  },
+  "correct_answer": "B",
+  "explanation": "The difference of the points is (2, 4, 6), which is proportional to (1, 2, 3).",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Three-Dimensional Geometry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The distance between the parallel planes 2x + 2y − z = 3 and 2x + 2y − z = 9 is:",
+  "options": {
+   "A": "6",
+   "B": "3",
+   "C": "1",
+   "D": "2"
+  },
+  "correct_answer": "D",
+  "explanation": "d = |9 − 3|/√(4 + 4 + 1) = 6/3 = 2.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Three-Dimensional Geometry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The lines with direction ratios (1, −2, 3) and (2, k, 2) are perpendicular when k equals:",
+  "options": {
+   "A": "4",
+   "B": "2",
+   "C": "−4",
+   "D": "3"
+  },
+  "correct_answer": "A",
+  "explanation": "2 − 2k + 6 = 0 gives k = 4.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Three-Dimensional Geometry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The equation of the yz-plane is:",
+  "options": {
+   "A": "y = 0",
+   "B": "z = 0",
+   "C": "x = 0",
+   "D": "x + y + z = 0"
+  },
+  "correct_answer": "C",
+  "explanation": "Every point of the yz-plane has x-coordinate 0.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Three-Dimensional Geometry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The angle between the line (x − 1)/2 = (y − 2)/1 = (z − 3)/2 and the plane 2x + y + 2z = 5 is:",
+  "options": {
+   "A": "0°",
+   "B": "90°",
+   "C": "30°",
+   "D": "60°"
+  },
+  "correct_answer": "B",
+  "explanation": "The line direction (2, 1, 2) is parallel to the plane's normal, so the line is perpendicular to the plane.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Three-Dimensional Geometry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The distance of the point (3, 4, 5) from the z-axis is:",
+  "options": {
+   "A": "√41",
+   "B": "4",
+   "C": "√50",
+   "D": "5"
+  },
+  "correct_answer": "D",
+  "explanation": "The distance from the z-axis is √(x² + y²) = √(9 + 16) = 5.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Three-Dimensional Geometry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The line (x − 1)/1 = (y − 2)/2 = (z − 3)/3 meets the plane z = 0 (the xy-plane) at the point:",
+  "options": {
+   "A": "(0, 0, 0)",
+   "B": "(1, 2, 0)",
+   "C": "(−1, −2, 0)",
+   "D": "(2, 4, 0)"
+  },
+  "correct_answer": "A",
+  "explanation": "A point on the line is (1 + t, 2 + 2t, 3 + 3t). Setting z = 0 gives t = −1, which gives (0, 0, 0).",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Three-Dimensional Geometry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The shortest distance between the x-axis and the line x = 0, z = 4 (parallel to the y-axis) is:",
+  "options": {
+   "A": "0",
+   "B": "2",
+   "C": "4",
+   "D": "√17"
+  },
+  "correct_answer": "C",
+  "explanation": "The lines are skew and perpendicular, and they are separated by the z-offset 4.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Three-Dimensional Geometry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The centroid of the triangle with vertices (1, 2, 3), (4, 5, 6) and (7, 8, 12) is:",
+  "options": {
+   "A": "(6, 7, 10)",
+   "B": "(4, 5, 7)",
+   "C": "(4, 5, 6)",
+   "D": "(3, 5, 7)"
+  },
+  "correct_answer": "B",
+  "explanation": "Centroid = ((1 + 4 + 7)/3, (2 + 5 + 8)/3, (3 + 6 + 12)/3) = (4, 5, 7).",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Three-Dimensional Geometry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The radius of the sphere x² + y² + z² − 2x + 4y − 6z − 11 = 0 is:",
+  "options": {
+   "A": "11",
+   "B": "√11",
+   "C": "√25 + 11",
+   "D": "5"
+  },
+  "correct_answer": "D",
+  "explanation": "The centre is (1, −2, 3), so r² = 1 + 4 + 9 + 11 = 25 and r = 5.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Three-Dimensional Geometry"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "For a line with direction cosines l, m, n, which of the following are true?",
+  "options": {
+   "A": "l + m + n = 1 always",
+   "B": "sin²α + sin²β + sin²γ = 2, where α, β, γ are the angles with the axes",
+   "C": "l² + m² + n² = 1",
+   "D": "The reversed line has direction cosines −l, −m, −n"
+  },
+  "correct_answer": "B,C,D",
+  "explanation": "Because cos²α + cos²β + cos²γ = 1, the sum of the sines squared is 3 − 1 = 2. The sum l + m + n is not fixed.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Three-Dimensional Geometry"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which of the following planes pass through the origin?",
+  "options": {
+   "A": "y = 0",
+   "B": "x + y + z = 0",
+   "C": "2x − 3y + z = 0",
+   "D": "x + y + z = 1"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "A plane ax + by + cz = d passes through the origin only when d = 0.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Three-Dimensional Geometry"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The distance between the points (2, 3, 1) and (5, 7, 13) is:",
+  "options": null,
+  "correct_answer": "13",
+  "explanation": "d = √(9 + 16 + 144) = √169 = 13.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Three-Dimensional Geometry"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The distance of the plane 2x + 2y − z = 15 from the origin is:",
+  "options": null,
+  "correct_answer": "5",
+  "explanation": "d = 15/√(4 + 4 + 1) = 15/3 = 5.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Three-Dimensional Geometry"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A line has direction cosines 2/7, 3/7 and k, with k > 0. The value of 7k is:",
+  "options": null,
+  "correct_answer": "6",
+  "explanation": "4/49 + 9/49 + k² = 1 gives k² = 36/49, so k = 6/7 and 7k = 6.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Three-Dimensional Geometry"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The planes 2x + 3y + kz = 5 and x + 2y − 4z = 7 are perpendicular. The value of k is:",
+  "options": null,
+  "correct_answer": "2",
+  "explanation": "The normals are perpendicular: 2 + 6 − 4k = 0, so k = 2.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Three-Dimensional Geometry"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The radius of the sphere x² + y² + z² − 4x + 2y − 4z − 7 = 0 is:",
+  "options": null,
+  "correct_answer": "4",
+  "explanation": "The centre is (2, −1, 2) and r² = 4 + 1 + 4 + 7 = 16, so r = 4.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Three-Dimensional Geometry"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The distance between the parallel planes 2x + 3y + 6z = 5 and 2x + 3y + 6z = 26 is:",
+  "options": null,
+  "correct_answer": "3",
+  "explanation": "d = |26 − 5|/√(4 + 9 + 36) = 21/7 = 3.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Three-Dimensional Geometry"
+ }
+]

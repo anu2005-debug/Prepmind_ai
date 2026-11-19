@@ -1,0 +1,452 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "The oxidation state of cobalt in [Co(NH₃)₆]Cl₃ is:",
+  "options": {
+   "A": "+1",
+   "B": "+2",
+   "C": "+3",
+   "D": "+6"
+  },
+  "correct_answer": "C",
+  "explanation": "NH₃ is neutral and three Cl⁻ are outside the complex ion, so the complex ion is [Co(NH₃)₆]³⁺ and Co is +3.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Coordination Compounds"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The IUPAC name of [Cu(NH₃)₄]SO₄ is:",
+  "options": {
+   "A": "tetraamminecopper(II) sulphate",
+   "B": "tetraamminecopper(IV) sulphate",
+   "C": "copper tetraammine sulphate",
+   "D": "tetraamminecuprate(II) sulphate"
+  },
+  "correct_answer": "A",
+  "explanation": "Ligands are named first (tetraammine), then the metal with its oxidation state. The complex ion is a cation, so the metal keeps its plain name, copper(II).",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Coordination Compounds"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The coordination number of Fe in [Fe(C₂O₄)₃]³⁻ is:",
+  "options": {
+   "A": "3",
+   "B": "4",
+   "C": "6",
+   "D": "9"
+  },
+  "correct_answer": "C",
+  "explanation": "Oxalate is bidentate, so three oxalate ligands give 3 × 2 = 6 donor atoms.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Coordination Compounds"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is a bidentate ligand?",
+  "options": {
+   "A": "NH₃",
+   "B": "Cl⁻",
+   "C": "H₂O",
+   "D": "Ethylenediamine"
+  },
+  "correct_answer": "D",
+  "explanation": "Ethylenediamine (en) has two nitrogen donor atoms.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Coordination Compounds"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The denticity of EDTA is:",
+  "options": {
+   "A": "2",
+   "B": "4",
+   "C": "6",
+   "D": "8"
+  },
+  "correct_answer": "C",
+  "explanation": "EDTA⁴⁻ binds through 2 nitrogen and 4 oxygen atoms, so it is hexadentate.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Coordination Compounds"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is an ambidentate ligand?",
+  "options": {
+   "A": "NH₃",
+   "B": "NO₂⁻",
+   "C": "Cl⁻",
+   "D": "H₂O"
+  },
+  "correct_answer": "B",
+  "explanation": "NO₂⁻ can bind through N (nitro) or through O (nitrito).",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Coordination Compounds"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "[Co(NH₃)₅Br]SO₄ and [Co(NH₃)₅SO₄]Br are examples of:",
+  "options": {
+   "A": "linkage isomers",
+   "B": "ionisation isomers",
+   "C": "hydrate isomers",
+   "D": "optical isomers"
+  },
+  "correct_answer": "B",
+  "explanation": "They give different ions in solution (SO₄²⁻ in the first, Br⁻ in the second).",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Coordination Compounds"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "[Co(NH₃)₅NO₂]²⁺ and [Co(NH₃)₅ONO]²⁺ are examples of:",
+  "options": {
+   "A": "ionisation isomers",
+   "B": "coordination isomers",
+   "C": "linkage isomers",
+   "D": "geometrical isomers"
+  },
+  "correct_answer": "C",
+  "explanation": "The ambidentate NO₂⁻ is bonded through N in one and through O in the other.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Coordination Compounds"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "[Cr(H₂O)₆]Cl₃ and [Cr(H₂O)₅Cl]Cl₂·H₂O are examples of:",
+  "options": {
+   "A": "hydrate isomers",
+   "B": "linkage isomers",
+   "C": "ionisation isomers",
+   "D": "optical isomers"
+  },
+  "correct_answer": "A",
+  "explanation": "They differ in whether water is inside the coordination sphere or outside it as water of crystallisation.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Coordination Compounds"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The hybridisation and magnetic behaviour of [Ni(CN)₄]²⁻ are:",
+  "options": {
+   "A": "sp³, paramagnetic",
+   "B": "dsp², diamagnetic",
+   "C": "sp³, diamagnetic",
+   "D": "dsp², paramagnetic"
+  },
+  "correct_answer": "B",
+  "explanation": "CN⁻ is a strong field ligand, so the Ni²⁺ (d⁸) electrons pair up and the complex is square planar (dsp²) and diamagnetic.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Coordination Compounds"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The geometry and magnetic behaviour of [NiCl₄]²⁻ are:",
+  "options": {
+   "A": "square planar, diamagnetic",
+   "B": "tetrahedral, paramagnetic",
+   "C": "tetrahedral, diamagnetic",
+   "D": "square planar, paramagnetic"
+  },
+  "correct_answer": "B",
+  "explanation": "Cl⁻ is a weak field ligand, so Ni²⁺ (d⁸) keeps 2 unpaired electrons and the complex is sp³ tetrahedral.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Coordination Compounds"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The complex [Fe(CN)₆]⁴⁻ is:",
+  "options": {
+   "A": "paramagnetic with 4 unpaired electrons",
+   "B": "diamagnetic",
+   "C": "paramagnetic with 2 unpaired electrons",
+   "D": "paramagnetic with 1 unpaired electron"
+  },
+  "correct_answer": "B",
+  "explanation": "Fe²⁺ is d⁶. CN⁻ is a strong field ligand, so the configuration is t₂g⁶ with all electrons paired.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Coordination Compounds"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The number of unpaired electrons in [CoF₆]³⁻ is:",
+  "options": {
+   "A": "0",
+   "B": "2",
+   "C": "4",
+   "D": "5"
+  },
+  "correct_answer": "C",
+  "explanation": "Co³⁺ is d⁶. F⁻ is a weak field ligand, so the complex is high spin (t₂g⁴ eg²) with 4 unpaired electrons.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Coordination Compounds"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is the strongest field ligand?",
+  "options": {
+   "A": "Cl⁻",
+   "B": "H₂O",
+   "C": "NH₃",
+   "D": "CN⁻"
+  },
+  "correct_answer": "D",
+  "explanation": "In the spectrochemical series Cl⁻ < H₂O < NH₃ < CN⁻.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Coordination Compounds"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The crystal field stabilisation energy of Cr³⁺ (d³) in an octahedral field is:",
+  "options": {
+   "A": "−0.4 Δo",
+   "B": "−0.8 Δo",
+   "C": "−1.2 Δo",
+   "D": "−1.6 Δo"
+  },
+  "correct_answer": "C",
+  "explanation": "Three electrons in t₂g: 3 × (−0.4 Δo) = −1.2 Δo.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Coordination Compounds"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Wilkinson's catalyst, [(Ph₃P)₃RhCl], is used for:",
+  "options": {
+   "A": "hydrogenation of alkenes",
+   "B": "polymerisation of ethene",
+   "C": "extraction of silver",
+   "D": "photography"
+  },
+  "correct_answer": "A",
+  "explanation": "It is a homogeneous rhodium catalyst for hydrogenation of alkenes.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Coordination Compounds"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is an organometallic compound?",
+  "options": {
+   "A": "[Co(NH₃)₆]Cl₃",
+   "B": "[Cu(NH₃)₄]SO₄",
+   "C": "Ni(CO)₄",
+   "D": "K₂[PtCl₄]"
+  },
+  "correct_answer": "C",
+  "explanation": "Metal carbonyls such as Ni(CO)₄ have metal–carbon bonds, so they are organometallic.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Coordination Compounds"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following complex ions is colourless?",
+  "options": {
+   "A": "[Ti(H₂O)₆]³⁺",
+   "B": "[Cu(NH₃)₄]²⁺",
+   "C": "[Ni(H₂O)₆]²⁺",
+   "D": "[Zn(NH₃)₄]²⁺"
+  },
+  "correct_answer": "D",
+  "explanation": "Zn²⁺ is d¹⁰, so no d–d transitions are possible.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Coordination Compounds"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Complexes of chelating ligands are more stable than those of comparable monodentate ligands mainly because of:",
+  "options": {
+   "A": "an increase in entropy",
+   "B": "a decrease in entropy",
+   "C": "an increase in enthalpy",
+   "D": "a lower coordination number"
+  },
+  "correct_answer": "A",
+  "explanation": "Replacing several monodentate ligands by one chelating ligand increases the number of free particles, which raises entropy (the chelate effect).",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Coordination Compounds"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following octahedral complexes shows optical isomerism?",
+  "options": {
+   "A": "[Co(NH₃)₆]³⁺",
+   "B": "[Co(en)₃]³⁺",
+   "C": "[Pt(NH₃)₂Cl₂]",
+   "D": "[Co(NH₃)₃Cl₃]"
+  },
+  "correct_answer": "B",
+  "explanation": "[Co(en)₃]³⁺ has a propeller-like structure with no mirror plane, so it exists as two non-superimposable mirror images.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Coordination Compounds"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Cisplatin, an anticancer drug, is:",
+  "options": {
+   "A": "trans-[Pt(NH₃)₂Cl₂]",
+   "B": "cis-[Pt(NH₃)₂Cl₂]",
+   "C": "[Pt(NH₃)₄]Cl₂",
+   "D": "K₂[PtCl₄]"
+  },
+  "correct_answer": "B",
+  "explanation": "Cisplatin is the cis isomer of square planar diamminedichloroplatinum(II).",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Coordination Compounds"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "[Co(NH₃)₆]³⁺ is a low-spin complex because:",
+  "options": {
+   "A": "NH₃ is a weak field ligand and Δo < P",
+   "B": "NH₃ is a strong field ligand and Δo > pairing energy",
+   "C": "Co³⁺ has no d electrons",
+   "D": "the complex is tetrahedral"
+  },
+  "correct_answer": "B",
+  "explanation": "With NH₃, Δo exceeds the pairing energy, so the d⁶ electrons pair in t₂g (t₂g⁶ eg⁰).",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Coordination Compounds"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which of the following complexes show geometrical isomerism?",
+  "options": {
+   "A": "[Pt(NH₃)₂Cl₂] (square planar)",
+   "B": "[Co(NH₃)₄Cl₂]⁺",
+   "C": "[NiCl₄]²⁻ (tetrahedral)",
+   "D": "[Co(NH₃)₃Cl₃]"
+  },
+  "correct_answer": "A,B,D",
+  "explanation": "A has cis and trans forms, B has cis and trans forms, and D has fac and mer forms. Tetrahedral complexes with all ligands the same cannot show geometrical isomerism.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Coordination Compounds"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which of the following complex ions are diamagnetic?",
+  "options": {
+   "A": "[Ni(CN)₄]²⁻",
+   "B": "[Fe(CN)₆]⁴⁻",
+   "C": "[NiCl₄]²⁻",
+   "D": "[Zn(NH₃)₄]²⁺"
+  },
+  "correct_answer": "A,B,D",
+  "explanation": "[Ni(CN)₄]²⁻ (d⁸, square planar), [Fe(CN)₆]⁴⁻ (low-spin d⁶) and [Zn(NH₃)₄]²⁺ (d¹⁰) have no unpaired electrons. [NiCl₄]²⁻ has two.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Coordination Compounds"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The coordination number of cobalt in [Co(en)₂Cl₂]⁺ is:",
+  "options": null,
+  "correct_answer": "6",
+  "explanation": "Two bidentate en ligands give 4 donor atoms and two Cl⁻ give 2 more, so 6.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Coordination Compounds"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of geometrical isomers of [Co(NH₃)₄Cl₂]⁺ is:",
+  "options": null,
+  "correct_answer": "2",
+  "explanation": "The two Cl⁻ can be cis or trans.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Coordination Compounds"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of unpaired electrons in [Fe(H₂O)₆]²⁺ is:",
+  "options": null,
+  "correct_answer": "4",
+  "explanation": "Fe²⁺ is d⁶. H₂O is a weak field ligand, so the complex is high spin (t₂g⁴ eg²) with 4 unpaired electrons.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Coordination Compounds"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "Excess AgNO₃ is added to a solution containing 1 mole of [Co(NH₃)₅Cl]Cl₂. The number of moles of AgCl precipitated is:",
+  "options": null,
+  "correct_answer": "2",
+  "explanation": "Only the two ionisable Cl⁻ outside the coordination sphere precipitate. The Cl inside the sphere does not.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Coordination Compounds"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of unpaired electrons in [Fe(CN)₆]³⁻ is:",
+  "options": null,
+  "correct_answer": "1",
+  "explanation": "Fe³⁺ is d⁵. CN⁻ is a strong field ligand, so the complex is low spin (t₂g⁵) with 1 unpaired electron.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Coordination Compounds"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The effective atomic number (EAN) of nickel in Ni(CO)₄ (Z = 28) is:",
+  "options": null,
+  "correct_answer": "36",
+  "explanation": "Ni is in the 0 oxidation state (28 electrons) and four CO ligands donate 2 electrons each: 28 + 8 = 36.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Coordination Compounds"
+ }
+]

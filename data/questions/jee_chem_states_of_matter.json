@@ -1,0 +1,452 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "A gas occupying 2 L at 1 atm is compressed isothermally to 0.5 L. The new pressure is:",
+  "options": {
+   "A": "2 atm",
+   "B": "4 atm",
+   "C": "0.25 atm",
+   "D": "0.5 atm"
+  },
+  "correct_answer": "B",
+  "explanation": "Boyle's law: P₂ = P₁V₁/V₂ = 1 × 2/0.5 = 4 atm.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "States of Matter"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "300 mL of a gas at 27°C is heated at constant pressure to 127°C. The new volume is:",
+  "options": {
+   "A": "900 mL",
+   "B": "600 mL",
+   "C": "300 mL",
+   "D": "400 mL"
+  },
+  "correct_answer": "D",
+  "explanation": "Charles' law with absolute temperatures: V₂ = 300 × 400/300 = 400 mL.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "States of Matter"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The molar volume of an ideal gas at 273 K and 1 atm is about:",
+  "options": {
+   "A": "22.4 L",
+   "B": "22.4 mL",
+   "C": "11.2 L",
+   "D": "24.5 L"
+  },
+  "correct_answer": "A",
+  "explanation": "1 mole occupies 22.4 L at 273 K and 1 atm.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "States of Matter"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Avogadro's law states that equal volumes of all gases at the same temperature and pressure contain:",
+  "options": {
+   "A": "the same mass",
+   "B": "the same number of atoms",
+   "C": "the same number of molecules",
+   "D": "the same density"
+  },
+  "correct_answer": "C",
+  "explanation": "This holds for ideal gases at the same T and P.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "States of Matter"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The value of the gas constant R in SI units is:",
+  "options": {
+   "A": "0.0821 J mol⁻¹ K⁻¹",
+   "B": "8.314 J mol⁻¹ K⁻¹",
+   "C": "1.987 J mol⁻¹ K⁻¹",
+   "D": "83.14 J mol⁻¹ K⁻¹"
+  },
+  "correct_answer": "B",
+  "explanation": "R = 8.314 J mol⁻¹ K⁻¹ (equivalently 0.0821 L atm mol⁻¹ K⁻¹).",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "States of Matter"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A vessel holds 2 mol of gas A and 3 mol of gas B at a total pressure of 5 atm. The partial pressure of A is:",
+  "options": {
+   "A": "3 atm",
+   "B": "2.5 atm",
+   "C": "5 atm",
+   "D": "2 atm"
+  },
+  "correct_answer": "D",
+  "explanation": "p_A = x_A × P = (2/5) × 5 = 2 atm.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "States of Matter"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The ratio of the rates of effusion of hydrogen (M = 2) and oxygen (M = 32) under the same conditions is:",
+  "options": {
+   "A": "4 : 1",
+   "B": "16 : 1",
+   "C": "1 : 4",
+   "D": "2 : 1"
+  },
+  "correct_answer": "A",
+  "explanation": "Graham's law: rate ∝ 1/√M, so the ratio is √(32/2) = 4.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "States of Matter"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "At a given temperature, the correct order of the molecular speeds is:",
+  "options": {
+   "A": "rms < average < most probable",
+   "B": "average < most probable < rms",
+   "C": "most probable < average < rms",
+   "D": "most probable = average = rms"
+  },
+  "correct_answer": "C",
+  "explanation": "The speeds are in the ratio √2 : √(8/π) : √3.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "States of Matter"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The average kinetic energy of the molecules of an ideal gas is directly proportional to its:",
+  "options": {
+   "A": "pressure",
+   "B": "absolute temperature",
+   "C": "volume",
+   "D": "molar mass"
+  },
+  "correct_answer": "B",
+  "explanation": "KE = (3/2)kT per molecule.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "States of Matter"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The rms speed of the molecules of a gas becomes double when the absolute temperature is made:",
+  "options": {
+   "A": "2 times",
+   "B": "8 times",
+   "C": "√2 times",
+   "D": "4 times"
+  },
+  "correct_answer": "D",
+  "explanation": "v_rms ∝ √T, so doubling the speed needs 4 times the temperature.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "States of Matter"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The compressibility factor Z of an ideal gas is:",
+  "options": {
+   "A": "1",
+   "B": "0",
+   "C": "less than 1",
+   "D": "greater than 1"
+  },
+  "correct_answer": "A",
+  "explanation": "Z = PV/nRT = 1 for an ideal gas.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "States of Matter"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A real gas behaves most nearly like an ideal gas at:",
+  "options": {
+   "A": "high pressure and low temperature",
+   "B": "high pressure and high temperature",
+   "C": "low pressure and high temperature",
+   "D": "low pressure and low temperature"
+  },
+  "correct_answer": "C",
+  "explanation": "Intermolecular forces and molecular volume then become negligible.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "States of Matter"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In the van der Waals equation, the constant 'a' is a measure of:",
+  "options": {
+   "A": "the finite volume of the molecules",
+   "B": "the attractive forces between molecules",
+   "C": "the kinetic energy of the molecules",
+   "D": "the temperature of the gas"
+  },
+  "correct_answer": "B",
+  "explanation": "'a' corrects the pressure for intermolecular attraction, and 'b' corrects the volume.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "States of Matter"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The Boyle temperature is the temperature at which:",
+  "options": {
+   "A": "a gas liquefies at any pressure",
+   "B": "the volume of the gas is zero",
+   "C": "the vapour pressure equals the atmospheric pressure",
+   "D": "a real gas obeys Boyle's law over a wide range of pressure"
+  },
+  "correct_answer": "D",
+  "explanation": "At the Boyle temperature Z is close to 1 for a considerable pressure range.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "States of Matter"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The critical temperature of a gas is the temperature:",
+  "options": {
+   "A": "above which it cannot be liquefied by applying pressure alone",
+   "B": "below which it cannot be liquefied",
+   "C": "at which it freezes",
+   "D": "at which its vapour pressure is 1 atm"
+  },
+  "correct_answer": "A",
+  "explanation": "Above T_c no amount of pressure can liquefy the gas.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "States of Matter"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The vapour pressure of a liquid, as the temperature increases:",
+  "options": {
+   "A": "decreases",
+   "B": "stays constant",
+   "C": "increases",
+   "D": "first decreases and then increases"
+  },
+  "correct_answer": "C",
+  "explanation": "More molecules have enough energy to escape into the vapour.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "States of Matter"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A liquid boils when:",
+  "options": {
+   "A": "its vapour pressure is zero",
+   "B": "its vapour pressure equals the external pressure",
+   "C": "its temperature reaches 100°C",
+   "D": "its surface tension is highest"
+  },
+  "correct_answer": "B",
+  "explanation": "Bubbles of vapour can form once the vapour pressure matches the external pressure.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "States of Matter"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "As the temperature of a liquid increases, its surface tension:",
+  "options": {
+   "A": "increases",
+   "B": "stays constant",
+   "C": "doubles",
+   "D": "decreases"
+  },
+  "correct_answer": "D",
+  "explanation": "Weaker cohesive forces at higher kinetic energy reduce the surface tension.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "States of Matter"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "As the temperature increases, the viscosity of a liquid:",
+  "options": {
+   "A": "decreases",
+   "B": "increases",
+   "C": "remains the same",
+   "D": "becomes infinite"
+  },
+  "correct_answer": "A",
+  "explanation": "Molecules overcome intermolecular forces more easily at higher temperature.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "States of Matter"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The density of CO₂ (molar mass 44 g/mol) at STP, taking the molar volume as 22.4 L, is about:",
+  "options": {
+   "A": "0.51 g/L",
+   "B": "44 g/L",
+   "C": "1.96 g/L",
+   "D": "22.4 g/L"
+  },
+  "correct_answer": "C",
+  "explanation": "Density = 44/22.4 ≈ 1.96 g/L.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "States of Matter"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The number of moles of gas in a vessel of 8.2 L at 3 atm and 300 K (R = 0.082 L atm mol⁻¹ K⁻¹) is:",
+  "options": {
+   "A": "0.5",
+   "B": "1",
+   "C": "2",
+   "D": "0.33"
+  },
+  "correct_answer": "B",
+  "explanation": "n = PV/RT = (3 × 8.2)/(0.082 × 300) = 1.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "States of Matter"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "At constant temperature, the mean free path of gas molecules is proportional to:",
+  "options": {
+   "A": "P",
+   "B": "P²",
+   "C": "√P",
+   "D": "1/P"
+  },
+  "correct_answer": "D",
+  "explanation": "A higher pressure means more molecules per unit volume, so the mean free path is shorter.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "States of Matter"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which of the following statements about real gases are correct?",
+  "options": {
+   "A": "Z = 1 for an ideal gas at all pressures",
+   "B": "Real gases behave ideally at high pressure and low temperature",
+   "C": "Z < 1 at moderate pressures because of intermolecular attraction",
+   "D": "Z > 1 at very high pressure because of the finite volume of molecules"
+  },
+  "correct_answer": "A,C,D",
+  "explanation": "Ideal behaviour is approached at low pressure and high temperature.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "States of Matter"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "The vapour pressure of a pure liquid depends on:",
+  "options": {
+   "A": "the surface area of the liquid",
+   "B": "the temperature",
+   "C": "the nature of the liquid",
+   "D": "the amount of liquid taken"
+  },
+  "correct_answer": "B,C",
+  "explanation": "The vapour pressure at a given temperature is independent of the amount of liquid and of the surface area.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "States of Matter"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A gas at 2 atm occupies 6 L. It is compressed isothermally to 3 L. The final pressure (in atm) is:",
+  "options": null,
+  "correct_answer": "4",
+  "explanation": "P₂ = 2 × 6/3 = 4 atm.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "States of Matter"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The volume (in L) of 0.5 mol of an ideal gas at STP (molar volume 22.4 L) is:",
+  "options": null,
+  "correct_answer": "11.2",
+  "explanation": "0.5 × 22.4 = 11.2 L.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "States of Matter"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The rms speed of a gas at 300 K is u. At what temperature (in K) will it become 2u?",
+  "options": null,
+  "correct_answer": "1200",
+  "explanation": "v ∝ √T, so T must be 4 × 300 = 1200 K.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "States of Matter"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "Using R = 0.082 L atm mol⁻¹ K⁻¹, the number of moles of gas in 24.6 L at 1 atm and 300 K is:",
+  "options": null,
+  "correct_answer": "1",
+  "explanation": "n = (1 × 24.6)/(0.082 × 300) = 1.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "States of Matter"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "Gas X has molar mass 4 and gas Y has molar mass 16. The ratio (rate of effusion of X)/(rate of effusion of Y) is:",
+  "options": null,
+  "correct_answer": "2",
+  "explanation": "Rate ∝ 1/√M, so the ratio is √(16/4) = 2.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "States of Matter"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A mixture of 2 g of H₂ and 16 g of O₂ is placed in a 24.6 L vessel at 300 K (R = 0.082 L atm mol⁻¹ K⁻¹). The total pressure (in atm) is:",
+  "options": null,
+  "correct_answer": "1.5",
+  "explanation": "n = 1 + 0.5 = 1.5 mol, so P = nRT/V = 1.5 × 0.082 × 300/24.6 = 1.5 atm.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "States of Matter"
+ }
+]

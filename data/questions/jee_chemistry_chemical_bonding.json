@@ -1,0 +1,452 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "Which species has the highest bond order?",
+  "options": {
+   "A": "O₂",
+   "B": "O₂⁺",
+   "C": "O₂⁻",
+   "D": "O₂²⁻"
+  },
+  "correct_answer": "B",
+  "explanation": "Bond orders: O₂⁺ = 2.5, O₂ = 2, O₂⁻ = 1.5, O₂²⁻ = 1.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Bonding and Molecular Structure"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The shape of XeF₄ is:",
+  "options": {
+   "A": "Tetrahedral",
+   "B": "See-saw",
+   "C": "Square planar",
+   "D": "Octahedral"
+  },
+  "correct_answer": "C",
+  "explanation": "Xe has 4 bond pairs and 2 lone pairs (sp³d², octahedral arrangement); lone pairs are trans, giving a square planar shape.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Bonding and Molecular Structure"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The molecule IF₅ has which hybridisation and shape?",
+  "options": {
+   "A": "sp³d, trigonal bipyramidal",
+   "B": "sp³d², square pyramidal",
+   "C": "sp³d², square planar",
+   "D": "sp³d², octahedral"
+  },
+  "correct_answer": "B",
+  "explanation": "IF₅ has 5 bond pairs and 1 lone pair on I (6 electron pairs, sp³d²), giving a square pyramidal shape.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Bonding and Molecular Structure"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following molecules is paramagnetic?",
+  "options": {
+   "A": "N₂",
+   "B": "O₂",
+   "C": "F₂",
+   "D": "C₂"
+  },
+  "correct_answer": "B",
+  "explanation": "O₂ has two unpaired electrons in its π* orbitals. N₂, F₂ and C₂ have all electrons paired.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Bonding and Molecular Structure"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which molecule has the smallest bond angle?",
+  "options": {
+   "A": "H₂O",
+   "B": "NH₃",
+   "C": "CH₄",
+   "D": "BF₃"
+  },
+  "correct_answer": "A",
+  "explanation": "Bond angles: BF₃ 120°, CH₄ 109.5°, NH₃ about 107°, H₂O about 104.5°. Two lone pairs squeeze H₂O the most.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Bonding and Molecular Structure"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following molecules is non-polar?",
+  "options": {
+   "A": "H₂O",
+   "B": "NH₃",
+   "C": "CO₂",
+   "D": "SO₂"
+  },
+  "correct_answer": "C",
+  "explanation": "CO₂ is linear, so the two C=O bond dipoles cancel.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Bonding and Molecular Structure"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The number of lone pairs on the central atom of ClF₃ is:",
+  "options": {
+   "A": "0",
+   "B": "1",
+   "C": "2",
+   "D": "3"
+  },
+  "correct_answer": "C",
+  "explanation": "Cl has 7 valence electrons; 3 are used in bonds, leaving 4 electrons = 2 lone pairs (T-shaped molecule).",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Bonding and Molecular Structure"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The shape of the I₃⁻ ion is:",
+  "options": {
+   "A": "Bent",
+   "B": "Linear",
+   "C": "Trigonal planar",
+   "D": "T-shaped"
+  },
+  "correct_answer": "B",
+  "explanation": "Central I has 2 bond pairs and 3 lone pairs (sp³d); the lone pairs occupy equatorial positions, so the ion is linear.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Bonding and Molecular Structure"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which compound has the highest lattice energy?",
+  "options": {
+   "A": "NaCl",
+   "B": "KCl",
+   "C": "MgO",
+   "D": "CsI"
+  },
+  "correct_answer": "C",
+  "explanation": "Lattice energy increases with ionic charge and decreases with ionic size. Mg²⁺ and O²⁻ have the highest charges and are small.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Bonding and Molecular Structure"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In which molecule is the central atom sp² hybridised?",
+  "options": {
+   "A": "BF₃",
+   "B": "NH₃",
+   "C": "CH₄",
+   "D": "PCl₅"
+  },
+  "correct_answer": "A",
+  "explanation": "BF₃ has 3 bond pairs and no lone pairs on B, so it is sp² and trigonal planar.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Bonding and Molecular Structure"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "NF₃ has a much smaller dipole moment than NH₃ because:",
+  "options": {
+   "A": "F is less electronegative than H",
+   "B": "The N–F bond dipoles oppose the lone pair dipole",
+   "C": "NF₃ is planar",
+   "D": "The N–F bond is non-polar"
+  },
+  "correct_answer": "B",
+  "explanation": "In NH₃ the N–H bond dipoles point the same way as the lone pair dipole. In NF₃ they point opposite to it, so the net dipole is small.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Bonding and Molecular Structure"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which species is isoelectronic with N₂ and has the same bond order?",
+  "options": {
+   "A": "CO",
+   "B": "NO",
+   "C": "O₂",
+   "D": "F₂"
+  },
+  "correct_answer": "A",
+  "explanation": "CO has 14 electrons like N₂ and a triple bond (bond order 3).",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Bonding and Molecular Structure"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which pair contains only linear species?",
+  "options": {
+   "A": "CO₂ and SO₂",
+   "B": "XeF₂ and I₃⁻",
+   "C": "H₂O and BeCl₂",
+   "D": "NH₃ and CO₂"
+  },
+  "correct_answer": "B",
+  "explanation": "XeF₂ and I₃⁻ both have 2 bond pairs and 3 lone pairs, so both are linear. SO₂, H₂O and NH₃ are not linear.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Bonding and Molecular Structure"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following shows the strongest hydrogen bonding?",
+  "options": {
+   "A": "HF",
+   "B": "HCl",
+   "C": "H₂S",
+   "D": "PH₃"
+  },
+  "correct_answer": "A",
+  "explanation": "F is the most electronegative and smallest of these, so the F–H···F hydrogen bond is the strongest.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Bonding and Molecular Structure"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following does not obey the octet rule?",
+  "options": {
+   "A": "NH₃",
+   "B": "CCl₄",
+   "C": "PCl₅",
+   "D": "H₂O"
+  },
+  "correct_answer": "C",
+  "explanation": "In PCl₅ phosphorus has 10 electrons around it (expanded octet).",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Bonding and Molecular Structure"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which molecule has the shortest carbon–carbon bond?",
+  "options": {
+   "A": "C₂H₆",
+   "B": "C₂H₄",
+   "C": "C₂H₂",
+   "D": "C₆H₆"
+  },
+  "correct_answer": "C",
+  "explanation": "Bond length decreases with bond order: C≡C in C₂H₂ is the shortest.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Bonding and Molecular Structure"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which hydride has the largest bond angle?",
+  "options": {
+   "A": "NH₃",
+   "B": "PH₃",
+   "C": "AsH₃",
+   "D": "SbH₃"
+  },
+  "correct_answer": "A",
+  "explanation": "Bond angle decreases down the group as the central atom becomes less electronegative: NH₃ ≈ 107°, PH₃ ≈ 93.5°, AsH₃ ≈ 92°, SbH₃ ≈ 91°.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Bonding and Molecular Structure"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is the most covalent?",
+  "options": {
+   "A": "LiCl",
+   "B": "NaCl",
+   "C": "KCl",
+   "D": "CsCl"
+  },
+  "correct_answer": "A",
+  "explanation": "By Fajans' rule, the small Li⁺ ion has the highest polarising power, so LiCl has the most covalent character.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Bonding and Molecular Structure"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The O–O bond order in an ozone molecule is:",
+  "options": {
+   "A": "1",
+   "B": "1.5",
+   "C": "2",
+   "D": "2.5"
+  },
+  "correct_answer": "B",
+  "explanation": "The two resonance structures (one O–O single, one double) give an average bond order of 1.5.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Bonding and Molecular Structure"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The hybridisation of carbon in diamond and graphite respectively is:",
+  "options": {
+   "A": "sp³, sp²",
+   "B": "sp², sp³",
+   "C": "sp³, sp",
+   "D": "sp, sp²"
+  },
+  "correct_answer": "A",
+  "explanation": "Each C in diamond is bonded to 4 others (sp³); in graphite each C is bonded to 3 others in a layer (sp²).",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Bonding and Molecular Structure"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following has zero dipole moment?",
+  "options": {
+   "A": "cis-1,2-dichloroethene",
+   "B": "trans-1,2-dichloroethene",
+   "C": "SO₂",
+   "D": "NH₃"
+  },
+  "correct_answer": "B",
+  "explanation": "In the trans isomer the two C–Cl dipoles are equal and opposite and cancel.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Bonding and Molecular Structure"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following species is diamagnetic?",
+  "options": {
+   "A": "B₂",
+   "B": "O₂",
+   "C": "O₂⁻",
+   "D": "C₂"
+  },
+  "correct_answer": "D",
+  "explanation": "C₂ has all electrons paired (π2p⁴ is filled before σ2p). B₂ has two unpaired electrons, O₂ has two, and O₂⁻ has one.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Bonding and Molecular Structure"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which statements about XeF₄ are correct?",
+  "options": {
+   "A": "Xe is sp³d² hybridised",
+   "B": "It is square planar",
+   "C": "Xe has two lone pairs",
+   "D": "It has a net dipole moment"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "XeF₄ has 6 electron pairs (sp³d²) with 2 lone pairs, and a square planar shape. The bond dipoles cancel, so it is non-polar.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Bonding and Molecular Structure"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which of the following species are paramagnetic?",
+  "options": {
+   "A": "O₂",
+   "B": "N₂",
+   "C": "B₂",
+   "D": "O₂⁻"
+  },
+  "correct_answer": "A,C,D",
+  "explanation": "O₂ (2 unpaired), B₂ (2 unpaired) and O₂⁻ (1 unpaired) are paramagnetic. N₂ is diamagnetic.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Bonding and Molecular Structure"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of lone pairs on Xe in XeF₂ is:",
+  "options": null,
+  "correct_answer": "3",
+  "explanation": "Xe has 8 valence electrons; 2 are used for the two bonds, leaving 6 electrons = 3 lone pairs.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Bonding and Molecular Structure"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of σ bonds in a molecule of ethene (C₂H₄) is:",
+  "options": null,
+  "correct_answer": "5",
+  "explanation": "4 C–H σ bonds plus 1 C–C σ bond = 5.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Bonding and Molecular Structure"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of π bonds in CH₂=CH–C≡CH is:",
+  "options": null,
+  "correct_answer": "3",
+  "explanation": "The C=C has 1 π bond and the C≡C has 2 π bonds, so 3 in total.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Bonding and Molecular Structure"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of unpaired electrons in an O₂ molecule is:",
+  "options": null,
+  "correct_answer": "2",
+  "explanation": "Two electrons occupy the degenerate π*2p orbitals singly with parallel spins.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Bonding and Molecular Structure"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "Among CO₂, BF₃, CH₄, NH₃, H₂O and XeF₄, the number of molecules with zero dipole moment is:",
+  "options": null,
+  "correct_answer": "4",
+  "explanation": "CO₂, BF₃, CH₄ and XeF₄ are symmetric and non-polar. NH₃ and H₂O are polar.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Bonding and Molecular Structure"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The total number of valence electrons in the SO₄²⁻ ion is:",
+  "options": null,
+  "correct_answer": "32",
+  "explanation": "S contributes 6, four O atoms contribute 24, and the 2− charge adds 2: 6 + 24 + 2 = 32.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Bonding and Molecular Structure"
+ }
+]

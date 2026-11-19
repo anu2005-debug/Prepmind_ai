@@ -1,0 +1,452 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "At absolute zero an intrinsic semiconductor behaves as:",
+  "options": {
+   "A": "a perfect conductor",
+   "B": "an insulator",
+   "C": "a superconductor",
+   "D": "a magnet"
+  },
+  "correct_answer": "B",
+  "explanation": "At 0 K the valence band is full and the conduction band is empty, so there are no free carriers.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Semiconductor Electronics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The majority charge carriers in an n-type semiconductor are:",
+  "options": {
+   "A": "holes",
+   "B": "protons",
+   "C": "electrons",
+   "D": "positive ions"
+  },
+  "correct_answer": "C",
+  "explanation": "Pentavalent donor atoms supply extra free electrons.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Semiconductor Electronics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which impurity added to silicon gives an n-type semiconductor?",
+  "options": {
+   "A": "Boron",
+   "B": "Aluminium",
+   "C": "Gallium",
+   "D": "Phosphorus"
+  },
+  "correct_answer": "D",
+  "explanation": "Phosphorus is pentavalent and acts as a donor. The others are trivalent.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Semiconductor Electronics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A p-type semiconductor is made by doping silicon with:",
+  "options": {
+   "A": "phosphorus",
+   "B": "arsenic",
+   "C": "indium",
+   "D": "antimony"
+  },
+  "correct_answer": "C",
+  "explanation": "Indium is trivalent and acts as an acceptor, creating holes.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Semiconductor Electronics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The energy gap of silicon is approximately:",
+  "options": {
+   "A": "1.1 eV",
+   "B": "0.01 eV",
+   "C": "5.5 eV",
+   "D": "11 eV"
+  },
+  "correct_answer": "A",
+  "explanation": "Silicon has an energy gap of about 1.1 eV.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Semiconductor Electronics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "When a p-n junction is forward biased, the width of the depletion region:",
+  "options": {
+   "A": "increases",
+   "B": "becomes infinite",
+   "C": "remains the same",
+   "D": "decreases"
+  },
+  "correct_answer": "D",
+  "explanation": "Forward bias reduces the barrier, so the depletion region narrows.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Semiconductor Electronics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Under reverse bias, the current through a p-n junction diode is:",
+  "options": {
+   "A": "very large",
+   "B": "very small, due to minority carriers",
+   "C": "equal to the forward current",
+   "D": "infinite"
+  },
+  "correct_answer": "B",
+  "explanation": "Only a tiny drift current of minority carriers flows in reverse bias.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Semiconductor Electronics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The input to a half-wave rectifier has frequency 50 Hz. The frequency of the output ripple is:",
+  "options": {
+   "A": "50 Hz",
+   "B": "25 Hz",
+   "C": "100 Hz",
+   "D": "200 Hz"
+  },
+  "correct_answer": "A",
+  "explanation": "A half-wave rectifier passes one pulse per input cycle, so the output frequency equals the input frequency.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Semiconductor Electronics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The input to a full-wave rectifier has frequency 50 Hz. The frequency of the output ripple is:",
+  "options": {
+   "A": "25 Hz",
+   "B": "50 Hz",
+   "C": "100 Hz",
+   "D": "200 Hz"
+  },
+  "correct_answer": "C",
+  "explanation": "A full-wave rectifier gives two pulses per input cycle, so the ripple frequency is doubled.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Semiconductor Electronics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A Zener diode used as a voltage regulator operates in:",
+  "options": {
+   "A": "forward bias",
+   "B": "an open circuit",
+   "C": "saturation",
+   "D": "the reverse breakdown region"
+  },
+  "correct_answer": "D",
+  "explanation": "In breakdown the voltage across a Zener stays nearly constant over a wide range of current.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Semiconductor Electronics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "For an n-p-n transistor working as an amplifier (active region):",
+  "options": {
+   "A": "both junctions are forward biased",
+   "B": "both junctions are reverse biased",
+   "C": "the emitter-base junction is forward biased and the collector-base junction is reverse biased",
+   "D": "the emitter-base junction is reverse biased and the collector-base junction is forward biased"
+  },
+  "correct_answer": "C",
+  "explanation": "Active region biasing: emitter-base forward, collector-base reverse.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Semiconductor Electronics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In a common-emitter transistor the base current is 20 μA and the collector current is 2 mA. The current gain β is:",
+  "options": {
+   "A": "100",
+   "B": "10",
+   "C": "0.01",
+   "D": "1000"
+  },
+  "correct_answer": "A",
+  "explanation": "β = I_C/I_B = 2 × 10⁻³/(20 × 10⁻⁶) = 100.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Semiconductor Electronics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A transistor has emitter current 5 mA and collector current 4.9 mA. The value of α is:",
+  "options": {
+   "A": "0.9",
+   "B": "0.98",
+   "C": "1.02",
+   "D": "49"
+  },
+  "correct_answer": "B",
+  "explanation": "α = I_C/I_E = 4.9/5 = 0.98.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Semiconductor Electronics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "For a transistor with α = 0.98, the value of β is:",
+  "options": {
+   "A": "0.02",
+   "B": "98",
+   "C": "4.9",
+   "D": "49"
+  },
+  "correct_answer": "D",
+  "explanation": "β = α/(1 − α) = 0.98/0.02 = 49.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Semiconductor Electronics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A common-emitter amplifier produces a phase difference between input and output voltages of:",
+  "options": {
+   "A": "0°",
+   "B": "90°",
+   "C": "180°",
+   "D": "270°"
+  },
+  "correct_answer": "C",
+  "explanation": "A common-emitter amplifier inverts the signal, giving a 180° phase shift.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Semiconductor Electronics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The output of a NOR gate when both inputs are 0 is:",
+  "options": {
+   "A": "1",
+   "B": "0",
+   "C": "undefined",
+   "D": "high impedance"
+  },
+  "correct_answer": "A",
+  "explanation": "NOR = NOT(A + B) = NOT(0) = 1.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Semiconductor Electronics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which gate is called a universal gate?",
+  "options": {
+   "A": "AND",
+   "B": "OR",
+   "C": "NOT",
+   "D": "NAND"
+  },
+  "correct_answer": "D",
+  "explanation": "Any logic function can be built from NAND gates alone (NOR is also universal).",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Semiconductor Electronics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The Boolean expression Y = A + A·B simplifies to:",
+  "options": {
+   "A": "B",
+   "B": "A",
+   "C": "A·B",
+   "D": "A + B"
+  },
+  "correct_answer": "B",
+  "explanation": "A + AB = A(1 + B) = A.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Semiconductor Electronics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A photodiode is normally operated in:",
+  "options": {
+   "A": "forward bias",
+   "B": "reverse bias",
+   "C": "forward bias beyond 5 V",
+   "D": "no bias with a short circuit"
+  },
+  "correct_answer": "B",
+  "explanation": "In reverse bias the change in the small reverse current due to light is easy to measure.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Semiconductor Electronics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A semiconductor has an energy gap of 1.24 eV (hc = 1240 eV nm). The longest wavelength that can create an electron-hole pair is:",
+  "options": {
+   "A": "1000 nm",
+   "B": "500 nm",
+   "C": "2000 nm",
+   "D": "1240 nm"
+  },
+  "correct_answer": "A",
+  "explanation": "λ = hc/E_g = 1240/1.24 = 1000 nm.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Semiconductor Electronics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In silicon n_i = 10¹⁶ m⁻³. After doping the electron concentration is 10²² m⁻³. The hole concentration is:",
+  "options": {
+   "A": "10²² m⁻³",
+   "B": "10¹⁶ m⁻³",
+   "C": "10¹⁰ m⁻³",
+   "D": "10⁶ m⁻³"
+  },
+  "correct_answer": "C",
+  "explanation": "np = n_i², so p = 10³²/10²² = 10¹⁰ m⁻³.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Semiconductor Electronics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "As the temperature of an intrinsic semiconductor increases, its conductivity:",
+  "options": {
+   "A": "decreases",
+   "B": "increases",
+   "C": "stays the same",
+   "D": "becomes zero"
+  },
+  "correct_answer": "B",
+  "explanation": "More electron-hole pairs are generated at higher temperature, so conductivity rises.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Semiconductor Electronics"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which statements about a p-n junction are correct?",
+  "options": {
+   "A": "The depletion region contains immobile ions",
+   "B": "Forward bias reduces the barrier height",
+   "C": "Reverse bias increases the barrier height",
+   "D": "A diode obeys Ohm's law"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "A diode's I-V characteristic is non-linear, so it does not obey Ohm's law.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Semiconductor Electronics"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which statements about a transistor are correct?",
+  "options": {
+   "A": "The emitter is heavily doped",
+   "B": "The base is thin and lightly doped",
+   "C": "A common-emitter amplifier gives a 180° phase shift",
+   "D": "The collector region is the thinnest of the three"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "The base is the thinnest region, so D is false.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Semiconductor Electronics"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A transistor has β = 100 and base current 30 μA. The collector current (in mA) is:",
+  "options": null,
+  "correct_answer": "3",
+  "explanation": "I_C = βI_B = 100 × 30 μA = 3 mA.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Semiconductor Electronics"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A semiconductor has an energy gap of 2.48 eV. The longest wavelength (in nm) of light that can excite electrons across the gap is (hc = 1240 eV nm):",
+  "options": null,
+  "correct_answer": "500",
+  "explanation": "λ = 1240/2.48 = 500 nm.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Semiconductor Electronics"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A full-wave rectifier has an input frequency of 60 Hz. The ripple frequency (in Hz) is:",
+  "options": null,
+  "correct_answer": "120",
+  "explanation": "The ripple frequency of a full-wave rectifier is twice the input frequency: 120 Hz.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Semiconductor Electronics"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A 12 V Zener diode is in series with a 500 Ω resistor across a 20 V supply, with no load. The current through the Zener (in mA) is:",
+  "options": null,
+  "correct_answer": "16",
+  "explanation": "I = (20 − 12)/500 = 0.016 A = 16 mA.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Semiconductor Electronics"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A transistor has α = 0.96. The current gain β is:",
+  "options": null,
+  "correct_answer": "24",
+  "explanation": "β = α/(1 − α) = 0.96/0.04 = 24.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Semiconductor Electronics"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "In a semiconductor n_i = 1.5 × 10¹⁶ m⁻³ and the electron concentration is 4.5 × 10²² m⁻³. The hole concentration, in units of 10⁹ m⁻³, is:",
+  "options": null,
+  "correct_answer": "5",
+  "explanation": "p = n_i²/n = 2.25 × 10³²/4.5 × 10²² = 5 × 10⁹ m⁻³.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Semiconductor Electronics"
+ }
+]

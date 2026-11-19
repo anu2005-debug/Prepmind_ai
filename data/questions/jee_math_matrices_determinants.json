@@ -1,0 +1,452 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "If A = [[1, 2], [3, 4]], then the determinant of A is:",
+  "options": {
+   "A": "−2",
+   "B": "2",
+   "C": "10",
+   "D": "−10"
+  },
+  "correct_answer": "A",
+  "explanation": "|A| = 1×4 − 2×3 = 4 − 6 = −2.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Matrices and Determinants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "If A is a 3×3 matrix with |A| = 5, then |2A| is:",
+  "options": {
+   "A": "10",
+   "B": "40",
+   "C": "20",
+   "D": "25"
+  },
+  "correct_answer": "B",
+  "explanation": "|kA| = kⁿ|A| for an n×n matrix, so |2A| = 2³ × 5 = 40.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Matrices and Determinants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "If A is a 3×3 matrix with |A| = 4, then |adj A| is:",
+  "options": {
+   "A": "4",
+   "B": "16",
+   "C": "64",
+   "D": "12"
+  },
+  "correct_answer": "B",
+  "explanation": "|adj A| = |A|ⁿ⁻¹ = 4² = 16.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Matrices and Determinants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The inverse of the matrix [[2, 1], [1, 1]] is:",
+  "options": {
+   "A": "[[1, −1], [−1, 2]]",
+   "B": "[[2, −1], [−1, 1]]",
+   "C": "[[1, 1], [1, 2]]",
+   "D": "[[−1, 1], [1, −2]]"
+  },
+  "correct_answer": "A",
+  "explanation": "The determinant is 2 − 1 = 1. The inverse is (1/1) × [[1, −1], [−1, 2]].",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Matrices and Determinants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "If A is a 2×2 matrix with A² = A and A ≠ I, then |A| is:",
+  "options": {
+   "A": "0",
+   "B": "1",
+   "C": "−1",
+   "D": "2"
+  },
+  "correct_answer": "A",
+  "explanation": "A(A − I) = O. If |A| ≠ 0, A would be invertible and A − I = O, which gives A = I. So |A| = 0.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Matrices and Determinants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The determinant of a skew-symmetric matrix of odd order is:",
+  "options": {
+   "A": "1",
+   "B": "−1",
+   "C": "0",
+   "D": "depends on the matrix"
+  },
+  "correct_answer": "C",
+  "explanation": "Aᵀ = −A gives |A| = (−1)ⁿ|A| = −|A| for odd n, so |A| = 0.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Matrices and Determinants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "If A is an orthogonal matrix, then |A| is:",
+  "options": {
+   "A": "only 1",
+   "B": "only −1",
+   "C": "either 1 or −1",
+   "D": "0"
+  },
+  "correct_answer": "C",
+  "explanation": "AAᵀ = I gives |A|² = 1, so |A| = ±1.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Matrices and Determinants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The rank of the matrix [[1, 2, 3], [2, 4, 6], [3, 6, 9]] is:",
+  "options": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "0"
+  },
+  "correct_answer": "A",
+  "explanation": "Every row is a multiple of the first row, so there is only one independent row.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Matrices and Determinants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The system x + y = 2, 2x + ky = 4 has infinitely many solutions when k equals:",
+  "options": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4"
+  },
+  "correct_answer": "B",
+  "explanation": "For k = 2 the second equation is twice the first, so the equations are the same line.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Matrices and Determinants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The value of the determinant |1 1 1; 1 2 3; 1 3 6| is:",
+  "options": {
+   "A": "0",
+   "B": "1",
+   "C": "2",
+   "D": "−1"
+  },
+  "correct_answer": "B",
+  "explanation": "1(12 − 9) − 1(6 − 3) + 1(3 − 2) = 3 − 3 + 1 = 1.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Matrices and Determinants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The value of the determinant |1 2 3; 4 5 6; 1 2 3| is:",
+  "options": {
+   "A": "6",
+   "B": "0",
+   "C": "−6",
+   "D": "1"
+  },
+  "correct_answer": "B",
+  "explanation": "Two rows are identical, so the determinant is 0.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Matrices and Determinants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "If A = [[1, 0], [0, −1]], then A²⁰²⁴ equals:",
+  "options": {
+   "A": "A",
+   "B": "I",
+   "C": "−I",
+   "D": "O"
+  },
+  "correct_answer": "B",
+  "explanation": "A² = I, so A²⁰²⁴ = (A²)¹⁰¹² = I.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Matrices and Determinants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "For square matrices A and B of the same order, (AB)ᵀ equals:",
+  "options": {
+   "A": "AᵀBᵀ",
+   "B": "BᵀAᵀ",
+   "C": "ABᵀ",
+   "D": "BAᵀ"
+  },
+  "correct_answer": "B",
+  "explanation": "The transpose of a product reverses the order of the factors.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Matrices and Determinants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "If A and B are invertible matrices of the same order, then (AB)⁻¹ equals:",
+  "options": {
+   "A": "A⁻¹B⁻¹",
+   "B": "B⁻¹A⁻¹",
+   "C": "(BA)⁻¹ only if A = B",
+   "D": "AB"
+  },
+  "correct_answer": "B",
+  "explanation": "(AB)(B⁻¹A⁻¹) = A(BB⁻¹)A⁻¹ = I.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Matrices and Determinants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "If A = [[0, 1], [−1, 0]], then A² equals:",
+  "options": {
+   "A": "I",
+   "B": "−I",
+   "C": "O",
+   "D": "A"
+  },
+  "correct_answer": "B",
+  "explanation": "A² = [[0×0 + 1×(−1), 0×1 + 1×0], [(−1)×0 + 0×(−1), (−1)×1 + 0×0]] = [[−1, 0], [0, −1]] = −I.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Matrices and Determinants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "For any square matrix A, the matrix A + Aᵀ is always:",
+  "options": {
+   "A": "symmetric",
+   "B": "skew-symmetric",
+   "C": "orthogonal",
+   "D": "singular"
+  },
+  "correct_answer": "A",
+  "explanation": "(A + Aᵀ)ᵀ = Aᵀ + A = A + Aᵀ.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Matrices and Determinants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "If A = [[1, 2], [0, 1]], then A¹⁰ equals:",
+  "options": {
+   "A": "[[1, 10], [0, 1]]",
+   "B": "[[1, 20], [0, 1]]",
+   "C": "[[1, 1024], [0, 1]]",
+   "D": "[[10, 20], [0, 10]]"
+  },
+  "correct_answer": "B",
+  "explanation": "By induction Aⁿ = [[1, 2n], [0, 1]], so A¹⁰ = [[1, 20], [0, 1]].",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Matrices and Determinants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The system x + 2y + 3z = 0, 2x + 3y + 4z = 0, 3x + 4y + kz = 0 has a non-trivial solution for k equal to:",
+  "options": {
+   "A": "3",
+   "B": "4",
+   "C": "5",
+   "D": "6"
+  },
+  "correct_answer": "C",
+  "explanation": "A non-trivial solution needs the determinant to be zero. The determinant is 1(3k − 16) − 2(2k − 12) + 3(8 − 9) = 5 − k, so k = 5.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Matrices and Determinants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The values of x for which |x + 1  3; 5  x + 3| = 0 are:",
+  "options": {
+   "A": "2 and −6",
+   "B": "−2 and 6",
+   "C": "3 and −4",
+   "D": "1 and −12"
+  },
+  "correct_answer": "A",
+  "explanation": "(x + 1)(x + 3) − 15 = x² + 4x − 12 = (x − 2)(x + 6) = 0.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Matrices and Determinants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "If A is a 3×3 matrix with |adj A| = 25, then |A| equals:",
+  "options": {
+   "A": "5",
+   "B": "−5",
+   "C": "±5",
+   "D": "625"
+  },
+  "correct_answer": "C",
+  "explanation": "|adj A| = |A|² = 25, so |A| = 5 or −5.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Matrices and Determinants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "By Cramer's rule, the value of x in the system x + y = 3, x − y = 1 is:",
+  "options": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4"
+  },
+  "correct_answer": "B",
+  "explanation": "x = |3 1; 1 −1| / |1 1; 1 −1| = (−3 − 1)/(−1 − 1) = 2.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Matrices and Determinants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "If A² − 5A + 7I = O, then A⁻¹ equals:",
+  "options": {
+   "A": "(5I − A)/7",
+   "B": "(A − 5I)/7",
+   "C": "5I − A",
+   "D": "(A + 5I)/7"
+  },
+  "correct_answer": "A",
+  "explanation": "A² − 5A = −7I gives A(A − 5I) = −7I, so A⁻¹ = −(A − 5I)/7 = (5I − A)/7.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Matrices and Determinants"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "For square matrices A and B of the same order, which of the following are always true?",
+  "options": {
+   "A": "(Aᵀ)ᵀ = A",
+   "B": "(AB)ᵀ = BᵀAᵀ",
+   "C": "|AB| = |A||B|",
+   "D": "AB = BA"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "Matrix multiplication is not commutative in general, so AB = BA need not hold.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Matrices and Determinants"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which of the following matrices are orthogonal?",
+  "options": {
+   "A": "I (the 2×2 identity)",
+   "B": "[[0, 1], [1, 0]]",
+   "C": "[[1, 1], [1, 1]]",
+   "D": "[[cos θ, −sin θ], [sin θ, cos θ]]"
+  },
+  "correct_answer": "A,B,D",
+  "explanation": "For [[1, 1], [1, 1]], AAᵀ = [[2, 2], [2, 2]] ≠ I. The others satisfy AAᵀ = I.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Matrices and Determinants"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The determinant of the matrix [[3, 2], [1, 4]] is:",
+  "options": null,
+  "correct_answer": "10",
+  "explanation": "3×4 − 2×1 = 12 − 2 = 10.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Matrices and Determinants"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "If A is a 3×3 matrix with |A| = 2, then |3A| is:",
+  "options": null,
+  "correct_answer": "54",
+  "explanation": "|3A| = 3³ × 2 = 54.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Matrices and Determinants"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "If A is a 3×3 matrix with |A| = 2, then |adj(adj A)| is:",
+  "options": null,
+  "correct_answer": "16",
+  "explanation": "|adj(adj A)| = |A|⁽ⁿ⁻¹⁾² = 2⁴ = 16.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Matrices and Determinants"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "If A = [[1, 2], [3, 4]], the trace of A² is:",
+  "options": null,
+  "correct_answer": "29",
+  "explanation": "A² = [[7, 10], [15, 22]], so the trace is 7 + 22 = 29.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Matrices and Determinants"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of non-singular 2×2 matrices whose entries are all from {0, 1} is:",
+  "options": null,
+  "correct_answer": "6",
+  "explanation": "Of the 16 matrices, the singular ones satisfy ad = bc. That happens in 1 case with ad = bc = 1 and in 9 cases with ad = bc = 0, which makes 10. So 16 − 10 = 6 are non-singular.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Matrices and Determinants"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The determinant of the diagonal matrix with diagonal entries 2, 3 and 4 is:",
+  "options": null,
+  "correct_answer": "24",
+  "explanation": "The determinant of a diagonal matrix is the product of its diagonal entries: 2 × 3 × 4 = 24.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Matrices and Determinants"
+ }
+]

@@ -1,0 +1,482 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "Who showed in 1770 that a plant can restore air made unfit by a burning candle or a breathing animal?",
+  "options": {
+   "A": "Joseph Priestley",
+   "B": "Jan Ingenhousz",
+   "C": "Julius von Sachs",
+   "D": "T.W. Engelmann"
+  },
+  "correct_answer": "A",
+  "explanation": "Priestley's experiments with a mint plant, a candle and a mouse led to the discovery of oxygen release by plants.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Photosynthesis in Higher Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Jan Ingenhousz showed that:",
+  "options": {
+   "A": "plants release O2 in the dark",
+   "B": "sunlight is essential and only the green parts of the plant release O2",
+   "C": "plants make starch",
+   "D": "the O2 released comes from water"
+  },
+  "correct_answer": "B",
+  "explanation": "He showed that the air is restored only in sunlight and only by the green parts of the plant.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Photosynthesis in Higher Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Julius von Sachs showed that glucose made in green parts is stored as:",
+  "options": {
+   "A": "protein",
+   "B": "fat",
+   "C": "starch",
+   "D": "cellulose"
+  },
+  "correct_answer": "C",
+  "explanation": "Sachs found that the green parts of plants make glucose, which is usually stored as starch.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Photosynthesis in Higher Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Using Cladophora and aerobic bacteria, who first described the action spectrum of photosynthesis?",
+  "options": {
+   "A": "Joseph Priestley",
+   "B": "Cornelius van Niel",
+   "C": "Ruben and Kamen",
+   "D": "T.W. Engelmann"
+  },
+  "correct_answer": "D",
+  "explanation": "Engelmann split light with a prism and found that bacteria gathered at the blue and red regions.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Photosynthesis in Higher Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Cornelius van Niel's work on purple and green sulphur bacteria suggested that the O2 evolved by green plants comes from:",
+  "options": {
+   "A": "CO2",
+   "B": "water",
+   "C": "glucose",
+   "D": "chlorophyll"
+  },
+  "correct_answer": "B",
+  "explanation": "Since the bacteria use H2S as the hydrogen donor and release sulphur, he inferred that plants split water to release O2.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Photosynthesis in Higher Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In a chromatogram of leaf pigments, chlorophyll a appears:",
+  "options": {
+   "A": "yellow green",
+   "B": "bright or blue green",
+   "C": "yellow",
+   "D": "yellow to yellow-orange"
+  },
+  "correct_answer": "B",
+  "explanation": "Chlorophyll b is yellow green, xanthophylls are yellow and carotenoids are yellow to yellow-orange.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Photosynthesis in Higher Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Xanthophylls appear which colour in a chromatogram of leaf pigments?",
+  "options": {
+   "A": "bright green",
+   "B": "yellow green",
+   "C": "yellow",
+   "D": "orange-red"
+  },
+  "correct_answer": "C",
+  "explanation": "Xanthophylls are accessory pigments that appear yellow.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Photosynthesis in Higher Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Chlorophyll a shows its maximum absorption in the:",
+  "options": {
+   "A": "green and yellow regions",
+   "B": "blue and red regions",
+   "C": "violet region only",
+   "D": "far-red region only"
+  },
+  "correct_answer": "B",
+  "explanation": "Chlorophyll a absorbs mainly in the blue and red wavelengths, which matches the action spectrum of photosynthesis.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Photosynthesis in Higher Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The reaction centre of photosystem I is:",
+  "options": {
+   "A": "P680",
+   "B": "P700",
+   "C": "P450",
+   "D": "P430"
+  },
+  "correct_answer": "B",
+  "explanation": "In PS I the reaction centre chlorophyll a has its absorption peak at 700 nm.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Photosynthesis in Higher Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The reaction centre chlorophyll a of photosystem II has an absorption peak at:",
+  "options": {
+   "A": "680 nm",
+   "B": "700 nm",
+   "C": "760 nm",
+   "D": "650 nm"
+  },
+  "correct_answer": "A",
+  "explanation": "It is called P680.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Photosynthesis in Higher Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which ions are required for the splitting of water?",
+  "options": {
+   "A": "Mn2+ and Cl-",
+   "B": "Zn2+ and K+",
+   "C": "Fe2+ and Na+",
+   "D": "Mo and Cu"
+  },
+  "correct_answer": "A",
+  "explanation": "Manganese and chloride (with calcium) are cofactors of the water-splitting complex associated with PS II.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Photosynthesis in Higher Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The enzyme NADP reductase is located on the stroma side of the thylakoid membrane and forms:",
+  "options": {
+   "A": "NADPH",
+   "B": "ATP",
+   "C": "RuBP",
+   "D": "PGA"
+  },
+  "correct_answer": "A",
+  "explanation": "It reduces NADP+ to NADPH using the electrons that come from PS I.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Photosynthesis in Higher Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The Z scheme of the light reaction gets its name from:",
+  "options": {
+   "A": "the shape of the thylakoid",
+   "B": "the zinc requirement of the carriers",
+   "C": "the zig-zag shape of electron flow when carriers are placed on a redox potential scale",
+   "D": "its discoverer"
+  },
+  "correct_answer": "C",
+  "explanation": "The electron path from PS II to PS I looks like the letter Z.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Photosynthesis in Higher Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Cyclic photophosphorylation produces:",
+  "options": {
+   "A": "ATP only",
+   "B": "NADPH only",
+   "C": "ATP, NADPH and O2",
+   "D": "O2 only"
+  },
+  "correct_answer": "A",
+  "explanation": "Only PS I is involved, electrons return to it, and there is no photolysis of water, so there is no O2 or NADPH.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Photosynthesis in Higher Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Cyclic photophosphorylation occurs in the stroma lamellae because their membranes lack:",
+  "options": {
+   "A": "PS I",
+   "B": "PS II and NADP reductase",
+   "C": "ATP synthase",
+   "D": "chlorophyll a"
+  },
+  "correct_answer": "B",
+  "explanation": "Since NADP reductase is absent, electrons cycle back instead of reducing NADP+.",
+  "difficulty": "hard",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Photosynthesis in Higher Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In chemiosmosis in a chloroplast, protons accumulate in the:",
+  "options": {
+   "A": "stroma",
+   "B": "lumen of the thylakoid",
+   "C": "intermembrane space",
+   "D": "cytoplasm"
+  },
+  "correct_answer": "B",
+  "explanation": "Water splitting releases protons into the lumen, and electron transport pumps more in, so a gradient builds up.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Photosynthesis in Higher Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The CF0 part of chloroplast ATP synthase:",
+  "options": {
+   "A": "forms a transmembrane channel for protons",
+   "B": "catalyses the formation of ATP",
+   "C": "splits water",
+   "D": "fixes CO2"
+  },
+  "correct_answer": "A",
+  "explanation": "CF1 is the headpiece that makes ATP; CF0 carries protons across the membrane.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Photosynthesis in Higher Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The Calvin cycle takes place in the:",
+  "options": {
+   "A": "grana",
+   "B": "stroma",
+   "C": "thylakoid lumen",
+   "D": "inner membrane"
+  },
+  "correct_answer": "B",
+  "explanation": "The dark reaction uses ATP and NADPH made in the grana to fix CO2 in the stroma.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Photosynthesis in Higher Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The first stable product of CO2 fixation in the Calvin cycle is:",
+  "options": {
+   "A": "OAA",
+   "B": "3-phosphoglyceric acid (3-PGA)",
+   "C": "RuBP",
+   "D": "PEP"
+  },
+  "correct_answer": "B",
+  "explanation": "It is a three-carbon compound, so the cycle is called the C3 pathway.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Photosynthesis in Higher Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "RuBisCO catalyses the carboxylation of:",
+  "options": {
+   "A": "PEP",
+   "B": "pyruvate",
+   "C": "RuBP",
+   "D": "OAA"
+  },
+  "correct_answer": "C",
+  "explanation": "The ribulose bisphosphate carboxylase-oxygenase enzyme adds CO2 to the five-carbon RuBP.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Photosynthesis in Higher Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "For the synthesis of one glucose molecule by the Calvin cycle, how many ATP and NADPH are needed?",
+  "options": {
+   "A": "12 ATP and 18 NADPH",
+   "B": "18 ATP and 12 NADPH",
+   "C": "6 ATP and 6 NADPH",
+   "D": "30 ATP and 12 NADPH"
+  },
+  "correct_answer": "B",
+  "explanation": "Each CO2 fixed needs 3 ATP and 2 NADPH, so 6 CO2 need 18 ATP and 12 NADPH.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Photosynthesis in Higher Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The primary CO2 acceptor in C4 plants is:",
+  "options": {
+   "A": "RuBP",
+   "B": "phosphoenolpyruvate (PEP)",
+   "C": "OAA",
+   "D": "PGA"
+  },
+  "correct_answer": "B",
+  "explanation": "PEP, a three-carbon compound, is carboxylated to the four-carbon OAA.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Photosynthesis in Higher Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In C4 plants the primary carboxylation by PEP carboxylase occurs in the:",
+  "options": {
+   "A": "bundle sheath cells",
+   "B": "mesophyll cells",
+   "C": "guard cells only",
+   "D": "epidermal cells"
+  },
+  "correct_answer": "B",
+  "explanation": "The C4 acid is then moved to the bundle sheath, where it releases CO2 for the Calvin cycle.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Photosynthesis in Higher Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Kranz anatomy is characteristic of:",
+  "options": {
+   "A": "CAM plants",
+   "B": "C3 plants",
+   "C": "C4 plants",
+   "D": "gymnosperms"
+  },
+  "correct_answer": "C",
+  "explanation": "Large bundle sheath cells with chloroplasts form a wreath around the vascular bundles.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Photosynthesis in Higher Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is a C4 plant?",
+  "options": {
+   "A": "maize",
+   "B": "wheat",
+   "C": "rice",
+   "D": "potato"
+  },
+  "correct_answer": "A",
+  "explanation": "Maize and sugarcane are C4 plants; wheat, rice and potato are C3.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Photosynthesis in Higher Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The C4 pathway needs how many ATP for the synthesis of one glucose molecule?",
+  "options": {
+   "A": "18",
+   "B": "30",
+   "C": "24",
+   "D": "36"
+  },
+  "correct_answer": "B",
+  "explanation": "It needs 12 more ATP than the C3 pathway, because 2 extra ATP are used for each CO2 fixed.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Photosynthesis in Higher Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Photorespiration involves the:",
+  "options": {
+   "A": "chloroplast, peroxisome and mitochondria",
+   "B": "chloroplast and nucleus",
+   "C": "Golgi complex and ER",
+   "D": "vacuole only"
+  },
+  "correct_answer": "A",
+  "explanation": "RuBisCO binds O2 and starts a pathway across these three organelles with no ATP or NADPH made.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Photosynthesis in Higher Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Photorespiration is negligible in C4 plants because:",
+  "options": {
+   "A": "they lack RuBisCO",
+   "B": "they have a mechanism that raises the CO2 concentration at the RuBisCO site",
+   "C": "they lack chloroplasts",
+   "D": "they have no O2 in the leaf"
+  },
+  "correct_answer": "B",
+  "explanation": "The bundle sheath has a high CO2 concentration, which prevents RuBisCO from acting as an oxygenase.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Photosynthesis in Higher Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The law of limiting factors was proposed by:",
+  "options": {
+   "A": "Blackman",
+   "B": "Calvin",
+   "C": "Hatch and Slack",
+   "D": "Emerson"
+  },
+  "correct_answer": "A",
+  "explanation": "It says that the rate is determined by the factor nearest its minimal value.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Photosynthesis in Higher Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The CO2 concentration at which C4 plants show saturation is about:",
+  "options": {
+   "A": "360 uL/L",
+   "B": "450 uL/L",
+   "C": "1000 uL/L",
+   "D": "50 uL/L"
+  },
+  "correct_answer": "A",
+  "explanation": "C3 plants respond to higher CO2 and saturate only beyond about 450 uL/L.",
+  "difficulty": "hard",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Photosynthesis in Higher Plants"
+ }
+]

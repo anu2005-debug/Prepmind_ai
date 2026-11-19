@@ -1,0 +1,452 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "A force of 10 N acts on a body and displaces it by 5 m. The angle between the force and the displacement is 60°. The work done is:",
+  "options": {
+   "A": "50 J",
+   "B": "25 J",
+   "C": "43.3 J",
+   "D": "zero"
+  },
+  "correct_answer": "B",
+  "explanation": "W = Fs cosθ = 10 × 5 × cos 60° = 25 J.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Work, Energy and Power"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The kinetic energy of a 2 kg body moving at 10 m/s is:",
+  "options": {
+   "A": "20 J",
+   "B": "50 J",
+   "C": "200 J",
+   "D": "100 J"
+  },
+  "correct_answer": "D",
+  "explanation": "K = ½mv² = ½ × 2 × 100 = 100 J.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Work, Energy and Power"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A 1000 kg car increases its speed from 10 m/s to 20 m/s. The work done by the engine (neglecting resistance) is:",
+  "options": {
+   "A": "150 kJ",
+   "B": "50 kJ",
+   "C": "100 kJ",
+   "D": "300 kJ"
+  },
+  "correct_answer": "A",
+  "explanation": "W = ΔK = ½ × 1000 × (400 − 100) = 150 000 J = 150 kJ.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Work, Energy and Power"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A crane lifts a 500 kg load through 10 m in 20 s (g = 10 m/s²). The power delivered is:",
+  "options": {
+   "A": "250 W",
+   "B": "5000 W",
+   "C": "2500 W",
+   "D": "25 000 W"
+  },
+  "correct_answer": "C",
+  "explanation": "W = mgh = 500 × 10 × 10 = 50 000 J, and P = 50 000/20 = 2500 W.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Work, Energy and Power"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "An engine exerts a constant force of 2000 N on a vehicle moving at a constant speed of 20 m/s. The power developed is:",
+  "options": {
+   "A": "4 kW",
+   "B": "40 kW",
+   "C": "400 kW",
+   "D": "100 W"
+  },
+  "correct_answer": "B",
+  "explanation": "P = Fv = 2000 × 20 = 40 000 W = 40 kW.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Work, Energy and Power"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A spring of force constant 200 N/m is stretched by 0.1 m. The elastic potential energy stored is:",
+  "options": {
+   "A": "0.1 J",
+   "B": "2 J",
+   "C": "10 J",
+   "D": "1 J"
+  },
+  "correct_answer": "D",
+  "explanation": "U = ½kx² = ½ × 200 × 0.01 = 1 J.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Work, Energy and Power"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A spring of force constant 200 N/m is stretched from 0.1 m to 0.2 m. The work done in this extra stretch is:",
+  "options": {
+   "A": "3 J",
+   "B": "1 J",
+   "C": "2 J",
+   "D": "4 J"
+  },
+  "correct_answer": "A",
+  "explanation": "W = ½k(x₂² − x₁²) = ½ × 200 × (0.04 − 0.01) = 3 J.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Work, Energy and Power"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A ball is dropped from a height of 20 m (g = 10 m/s²). Its speed just before hitting the ground is:",
+  "options": {
+   "A": "10 m/s",
+   "B": "40 m/s",
+   "C": "20 m/s",
+   "D": "200 m/s"
+  },
+  "correct_answer": "C",
+  "explanation": "v = √(2gh) = √(2 × 10 × 20) = 20 m/s.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Work, Energy and Power"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A body is dropped from a height h. At height h/2 above the ground, the ratio of its kinetic energy to its potential energy is:",
+  "options": {
+   "A": "1 : 2",
+   "B": "1 : 1",
+   "C": "2 : 1",
+   "D": "1 : 3"
+  },
+  "correct_answer": "B",
+  "explanation": "Loss in PE = mgh/2 = gain in KE, and the PE remaining is also mgh/2, so the ratio is 1 : 1.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Work, Energy and Power"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A particle is tied to a string of length 2 m and moves in a vertical circle (g = 10 m/s²). The minimum speed at the lowest point needed to complete the circle is:",
+  "options": {
+   "A": "5 m/s",
+   "B": "20 m/s",
+   "C": "10√2 m/s",
+   "D": "10 m/s"
+  },
+  "correct_answer": "D",
+  "explanation": "v_min = √(5gr) = √(5 × 10 × 2) = 10 m/s.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Work, Energy and Power"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A moving body collides head-on and elastically with an identical body at rest. After the collision:",
+  "options": {
+   "A": "the first body comes to rest and the second moves with the initial speed of the first",
+   "B": "the first body rebounds with its initial speed",
+   "C": "both move with half the initial speed",
+   "D": "the first body continues with the same speed"
+  },
+  "correct_answer": "A",
+  "explanation": "For equal masses in a 1-D elastic collision the velocities are exchanged.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Work, Energy and Power"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A 2 kg body moving at 6 m/s collides with a 4 kg body at rest and they stick together. Their common speed is:",
+  "options": {
+   "A": "1 m/s",
+   "B": "3 m/s",
+   "C": "2 m/s",
+   "D": "6 m/s"
+  },
+  "correct_answer": "C",
+  "explanation": "2 × 6 = (2 + 4)v gives v = 2 m/s.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Work, Energy and Power"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A ball dropped from a height of 1 m rebounds to a height of 0.25 m. The coefficient of restitution is:",
+  "options": {
+   "A": "0.25",
+   "B": "0.5",
+   "C": "0.75",
+   "D": "1"
+  },
+  "correct_answer": "B",
+  "explanation": "e = √(h₂/h₁) = √0.25 = 0.5.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Work, Energy and Power"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A 2 kg body is raised vertically through 3 m at constant speed (g = 10 m/s²). The work done by gravity is:",
+  "options": {
+   "A": "60 J",
+   "B": "30 J",
+   "C": "zero",
+   "D": "−60 J"
+  },
+  "correct_answer": "D",
+  "explanation": "Gravity acts downward while the displacement is upward, so W = −mgh = −60 J.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Work, Energy and Power"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In uniform circular motion, the work done by the centripetal force in one complete revolution is:",
+  "options": {
+   "A": "zero",
+   "B": "2πrF",
+   "C": "πrF",
+   "D": "rF"
+  },
+  "correct_answer": "A",
+  "explanation": "The centripetal force is always perpendicular to the displacement, so it does no work.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Work, Energy and Power"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The momentum of a body is doubled. Its kinetic energy increases by:",
+  "options": {
+   "A": "100%",
+   "B": "200%",
+   "C": "300%",
+   "D": "400%"
+  },
+  "correct_answer": "C",
+  "explanation": "K = p²/2m, so doubling p makes K four times, an increase of 300%.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Work, Energy and Power"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A pump lifts 100 kg of water every minute from a well 30 m deep (g = 10 m/s²). The power of the pump is:",
+  "options": {
+   "A": "50 W",
+   "B": "500 W",
+   "C": "3000 W",
+   "D": "5000 W"
+  },
+  "correct_answer": "B",
+  "explanation": "Work per minute = 100 × 10 × 30 = 30 000 J, so P = 30 000/60 = 500 W.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Work, Energy and Power"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A variable force F = 3x² newtons acts on a body that moves from x = 0 to x = 2 m. The work done is:",
+  "options": {
+   "A": "6 J",
+   "B": "12 J",
+   "C": "24 J",
+   "D": "8 J"
+  },
+  "correct_answer": "D",
+  "explanation": "W = ∫₀² 3x² dx = [x³]₀² = 8 J.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Work, Energy and Power"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following forces is non-conservative?",
+  "options": {
+   "A": "Frictional force",
+   "B": "Gravitational force",
+   "C": "Electrostatic force",
+   "D": "Spring force"
+  },
+  "correct_answer": "A",
+  "explanation": "Work done by friction depends on the path taken, so it is non-conservative.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Work, Energy and Power"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A 5 kg block moving at 10 m/s on a rough horizontal surface comes to rest after sliding 20 m. The friction force is:",
+  "options": {
+   "A": "2.5 N",
+   "B": "25 N",
+   "C": "12.5 N",
+   "D": "50 N"
+  },
+  "correct_answer": "C",
+  "explanation": "ΔK = ½ × 5 × 100 = 250 J = f × 20, so f = 12.5 N.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Work, Energy and Power"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A 2 kg block slides from rest down a rough incline of height 5 m and reaches the bottom at 8 m/s (g = 10 m/s²). The work done against friction is:",
+  "options": {
+   "A": "64 J",
+   "B": "36 J",
+   "C": "100 J",
+   "D": "164 J"
+  },
+  "correct_answer": "B",
+  "explanation": "Loss of PE = 2 × 10 × 5 = 100 J, and the KE gained = ½ × 2 × 64 = 64 J. Work against friction = 100 − 64 = 36 J.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Work, Energy and Power"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A body is accelerated from rest by an engine of constant power. Its velocity varies with time as:",
+  "options": {
+   "A": "v ∝ t",
+   "B": "v ∝ t²",
+   "C": "v ∝ t^(3/2)",
+   "D": "v ∝ t^(1/2)"
+  },
+  "correct_answer": "D",
+  "explanation": "Pt = ½mv², so v ∝ √t.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Work, Energy and Power"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which of the following are true for a conservative force?",
+  "options": {
+   "A": "The work done depends on the path taken",
+   "B": "The force equals the negative gradient of the potential energy",
+   "C": "The work done in a closed path is zero",
+   "D": "The work done is independent of the path taken"
+  },
+  "correct_answer": "B,C,D",
+  "explanation": "A conservative force does zero work over a closed loop, its work is path independent, and F = −dU/dx.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Work, Energy and Power"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "In an elastic collision between two bodies in an isolated system, which are correct?",
+  "options": {
+   "A": "The coefficient of restitution is 1",
+   "B": "The total momentum is conserved",
+   "C": "The total kinetic energy is conserved",
+   "D": "Part of the kinetic energy is converted into heat"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "Elastic means no kinetic energy loss, so e = 1 and no heat is produced. Momentum is conserved in any isolated collision.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Work, Energy and Power"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A 2 kg body moving at 10 m/s is brought to rest by a constant force over a distance of 5 m. The magnitude of the force (in N) is:",
+  "options": null,
+  "correct_answer": "20",
+  "explanation": "ΔK = ½ × 2 × 100 = 100 J = F × 5, so F = 20 N.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Work, Energy and Power"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A spring of force constant 400 N/m is compressed by 0.1 m. The energy stored (in J) is:",
+  "options": null,
+  "correct_answer": "2",
+  "explanation": "U = ½kx² = ½ × 400 × 0.01 = 2 J.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Work, Energy and Power"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A 60 kg person climbs a staircase of vertical height 10 m in 20 s (g = 10 m/s²). The average power (in W) is:",
+  "options": null,
+  "correct_answer": "300",
+  "explanation": "P = mgh/t = 60 × 10 × 10/20 = 300 W.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Work, Energy and Power"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A 1 kg body moving at 10 m/s collides with a 4 kg body at rest and they stick together. The speed after collision (in m/s) is:",
+  "options": null,
+  "correct_answer": "2",
+  "explanation": "1 × 10 = (1 + 4)v gives v = 2 m/s.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Work, Energy and Power"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A force increases linearly from 0 to 10 N as a body moves through 4 m. The work done (in J) is:",
+  "options": null,
+  "correct_answer": "20",
+  "explanation": "Work = area under the F–x graph = ½ × 4 × 10 = 20 J.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Work, Energy and Power"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A 0.5 kg ball is thrown vertically upward at 20 m/s (g = 10 m/s²). Its kinetic energy (in J) when it is 10 m above the point of projection is:",
+  "options": null,
+  "correct_answer": "50",
+  "explanation": "Initial KE = ½ × 0.5 × 400 = 100 J. PE gained = 0.5 × 10 × 10 = 50 J, so KE = 50 J.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Work, Energy and Power"
+ }
+]

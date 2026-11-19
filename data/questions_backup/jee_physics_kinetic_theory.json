@@ -1,0 +1,452 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "The average translational kinetic energy of a molecule of an ideal gas at absolute temperature T is:",
+  "options": {
+   "A": "(1/2)kT",
+   "B": "3kT",
+   "C": "(5/2)kT",
+   "D": "(3/2)kT"
+  },
+  "correct_answer": "D",
+  "explanation": "Each of the 3 translational degrees of freedom carries ½kT.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinetic Theory of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "If the absolute temperature of an ideal gas is made four times, its rms speed becomes:",
+  "options": {
+   "A": "2 times",
+   "B": "4 times",
+   "C": "√2 times",
+   "D": "unchanged"
+  },
+  "correct_answer": "A",
+  "explanation": "v_rms ∝ √T, so the speed becomes √4 = 2 times.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinetic Theory of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The ratio of the rms speeds of hydrogen (M = 2) and oxygen (M = 32) molecules at the same temperature is:",
+  "options": {
+   "A": "16 : 1",
+   "B": "1 : 4",
+   "C": "4 : 1",
+   "D": "2 : 1"
+  },
+  "correct_answer": "C",
+  "explanation": "v_rms ∝ 1/√M, so the ratio = √(32/2) = 4.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinetic Theory of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The internal energy of one mole of a rigid diatomic ideal gas at temperature T is:",
+  "options": {
+   "A": "(3/2)RT",
+   "B": "(5/2)RT",
+   "C": "(7/2)RT",
+   "D": "5RT"
+  },
+  "correct_answer": "B",
+  "explanation": "f = 5 gives U = (f/2)RT = (5/2)RT.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinetic Theory of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "According to the law of equipartition of energy, the energy per degree of freedom per molecule at temperature T is:",
+  "options": {
+   "A": "kT",
+   "B": "(3/2)kT",
+   "C": "2kT",
+   "D": "½kT"
+  },
+  "correct_answer": "D",
+  "explanation": "Each quadratic term in the energy contributes ½kT.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinetic Theory of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The pressure exerted by an ideal gas of density ρ and mean square speed ⟨v²⟩ is:",
+  "options": {
+   "A": "(1/3)ρ⟨v²⟩",
+   "B": "(2/3)ρ⟨v²⟩",
+   "C": "ρ⟨v²⟩",
+   "D": "(1/2)ρ⟨v²⟩"
+  },
+  "correct_answer": "A",
+  "explanation": "Kinetic theory gives P = (1/3)ρ⟨v²⟩.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinetic Theory of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "At constant temperature the pressure of a gas is doubled. The mean free path of its molecules becomes:",
+  "options": {
+   "A": "double",
+   "B": "unchanged",
+   "C": "half",
+   "D": "four times"
+  },
+  "correct_answer": "C",
+  "explanation": "λ ∝ 1/n ∝ 1/P at constant T.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinetic Theory of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The number of molecules in 2 g of hydrogen gas (H₂) is:",
+  "options": {
+   "A": "1.2 × 10²⁴",
+   "B": "6.02 × 10²³",
+   "C": "3.0 × 10²³",
+   "D": "6.02 × 10²²"
+  },
+  "correct_answer": "B",
+  "explanation": "2 g of H₂ is 1 mole, so it contains Avogadro's number of molecules.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinetic Theory of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "2 litres of gas at 1 atm are compressed isothermally to 1 litre. The pressure becomes:",
+  "options": {
+   "A": "0.5 atm",
+   "B": "4 atm",
+   "C": "1 atm",
+   "D": "2 atm"
+  },
+  "correct_answer": "D",
+  "explanation": "Boyle's law: P₁V₁ = P₂V₂ gives P₂ = 2 atm.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinetic Theory of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The volume of a gas at constant pressure doubles when it is heated from 27°C to:",
+  "options": {
+   "A": "327°C",
+   "B": "54°C",
+   "C": "600°C",
+   "D": "300°C"
+  },
+  "correct_answer": "A",
+  "explanation": "V ∝ T (in kelvin): 300 K × 2 = 600 K = 327°C.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinetic Theory of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A vessel contains 2 mol of gas A and 3 mol of gas B at a total pressure of 5 atm. The partial pressure of A is:",
+  "options": {
+   "A": "3 atm",
+   "B": "2.5 atm",
+   "C": "2 atm",
+   "D": "5 atm"
+  },
+  "correct_answer": "C",
+  "explanation": "Partial pressure = mole fraction × total = (2/5) × 5 = 2 atm.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinetic Theory of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "When the temperature of a gas is raised from 27°C to 327°C, its rms speed becomes:",
+  "options": {
+   "A": "2 times",
+   "B": "√2 times",
+   "C": "4 times",
+   "D": "1/√2 times"
+  },
+  "correct_answer": "B",
+  "explanation": "v_rms ∝ √T, and T changes from 300 K to 600 K.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinetic Theory of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "For molecules of a gas at a given temperature, the correct order of the three characteristic speeds is:",
+  "options": {
+   "A": "v_rms < v_average < v_most probable",
+   "B": "v_average < v_most probable < v_rms",
+   "C": "v_most probable = v_average = v_rms",
+   "D": "v_most probable < v_average < v_rms"
+  },
+  "correct_answer": "D",
+  "explanation": "The speeds are in the ratio √2 : √(8/π) : √3, which is about 1 : 1.13 : 1.22.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinetic Theory of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A gas has Cp/Cv = 4/3. Its molecules have how many degrees of freedom?",
+  "options": {
+   "A": "6",
+   "B": "3",
+   "C": "5",
+   "D": "7"
+  },
+  "correct_answer": "A",
+  "explanation": "γ = 1 + 2/f = 4/3 gives f = 6.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinetic Theory of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "At constant pressure, the density of an ideal gas when its absolute temperature is doubled becomes:",
+  "options": {
+   "A": "double",
+   "B": "four times",
+   "C": "half",
+   "D": "unchanged"
+  },
+  "correct_answer": "C",
+  "explanation": "ρ = PM/RT ∝ 1/T at constant P.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinetic Theory of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In the van der Waals equation, the constant b accounts for:",
+  "options": {
+   "A": "the attraction between the molecules",
+   "B": "the finite volume of the molecules",
+   "C": "the temperature of the gas",
+   "D": "the mass of the molecules"
+  },
+  "correct_answer": "B",
+  "explanation": "b is the excluded volume due to the finite size of the molecules, while a accounts for the attraction.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinetic Theory of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In the Maxwell speed distribution, when the temperature of a gas is increased, the most probable speed:",
+  "options": {
+   "A": "decreases",
+   "B": "stays the same",
+   "C": "becomes zero",
+   "D": "increases"
+  },
+  "correct_answer": "D",
+  "explanation": "v_mp = √(2kT/m) increases with T, and the distribution flattens and spreads.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinetic Theory of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The total internal energy of 2 mol of a monatomic ideal gas at 300 K is:",
+  "options": {
+   "A": "900 R",
+   "B": "450 R",
+   "C": "300 R",
+   "D": "1800 R"
+  },
+  "correct_answer": "A",
+  "explanation": "U = (3/2) nRT = 1.5 × 2 × 300 R = 900 R.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinetic Theory of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "At the same temperature, 1 mole of hydrogen and 1 mole of helium (ideal gases) have the same:",
+  "options": {
+   "A": "rms speed",
+   "B": "total mass",
+   "C": "total translational kinetic energy",
+   "D": "density at the same pressure"
+  },
+  "correct_answer": "C",
+  "explanation": "Translational KE per mole is (3/2)RT for any ideal gas, independent of its mass.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinetic Theory of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A gas in a rigid container is at 3 atm and 300 K. Its temperature is raised to 600 K. The pressure becomes:",
+  "options": {
+   "A": "1.5 atm",
+   "B": "6 atm",
+   "C": "3 atm",
+   "D": "12 atm"
+  },
+  "correct_answer": "B",
+  "explanation": "At constant volume P ∝ T, so the pressure doubles.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinetic Theory of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In kinetic theory, the collisions of gas molecules with the walls of the container are assumed to be:",
+  "options": {
+   "A": "perfectly inelastic",
+   "B": "partially inelastic",
+   "C": "frictional",
+   "D": "perfectly elastic"
+  },
+  "correct_answer": "D",
+  "explanation": "Elastic collisions keep the kinetic energy of the gas constant.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinetic Theory of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Brownian motion of tiny particles suspended in a fluid provides evidence for:",
+  "options": {
+   "A": "the random motion of molecules",
+   "B": "the wave nature of light",
+   "C": "the existence of the atmosphere",
+   "D": "gravitational attraction between molecules"
+  },
+  "correct_answer": "A",
+  "explanation": "The erratic motion of suspended particles results from uneven bombardment by molecules.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinetic Theory of Gases"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which of the following are assumptions of the kinetic theory of an ideal gas?",
+  "options": {
+   "A": "The pressure arises from collisions of molecules with the walls",
+   "B": "The average kinetic energy per molecule depends on the nature of the gas at a given temperature",
+   "C": "The volume of the molecules is negligible compared with the volume of the container",
+   "D": "There are no intermolecular forces except during collisions"
+  },
+  "correct_answer": "A,C,D",
+  "explanation": "The average translational kinetic energy depends only on temperature, not on the type of gas.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinetic Theory of Gases"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "At a given temperature, which of the following statements about gas molecules are correct?",
+  "options": {
+   "A": "The most probable speed is less than the rms speed",
+   "B": "The average translational kinetic energy is the same for all ideal gases",
+   "C": "Lighter molecules have a higher rms speed",
+   "D": "All the molecules have the same speed"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "Molecules have a distribution of speeds, and v_mp < v_avg < v_rms.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinetic Theory of Gases"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "Taking k = 1.4 × 10⁻²³ J/K, the average translational kinetic energy of a gas molecule at 300 K (in units of 10⁻²¹ J) is:",
+  "options": null,
+  "correct_answer": "6.3",
+  "explanation": "(3/2)kT = 1.5 × 1.4 × 10⁻²³ × 300 = 6.3 × 10⁻²¹ J.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinetic Theory of Gases"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "Taking R = 8 J mol⁻¹ K⁻¹, the internal energy (in J) of one mole of a monatomic ideal gas at 400 K is:",
+  "options": null,
+  "correct_answer": "4800",
+  "explanation": "U = (3/2)RT = 1.5 × 8 × 400 = 4800 J.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinetic Theory of Gases"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "One mole of an ideal gas at 300 K occupies a volume of 0.0083 m³ (R = 8.3 J mol⁻¹ K⁻¹). Its pressure (in kPa) is:",
+  "options": null,
+  "correct_answer": "300",
+  "explanation": "P = nRT/V = 8.3 × 300/0.0083 = 3 × 10⁵ Pa = 300 kPa.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinetic Theory of Gases"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The rms speed of the molecules of a gas at 300 K is 500 m/s. At 1200 K the rms speed (in m/s) is:",
+  "options": null,
+  "correct_answer": "1000",
+  "explanation": "v ∝ √T and √(1200/300) = 2, so v = 1000 m/s.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinetic Theory of Gases"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "Taking Avogadro's number as 6 × 10²³, the number of molecules in 4.4 g of CO₂ (molar mass 44 g/mol), in units of 10²², is:",
+  "options": null,
+  "correct_answer": "6",
+  "explanation": "n = 4.4/44 = 0.1 mol, so N = 0.1 × 6 × 10²³ = 6 × 10²².",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinetic Theory of Gases"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "At constant temperature the pressure of a gas is reduced to one-fourth of its value. The mean free path becomes x times its original value. The value of x is:",
+  "options": null,
+  "correct_answer": "4",
+  "explanation": "λ ∝ 1/P at constant T, so λ becomes 4 times.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Kinetic Theory of Gases"
+ }
+]

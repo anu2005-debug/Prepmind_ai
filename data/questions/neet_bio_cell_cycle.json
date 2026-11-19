@@ -1,0 +1,482 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "The cell cycle of a typical human cell takes about:",
+  "options": {
+   "A": "90 minutes",
+   "B": "24 hours",
+   "C": "7 days",
+   "D": "1 hour"
+  },
+  "correct_answer": "B",
+  "explanation": "Yeast completes a cell cycle in about 90 minutes.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell Cycle and Cell Division"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Interphase of a typical human cell cycle lasts about:",
+  "options": {
+   "A": "1 hour",
+   "B": "11 hours",
+   "C": "23 hours",
+   "D": "24 hours exactly"
+  },
+  "correct_answer": "C",
+  "explanation": "Interphase is the longest phase; the M phase lasts only about an hour.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell Cycle and Cell Division"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "DNA replication takes place in the:",
+  "options": {
+   "A": "G1 phase",
+   "B": "S phase",
+   "C": "G2 phase",
+   "D": "M phase"
+  },
+  "correct_answer": "B",
+  "explanation": "S stands for synthesis of DNA.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell Cycle and Cell Division"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "If the DNA content of a cell in G1 is 2C, after the S phase it is:",
+  "options": {
+   "A": "4C and the chromosome number is unchanged",
+   "B": "4C and the chromosome number doubles",
+   "C": "2C and the chromosome number halves",
+   "D": "2C and the chromosome number is unchanged"
+  },
+  "correct_answer": "A",
+  "explanation": "DNA doubles but the chromosome number stays the same.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell Cycle and Cell Division"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Cells that exit the cycle after G1 and stay metabolically active but do not divide are in:",
+  "options": {
+   "A": "S phase",
+   "B": "G2 phase",
+   "C": "G0 phase",
+   "D": "prophase"
+  },
+  "correct_answer": "C",
+  "explanation": "Cells in G0 are quiescent, as are many differentiated cells.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell Cycle and Cell Division"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In animal cells the centriole duplicates during:",
+  "options": {
+   "A": "S phase, in the cytoplasm",
+   "B": "G2 phase, in the nucleus",
+   "C": "metaphase",
+   "D": "telophase"
+  },
+  "correct_answer": "A",
+  "explanation": "Centriole duplication starts in the S phase in the cytoplasm.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell Cycle and Cell Division"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Mitosis is called equational division because:",
+  "options": {
+   "A": "the cell is halved in size",
+   "B": "the chromosome number of the daughter cells equals that of the parent",
+   "C": "the cytoplasm is divided equally",
+   "D": "DNA is doubled twice"
+  },
+  "correct_answer": "B",
+  "explanation": "Each daughter cell receives the same number of chromosomes as the parent.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell Cycle and Cell Division"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is NOT a feature of prophase?",
+  "options": {
+   "A": "chromosomal condensation begins",
+   "B": "the centrosome moves toward the poles",
+   "C": "the nuclear envelope reforms",
+   "D": "the Golgi complex and ER disappear"
+  },
+  "correct_answer": "C",
+  "explanation": "The nuclear envelope reforms in telophase.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell Cycle and Cell Division"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The morphology of chromosomes is best studied during:",
+  "options": {
+   "A": "prophase",
+   "B": "metaphase",
+   "C": "anaphase",
+   "D": "telophase"
+  },
+  "correct_answer": "B",
+  "explanation": "At metaphase the chromosomes are fully condensed and lie on the equatorial plate.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell Cycle and Cell Division"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The spindle fibres attach to the chromosomes at the:",
+  "options": {
+   "A": "telomere",
+   "B": "satellite",
+   "C": "kinetochore",
+   "D": "nucleolus"
+  },
+  "correct_answer": "C",
+  "explanation": "Kinetochores are disc-shaped structures on either side of the centromere.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell Cycle and Cell Division"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Anaphase begins with:",
+  "options": {
+   "A": "the formation of the cell plate",
+   "B": "the splitting of the centromere and separation of sister chromatids",
+   "C": "the disappearance of the nucleolus",
+   "D": "the pairing of homologous chromosomes"
+  },
+  "correct_answer": "B",
+  "explanation": "Chromatids then move to opposite poles.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell Cycle and Cell Division"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The nuclear envelope assembles around the chromosome clusters during:",
+  "options": {
+   "A": "prophase",
+   "B": "metaphase",
+   "C": "anaphase",
+   "D": "telophase"
+  },
+  "correct_answer": "D",
+  "explanation": "The nucleolus, Golgi complex and ER also reform in telophase.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell Cycle and Cell Division"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Cytokinesis in plant cells occurs by:",
+  "options": {
+   "A": "a furrow in the plasma membrane",
+   "B": "cell plate formation",
+   "C": "budding",
+   "D": "fragmentation"
+  },
+  "correct_answer": "B",
+  "explanation": "Animal cells divide by a cleavage furrow.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell Cycle and Cell Division"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The cell plate formed in plant cytokinesis represents the:",
+  "options": {
+   "A": "future middle lamella between the daughter cells",
+   "B": "future nuclear envelope",
+   "C": "future spindle",
+   "D": "future vacuole"
+  },
+  "correct_answer": "A",
+  "explanation": "It grows from the centre toward the periphery.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell Cycle and Cell Division"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Karyokinesis without cytokinesis results in a multinucleate condition called:",
+  "options": {
+   "A": "syncytium",
+   "B": "callus",
+   "C": "gamete",
+   "D": "tetrad"
+  },
+  "correct_answer": "A",
+  "explanation": "The liquid endosperm of coconut is an example.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell Cycle and Cell Division"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "When a diploid cell with 2n = 14 divides by mitosis, each daughter cell has how many chromosomes?",
+  "options": {
+   "A": "7",
+   "B": "28",
+   "C": "21",
+   "D": "14"
+  },
+  "correct_answer": "D",
+  "explanation": "Mitosis keeps the chromosome number the same.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell Cycle and Cell Division"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Meiosis involves:",
+  "options": {
+   "A": "one DNA replication and one division",
+   "B": "two DNA replications and one division",
+   "C": "one DNA replication and two divisions",
+   "D": "no DNA replication"
+  },
+  "correct_answer": "C",
+  "explanation": "Meiosis consists of meiosis I and meiosis II after a single DNA replication.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell Cycle and Cell Division"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Meiosis I is called a reductional division because:",
+  "options": {
+   "A": "the cell size is reduced",
+   "B": "the chromosome number is halved",
+   "C": "the DNA is destroyed",
+   "D": "the chromatids fuse"
+  },
+  "correct_answer": "B",
+  "explanation": "Homologous chromosomes separate, reducing the number from 2n to n.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell Cycle and Cell Division"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Synapsis, the pairing of homologous chromosomes, takes place in:",
+  "options": {
+   "A": "leptotene",
+   "B": "zygotene",
+   "C": "pachytene",
+   "D": "diplotene"
+  },
+  "correct_answer": "B",
+  "explanation": "The synaptonemal complex forms during zygotene.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell Cycle and Cell Division"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Crossing over takes place in:",
+  "options": {
+   "A": "pachytene",
+   "B": "leptotene",
+   "C": "diakinesis",
+   "D": "metaphase I"
+  },
+  "correct_answer": "A",
+  "explanation": "Recombination nodules mark the sites of crossing over, and the enzyme recombinase is involved.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell Cycle and Cell Division"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Chiasmata first become visible in:",
+  "options": {
+   "A": "zygotene",
+   "B": "pachytene",
+   "C": "diplotene",
+   "D": "interkinesis"
+  },
+  "correct_answer": "C",
+  "explanation": "The synaptonemal complex dissolves and the bivalents show X-shaped chiasmata.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell Cycle and Cell Division"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Terminalisation of chiasmata occurs in:",
+  "options": {
+   "A": "diplotene",
+   "B": "zygotene",
+   "C": "metaphase II",
+   "D": "diakinesis"
+  },
+  "correct_answer": "D",
+  "explanation": "The chiasmata move toward the ends of the chromosome arms.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell Cycle and Cell Division"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A bivalent consists of:",
+  "options": {
+   "A": "one chromosome with two chromatids",
+   "B": "two synapsed homologous chromosomes, with four chromatids",
+   "C": "two sister chromatids only",
+   "D": "four chromosomes of different pairs"
+  },
+  "correct_answer": "B",
+  "explanation": "Each homologue has two chromatids, so a bivalent has four.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell Cycle and Cell Division"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Crossing over occurs between:",
+  "options": {
+   "A": "sister chromatids of the same chromosome",
+   "B": "non-sister chromatids of homologous chromosomes",
+   "C": "non-homologous chromosomes",
+   "D": "chromosomes of different cells"
+  },
+  "correct_answer": "B",
+  "explanation": "It leads to the recombination of genetic material.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell Cycle and Cell Division"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The oocytes of some vertebrates remain arrested for months or years in:",
+  "options": {
+   "A": "leptotene",
+   "B": "zygotene",
+   "C": "diplotene",
+   "D": "anaphase II"
+  },
+  "correct_answer": "C",
+  "explanation": "The diplotene stage can be very long in these oocytes.",
+  "difficulty": "hard",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell Cycle and Cell Division"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "During anaphase I:",
+  "options": {
+   "A": "sister chromatids separate",
+   "B": "homologous chromosomes separate while the sister chromatids stay together",
+   "C": "the nuclear envelope reforms",
+   "D": "the chromosomes decondense"
+  },
+  "correct_answer": "B",
+  "explanation": "Sister chromatids remain associated at their centromeres until anaphase II.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell Cycle and Cell Division"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Interkinesis, the stage between meiosis I and meiosis II, is characterised by:",
+  "options": {
+   "A": "DNA replication",
+   "B": "no DNA replication",
+   "C": "crossing over",
+   "D": "synapsis"
+  },
+  "correct_answer": "B",
+  "explanation": "The stage is generally short, and there is no replication.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell Cycle and Cell Division"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Meiosis II resembles:",
+  "options": {
+   "A": "mitosis",
+   "B": "interphase",
+   "C": "meiosis I",
+   "D": "binary fission"
+  },
+  "correct_answer": "A",
+  "explanation": "Sister chromatids separate, as in mitosis.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell Cycle and Cell Division"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A diploid cell undergoing complete meiosis produces:",
+  "options": {
+   "A": "two diploid cells",
+   "B": "four haploid cells",
+   "C": "two haploid cells",
+   "D": "four diploid cells"
+  },
+  "correct_answer": "B",
+  "explanation": "Meiosis I gives two haploid cells and meiosis II gives four.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell Cycle and Cell Division"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Meiosis is significant because it:",
+  "options": {
+   "A": "doubles the chromosome number each generation",
+   "B": "increases genetic variability while keeping the chromosome number constant across generations",
+   "C": "produces identical cells",
+   "D": "occurs only in somatic cells"
+  },
+  "correct_answer": "B",
+  "explanation": "Crossing over and random assortment create variation, and gametes restore 2n at fertilisation.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell Cycle and Cell Division"
+ }
+]

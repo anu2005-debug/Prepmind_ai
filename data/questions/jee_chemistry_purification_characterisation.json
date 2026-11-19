@@ -1,0 +1,452 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "A mixture of naphthalene and sand can be separated by:",
+  "options": {
+   "A": "sublimation",
+   "B": "steam distillation",
+   "C": "fractional distillation",
+   "D": "crystallisation from water"
+  },
+  "correct_answer": "A",
+  "explanation": "Naphthalene sublimes on heating, while sand does not.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Purification and Characterisation of Organic Compounds"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Steam distillation is used to purify compounds that are:",
+  "options": {
+   "A": "steam volatile and immiscible with water",
+   "B": "soluble in water and non-volatile",
+   "C": "unstable at room temperature",
+   "D": "miscible with water in all proportions"
+  },
+  "correct_answer": "A",
+  "explanation": "The compound distils with steam at a temperature below its own boiling point. Aniline is a common example.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Purification and Characterisation of Organic Compounds"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Fractional distillation is used to separate liquids that:",
+  "options": {
+   "A": "have very different boiling points",
+   "B": "have boiling points close to each other",
+   "C": "decompose at their boiling points",
+   "D": "are immiscible"
+  },
+  "correct_answer": "B",
+  "explanation": "The fractionating column gives repeated vaporisation and condensation, which separates liquids with close boiling points.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Purification and Characterisation of Organic Compounds"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Distillation under reduced pressure is used for liquids that:",
+  "options": {
+   "A": "have a very low boiling point",
+   "B": "decompose at or below their normal boiling point",
+   "C": "are very volatile",
+   "D": "form azeotropes"
+  },
+  "correct_answer": "B",
+  "explanation": "Lowering the pressure lowers the boiling point, so substances such as glycerol can be distilled without decomposing.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Purification and Characterisation of Organic Compounds"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Differential extraction of an organic compound from water into ether is based on:",
+  "options": {
+   "A": "the difference in boiling points",
+   "B": "the distribution of the compound between two immiscible solvents",
+   "C": "sublimation",
+   "D": "the difference in density only"
+  },
+  "correct_answer": "B",
+  "explanation": "The compound dissolves preferentially in the organic solvent (Nernst distribution law).",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Purification and Characterisation of Organic Compounds"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In Lassaigne's test, nitrogen in an organic compound is converted into:",
+  "options": {
+   "A": "NaNO₃",
+   "B": "NaCN",
+   "C": "NH₃",
+   "D": "Na₃N"
+  },
+  "correct_answer": "B",
+  "explanation": "Fusion with sodium converts carbon and nitrogen into sodium cyanide.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Purification and Characterisation of Organic Compounds"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The Prussian blue colour in the Lassaigne test for nitrogen is due to:",
+  "options": {
+   "A": "Fe₄[Fe(CN)₆]₃",
+   "B": "Na₄[Fe(CN)₅NOS]",
+   "C": "[Fe(SCN)]²⁺",
+   "D": "FeCl₃"
+  },
+  "correct_answer": "A",
+  "explanation": "Ferric hexacyanoferrate(II), Fe₄[Fe(CN)₆]₃, is Prussian blue.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Purification and Characterisation of Organic Compounds"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A blood-red colour is obtained in the Lassaigne test when the compound contains:",
+  "options": {
+   "A": "only sulphur",
+   "B": "only nitrogen",
+   "C": "both nitrogen and sulphur",
+   "D": "halogens"
+  },
+  "correct_answer": "C",
+  "explanation": "Sodium thiocyanate (NaSCN) forms and gives the blood-red [Fe(SCN)]²⁺ with Fe³⁺.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Purification and Characterisation of Organic Compounds"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Sodium nitroprusside gives which colour with the Lassaigne extract of a sulphur-containing compound?",
+  "options": {
+   "A": "Blue",
+   "B": "Violet",
+   "C": "Green",
+   "D": "White"
+  },
+  "correct_answer": "B",
+  "explanation": "Sulphide ions give a violet colour, Na₄[Fe(CN)₅NOS].",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Purification and Characterisation of Organic Compounds"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In the Lassaigne test for halogens, a white curdy precipitate soluble in NH₄OH indicates the presence of:",
+  "options": {
+   "A": "chlorine",
+   "B": "bromine",
+   "C": "iodine",
+   "D": "fluorine"
+  },
+  "correct_answer": "A",
+  "explanation": "AgCl is white and dissolves in dilute NH₄OH. AgBr is pale yellow and only partly soluble, and AgI is yellow and insoluble.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Purification and Characterisation of Organic Compounds"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Before adding AgNO₃ in the Lassaigne test for halogens, the extract is boiled with dilute HNO₃ in order to:",
+  "options": {
+   "A": "decompose NaCN and Na₂S if present",
+   "B": "reduce the halide ions",
+   "C": "dissolve the AgX precipitate",
+   "D": "oxidise the halide ions"
+  },
+  "correct_answer": "A",
+  "explanation": "NaCN and Na₂S would otherwise precipitate with Ag⁺ and interfere with the test.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Purification and Characterisation of Organic Compounds"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In the Dumas method for estimating nitrogen, the nitrogen gas is collected over:",
+  "options": {
+   "A": "water",
+   "B": "mercury",
+   "C": "concentrated aqueous KOH",
+   "D": "concentrated H₂SO₄"
+  },
+  "correct_answer": "C",
+  "explanation": "KOH solution absorbs the CO₂ formed along with N₂, so only nitrogen is measured.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Purification and Characterisation of Organic Compounds"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Kjeldahl's method is not suitable for estimating nitrogen in:",
+  "options": {
+   "A": "aniline",
+   "B": "urea",
+   "C": "nitrobenzene",
+   "D": "methylamine"
+  },
+  "correct_answer": "C",
+  "explanation": "Nitro and azo compounds and compounds with nitrogen in the ring (such as pyridine) do not give all their nitrogen as ammonium sulphate.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Purification and Characterisation of Organic Compounds"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The Carius method is used for the estimation of:",
+  "options": {
+   "A": "nitrogen",
+   "B": "carbon and hydrogen",
+   "C": "halogens, sulphur and phosphorus",
+   "D": "oxygen"
+  },
+  "correct_answer": "C",
+  "explanation": "The compound is heated with fuming HNO₃ in a sealed tube and the halogen, sulphur or phosphorus is weighed as a salt.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Purification and Characterisation of Organic Compounds"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In the estimation of carbon and hydrogen, the water formed is absorbed in:",
+  "options": {
+   "A": "concentrated KOH solution",
+   "B": "anhydrous CaCl₂",
+   "C": "concentrated H₂SO₄",
+   "D": "lime water"
+  },
+  "correct_answer": "B",
+  "explanation": "Anhydrous CaCl₂ absorbs water and a KOH solution absorbs CO₂.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Purification and Characterisation of Organic Compounds"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In paper or thin-layer chromatography, the Rf value is:",
+  "options": {
+   "A": "distance moved by the compound ÷ distance moved by the solvent front",
+   "B": "distance moved by the solvent front ÷ distance moved by the compound",
+   "C": "always greater than 1",
+   "D": "independent of the solvent used"
+  },
+  "correct_answer": "A",
+  "explanation": "Rf = distance travelled by the compound / distance travelled by the solvent front, which is always between 0 and 1 and depends on the solvent.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Purification and Characterisation of Organic Compounds"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A mixture of o-nitrophenol and p-nitrophenol can be separated by:",
+  "options": {
+   "A": "sublimation",
+   "B": "steam distillation",
+   "C": "fractional crystallisation from water only",
+   "D": "differential extraction"
+  },
+  "correct_answer": "B",
+  "explanation": "o-Nitrophenol has intramolecular hydrogen bonding and is steam volatile. p-Nitrophenol has intermolecular hydrogen bonding and is not.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Purification and Characterisation of Organic Compounds"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A mixture of chloroform (b.p. 334 K) and aniline (b.p. 457 K) can be separated by:",
+  "options": {
+   "A": "simple distillation",
+   "B": "steam distillation",
+   "C": "sublimation",
+   "D": "fractional crystallisation"
+  },
+  "correct_answer": "A",
+  "explanation": "The boiling points differ greatly, so simple distillation is enough.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Purification and Characterisation of Organic Compounds"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The presence of hydrogen in an organic compound is detected by heating it with CuO and noting that anhydrous CuSO₄ turns:",
+  "options": {
+   "A": "green",
+   "B": "blue",
+   "C": "red",
+   "D": "black"
+  },
+  "correct_answer": "B",
+  "explanation": "The water formed turns white anhydrous CuSO₄ into blue CuSO₄·5H₂O.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Purification and Characterisation of Organic Compounds"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The Beilstein test is a simple test for the presence of:",
+  "options": {
+   "A": "nitrogen",
+   "B": "sulphur",
+   "C": "halogens",
+   "D": "phosphorus"
+  },
+  "correct_answer": "C",
+  "explanation": "A copper wire dipped in the compound gives a green or blue flame when halogens are present.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Purification and Characterisation of Organic Compounds"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Phosphorus in an organic compound is detected by oxidising it to phosphate and adding ammonium molybdate, which gives a yellow precipitate of:",
+  "options": {
+   "A": "ammonium phosphomolybdate",
+   "B": "silver phosphate",
+   "C": "calcium phosphate",
+   "D": "ammonium sulphate"
+  },
+  "correct_answer": "A",
+  "explanation": "Phosphate with ammonium molybdate in HNO₃ gives yellow (NH₄)₃PO₄·12MoO₃.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Purification and Characterisation of Organic Compounds"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In Kjeldahl's method, the ammonia evolved from 1 g of an organic compound neutralised 10 mL of 1 M H₂SO₄. The percentage of nitrogen is:",
+  "options": {
+   "A": "14%",
+   "B": "28%",
+   "C": "56%",
+   "D": "7%"
+  },
+  "correct_answer": "B",
+  "explanation": "10 mL of 1 M H₂SO₄ is 10 mmol, which neutralises 20 mmol NH₃. N = 20 × 14 mg = 280 mg = 0.28 g in 1 g, so 28%.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Purification and Characterisation of Organic Compounds"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which statements about the Lassaigne test are correct?",
+  "options": {
+   "A": "The compound is fused with sodium metal",
+   "B": "Nitrogen, sulphur and halogens are converted into ionic compounds (NaCN, Na₂S, NaX)",
+   "C": "Prussian blue indicates the presence of nitrogen",
+   "D": "Phosphorus is detected directly in the sodium fusion extract"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "Phosphorus needs a separate test in which it is oxidised to phosphate and tested with ammonium molybdate.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Purification and Characterisation of Organic Compounds"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Select all the cases where Kjeldahl's method is not suitable for estimating nitrogen:",
+  "options": {
+   "A": "nitro compounds",
+   "B": "azo compounds",
+   "C": "compounds with nitrogen in the ring, such as pyridine",
+   "D": "amines such as methylamine"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "These nitrogen forms are not converted completely into ammonium sulphate during digestion. Amines are suitable.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Purification and Characterisation of Organic Compounds"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "0.5 g of an organic compound on Dumas analysis gave 56 mL of nitrogen at STP (molar volume 22400 mL). The percentage of nitrogen is:",
+  "options": null,
+  "correct_answer": "14",
+  "explanation": "56/22400 = 0.0025 mol N₂ = 0.07 g N. (0.07/0.5) × 100 = 14%.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Purification and Characterisation of Organic Compounds"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "0.3 g of an organic compound gave 0.44 g of CO₂ on combustion. The percentage of carbon is:",
+  "options": null,
+  "correct_answer": "40",
+  "explanation": "Mass of C = (12/44) × 0.44 = 0.12 g. (0.12/0.3) × 100 = 40%.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Purification and Characterisation of Organic Compounds"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "0.2 g of an organic compound gave 0.18 g of H₂O on combustion. The percentage of hydrogen is:",
+  "options": null,
+  "correct_answer": "10",
+  "explanation": "Mass of H = (2/18) × 0.18 = 0.02 g. (0.02/0.2) × 100 = 10%.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Purification and Characterisation of Organic Compounds"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "0.2 g of an organic bromide gave 0.188 g of AgBr in a Carius estimation (Ag = 108, Br = 80). The percentage of bromine is:",
+  "options": null,
+  "correct_answer": "40",
+  "explanation": "Mass of Br = (80/188) × 0.188 = 0.08 g. (0.08/0.2) × 100 = 40%.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Purification and Characterisation of Organic Compounds"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "In chromatography a compound moves 3 cm while the solvent front moves 6 cm. The value of 10 × Rf is:",
+  "options": null,
+  "correct_answer": "5",
+  "explanation": "Rf = 3/6 = 0.5, so 10 × Rf = 5.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Purification and Characterisation of Organic Compounds"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "0.32 g of an organic compound gave 0.466 g of BaSO₄ in a Carius estimation (BaSO₄ = 233, S = 32). The percentage of sulphur is:",
+  "options": null,
+  "correct_answer": "20",
+  "explanation": "Mass of S = (32/233) × 0.466 = 0.064 g. (0.064/0.32) × 100 = 20%.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Purification and Characterisation of Organic Compounds"
+ }
+]

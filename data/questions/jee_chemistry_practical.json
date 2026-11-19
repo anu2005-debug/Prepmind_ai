@@ -1,0 +1,452 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "The formula of Mohr's salt is:",
+  "options": {
+   "A": "FeSO₄·(NH₄)₂SO₄·6H₂O",
+   "B": "FeSO₄·7H₂O",
+   "C": "K₂SO₄·Al₂(SO₄)₃·24H₂O",
+   "D": "CuSO₄·5H₂O"
+  },
+  "correct_answer": "A",
+  "explanation": "Mohr's salt is ferrous ammonium sulphate hexahydrate.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Principles Related to Practical Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In permanganate titrations the acid used to acidify the solution is:",
+  "options": {
+   "A": "dilute HCl",
+   "B": "dilute HNO₃",
+   "C": "dilute H₂SO₄",
+   "D": "acetic acid"
+  },
+  "correct_answer": "C",
+  "explanation": "HCl would be oxidised by KMnO₄ and HNO₃ is itself an oxidising agent, so dilute H₂SO₄ is used.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Principles Related to Practical Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The end point in a titration of FeSO₄ with KMnO₄ is the appearance of:",
+  "options": {
+   "A": "a permanent pale pink colour",
+   "B": "a blue colour",
+   "C": "a green colour",
+   "D": "a yellow precipitate"
+  },
+  "correct_answer": "A",
+  "explanation": "KMnO₄ is a self-indicator, so the first excess drop gives a permanent pale pink colour.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Principles Related to Practical Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Oxalic acid is warmed to about 333–343 K before titration with KMnO₄ because:",
+  "options": {
+   "A": "the reaction is slow at room temperature at the start",
+   "B": "oxalic acid is insoluble in cold water",
+   "C": "KMnO₄ decomposes at room temperature",
+   "D": "the end point is invisible in the cold"
+  },
+  "correct_answer": "A",
+  "explanation": "The reaction is slow at first and speeds up once Mn²⁺ forms, which acts as an autocatalyst.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Principles Related to Practical Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The group reagent for group I cations (Pb²⁺, Ag⁺, Hg₂²⁺) is:",
+  "options": {
+   "A": "dilute HCl",
+   "B": "H₂S in dilute HCl",
+   "C": "NH₄Cl and NH₄OH",
+   "D": "(NH₄)₂CO₃"
+  },
+  "correct_answer": "A",
+  "explanation": "These cations form insoluble chlorides.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Principles Related to Practical Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The group reagent for group II cations (such as Cu²⁺ and Cd²⁺) is:",
+  "options": {
+   "A": "dilute HCl",
+   "B": "H₂S in the presence of dilute HCl",
+   "C": "H₂S in the presence of NH₄OH",
+   "D": "(NH₄)₂CO₃"
+  },
+  "correct_answer": "B",
+  "explanation": "In acidic medium the sulphide ion concentration is low, so only the least soluble sulphides precipitate.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Principles Related to Practical Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following ions is precipitated in group III by NH₄Cl and NH₄OH?",
+  "options": {
+   "A": "Zn²⁺",
+   "B": "Fe³⁺",
+   "C": "Ca²⁺",
+   "D": "Cu²⁺"
+  },
+  "correct_answer": "B",
+  "explanation": "Group III cations (Fe³⁺, Al³⁺, Cr³⁺) precipitate as hydroxides.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Principles Related to Practical Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The group reagent for group IV cations (Zn²⁺, Mn²⁺, Co²⁺, Ni²⁺) is:",
+  "options": {
+   "A": "dilute HCl",
+   "B": "H₂S in the presence of dilute HCl",
+   "C": "H₂S in the presence of NH₄OH",
+   "D": "(NH₄)₂CO₃"
+  },
+  "correct_answer": "C",
+  "explanation": "In ammoniacal medium the sulphide ion concentration is high enough to precipitate these sulphides.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Principles Related to Practical Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The group reagent for group V cations (Ba²⁺, Sr²⁺, Ca²⁺) is:",
+  "options": {
+   "A": "dilute HCl",
+   "B": "H₂S",
+   "C": "NH₄Cl and NH₄OH",
+   "D": "(NH₄)₂CO₃ in the presence of NH₄Cl and NH₄OH"
+  },
+  "correct_answer": "D",
+  "explanation": "These cations precipitate as carbonates.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Principles Related to Practical Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Ammonium ions are detected using Nessler's reagent, which gives:",
+  "options": {
+   "A": "a brown precipitate or colour",
+   "B": "a white precipitate",
+   "C": "a blue colour",
+   "D": "a green precipitate"
+  },
+  "correct_answer": "A",
+  "explanation": "NH₄⁺ (or NH₃) with Nessler's reagent (K₂HgI₄ in KOH) gives a brown precipitate.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Principles Related to Practical Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Barium salts impart which colour to the flame?",
+  "options": {
+   "A": "apple green",
+   "B": "brick red",
+   "C": "golden yellow",
+   "D": "violet"
+  },
+  "correct_answer": "A",
+  "explanation": "Ba²⁺ gives an apple-green flame. Ca²⁺ is brick red, Na⁺ golden yellow and K⁺ violet.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Principles Related to Practical Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A gas that turns lime water milky and is evolved by dilute H₂SO₄ indicates the presence of:",
+  "options": {
+   "A": "chloride",
+   "B": "carbonate",
+   "C": "nitrate",
+   "D": "sulphate"
+  },
+  "correct_answer": "B",
+  "explanation": "Carbonates release CO₂, which forms insoluble CaCO₃ with lime water.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Principles Related to Practical Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Sulphite ion gives SO₂ with dilute acid, which turns acidified K₂Cr₂O₇ paper:",
+  "options": {
+   "A": "green",
+   "B": "blue",
+   "C": "pink",
+   "D": "brown"
+  },
+  "correct_answer": "A",
+  "explanation": "SO₂ reduces orange Cr₂O₇²⁻ to green Cr³⁺.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Principles Related to Practical Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The chromyl chloride test is used to detect:",
+  "options": {
+   "A": "chloride ions",
+   "B": "sulphate ions",
+   "C": "carbonate ions",
+   "D": "iodide ions"
+  },
+  "correct_answer": "A",
+  "explanation": "A chloride heated with K₂Cr₂O₇ and conc. H₂SO₄ gives red vapours of CrO₂Cl₂.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Principles Related to Practical Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In the brown ring complex [Fe(H₂O)₅(NO)]²⁺, the oxidation state of iron is:",
+  "options": {
+   "A": "0",
+   "B": "+1",
+   "C": "+2",
+   "D": "+3"
+  },
+  "correct_answer": "B",
+  "explanation": "Taking NO as NO⁺ and water as neutral: x + 1 = +2, so x = +1.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Principles Related to Practical Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "H₂S gas turns lead acetate paper:",
+  "options": {
+   "A": "black",
+   "B": "white",
+   "C": "yellow",
+   "D": "blue"
+  },
+  "correct_answer": "A",
+  "explanation": "Lead sulphide (PbS) is black.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Principles Related to Practical Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Sulphate ions give with BaCl₂ solution:",
+  "options": {
+   "A": "a white precipitate insoluble in dilute HCl",
+   "B": "a white precipitate soluble in dilute HCl",
+   "C": "a yellow precipitate",
+   "D": "no precipitate"
+  },
+  "correct_answer": "A",
+  "explanation": "BaSO₄ is white and insoluble in dilute acids.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Principles Related to Practical Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Iodide ions give with AgNO₃ solution:",
+  "options": {
+   "A": "a white precipitate soluble in NH₄OH",
+   "B": "a pale yellow precipitate partly soluble in NH₄OH",
+   "C": "a yellow precipitate insoluble in NH₄OH",
+   "D": "a black precipitate"
+  },
+  "correct_answer": "C",
+  "explanation": "AgI is yellow and insoluble in ammonia.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Principles Related to Practical Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which cation gives a white precipitate with H₂S in ammoniacal medium (group IV)?",
+  "options": {
+   "A": "Zn²⁺",
+   "B": "Ni²⁺",
+   "C": "Co²⁺",
+   "D": "Mn²⁺"
+  },
+  "correct_answer": "A",
+  "explanation": "ZnS is white. NiS and CoS are black and MnS is buff or flesh-coloured.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Principles Related to Practical Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Cu²⁺ with excess NH₄OH gives:",
+  "options": {
+   "A": "a deep blue solution of [Cu(NH₃)₄]²⁺",
+   "B": "a white precipitate",
+   "C": "a green precipitate that does not dissolve",
+   "D": "a red precipitate"
+  },
+  "correct_answer": "A",
+  "explanation": "A pale blue precipitate of Cu(OH)₂ forms first and then dissolves in excess ammonia to give the deep blue complex.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Principles Related to Practical Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Fe³⁺ ions with potassium ferrocyanide, K₄[Fe(CN)₆], give:",
+  "options": {
+   "A": "Prussian blue",
+   "B": "a white precipitate",
+   "C": "a yellow solution",
+   "D": "a black precipitate"
+  },
+  "correct_answer": "A",
+  "explanation": "Fe₄[Fe(CN)₆]₃ forms, which is the intense blue Prussian blue.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Principles Related to Practical Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "For a burette containing KMnO₄ solution, the reading is taken at the:",
+  "options": {
+   "A": "upper meniscus",
+   "B": "lower meniscus",
+   "C": "bottom of the burette",
+   "D": "level of the stopcock"
+  },
+  "correct_answer": "A",
+  "explanation": "The deep purple colour makes the lower meniscus hard to see, so the upper meniscus is read.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Principles Related to Practical Chemistry"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which flame colours are correctly matched?",
+  "options": {
+   "A": "Na⁺ : golden yellow",
+   "B": "K⁺ : violet (lilac)",
+   "C": "Ca²⁺ : brick red",
+   "D": "Sr²⁺ : apple green"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "Sr²⁺ gives a crimson red flame. Apple green is the colour of barium.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Principles Related to Practical Chemistry"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which anions release a gas with dilute H₂SO₄?",
+  "options": {
+   "A": "carbonate",
+   "B": "sulphite",
+   "C": "sulphide",
+   "D": "sulphate"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "They release CO₂, SO₂ and H₂S respectively. Sulphate gives no gas.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Principles Related to Practical Chemistry"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The moles of KMnO₄ required to oxidise 5 moles of oxalic acid in acidic medium is:",
+  "options": null,
+  "correct_answer": "2",
+  "explanation": "2MnO₄⁻ + 5H₂C₂O₄ + 6H⁺ → 2Mn²⁺ + 10CO₂ + 8H₂O.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Principles Related to Practical Chemistry"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "20 mL of 0.1 M oxalic acid needs 10 mL of KMnO₄ solution in acidic medium. The molarity of KMnO₄ multiplied by 100 is:",
+  "options": null,
+  "correct_answer": "8",
+  "explanation": "Milliequivalents of oxalic acid = 0.1 × 2 × 20 = 4. For KMnO₄ (n = 5): M × 5 × 10 = 4, so M = 0.08 and 100M = 8.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Principles Related to Practical Chemistry"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The n-factor of Mohr's salt (Fe²⁺ oxidised to Fe³⁺) is:",
+  "options": null,
+  "correct_answer": "1",
+  "explanation": "One electron is lost per formula unit as Fe²⁺ → Fe³⁺.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Principles Related to Practical Chemistry"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The volume (in mL) of 0.02 M KMnO₄ needed in acidic medium to oxidise 20 mL of 0.1 M FeSO₄ is:",
+  "options": null,
+  "correct_answer": "20",
+  "explanation": "Milliequivalents of Fe²⁺ = 0.1 × 1 × 20 = 2. For KMnO₄: 0.02 × 5 × V = 2, so V = 20 mL.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Principles Related to Practical Chemistry"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of water molecules of crystallisation in one formula unit of Mohr's salt is:",
+  "options": null,
+  "correct_answer": "6",
+  "explanation": "Mohr's salt is FeSO₄·(NH₄)₂SO₄·6H₂O.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Principles Related to Practical Chemistry"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The oxidation state of manganese in the product formed when KMnO₄ is reduced in acidic medium is:",
+  "options": null,
+  "correct_answer": "2",
+  "explanation": "MnO₄⁻ is reduced to Mn²⁺ in acidic medium.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Principles Related to Practical Chemistry"
+ }
+]

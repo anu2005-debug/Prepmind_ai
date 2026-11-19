@@ -1,0 +1,452 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "Which class of compounds is mainly responsible for the depletion of the stratospheric ozone layer?",
+  "options": {
+   "A": "Chlorofluorocarbons (CFCs)",
+   "B": "Carbon dioxide",
+   "C": "Methane",
+   "D": "Sulphur dioxide"
+  },
+  "correct_answer": "A",
+  "explanation": "UV light frees chlorine atoms from CFCs, which catalytically destroy ozone.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Environmental Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The ozone layer is found mainly in the:",
+  "options": {
+   "A": "troposphere",
+   "B": "stratosphere",
+   "C": "mesosphere",
+   "D": "thermosphere"
+  },
+  "correct_answer": "B",
+  "explanation": "Most atmospheric ozone lies in the stratosphere, at about 15 to 35 km.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Environmental Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is NOT a greenhouse gas?",
+  "options": {
+   "A": "CO₂",
+   "B": "CH₄",
+   "C": "N₂O",
+   "D": "N₂"
+  },
+  "correct_answer": "D",
+  "explanation": "N₂ does not absorb infrared radiation significantly.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Environmental Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Rain is described as acid rain when its pH falls below about:",
+  "options": {
+   "A": "5.6",
+   "B": "6.5",
+   "C": "7.0",
+   "D": "8.2"
+  },
+  "correct_answer": "A",
+  "explanation": "Unpolluted rain has a pH of about 5.6 because of dissolved CO₂, and acid rain is more acidic than that.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Environmental Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The gas that caused the Bhopal gas tragedy was:",
+  "options": {
+   "A": "phosgene",
+   "B": "methyl isocyanate",
+   "C": "carbon monoxide",
+   "D": "sulphur dioxide"
+  },
+  "correct_answer": "B",
+  "explanation": "Methyl isocyanate (CH₃NCO) leaked from a pesticide plant in 1984.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Environmental Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Blue baby syndrome in infants is caused by excess of which ion in drinking water?",
+  "options": {
+   "A": "Fluoride",
+   "B": "Lead",
+   "C": "Nitrate",
+   "D": "Sulphate"
+  },
+  "correct_answer": "C",
+  "explanation": "Nitrate is reduced to nitrite, which converts haemoglobin to methaemoglobin and reduces oxygen transport.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Environmental Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Excess fluoride (above about 2 ppm) in drinking water causes:",
+  "options": {
+   "A": "blue baby syndrome",
+   "B": "itai-itai disease",
+   "C": "dental and skeletal fluorosis",
+   "D": "Minamata disease"
+  },
+  "correct_answer": "C",
+  "explanation": "Excess fluoride mottles the teeth and can harden the bones.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Environmental Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Eutrophication of a lake is caused by an excess of:",
+  "options": {
+   "A": "dissolved oxygen",
+   "B": "phosphates and nitrates",
+   "C": "chlorine",
+   "D": "carbon monoxide"
+  },
+  "correct_answer": "B",
+  "explanation": "Excess nutrients cause algal blooms, whose decay depletes dissolved oxygen.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Environmental Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The BOD value of clean water is less than about:",
+  "options": {
+   "A": "50 ppm",
+   "B": "25 ppm",
+   "C": "17 ppm",
+   "D": "5 ppm"
+  },
+  "correct_answer": "D",
+  "explanation": "Clean water has a BOD below 5 ppm, and highly polluted water has 17 ppm or more.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Environmental Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is a component of photochemical smog?",
+  "options": {
+   "A": "SO₂",
+   "B": "Soot",
+   "C": "Peroxyacetyl nitrate (PAN)",
+   "D": "H₂SO₄ mist"
+  },
+  "correct_answer": "C",
+  "explanation": "Photochemical smog contains ozone, PAN and aldehydes, which are formed from NOx and hydrocarbons in sunlight.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Environmental Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Photochemical smog is:",
+  "options": {
+   "A": "reducing in nature",
+   "B": "oxidising in nature",
+   "C": "neutral",
+   "D": "formed only at night"
+  },
+  "correct_answer": "B",
+  "explanation": "It contains oxidising agents such as O₃ and PAN, while classical (London) smog is reducing.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Environmental Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In a catalytic converter, harmful CO and unburnt hydrocarbons are converted mainly into:",
+  "options": {
+   "A": "CO₂ and H₂O",
+   "B": "NO₂ and H₂",
+   "C": "CH₄ and O₂",
+   "D": "SO₂ and H₂O"
+  },
+  "correct_answer": "A",
+  "explanation": "Pt, Pd and Rh catalysts oxidise CO and hydrocarbons to CO₂ and water, and reduce NOx to N₂.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Environmental Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The Montreal Protocol deals with the control of:",
+  "options": {
+   "A": "greenhouse gas emissions",
+   "B": "hazardous waste transport",
+   "C": "ozone-depleting substances",
+   "D": "loss of biodiversity"
+  },
+  "correct_answer": "C",
+  "explanation": "It aims to phase out substances such as CFCs, while the Kyoto Protocol deals with greenhouse gases.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Environmental Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which device is used to remove suspended particulate matter from industrial exhaust gases?",
+  "options": {
+   "A": "Catalytic converter",
+   "B": "Gas bubbler",
+   "C": "Anaerobic digester",
+   "D": "Electrostatic precipitator"
+  },
+  "correct_answer": "D",
+  "explanation": "An electrostatic precipitator charges the particles and collects them on oppositely charged plates.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Environmental Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is a principle of green chemistry?",
+  "options": {
+   "A": "Generate waste and treat it later",
+   "B": "Prevention of waste",
+   "C": "Use of toxic solvents",
+   "D": "Maximising by-products"
+  },
+  "correct_answer": "B",
+  "explanation": "It is better to prevent waste than to treat it after it is formed.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Environmental Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The thickness of the ozone layer is measured in:",
+  "options": {
+   "A": "Dobson units",
+   "B": "ppm",
+   "C": "pH units",
+   "D": "decibels"
+  },
+  "correct_answer": "A",
+  "explanation": "One Dobson unit is a 0.01 mm layer of pure ozone at STP.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Environmental Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Acid rain is mainly caused by oxides of:",
+  "options": {
+   "A": "carbon and hydrogen",
+   "B": "sulphur and nitrogen",
+   "C": "chlorine and fluorine",
+   "D": "argon and helium"
+  },
+  "correct_answer": "B",
+  "explanation": "SO₂ and NOx form H₂SO₄ and HNO₃ in the atmosphere.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Environmental Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Burning of fossil fuels mainly increases the atmospheric concentration of:",
+  "options": {
+   "A": "N₂",
+   "B": "O₂",
+   "C": "Ar",
+   "D": "CO₂"
+  },
+  "correct_answer": "D",
+  "explanation": "Combustion of carbon-based fuels releases CO₂.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Environmental Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "DDT is a pesticide that is a problem because it is:",
+  "options": {
+   "A": "readily biodegradable",
+   "B": "non-biodegradable and accumulates in food chains",
+   "C": "a herbicide",
+   "D": "a fertiliser"
+  },
+  "correct_answer": "B",
+  "explanation": "DDT persists in the environment and builds up in fatty tissue (biomagnification).",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Environmental Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Itai-itai disease is caused by poisoning with:",
+  "options": {
+   "A": "lead",
+   "B": "mercury",
+   "C": "cadmium",
+   "D": "arsenic"
+  },
+  "correct_answer": "C",
+  "explanation": "Itai-itai disease results from cadmium contamination. Mercury causes Minamata disease.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Environmental Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "For the survival of most aquatic life, the dissolved oxygen in water should be at least about:",
+  "options": {
+   "A": "1 ppm",
+   "B": "2 ppm",
+   "C": "3 ppm",
+   "D": "6 ppm"
+  },
+  "correct_answer": "D",
+  "explanation": "Dissolved oxygen above about 6 ppm supports fish and most aquatic organisms.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Environmental Chemistry"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In the stratosphere, ozone is formed when O₂ combines with:",
+  "options": {
+   "A": "atomic oxygen",
+   "B": "N₂",
+   "C": "CO₂",
+   "D": "H₂O"
+  },
+  "correct_answer": "A",
+  "explanation": "UV light splits O₂ into O atoms, and O + O₂ → O₃.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Environmental Chemistry"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which of the following are greenhouse gases?",
+  "options": {
+   "A": "CO₂",
+   "B": "CH₄",
+   "C": "N₂O",
+   "D": "Ar"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "CO₂, CH₄ and N₂O absorb infrared radiation. Argon is monatomic and does not.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Environmental Chemistry"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which statements about eutrophication are correct?",
+  "options": {
+   "A": "It is caused by an excess of nutrients such as nitrates and phosphates",
+   "B": "It reduces the dissolved oxygen of the water",
+   "C": "It increases the BOD of the water",
+   "D": "It increases the fish population"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "Decay of the algal bloom consumes oxygen, which raises BOD and harms fish.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Environmental Chemistry"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A 500 g sample of air contains 0.05 g of a pollutant. Its concentration by mass (in ppm) is:",
+  "options": null,
+  "correct_answer": "100",
+  "explanation": "ppm = 0.05/500 × 10⁶ = 100.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Environmental Chemistry"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A water sample has an initial dissolved oxygen of 9 ppm and 3 ppm after 5 days of incubation. Its BOD (in ppm) is:",
+  "options": null,
+  "correct_answer": "6",
+  "explanation": "BOD = 9 − 3 = 6 ppm.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Environmental Chemistry"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The [H⁺] of a sample of rainwater is 10⁻⁵ M. Its pH is:",
+  "options": null,
+  "correct_answer": "5",
+  "explanation": "pH = −log(10⁻⁵) = 5.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Environmental Chemistry"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The volume (in L) of CO₂ at STP formed by the complete combustion of 12 g of carbon (C + O₂ → CO₂, molar volume 22.4 L) is:",
+  "options": null,
+  "correct_answer": "22.4",
+  "explanation": "12 g of C is 1 mol, which gives 1 mol of CO₂ = 22.4 L.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Environmental Chemistry"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A water sample of mass 2 kg contains 0.04 g of nitrate. The nitrate concentration (in ppm by mass) is:",
+  "options": null,
+  "correct_answer": "20",
+  "explanation": "ppm = 0.04/2000 × 10⁶ = 20.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Environmental Chemistry"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of oxygen atoms in one molecule of peroxyacetyl nitrate, CH₃COOONO₂, is:",
+  "options": null,
+  "correct_answer": "5",
+  "explanation": "One carbonyl O, two O atoms in the –O–O– link and two in the NO₂ group give 1 + 2 + 2 = 5.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Environmental Chemistry"
+ }
+]

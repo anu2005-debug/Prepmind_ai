@@ -1,0 +1,452 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "A charge of 10 C passes through a wire in 5 s. The current is:",
+  "options": {
+   "A": "1 A",
+   "B": "2 A",
+   "C": "5 A",
+   "D": "50 A"
+  },
+  "correct_answer": "B",
+  "explanation": "I = Q/t = 10/5 = 2 A.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Current Electricity"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A wire of resistance 10 Ω carries a current of 3 A. The potential difference across it is:",
+  "options": {
+   "A": "3.3 V",
+   "B": "13 V",
+   "C": "30 V",
+   "D": "7 V"
+  },
+  "correct_answer": "C",
+  "explanation": "V = IR = 3 × 10 = 30 V.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Current Electricity"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The length of a wire is doubled with its cross-section unchanged. Its resistance:",
+  "options": {
+   "A": "doubles",
+   "B": "halves",
+   "C": "becomes four times",
+   "D": "remains the same"
+  },
+  "correct_answer": "A",
+  "explanation": "R = ρL/A, so R ∝ L and doubling L doubles R.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Current Electricity"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A wire is stretched uniformly to twice its length (volume constant). Its resistance becomes:",
+  "options": {
+   "A": "2 times",
+   "B": "the same",
+   "C": "8 times",
+   "D": "4 times"
+  },
+  "correct_answer": "D",
+  "explanation": "Length doubles and area halves, so R = ρL/A becomes 2 × 2 = 4 times.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Current Electricity"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Resistors of 3 Ω and 6 Ω are connected in parallel. The equivalent resistance is:",
+  "options": {
+   "A": "9 Ω",
+   "B": "4.5 Ω",
+   "C": "2 Ω",
+   "D": "3 Ω"
+  },
+  "correct_answer": "C",
+  "explanation": "R = (3 × 6)/(3 + 6) = 2 Ω.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Current Electricity"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A bulb is rated 100 W, 220 V. Its resistance is:",
+  "options": {
+   "A": "2.2 Ω",
+   "B": "22 Ω",
+   "C": "220 Ω",
+   "D": "484 Ω"
+  },
+  "correct_answer": "D",
+  "explanation": "R = V²/P = 220²/100 = 484 Ω.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Current Electricity"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A current of 2 A flows through a 5 Ω resistor for 10 s. The heat produced is:",
+  "options": {
+   "A": "200 J",
+   "B": "100 J",
+   "C": "400 J",
+   "D": "50 J"
+  },
+  "correct_answer": "A",
+  "explanation": "H = I²Rt = 4 × 5 × 10 = 200 J.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Current Electricity"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A cell of emf 12 V and internal resistance 1 Ω is connected to an external resistance of 5 Ω. The current is:",
+  "options": {
+   "A": "1 A",
+   "B": "2 A",
+   "C": "2.4 A",
+   "D": "12 A"
+  },
+  "correct_answer": "B",
+  "explanation": "I = E/(R + r) = 12/6 = 2 A.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Current Electricity"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "For the same cell (E = 12 V, r = 1 Ω, R = 5 Ω), the terminal voltage is:",
+  "options": {
+   "A": "12 V",
+   "B": "11 V",
+   "C": "10 V",
+   "D": "8 V"
+  },
+  "correct_answer": "C",
+  "explanation": "V = E − Ir = 12 − 2 × 1 = 10 V.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Current Electricity"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A balanced Wheatstone bridge has P = 10 Ω, Q = 20 Ω, R = 30 Ω. The value of S is:",
+  "options": {
+   "A": "60 Ω",
+   "B": "15 Ω",
+   "C": "30 Ω",
+   "D": "20 Ω"
+  },
+  "correct_answer": "A",
+  "explanation": "P/Q = R/S gives S = RQ/P = 30 × 20/10 = 60 Ω.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Current Electricity"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "If the current through a conductor of fixed cross-section is doubled, the drift velocity of the electrons:",
+  "options": {
+   "A": "halves",
+   "B": "doubles",
+   "C": "remains the same",
+   "D": "becomes four times"
+  },
+  "correct_answer": "B",
+  "explanation": "I = nAev_d, so v_d ∝ I.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Current Electricity"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "When the temperature of a metallic conductor increases, its resistance:",
+  "options": {
+   "A": "decreases",
+   "B": "remains the same",
+   "C": "increases",
+   "D": "first decreases, then increases"
+  },
+  "correct_answer": "C",
+  "explanation": "Greater lattice vibrations increase collisions, so the resistance of a metal rises with temperature.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Current Electricity"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Kirchhoff's junction rule is a consequence of conservation of:",
+  "options": {
+   "A": "energy",
+   "B": "momentum",
+   "C": "angular momentum",
+   "D": "charge"
+  },
+  "correct_answer": "D",
+  "explanation": "The algebraic sum of currents at a junction is zero because charge cannot accumulate there.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Current Electricity"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Three cells, each of emf 2 V and internal resistance 0.5 Ω, are connected in series. The total emf is:",
+  "options": {
+   "A": "6 V",
+   "B": "2 V",
+   "C": "3 V",
+   "D": "0.67 V"
+  },
+  "correct_answer": "A",
+  "explanation": "In series the emfs add: 3 × 2 = 6 V.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Current Electricity"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Four identical cells, each of emf 1.5 V, are connected in parallel. The emf of the combination is:",
+  "options": {
+   "A": "6 V",
+   "B": "1.5 V",
+   "C": "0.375 V",
+   "D": "3 V"
+  },
+  "correct_answer": "B",
+  "explanation": "For identical cells in parallel the emf equals that of a single cell, 1.5 V.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Current Electricity"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A cell has internal resistance 4 Ω. The external resistance for maximum power transfer is:",
+  "options": {
+   "A": "2 Ω",
+   "B": "8 Ω",
+   "C": "4 Ω",
+   "D": "16 Ω"
+  },
+  "correct_answer": "C",
+  "explanation": "Maximum power is delivered when the load resistance equals the internal resistance.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Current Electricity"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A potentiometer is preferred to a voltmeter for measuring emf because:",
+  "options": {
+   "A": "its wire is very long",
+   "B": "it uses a more sensitive galvanometer",
+   "C": "it uses a stronger driver cell",
+   "D": "it draws no current from the cell at the balance point"
+  },
+  "correct_answer": "D",
+  "explanation": "At balance no current flows through the cell, so its terminal voltage equals its emf.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Current Electricity"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A galvanometer is converted into a voltmeter by connecting:",
+  "options": {
+   "A": "a high resistance in series",
+   "B": "a low resistance in parallel",
+   "C": "a low resistance in series",
+   "D": "a high resistance in parallel"
+  },
+  "correct_answer": "A",
+  "explanation": "A large series resistance makes the instrument draw little current and drops most of the voltage across it.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Current Electricity"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A galvanometer of resistance 100 Ω gives full-scale deflection for 1 mA. The shunt needed to convert it into a 1 A ammeter is approximately:",
+  "options": {
+   "A": "100 Ω",
+   "B": "0.1 Ω",
+   "C": "1 Ω",
+   "D": "10 Ω"
+  },
+  "correct_answer": "B",
+  "explanation": "S = I_g G/(I − I_g) = 10⁻³ × 100/0.999 ≈ 0.1 Ω.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Current Electricity"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The SI unit of resistivity is:",
+  "options": {
+   "A": "Ω",
+   "B": "Ω/m",
+   "C": "Ω m",
+   "D": "S m"
+  },
+  "correct_answer": "C",
+  "explanation": "ρ = RA/L, so its unit is Ω m²/m = Ω m.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Current Electricity"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A 1 kW heater runs for 5 hours. The energy consumed is:",
+  "options": {
+   "A": "1 kWh",
+   "B": "0.2 kWh",
+   "C": "500 kWh",
+   "D": "5 kWh"
+  },
+  "correct_answer": "D",
+  "explanation": "Energy = power × time = 1 kW × 5 h = 5 kWh.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Current Electricity"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A 60 W and a 100 W bulb, both rated 220 V, are connected in series across 220 V. Which glows brighter?",
+  "options": {
+   "A": "The 60 W bulb",
+   "B": "The 100 W bulb",
+   "C": "Both equally",
+   "D": "Neither glows"
+  },
+  "correct_answer": "A",
+  "explanation": "R = V²/P is larger for the 60 W bulb. In series the same current flows, so P = I²R is larger for it.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Current Electricity"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which statements are correct for current in a metallic conductor?",
+  "options": {
+   "A": "The drift velocity is much smaller than the random thermal speed of the electrons",
+   "B": "The current density is J = σE",
+   "C": "The resistance increases with temperature",
+   "D": "Ohm's law holds for all conducting devices"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "Drift speeds are tiny compared with thermal speeds, J = σE, and metals have positive temperature coefficients. Many devices (diodes, for example) do not obey Ohm's law.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Current Electricity"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which statements about Kirchhoff's rules are correct?",
+  "options": {
+   "A": "At a junction the algebraic sum of currents is zero",
+   "B": "Around any closed loop the algebraic sum of potential differences is zero",
+   "C": "The junction rule follows from conservation of charge",
+   "D": "The loop rule follows from conservation of momentum"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "The loop rule follows from conservation of energy (the electrostatic field is conservative), not momentum.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Current Electricity"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "Resistors of 4 Ω and 12 Ω are connected in parallel. The equivalent resistance (in Ω) is:",
+  "options": null,
+  "correct_answer": "3",
+  "explanation": "R = (4 × 12)/(4 + 12) = 3 Ω.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Current Electricity"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A 6 V battery of internal resistance 0.5 Ω is connected across a 2.5 Ω resistor. The current (in A) is:",
+  "options": null,
+  "correct_answer": "2",
+  "explanation": "I = E/(R + r) = 6/3 = 2 A.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Current Electricity"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A bulb is rated 100 W, 200 V. The current (in A) at the rated voltage is:",
+  "options": null,
+  "correct_answer": "0.5",
+  "explanation": "I = P/V = 100/200 = 0.5 A.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Current Electricity"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A 1000 W heater runs for 30 minutes. The energy consumed (in kWh) is:",
+  "options": null,
+  "correct_answer": "0.5",
+  "explanation": "E = 1 kW × 0.5 h = 0.5 kWh.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Current Electricity"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A wire of resistance 5 Ω is drawn uniformly to three times its length (volume constant). Its new resistance (in Ω) is:",
+  "options": null,
+  "correct_answer": "45",
+  "explanation": "R ∝ L²/V, so R becomes 3² = 9 times: 5 × 9 = 45 Ω.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Current Electricity"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A galvanometer of resistance 50 Ω deflects fully for 2 mA. The series resistance (in Ω) needed to make it a voltmeter of range 10 V is:",
+  "options": null,
+  "correct_answer": "4950",
+  "explanation": "R = V/I_g − G = 10/0.002 − 50 = 5000 − 50 = 4950 Ω.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Current Electricity"
+ }
+]

@@ -1,0 +1,452 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "Aspirin is chemically:",
+  "options": {
+   "A": "acetylsalicylic acid",
+   "B": "paracetamol",
+   "C": "ibuprofen",
+   "D": "salicylamide"
+  },
+  "correct_answer": "A",
+  "explanation": "Aspirin is the acetyl derivative of salicylic acid.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemistry in Everyday Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is an antibiotic?",
+  "options": {
+   "A": "Aspirin",
+   "B": "Paracetamol",
+   "C": "Ranitidine",
+   "D": "Penicillin"
+  },
+  "correct_answer": "D",
+  "explanation": "Penicillin, produced by Penicillium moulds, was the first antibiotic.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemistry in Everyday Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is used as an antacid?",
+  "options": {
+   "A": "Aspirin",
+   "B": "Penicillin",
+   "C": "Mg(OH)₂",
+   "D": "Morphine"
+  },
+  "correct_answer": "C",
+  "explanation": "Mg(OH)₂ neutralises excess stomach acid.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemistry in Everyday Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Brompheniramine (Dimetapp), an antihistamine, is used to relieve:",
+  "options": {
+   "A": "bacterial infections",
+   "B": "pain",
+   "C": "allergy symptoms",
+   "D": "ulcers"
+  },
+  "correct_answer": "C",
+  "explanation": "Antihistamines block the action of histamine, which is released in allergic reactions.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemistry in Everyday Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Drugs such as equanil, used to treat stress and mild mental disorders, are called:",
+  "options": {
+   "A": "tranquilisers",
+   "B": "analgesics",
+   "C": "antiseptics",
+   "D": "antibiotics"
+  },
+  "correct_answer": "A",
+  "explanation": "Tranquilisers act on the central nervous system to reduce anxiety and tension.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemistry in Everyday Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Dettol is a mixture of:",
+  "options": {
+   "A": "chloroxylenol and terpineol",
+   "B": "phenol and formaldehyde",
+   "C": "iodine and KI",
+   "D": "bithionol and boric acid"
+  },
+  "correct_answer": "A",
+  "explanation": "Dettol is a household antiseptic containing chloroxylenol and terpineol.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemistry in Everyday Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A 0.2% solution of phenol acts as a(n):",
+  "options": {
+   "A": "disinfectant",
+   "B": "analgesic",
+   "C": "antibiotic",
+   "D": "antiseptic"
+  },
+  "correct_answer": "D",
+  "explanation": "0.2% phenol is an antiseptic and a 1% solution is a disinfectant.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemistry in Everyday Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Tincture of iodine is a 2–3% solution of iodine in:",
+  "options": {
+   "A": "alcohol and water",
+   "B": "water only",
+   "C": "benzene",
+   "D": "chloroform"
+  },
+  "correct_answer": "A",
+  "explanation": "It is an antiseptic made with an alcohol–water solvent.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemistry in Everyday Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is an artificial sweetener?",
+  "options": {
+   "A": "Sucrose",
+   "B": "Fructose",
+   "C": "Saccharin",
+   "D": "Glucose"
+  },
+  "correct_answer": "C",
+  "explanation": "Saccharin is an artificial sweetener about 550 times sweeter than sucrose.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemistry in Everyday Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which sweetener is unstable at cooking temperatures and so is used only in cold foods and drinks?",
+  "options": {
+   "A": "Saccharin",
+   "B": "Sucralose",
+   "C": "Sucrose",
+   "D": "Aspartame"
+  },
+  "correct_answer": "D",
+  "explanation": "Aspartame decomposes on heating.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemistry in Everyday Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Soaps are:",
+  "options": {
+   "A": "esters of glycerol",
+   "B": "sodium alkylbenzene sulphonates",
+   "C": "polyethylene glycol esters",
+   "D": "sodium or potassium salts of long-chain fatty acids"
+  },
+  "correct_answer": "D",
+  "explanation": "Soaps are salts such as sodium stearate, made by saponification of fats.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemistry in Everyday Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Saponification of a fat with NaOH gives soap and:",
+  "options": {
+   "A": "ethanol",
+   "B": "ethylene glycol",
+   "C": "glycerol",
+   "D": "methanol"
+  },
+  "correct_answer": "C",
+  "explanation": "A triglyceride is hydrolysed to glycerol and three fatty acid salts.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemistry in Everyday Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Detergents whose hydrocarbon chain is which of the following are biodegradable?",
+  "options": {
+   "A": "Unbranched (straight)",
+   "B": "Highly branched",
+   "C": "Cyclic",
+   "D": "Aromatic"
+  },
+  "correct_answer": "A",
+  "explanation": "Bacteria can break down straight chains, but highly branched chains resist degradation and cause foam in rivers.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemistry in Everyday Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Sodium lauryl sulphate, CH₃(CH₂)₁₁OSO₃⁻Na⁺, is a(n):",
+  "options": {
+   "A": "cationic detergent",
+   "B": "anionic detergent",
+   "C": "non-ionic detergent",
+   "D": "soap"
+  },
+  "correct_answer": "B",
+  "explanation": "The large hydrophobic part carries a negative charge, so it is anionic.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemistry in Everyday Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Cetyltrimethylammonium bromide is a(n):",
+  "options": {
+   "A": "anionic detergent",
+   "B": "non-ionic detergent",
+   "C": "soap",
+   "D": "cationic detergent"
+  },
+  "correct_answer": "D",
+  "explanation": "The long hydrophobic chain is attached to a positively charged quaternary ammonium ion.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemistry in Everyday Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is a food preservative?",
+  "options": {
+   "A": "Saccharin",
+   "B": "Aspartame",
+   "C": "Sodium benzoate",
+   "D": "Glycerol"
+  },
+  "correct_answer": "C",
+  "explanation": "Sodium benzoate prevents the growth of microbes in food.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemistry in Everyday Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Butylated hydroxytoluene (BHT) is added to food as a(n):",
+  "options": {
+   "A": "sweetener",
+   "B": "antioxidant",
+   "C": "colouring agent",
+   "D": "flavouring agent"
+  },
+  "correct_answer": "B",
+  "explanation": "BHT and BHA slow the oxidation of fats and oils.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemistry in Everyday Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is a narcotic analgesic?",
+  "options": {
+   "A": "Aspirin",
+   "B": "Ibuprofen",
+   "C": "Morphine",
+   "D": "Paracetamol"
+  },
+  "correct_answer": "C",
+  "explanation": "Morphine and codeine are narcotic analgesics used for severe pain.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemistry in Everyday Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Chlorine at about 0.2 to 0.4 ppm in water acts as a:",
+  "options": {
+   "A": "disinfectant",
+   "B": "antibiotic",
+   "C": "analgesic",
+   "D": "fertiliser"
+  },
+  "correct_answer": "A",
+  "explanation": "Low concentrations of chlorine are used to disinfect drinking water.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemistry in Everyday Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is an antipyretic?",
+  "options": {
+   "A": "Morphine",
+   "B": "Penicillin",
+   "C": "Ranitidine",
+   "D": "Paracetamol"
+  },
+  "correct_answer": "D",
+  "explanation": "Paracetamol reduces fever and relieves mild pain.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemistry in Everyday Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Antibiotics that kill bacteria, such as penicillin, are called:",
+  "options": {
+   "A": "bacteriostatic",
+   "B": "bactericidal",
+   "C": "analgesic",
+   "D": "antacid"
+  },
+  "correct_answer": "B",
+  "explanation": "Bactericidal antibiotics kill bacteria, and bacteriostatic ones only stop their growth.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemistry in Everyday Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Ranitidine reduces stomach acid by:",
+  "options": {
+   "A": "neutralising the acid directly",
+   "B": "blocking histamine H₂ receptors",
+   "C": "killing bacteria",
+   "D": "relieving pain"
+  },
+  "correct_answer": "B",
+  "explanation": "Blocking H₂ receptors reduces the release of acid in the stomach.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemistry in Everyday Life"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which statements about soaps and detergents are correct?",
+  "options": {
+   "A": "Soaps are not effective in hard water",
+   "B": "Synthetic detergents work in hard water",
+   "C": "Soaps are sodium salts of fatty acids",
+   "D": "All detergents are biodegradable"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "Detergents with highly branched chains are not biodegradable, so D is false.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemistry in Everyday Life"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which of the following are artificial sweeteners?",
+  "options": {
+   "A": "Saccharin",
+   "B": "Aspartame",
+   "C": "Sucralose",
+   "D": "Fructose"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "Fructose is a natural sugar.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemistry in Everyday Life"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of carbon atoms in one molecule of aspirin (C₉H₈O₄) is:",
+  "options": null,
+  "correct_answer": "9",
+  "explanation": "The molecular formula C₉H₈O₄ has 9 carbon atoms.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemistry in Everyday Life"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The molar mass (in g/mol) of aspirin, C₉H₈O₄ (C = 12, H = 1, O = 16), is:",
+  "options": null,
+  "correct_answer": "180",
+  "explanation": "9 × 12 + 8 × 1 + 4 × 16 = 108 + 8 + 64 = 180.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemistry in Everyday Life"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The molar mass (in g/mol) of paracetamol, C₈H₉NO₂ (C = 12, H = 1, N = 14, O = 16), is:",
+  "options": null,
+  "correct_answer": "151",
+  "explanation": "96 + 9 + 14 + 32 = 151.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemistry in Everyday Life"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The mass (in g) of NaOH (40 g/mol) needed to saponify 1 mol of a triglyceride completely is:",
+  "options": null,
+  "correct_answer": "120",
+  "explanation": "Each triglyceride has 3 ester groups, so 3 mol NaOH are needed: 3 × 40 = 120 g.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemistry in Everyday Life"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "Saccharin is about 550 times sweeter than sucrose. The mass (in g) of saccharin that gives the same sweetness as 110 g of sucrose is:",
+  "options": null,
+  "correct_answer": "0.2",
+  "explanation": "110/550 = 0.2 g.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemistry in Everyday Life"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of moles of soap formed when 1 mol of a triglyceride is completely saponified is:",
+  "options": null,
+  "correct_answer": "3",
+  "explanation": "One triglyceride gives one glycerol and three fatty acid salts (soap).",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemistry in Everyday Life"
+ }
+]

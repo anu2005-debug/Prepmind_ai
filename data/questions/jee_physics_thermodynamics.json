@@ -1,0 +1,452 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "A gas absorbs 500 J of heat and does 200 J of work. The change in its internal energy is:",
+  "options": {
+   "A": "700 J",
+   "B": "300 J",
+   "C": "100 J",
+   "D": "−300 J"
+  },
+  "correct_answer": "B",
+  "explanation": "ΔU = Q − W = 500 − 200 = 300 J.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Thermodynamics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In an isothermal expansion of an ideal gas, the heat absorbed by the gas equals:",
+  "options": {
+   "A": "the change in its internal energy",
+   "B": "zero",
+   "C": "the negative of the work done by the gas",
+   "D": "the work done by the gas"
+  },
+  "correct_answer": "D",
+  "explanation": "For an ideal gas ΔU = 0 at constant T, so Q = W.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Thermodynamics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The work done by a gas in an adiabatic expansion comes at the expense of its:",
+  "options": {
+   "A": "internal energy",
+   "B": "heat absorbed from the surroundings",
+   "C": "external pressure",
+   "D": "latent heat"
+  },
+  "correct_answer": "A",
+  "explanation": "Q = 0, so W = −ΔU and the gas cools while it does work.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Thermodynamics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "For one mole of an ideal gas, Cp − Cv equals:",
+  "options": {
+   "A": "R/2",
+   "B": "2R",
+   "C": "R",
+   "D": "γR"
+  },
+  "correct_answer": "C",
+  "explanation": "Mayer's relation: Cp − Cv = R.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Thermodynamics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The ratio Cp/Cv for a monatomic ideal gas is:",
+  "options": {
+   "A": "7/5",
+   "B": "5/3",
+   "C": "4/3",
+   "D": "3/2"
+  },
+  "correct_answer": "B",
+  "explanation": "For f = 3, γ = 1 + 2/f = 5/3.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Thermodynamics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The molar specific heat at constant volume of a rigid diatomic ideal gas is:",
+  "options": {
+   "A": "3R/2",
+   "B": "7R/2",
+   "C": "R",
+   "D": "5R/2"
+  },
+  "correct_answer": "D",
+  "explanation": "A rigid diatomic molecule has f = 5, so Cv = (f/2)R = 5R/2.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Thermodynamics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Two moles of an ideal gas are heated at constant pressure from 300 K to 400 K (R = 8.3 J mol⁻¹ K⁻¹). The work done by the gas is:",
+  "options": {
+   "A": "1660 J",
+   "B": "830 J",
+   "C": "3320 J",
+   "D": "2490 J"
+  },
+  "correct_answer": "A",
+  "explanation": "W = nRΔT = 2 × 8.3 × 100 = 1660 J.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Thermodynamics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A Carnot engine works between 500 K and 300 K. Its efficiency is:",
+  "options": {
+   "A": "60%",
+   "B": "50%",
+   "C": "40%",
+   "D": "20%"
+  },
+  "correct_answer": "C",
+  "explanation": "η = 1 − T₂/T₁ = 1 − 300/500 = 0.4.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Thermodynamics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A Carnot engine has an efficiency of 25% with its sink at 300 K. The source temperature is:",
+  "options": {
+   "A": "375 K",
+   "B": "400 K",
+   "C": "500 K",
+   "D": "600 K"
+  },
+  "correct_answer": "B",
+  "explanation": "0.25 = 1 − 300/T, so T = 300/0.75 = 400 K.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Thermodynamics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A refrigerator works between 270 K and 300 K as a reversible machine. Its coefficient of performance is:",
+  "options": {
+   "A": "10",
+   "B": "0.9",
+   "C": "11",
+   "D": "9"
+  },
+  "correct_answer": "D",
+  "explanation": "COP = T_c/(T_h − T_c) = 270/30 = 9.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Thermodynamics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The Kelvin–Planck statement of the second law says:",
+  "options": {
+   "A": "no cyclic engine can convert all the heat it absorbs completely into work",
+   "B": "heat flows spontaneously from a cold body to a hot body",
+   "C": "energy can be neither created nor destroyed",
+   "D": "the entropy of a system always decreases"
+  },
+  "correct_answer": "A",
+  "explanation": "Kelvin–Planck: no cyclic process can take heat from one reservoir and convert it entirely into work.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Thermodynamics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "2000 J of heat is absorbed reversibly by a system at a constant temperature of 400 K. The change in entropy is:",
+  "options": {
+   "A": "0.2 J/K",
+   "B": "50 J/K",
+   "C": "5 J/K",
+   "D": "2000 J/K"
+  },
+  "correct_answer": "C",
+  "explanation": "ΔS = Q/T = 2000/400 = 5 J/K.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Thermodynamics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A monatomic ideal gas is compressed adiabatically to half its volume. Its pressure becomes:",
+  "options": {
+   "A": "2 times",
+   "B": "2^(5/3) times",
+   "C": "4 times",
+   "D": "2^(3/5) times"
+  },
+  "correct_answer": "B",
+  "explanation": "PV^γ is constant with γ = 5/3, so P′ = P × 2^(5/3).",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Thermodynamics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "An ideal gas expands from 2 L to 5 L at a constant pressure of 2 × 10⁵ Pa. The work done by the gas is:",
+  "options": {
+   "A": "300 J",
+   "B": "1200 J",
+   "C": "400 J",
+   "D": "600 J"
+  },
+  "correct_answer": "D",
+  "explanation": "W = PΔV = 2 × 10⁵ × 3 × 10⁻³ = 600 J.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Thermodynamics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In a complete cyclic process the change in internal energy of the system is:",
+  "options": {
+   "A": "zero",
+   "B": "positive",
+   "C": "negative",
+   "D": "equal to the work done"
+  },
+  "correct_answer": "A",
+  "explanation": "Internal energy is a state function, so it returns to its initial value over a cycle.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Thermodynamics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The work done by an ideal gas in a free expansion into a vacuum is:",
+  "options": {
+   "A": "nRT ln(V₂/V₁)",
+   "B": "PΔV",
+   "C": "zero",
+   "D": "negative"
+  },
+  "correct_answer": "C",
+  "explanation": "There is no external pressure, so no work is done.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Thermodynamics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "For a gas whose molecules have f degrees of freedom, the ratio Cp/Cv is:",
+  "options": {
+   "A": "1 + f/2",
+   "B": "1 + 2/f",
+   "C": "f/2",
+   "D": "2/f"
+  },
+  "correct_answer": "B",
+  "explanation": "Cv = (f/2)R and Cp = (f/2 + 1)R, so γ = 1 + 2/f.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Thermodynamics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A monatomic ideal gas is heated at constant pressure. The fraction of the heat supplied that is converted into work is:",
+  "options": {
+   "A": "3/5",
+   "B": "1/2",
+   "C": "2/3",
+   "D": "2/5"
+  },
+  "correct_answer": "D",
+  "explanation": "W/Q = R/Cp = R/(5R/2) = 2/5.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Thermodynamics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "For an ideal gas the ratio of the adiabatic bulk modulus to the isothermal bulk modulus is:",
+  "options": {
+   "A": "γ",
+   "B": "1/γ",
+   "C": "γ − 1",
+   "D": "1"
+  },
+  "correct_answer": "A",
+  "explanation": "B_isothermal = P and B_adiabatic = γP.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Thermodynamics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A heat engine absorbs 1000 J from the source and rejects 600 J to the sink in each cycle. Its efficiency is:",
+  "options": {
+   "A": "60%",
+   "B": "66.7%",
+   "C": "40%",
+   "D": "25%"
+  },
+  "correct_answer": "C",
+  "explanation": "η = W/Q₁ = (1000 − 600)/1000 = 0.4.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Thermodynamics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The zeroth law of thermodynamics leads to the concept of:",
+  "options": {
+   "A": "internal energy",
+   "B": "temperature",
+   "C": "entropy",
+   "D": "heat capacity"
+  },
+  "correct_answer": "B",
+  "explanation": "If A and B are each in equilibrium with C, they are in equilibrium with each other, which defines temperature.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Thermodynamics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "One mole of an ideal gas expands isothermally at temperature T to double its volume. The work done by the gas is:",
+  "options": {
+   "A": "RT",
+   "B": "2RT",
+   "C": "RT/2",
+   "D": "RT ln 2"
+  },
+  "correct_answer": "D",
+  "explanation": "W = RT ln(V₂/V₁) = RT ln 2.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Thermodynamics"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which of the following statements about processes of an ideal gas are correct?",
+  "options": {
+   "A": "No work is done in an isochoric process",
+   "B": "The pressure stays constant in an isochoric process",
+   "C": "The internal energy does not change in an isothermal process",
+   "D": "No heat is exchanged in an adiabatic process"
+  },
+  "correct_answer": "A,C,D",
+  "explanation": "In an isochoric process the volume is constant, so no work is done, but the pressure changes with temperature.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Thermodynamics"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which of the following statements about heat engines are correct?",
+  "options": {
+   "A": "No engine working between two given temperatures is more efficient than a Carnot engine",
+   "B": "A Carnot engine is a reversible engine",
+   "C": "The efficiency of a Carnot engine depends only on the source and sink temperatures",
+   "D": "A real engine can have 100% efficiency if friction is removed completely"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "The second law forbids 100% efficiency, and the Carnot engine sets the maximum efficiency between two temperatures.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Thermodynamics"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A gas absorbs 800 J of heat and does 300 J of work. The increase in its internal energy (in J) is:",
+  "options": null,
+  "correct_answer": "500",
+  "explanation": "ΔU = Q − W = 800 − 300 = 500 J.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Thermodynamics"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A Carnot engine operates between 600 K and 300 K. Its efficiency (in %) is:",
+  "options": null,
+  "correct_answer": "50",
+  "explanation": "η = 1 − 300/600 = 0.5 = 50%.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Thermodynamics"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "One mole of an ideal gas is heated at constant pressure through 50 K (R = 8 J mol⁻¹ K⁻¹). The work done by the gas (in J) is:",
+  "options": null,
+  "correct_answer": "400",
+  "explanation": "W = nRΔT = 1 × 8 × 50 = 400 J.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Thermodynamics"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "Two moles of a monatomic ideal gas are heated at constant volume through 100 K (R = 8 J mol⁻¹ K⁻¹). The heat absorbed (in J) is:",
+  "options": null,
+  "correct_answer": "2400",
+  "explanation": "Q = nCvΔT = 2 × (3/2) × 8 × 100 = 2400 J.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Thermodynamics"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A refrigerator with a coefficient of performance of 5 removes 1000 J of heat from the cold space. The work done on it (in J) is:",
+  "options": null,
+  "correct_answer": "200",
+  "explanation": "W = Q_c/COP = 1000/5 = 200 J.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Thermodynamics"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "3000 J of heat is transferred reversibly to a system at a constant temperature of 300 K. The change in entropy (in J/K) is:",
+  "options": null,
+  "correct_answer": "10",
+  "explanation": "ΔS = Q/T = 3000/300 = 10 J/K.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Thermodynamics"
+ }
+]

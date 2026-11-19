@@ -1,0 +1,452 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "The order of the differential equation d²y/dx² + (dy/dx)³ = 0 is:",
+  "options": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "0"
+  },
+  "correct_answer": "B",
+  "explanation": "The highest derivative present is d²y/dx², so the order is 2.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Differential Equations"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The degree of the differential equation (d²y/dx²)³ + (dy/dx)⁴ = x is:",
+  "options": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4"
+  },
+  "correct_answer": "C",
+  "explanation": "The degree is the power of the highest-order derivative, which is d²y/dx² raised to 3.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Differential Equations"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The order and degree of the differential equation (y‴)² + (y″)³ + y′ = 0 are respectively:",
+  "options": {
+   "A": "3 and 2",
+   "B": "2 and 3",
+   "C": "3 and 3",
+   "D": "2 and 2"
+  },
+  "correct_answer": "A",
+  "explanation": "The highest-order derivative is y‴ (order 3) and it appears with power 2 (degree 2).",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Differential Equations"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The general solution of dy/dx = 2x is:",
+  "options": {
+   "A": "y = 2x² + C",
+   "B": "y = x + C",
+   "C": "y = x² + C",
+   "D": "y = 2 + C"
+  },
+  "correct_answer": "C",
+  "explanation": "Integrating both sides gives y = x² + C.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Differential Equations"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The general solution of dy/dx = y is:",
+  "options": {
+   "A": "y = x + C",
+   "B": "y = Ce^x",
+   "C": "y = C/x",
+   "D": "y = x² + C"
+  },
+  "correct_answer": "B",
+  "explanation": "Separating variables, dy/y = dx, so ln|y| = x + c and y = Ce^x.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Differential Equations"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The solution of dy/dx = x/y is:",
+  "options": {
+   "A": "y = x + C",
+   "B": "y² + x² = C",
+   "C": "y = x²/2 + C",
+   "D": "y² − x² = C"
+  },
+  "correct_answer": "D",
+  "explanation": "y dy = x dx gives y²/2 = x²/2 + c, so y² − x² = C.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Differential Equations"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The integrating factor of dy/dx + y = x is:",
+  "options": {
+   "A": "e^(−x)",
+   "B": "x",
+   "C": "e^x",
+   "D": "1/x"
+  },
+  "correct_answer": "C",
+  "explanation": "IF = e^(∫1 dx) = e^x.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Differential Equations"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The integrating factor of dy/dx + (2/x)y = x² is:",
+  "options": {
+   "A": "x²",
+   "B": "2x",
+   "C": "1/x²",
+   "D": "e^(2x)"
+  },
+  "correct_answer": "A",
+  "explanation": "IF = e^(∫2/x dx) = e^(2 ln x) = x².",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Differential Equations"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The integrating factor of dy/dx + (tan x) y = sec x is:",
+  "options": {
+   "A": "cos x",
+   "B": "sec x",
+   "C": "tan x",
+   "D": "sin x"
+  },
+  "correct_answer": "B",
+  "explanation": "IF = e^(∫tan x dx) = e^(ln sec x) = sec x.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Differential Equations"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The solution of dy/dx + y = 0 with y(0) = 2 is:",
+  "options": {
+   "A": "y = 2e^x",
+   "B": "y = 2e^(−x)",
+   "C": "y = e^(−2x)",
+   "D": "y = −2e^(−x)"
+  },
+  "correct_answer": "B",
+  "explanation": "The general solution is y = Ce^(−x), and y(0) = 2 gives C = 2.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Differential Equations"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The order of the differential equation of the family y = Ae^x + Be^(−x), where A and B are arbitrary constants, is:",
+  "options": {
+   "A": "1",
+   "B": "3",
+   "C": "2",
+   "D": "4"
+  },
+  "correct_answer": "C",
+  "explanation": "The order equals the number of independent arbitrary constants, which is 2.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Differential Equations"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The differential equation of the family of straight lines y = mx, where m is an arbitrary constant, is:",
+  "options": {
+   "A": "y = x dy/dx",
+   "B": "dy/dx = x",
+   "C": "dy/dx = −y/x",
+   "D": "y dy/dx = x"
+  },
+  "correct_answer": "A",
+  "explanation": "Differentiating gives dy/dx = m, and substituting m back into y = mx gives y = x dy/dx.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Differential Equations"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The solution of dy/dx = (1 + y²)/(1 + x²) is:",
+  "options": {
+   "A": "y = x + C",
+   "B": "ln y = ln x + C",
+   "C": "y = tan x + C",
+   "D": "tan⁻¹ y = tan⁻¹ x + C"
+  },
+  "correct_answer": "D",
+  "explanation": "Separating variables gives dy/(1 + y²) = dx/(1 + x²), so tan⁻¹ y = tan⁻¹ x + C.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Differential Equations"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The solution of dy/dx = (x + y)/x is:",
+  "options": {
+   "A": "y = x(ln|x| + C)",
+   "B": "y = x ln|x| + C",
+   "C": "y = (ln|x| + C)/x",
+   "D": "y = x² + C"
+  },
+  "correct_answer": "A",
+  "explanation": "Put y = vx: v + x dv/dx = 1 + v, so dv = dx/x and v = ln|x| + C, giving y = x(ln|x| + C).",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Differential Equations"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The solution of x dy + y dx = 0 is:",
+  "options": {
+   "A": "x + y = C",
+   "B": "x/y = C",
+   "C": "xy = C",
+   "D": "x² + y² = C"
+  },
+  "correct_answer": "C",
+  "explanation": "x dy + y dx = d(xy) = 0, so xy = C.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Differential Equations"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The solution of dy/dx = e^(x + y) is:",
+  "options": {
+   "A": "e^x − e^(−y) = C",
+   "B": "e^x + e^(−y) = C",
+   "C": "e^x + e^y = C",
+   "D": "e^(−x) + e^y = C"
+  },
+  "correct_answer": "B",
+  "explanation": "Separating variables, e^(−y) dy = e^x dx, so −e^(−y) = e^x + c, that is, e^x + e^(−y) = C.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Differential Equations"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The solution of dy/dx = sin x with y(0) = 1 is:",
+  "options": {
+   "A": "y = 1 − cos x",
+   "B": "y = cos x",
+   "C": "y = 2 − cos x",
+   "D": "y = 1 + sin x"
+  },
+  "correct_answer": "C",
+  "explanation": "y = −cos x + C, and y(0) = 1 gives −1 + C = 1, so C = 2.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Differential Equations"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is a linear differential equation of the first order?",
+  "options": {
+   "A": "y dy/dx + x = 0",
+   "B": "dy/dx + xy = x²",
+   "C": "(dy/dx)² + y = 0",
+   "D": "dy/dx = sin y"
+  },
+  "correct_answer": "B",
+  "explanation": "A linear equation has the form dy/dx + P(x)y = Q(x). The others contain y dy/dx, (dy/dx)² or sin y, so they are non-linear.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Differential Equations"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The differential equation dy/dx = (x² + y²)/(2xy) is:",
+  "options": {
+   "A": "variable separable",
+   "B": "linear in y",
+   "C": "exact",
+   "D": "homogeneous"
+  },
+  "correct_answer": "D",
+  "explanation": "The right side is a ratio of homogeneous functions of the same degree, so the equation is homogeneous and can be solved with y = vx.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Differential Equations"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The solution of dy/dx = 2y/x is:",
+  "options": {
+   "A": "y = Cx",
+   "B": "y = Cx²",
+   "C": "y = C/x²",
+   "D": "y = x² + C"
+  },
+  "correct_answer": "B",
+  "explanation": "dy/y = 2 dx/x gives ln|y| = 2 ln|x| + c, so y = Cx².",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Differential Equations"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The number of arbitrary constants in the general solution of a third-order differential equation is:",
+  "options": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4"
+  },
+  "correct_answer": "C",
+  "explanation": "The general solution of an nth-order equation has n arbitrary constants.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Differential Equations"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The general solution of dy/dx + y/x = 1 is:",
+  "options": {
+   "A": "y = x/2 + C/x",
+   "B": "y = x + C/x",
+   "C": "y = x/2 + Cx",
+   "D": "y = 2x + C/x"
+  },
+  "correct_answer": "A",
+  "explanation": "IF = x, so d(xy)/dx = x, giving xy = x²/2 + C and y = x/2 + C/x.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Differential Equations"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which of the following are linear differential equations?",
+  "options": {
+   "A": "dy/dx + 2y = sin x",
+   "B": "dy/dx + y² = x",
+   "C": "x dy/dx + y = x²",
+   "D": "y dy/dx = x"
+  },
+  "correct_answer": "A,C",
+  "explanation": "A is linear and C can be written as dy/dx + y/x = x. B contains y² and D contains the product y dy/dx.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Differential Equations"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "For the differential equation y″ + 3(y′)² = x, which of the following are correct?",
+  "options": {
+   "A": "Its order is 2",
+   "B": "Its degree is 1",
+   "C": "It is non-linear",
+   "D": "It is linear"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "The highest derivative y″ appears to power 1, so the order is 2 and the degree is 1. The term (y′)² makes it non-linear.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Differential Equations"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The order of the differential equation d³y/dx³ + 2 d²y/dx² + y = 0 is:",
+  "options": null,
+  "correct_answer": "3",
+  "explanation": "The highest derivative is d³y/dx³, so the order is 3.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Differential Equations"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The degree of the differential equation (y″)² + (y′)³ + y = 0 is:",
+  "options": null,
+  "correct_answer": "2",
+  "explanation": "The highest-order derivative y″ appears with power 2.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Differential Equations"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "If dy/dx = 3x² and y(0) = 1, then y(1) equals:",
+  "options": null,
+  "correct_answer": "2",
+  "explanation": "y = x³ + C with y(0) = 1 gives C = 1, so y(1) = 1 + 1 = 2.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Differential Equations"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "If dy/dx = y and y(0) = 1, then y(ln 3) equals:",
+  "options": null,
+  "correct_answer": "3",
+  "explanation": "y = e^x, so y(ln 3) = e^(ln 3) = 3.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Differential Equations"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The integrating factor of dy/dx + (3/x)y = x², evaluated at x = 2, is:",
+  "options": null,
+  "correct_answer": "8",
+  "explanation": "IF = e^(3 ln x) = x³, and at x = 2 it equals 8.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Differential Equations"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "If dy/dx = 2x and y(1) = 3, then y(2) equals:",
+  "options": null,
+  "correct_answer": "6",
+  "explanation": "y = x² + C with y(1) = 3 gives C = 2, so y(2) = 4 + 2 = 6.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Differential Equations"
+ }
+]

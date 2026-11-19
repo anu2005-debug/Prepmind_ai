@@ -1,0 +1,452 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "If A = {1, 2, 3}, the number of subsets of A is:",
+  "options": {
+   "A": "6",
+   "B": "8",
+   "C": "9",
+   "D": "3"
+  },
+  "correct_answer": "B",
+  "explanation": "A set with n elements has 2ⁿ subsets, so 2³ = 8.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Sets, Relations and Functions"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "If n(A) = 4, n(B) = 3 and n(A ∩ B) = 2, then n(A ∪ B) is:",
+  "options": {
+   "A": "5",
+   "B": "7",
+   "C": "9",
+   "D": "3"
+  },
+  "correct_answer": "A",
+  "explanation": "n(A ∪ B) = n(A) + n(B) − n(A ∩ B) = 4 + 3 − 2 = 5.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Sets, Relations and Functions"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The number of proper subsets of a set with 4 elements is:",
+  "options": {
+   "A": "16",
+   "B": "15",
+   "C": "14",
+   "D": "8"
+  },
+  "correct_answer": "B",
+  "explanation": "There are 2⁴ = 16 subsets in total. Excluding the set itself leaves 15 proper subsets.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Sets, Relations and Functions"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "If A = {x : x² − 5x + 6 = 0}, then A is:",
+  "options": {
+   "A": "{2, 3}",
+   "B": "{1, 6}",
+   "C": "{−2, −3}",
+   "D": "{2, −3}"
+  },
+  "correct_answer": "A",
+  "explanation": "x² − 5x + 6 = (x − 2)(x − 3), so x = 2 or 3.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Sets, Relations and Functions"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The relation R on the set of integers defined by aRb if a − b is divisible by 5 is:",
+  "options": {
+   "A": "reflexive only",
+   "B": "symmetric only",
+   "C": "an equivalence relation",
+   "D": "transitive only"
+  },
+  "correct_answer": "C",
+  "explanation": "a − a = 0 is divisible by 5 (reflexive). If 5 divides a − b it divides b − a (symmetric). If 5 divides a − b and b − c it divides a − c (transitive).",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Sets, Relations and Functions"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The relation R = {(1, 1), (2, 2), (1, 2)} on the set A = {1, 2, 3} is:",
+  "options": {
+   "A": "reflexive",
+   "B": "symmetric",
+   "C": "transitive but not reflexive",
+   "D": "an equivalence relation"
+  },
+  "correct_answer": "C",
+  "explanation": "(3, 3) is missing, so R is not reflexive. (2, 1) is missing, so it is not symmetric. It is transitive because (1, 1) with (1, 2), and (1, 2) with (2, 2), both give (1, 2).",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Sets, Relations and Functions"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The function f : R → R defined by f(x) = x² is:",
+  "options": {
+   "A": "one-one and onto",
+   "B": "one-one but not onto",
+   "C": "many-one and not onto",
+   "D": "many-one but onto"
+  },
+  "correct_answer": "C",
+  "explanation": "f(2) = f(−2), so it is many-one. Negative numbers are never obtained, so it is not onto.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Sets, Relations and Functions"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "If f : R → R is given by f(x) = 2x + 3, then f⁻¹(x) is:",
+  "options": {
+   "A": "(x − 3)/2",
+   "B": "(x + 3)/2",
+   "C": "2x − 3",
+   "D": "1/(2x + 3)"
+  },
+  "correct_answer": "A",
+  "explanation": "Put y = 2x + 3 and solve for x: x = (y − 3)/2.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Sets, Relations and Functions"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The domain of f(x) = √(x − 2) is:",
+  "options": {
+   "A": "(2, ∞)",
+   "B": "[2, ∞)",
+   "C": "(−∞, 2]",
+   "D": "R"
+  },
+  "correct_answer": "B",
+  "explanation": "We need x − 2 ≥ 0, so x ≥ 2.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Sets, Relations and Functions"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The domain of f(x) = 1/√(4 − x²) is:",
+  "options": {
+   "A": "[−2, 2]",
+   "B": "(−2, 2)",
+   "C": "R − {−2, 2}",
+   "D": "(−∞, −2) ∪ (2, ∞)"
+  },
+  "correct_answer": "B",
+  "explanation": "We need 4 − x² > 0 (strictly, because it is in the denominator), so −2 < x < 2.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Sets, Relations and Functions"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The range of f(x) = sin x + cos x is:",
+  "options": {
+   "A": "[−1, 1]",
+   "B": "[−√2, √2]",
+   "C": "[0, √2]",
+   "D": "[−2, 2]"
+  },
+  "correct_answer": "B",
+  "explanation": "sin x + cos x = √2 sin(x + π/4), which takes every value from −√2 to √2.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Sets, Relations and Functions"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "If f(x) = x + 1 and g(x) = x², then (g∘f)(2) equals:",
+  "options": {
+   "A": "5",
+   "B": "9",
+   "C": "7",
+   "D": "4"
+  },
+  "correct_answer": "B",
+  "explanation": "f(2) = 3 and g(3) = 9.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Sets, Relations and Functions"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "If f(x) = (x − 1)/(x + 1), then f(f(x)) equals:",
+  "options": {
+   "A": "x",
+   "B": "−1/x",
+   "C": "1/x",
+   "D": "−x"
+  },
+  "correct_answer": "B",
+  "explanation": "f(f(x)) = [(x − 1)/(x + 1) − 1]/[(x − 1)/(x + 1) + 1] = (−2)/(2x) = −1/x.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Sets, Relations and Functions"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "If A has 3 elements and B has 4 elements, the number of functions from A to B is:",
+  "options": {
+   "A": "12",
+   "B": "64",
+   "C": "81",
+   "D": "7"
+  },
+  "correct_answer": "B",
+  "explanation": "Each of the 3 elements of A can map to any of 4 elements, so 4³ = 64.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Sets, Relations and Functions"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "If A has 3 elements and B has 4 elements, the number of one-one functions from A to B is:",
+  "options": {
+   "A": "24",
+   "B": "12",
+   "C": "64",
+   "D": "81"
+  },
+  "correct_answer": "A",
+  "explanation": "The images must be distinct, so 4 × 3 × 2 = 24.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Sets, Relations and Functions"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The number of relations from a set with 2 elements to a set with 3 elements is:",
+  "options": {
+   "A": "6",
+   "B": "8",
+   "C": "64",
+   "D": "36"
+  },
+  "correct_answer": "C",
+  "explanation": "A × B has 6 elements and every subset of A × B is a relation, so 2⁶ = 64.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Sets, Relations and Functions"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "If A ∪ B = A ∩ B, then:",
+  "options": {
+   "A": "A ⊂ B and A ≠ B",
+   "B": "A = B",
+   "C": "A ∩ B = ∅",
+   "D": "A = ∅"
+  },
+  "correct_answer": "B",
+  "explanation": "A ∩ B ⊆ A ⊆ A ∪ B. If the two ends are equal, A = A ∩ B = A ∪ B. The same argument for B gives B = A.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Sets, Relations and Functions"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "By De Morgan's law, (A ∪ B)′ equals:",
+  "options": {
+   "A": "A′ ∪ B′",
+   "B": "A′ ∩ B′",
+   "C": "A ∩ B",
+   "D": "A ∪ B"
+  },
+  "correct_answer": "B",
+  "explanation": "The complement of a union is the intersection of the complements.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Sets, Relations and Functions"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "If A = {1, 2} and B = {a, b, c}, the number of elements in A × B is:",
+  "options": {
+   "A": "5",
+   "B": "6",
+   "C": "8",
+   "D": "9"
+  },
+  "correct_answer": "B",
+  "explanation": "n(A × B) = n(A) × n(B) = 2 × 3 = 6.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Sets, Relations and Functions"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The function f : R → R defined by f(x) = x³ is:",
+  "options": {
+   "A": "injective but not surjective",
+   "B": "surjective but not injective",
+   "C": "bijective",
+   "D": "neither injective nor surjective"
+  },
+  "correct_answer": "C",
+  "explanation": "x³ is strictly increasing, so it is one-one, and it takes every real value, so it is onto.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Sets, Relations and Functions"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is an odd function?",
+  "options": {
+   "A": "x² + 1",
+   "B": "x³ + x",
+   "C": "cos x",
+   "D": "x sin x"
+  },
+  "correct_answer": "B",
+  "explanation": "For f(x) = x³ + x, f(−x) = −x³ − x = −f(x). The other three are even.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Sets, Relations and Functions"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "If f(x) = ax + b with a > 0 and f(f(x)) = 4x + 3, then f(1) is:",
+  "options": {
+   "A": "2",
+   "B": "3",
+   "C": "4",
+   "D": "5"
+  },
+  "correct_answer": "B",
+  "explanation": "f(f(x)) = a²x + ab + b. So a² = 4, giving a = 2, and 2b + b = 3, giving b = 1. Then f(1) = 2 + 1 = 3.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Sets, Relations and Functions"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "For the relation R on the set of integers defined by aRb if a − b is even, which statements are correct?",
+  "options": {
+   "A": "R is reflexive",
+   "B": "R is symmetric",
+   "C": "R is transitive",
+   "D": "R is antisymmetric"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "R is an equivalence relation. It is not antisymmetric because 1R3 and 3R1 but 1 ≠ 3.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Sets, Relations and Functions"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "For any sets A and B, which of the following are always true?",
+  "options": {
+   "A": "A ∩ B ⊆ A",
+   "B": "A ⊆ A ∪ B",
+   "C": "A − B = B − A",
+   "D": "(A ∪ B)′ = A′ ∩ B′"
+  },
+  "correct_answer": "A,B,D",
+  "explanation": "A − B and B − A are in general different (for example A = {1}, B = {2}).",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Sets, Relations and Functions"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A set has 5 elements. The number of its subsets is:",
+  "options": null,
+  "correct_answer": "32",
+  "explanation": "2⁵ = 32.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Sets, Relations and Functions"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "Every person in a group likes tea or coffee. 40 like tea, 35 like coffee and 15 like both. The number of persons in the group is:",
+  "options": null,
+  "correct_answer": "60",
+  "explanation": "n(T ∪ C) = 40 + 35 − 15 = 60.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Sets, Relations and Functions"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of reflexive relations on a set with 2 elements is:",
+  "options": null,
+  "correct_answer": "4",
+  "explanation": "(a, a) and (b, b) must be included. The other two ordered pairs (a, b) and (b, a) are free, so 2² = 4.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Sets, Relations and Functions"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of symmetric relations on a set with 2 elements is:",
+  "options": null,
+  "correct_answer": "8",
+  "explanation": "There are 3 independent choices: (a, a), (b, b) and the pair {(a, b), (b, a)}. So 2³ = 8.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Sets, Relations and Functions"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "If f(x) = 3x − 2 and g(x) = x² + 1, then (f∘g)(3) equals:",
+  "options": null,
+  "correct_answer": "28",
+  "explanation": "g(3) = 10 and f(10) = 3 × 10 − 2 = 28.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Sets, Relations and Functions"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of onto functions from a set with 3 elements to a set with 2 elements is:",
+  "options": null,
+  "correct_answer": "6",
+  "explanation": "There are 2³ = 8 functions in total. Exclude the 2 constant functions, which are not onto: 8 − 2 = 6.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Sets, Relations and Functions"
+ }
+]

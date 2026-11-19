@@ -1,0 +1,482 @@
+[
+  {
+    "exam": "JEE",
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "question_type": "mcq",
+    "question_text": "Which of the following is an SI base quantity?",
+    "options": {
+      "A": "Force",
+      "B": "Pressure",
+      "C": "Electric current",
+      "D": "Energy"
+    },
+    "correct_answer": "C",
+    "explanation": null,
+    "difficulty": "medium"
+  },
+  {
+    "exam": "JEE",
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "question_type": "mcq",
+    "question_text": "The dimensional formula of impulse is:",
+    "options": {
+      "A": "[MLT⁻¹]",
+      "B": "[MLT⁻²]",
+      "C": "[ML²T⁻²]",
+      "D": "[ML⁻¹T⁻²]"
+    },
+    "correct_answer": "A",
+    "explanation": null,
+    "difficulty": "medium"
+  },
+  {
+    "exam": "JEE",
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "question_type": "mcq",
+    "question_text": "The dimensional formula of Planck's constant is:",
+    "options": {
+      "A": "[ML²T⁻¹]",
+      "B": "[ML²T⁻²]",
+      "C": "[MLT⁻¹]",
+      "D": "[M⁰L²T⁻¹]"
+    },
+    "correct_answer": "A",
+    "explanation": null,
+    "difficulty": "medium"
+  },
+  {
+    "exam": "JEE",
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "question_type": "mcq",
+    "question_text": "If x = at + bt², where x is displacement and t is time, the dimensions of a and b respectively are:",
+    "options": {
+      "A": "[LT⁻¹], [LT⁻²]",
+      "B": "[LT⁻²], [LT⁻¹]",
+      "C": "[L], [LT⁻¹]",
+      "D": "[T⁻¹], [T⁻²]"
+    },
+    "correct_answer": "A",
+    "explanation": null,
+    "difficulty": "medium"
+  },
+  {
+    "exam": "JEE",
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "question_type": "mcq",
+    "question_text": "The number of significant figures in 0.004050 is:",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "correct_answer": "B",
+    "explanation": null,
+    "difficulty": "medium"
+  },
+  {
+    "exam": "JEE",
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "question_type": "mcq",
+    "question_text": "The value 12.746 rounded to three significant figures is:",
+    "options": {
+      "A": "12.7",
+      "B": "12.8",
+      "C": "12.74",
+      "D": "12.75"
+    },
+    "correct_answer": "A",
+    "explanation": null,
+    "difficulty": "medium"
+  },
+  {
+    "exam": "JEE",
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "question_type": "mcq",
+    "question_text": "A length is measured as (5.2 ± 0.1) cm. The percentage error is approximately:",
+    "options": {
+      "A": "0.52%",
+      "B": "1.92%",
+      "C": "2.0%",
+      "D": "5.2%"
+    },
+    "correct_answer": "B",
+    "explanation": null,
+    "difficulty": "medium"
+  },
+  {
+    "exam": "JEE",
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "question_type": "mcq",
+    "question_text": "The dimensional formula of the universal gravitational constant G is:",
+    "options": {
+      "A": "[M⁻¹L³T⁻²]",
+      "B": "[ML³T⁻²]",
+      "C": "[M⁻¹L²T⁻²]",
+      "D": "[M⁻²L³T⁻¹]"
+    },
+    "correct_answer": "A",
+    "explanation": null,
+    "difficulty": "medium"
+  },
+  {
+    "exam": "JEE",
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "question_type": "mcq",
+    "question_text": "Which pair has the same dimensions?",
+    "options": {
+      "A": "Work and torque",
+      "B": "Force and pressure",
+      "C": "Momentum and energy",
+      "D": "Power and impulse"
+    },
+    "correct_answer": "A",
+    "explanation": null,
+    "difficulty": "medium"
+  },
+  {
+    "exam": "JEE",
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "question_type": "mcq",
+    "question_text": "The SI unit of the coefficient of viscosity is:",
+    "options": {
+      "A": "N m⁻¹",
+      "B": "Pa s",
+      "C": "J s",
+      "D": "kg m s⁻¹"
+    },
+    "correct_answer": "B",
+    "explanation": null,
+    "difficulty": "medium"
+  },
+  {
+    "exam": "JEE",
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "question_type": "mcq",
+    "question_text": "If the percentage errors in measuring mass and velocity are 2% and 3%, respectively, the maximum percentage error in kinetic energy is:",
+    "options": {
+      "A": "5%",
+      "B": "6%",
+      "C": "8%",
+      "D": "11%"
+    },
+    "correct_answer": "C",
+    "explanation": null,
+    "difficulty": "medium"
+  },
+  {
+    "exam": "JEE",
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "question_type": "mcq",
+    "question_text": "A physical quantity Q is given by Q = A²B³/C. If the percentage errors in A, B and C are 1%, 2% and 1%, respectively, the maximum percentage error in Q is:",
+    "options": {
+      "A": "5%",
+      "B": "7%",
+      "C": "9%",
+      "D": "11%"
+    },
+    "correct_answer": "C",
+    "explanation": null,
+    "difficulty": "medium"
+  },
+  {
+    "exam": "JEE",
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "question_type": "mcq",
+    "question_text": "The dimensional formula of surface tension is:",
+    "options": {
+      "A": "[MT⁻²]",
+      "B": "[MLT⁻²]",
+      "C": "[ML⁻¹T⁻²]",
+      "D": "[M⁰LT⁻¹]"
+    },
+    "correct_answer": "A",
+    "explanation": null,
+    "difficulty": "medium"
+  },
+  {
+    "exam": "JEE",
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "question_type": "mcq",
+    "question_text": "Which of the following equations is dimensionally incorrect?",
+    "options": {
+      "A": "v = u + at",
+      "B": "s = ut + ½at²",
+      "C": "v² = u² + 2as",
+      "D": "s = ut + ½at"
+    },
+    "correct_answer": "D",
+    "explanation": null,
+    "difficulty": "medium"
+  },
+  {
+    "exam": "JEE",
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "question_type": "mcq",
+    "question_text": "One parsec is approximately equal to:",
+    "options": {
+      "A": "3.08 × 10¹³ km",
+      "B": "1.50 × 10⁸ km",
+      "C": "9.46 × 10¹² km",
+      "D": "3.00 × 10⁸ km"
+    },
+    "correct_answer": "A",
+    "explanation": null,
+    "difficulty": "medium"
+  },
+  {
+    "exam": "JEE",
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "question_type": "mcq",
+    "question_text": "The least count of a vernier calipers is equal to:",
+    "options": {
+      "A": "1 MSD + 1 VSD",
+      "B": "1 MSD − 1 VSD",
+      "C": "1 MSD × 1 VSD",
+      "D": "1 MSD / 1 VSD"
+    },
+    "correct_answer": "B",
+    "explanation": null,
+    "difficulty": "medium"
+  },
+  {
+    "exam": "JEE",
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "question_type": "mcq",
+    "question_text": "A screw gauge has pitch 1 mm and 100 divisions on its circular scale. Its least count is:",
+    "options": {
+      "A": "0.1 mm",
+      "B": "0.01 mm",
+      "C": "0.001 mm",
+      "D": "1 mm"
+    },
+    "correct_answer": "B",
+    "explanation": null,
+    "difficulty": "medium"
+  },
+  {
+    "exam": "JEE",
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "question_type": "mcq",
+    "question_text": "The dimensional formula of the Planck constant multiplied by frequency is the same as that of:",
+    "options": {
+      "A": "Force",
+      "B": "Energy",
+      "C": "Power",
+      "D": "Momentum"
+    },
+    "correct_answer": "B",
+    "explanation": null,
+    "difficulty": "medium"
+  },
+  {
+    "exam": "JEE",
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "question_type": "mcq",
+    "question_text": "If the radius of a sphere is measured with a maximum error of 2%, the maximum percentage error in its volume is:",
+    "options": {
+      "A": "2%",
+      "B": "4%",
+      "C": "6%",
+      "D": "8%"
+    },
+    "correct_answer": "C",
+    "explanation": null,
+    "difficulty": "medium"
+  },
+  {
+    "exam": "JEE",
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "question_type": "mcq",
+    "question_text": "The dimensional formula of the coefficient of thermal conductivity is:",
+    "options": {
+      "A": "[MLT⁻³K⁻¹]",
+      "B": "[ML²T⁻²K⁻¹]",
+      "C": "[ML⁻¹T⁻²K⁻¹]",
+      "D": "[M⁰LT⁻¹K⁻¹]"
+    },
+    "correct_answer": "A",
+    "explanation": null,
+    "difficulty": "medium"
+  },
+  {
+    "exam": "JEE",
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "question_type": "mcq",
+    "question_text": "Which of the following is dimensionless?",
+    "options": {
+      "A": "Strain",
+      "B": "Stress",
+      "C": "Surface tension",
+      "D": "Young's modulus"
+    },
+    "correct_answer": "A",
+    "explanation": null,
+    "difficulty": "medium"
+  },
+  {
+    "exam": "JEE",
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "question_type": "mcq",
+    "question_text": "The dimensional formula of angular momentum is:",
+    "options": {
+      "A": "[ML²T⁻¹]",
+      "B": "[MLT⁻¹]",
+      "C": "[ML²T⁻²]",
+      "D": "[M⁰L²T⁻¹]"
+    },
+    "correct_answer": "A",
+    "explanation": null,
+    "difficulty": "medium"
+  },
+  {
+    "exam": "JEE",
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "question_type": "mcq",
+    "question_text": "A length is recorded as 2.50 m. The number of significant figures is:",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "correct_answer": "B",
+    "explanation": null,
+    "difficulty": "medium"
+  },
+  {
+    "exam": "JEE",
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "question_type": "mcq",
+    "question_text": "The dimensional formula of pressure is:",
+    "options": {
+      "A": "[ML⁻¹T⁻²]",
+      "B": "[MLT⁻²]",
+      "C": "[ML²T⁻²]",
+      "D": "[M⁻¹LT⁻²]"
+    },
+    "correct_answer": "A",
+    "explanation": null,
+    "difficulty": "medium"
+  },
+  {
+    "exam": "JEE",
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "question_type": "mcq",
+    "question_text": "If 10 vernier scale divisions coincide with 9 main scale divisions and 1 MSD = 1 mm, the least count is:",
+    "options": {
+      "A": "0.1 mm",
+      "B": "0.9 mm",
+      "C": "1.0 mm",
+      "D": "1.1 mm"
+    },
+    "correct_answer": "A",
+    "explanation": null,
+    "difficulty": "medium"
+  },
+  {
+    "exam": "JEE",
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "question_type": "mcq",
+    "question_text": "The SI unit of the universal gas constant R is:",
+    "options": {
+      "A": "J mol⁻¹ K⁻¹",
+      "B": "J K⁻¹",
+      "C": "Pa m³",
+      "D": "N mol⁻¹"
+    },
+    "correct_answer": "A",
+    "explanation": null,
+    "difficulty": "medium"
+  },
+  {
+    "exam": "JEE",
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "question_type": "mcq",
+    "question_text": "A quantity is calculated as y = a/b. If the fractional errors in a and b are 0.02 and 0.03, the maximum fractional error in y is:",
+    "options": {
+      "A": "0.01",
+      "B": "0.02",
+      "C": "0.03",
+      "D": "0.05"
+    },
+    "correct_answer": "D",
+    "explanation": null,
+    "difficulty": "medium"
+  },
+  {
+    "exam": "JEE",
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "question_type": "mcq",
+    "question_text": "Which of the following cannot be obtained using dimensional analysis alone?",
+    "options": {
+      "A": "Checking dimensional consistency",
+      "B": "Converting units",
+      "C": "Finding a dimensionless constant in a formula",
+      "D": "Finding powers of variables in a relation"
+    },
+    "correct_answer": "C",
+    "explanation": null,
+    "difficulty": "medium"
+  },
+  {
+    "exam": "JEE",
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "question_type": "mcq",
+    "question_text": "The dimensional formula of energy density (energy per unit volume) is:",
+    "options": {
+      "A": "[ML⁻¹T⁻²]",
+      "B": "[MLT⁻²]",
+      "C": "[ML²T⁻²]",
+      "D": "[M⁰L⁻¹T⁻²]"
+    },
+    "correct_answer": "A",
+    "explanation": null,
+    "difficulty": "medium"
+  },
+  {
+    "exam": "JEE",
+    "subject": "Physics",
+    "chapter": "Units and Measurements",
+    "question_type": "mcq",
+    "question_text": "A stopwatch measures a time interval as 20.0 s with an uncertainty of 0.2 s. The percentage uncertainty is:",
+    "options": {
+      "A": "0.1%",
+      "B": "1%",
+      "C": "2%",
+      "D": "10%"
+    },
+    "correct_answer": "B",
+    "explanation": null,
+    "difficulty": "medium"
+  }
+]

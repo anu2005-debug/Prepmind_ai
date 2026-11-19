@@ -1,0 +1,452 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following group 15 hydrides is the strongest reducing agent?",
+  "options": {
+   "A": "NH₃",
+   "B": "PH₃",
+   "C": "AsH₃",
+   "D": "BiH₃"
+  },
+  "correct_answer": "D",
+  "explanation": "Thermal stability of the hydrides decreases down the group as the E–H bond weakens, so reducing power increases. BiH₃ is the strongest reducing agent.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "p-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following group 15 hydrides is the most basic?",
+  "options": {
+   "A": "NH₃",
+   "B": "PH₃",
+   "C": "AsH₃",
+   "D": "SbH₃"
+  },
+  "correct_answer": "A",
+  "explanation": "Basicity decreases down the group because the lone pair is more diffused on the larger atom. NH₃ is the most basic.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "p-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Orthophosphorous acid, H₃PO₃, is:",
+  "options": {
+   "A": "monobasic",
+   "B": "dibasic",
+   "C": "tribasic",
+   "D": "tetrabasic"
+  },
+  "correct_answer": "B",
+  "explanation": "H₃PO₃ has only two P–OH groups (the third H is bonded directly to P), so it is dibasic.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "p-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The catalyst used in the Ostwald process for making nitric acid is:",
+  "options": {
+   "A": "Fe",
+   "B": "Pt–Rh gauze",
+   "C": "V₂O₅",
+   "D": "Ni"
+  },
+  "correct_answer": "B",
+  "explanation": "NH₃ is oxidised to NO over platinum–rhodium gauze at about 500 K and 9 bar.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "p-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The catalyst used in the contact process for manufacturing sulphuric acid is:",
+  "options": {
+   "A": "V₂O₅",
+   "B": "Fe",
+   "C": "Pt–Rh",
+   "D": "Ni"
+  },
+  "correct_answer": "A",
+  "explanation": "SO₂ is oxidised to SO₃ using V₂O₅ as the catalyst.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "p-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is the strongest oxidising agent?",
+  "options": {
+   "A": "I₂",
+   "B": "Br₂",
+   "C": "Cl₂",
+   "D": "F₂"
+  },
+  "correct_answer": "D",
+  "explanation": "F₂ has the most positive reduction potential (+2.87 V) among the halogens.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "p-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The correct formula of bleaching powder is:",
+  "options": {
+   "A": "Ca(OCl)₂",
+   "B": "CaCl₂",
+   "C": "Ca(OCl)Cl",
+   "D": "CaO + Cl₂"
+  },
+  "correct_answer": "C",
+  "explanation": "Bleaching powder is calcium chloride hypochlorite, Ca(OCl)Cl (often written CaOCl₂).",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "p-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The first noble gas compound prepared by Neil Bartlett was:",
+  "options": {
+   "A": "XeF₂",
+   "B": "XePtF₆",
+   "C": "XeO₃",
+   "D": "KrF₂"
+  },
+  "correct_answer": "B",
+  "explanation": "Bartlett prepared Xe⁺[PtF₆]⁻ in 1962 by reacting Xe with PtF₆.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "p-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The shape of the XeO₃ molecule is:",
+  "options": {
+   "A": "planar triangular",
+   "B": "pyramidal",
+   "C": "tetrahedral",
+   "D": "linear"
+  },
+  "correct_answer": "B",
+  "explanation": "Xe has 3 bond pairs and 1 lone pair (sp³), so XeO₃ is pyramidal.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "p-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The shape of the XeF₆ molecule is:",
+  "options": {
+   "A": "regular octahedral",
+   "B": "pentagonal bipyramidal",
+   "C": "distorted octahedral",
+   "D": "square pyramidal"
+  },
+  "correct_answer": "C",
+  "explanation": "XeF₆ has 6 bond pairs and 1 lone pair (sp³d³), which gives a distorted octahedral shape.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "p-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The oxidation state of sulphur in Caro's acid (H₂SO₅) is:",
+  "options": {
+   "A": "+4",
+   "B": "+6",
+   "C": "+8",
+   "D": "+2"
+  },
+  "correct_answer": "B",
+  "explanation": "H₂SO₅ contains one peroxide O–O group (two O at −1) and three O at −2: 2 + x − 2 − 6 = 0, so x = +6.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "p-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The strongest acid among the oxoacids of chlorine is:",
+  "options": {
+   "A": "HClO",
+   "B": "HClO₂",
+   "C": "HClO₃",
+   "D": "HClO₄"
+  },
+  "correct_answer": "D",
+  "explanation": "Acid strength increases with the number of oxygen atoms and the oxidation state of Cl, and HClO₄ gives the most stable anion.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "p-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The brown ring test is used to detect:",
+  "options": {
+   "A": "nitrate ions",
+   "B": "sulphate ions",
+   "C": "chloride ions",
+   "D": "carbonate ions"
+  },
+  "correct_answer": "A",
+  "explanation": "Nitrate gives the brown ring of [Fe(H₂O)₅(NO)]²⁺ at the junction of FeSO₄ solution and conc. H₂SO₄.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "p-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The bleaching action of moist SO₂ is due to:",
+  "options": {
+   "A": "oxidation",
+   "B": "reduction",
+   "C": "hydrolysis",
+   "D": "adsorption"
+  },
+  "correct_answer": "B",
+  "explanation": "SO₂ bleaches by reduction (nascent hydrogen), so the colour can slowly return on exposure to air.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "p-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following noble gases is radioactive?",
+  "options": {
+   "A": "Xe",
+   "B": "Kr",
+   "C": "Rn",
+   "D": "Ar"
+  },
+  "correct_answer": "C",
+  "explanation": "Radon has no stable isotope and is produced by the decay of radium.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "p-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which halogen has the highest X–X bond dissociation enthalpy?",
+  "options": {
+   "A": "F₂",
+   "B": "Cl₂",
+   "C": "Br₂",
+   "D": "I₂"
+  },
+  "correct_answer": "B",
+  "explanation": "The order is Cl₂ (242) > Br₂ (193) > F₂ (158) > I₂ (151 kJ/mol). F₂ is low because of lone pair repulsion between the small atoms.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "p-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In the solid state, PCl₅ exists as:",
+  "options": {
+   "A": "discrete PCl₅ molecules",
+   "B": "[PCl₄]⁺[PCl₆]⁻",
+   "C": "[PCl₄]⁻[PCl₆]⁺",
+   "D": "P₂Cl₁₀ with a P–P bond"
+  },
+  "correct_answer": "B",
+  "explanation": "Solid PCl₅ is ionic, made of tetrahedral [PCl₄]⁺ and octahedral [PCl₆]⁻.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "p-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following halides does not exist?",
+  "options": {
+   "A": "NCl₅",
+   "B": "PCl₅",
+   "C": "SbCl₅",
+   "D": "AsF₅"
+  },
+  "correct_answer": "A",
+  "explanation": "Nitrogen has no d orbitals in its valence shell, so it cannot expand its octet beyond four.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "p-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Complete hydrolysis of XeF₆ gives:",
+  "options": {
+   "A": "XeO₃",
+   "B": "XeO₄",
+   "C": "XeOF₄",
+   "D": "XeO₂F₂"
+  },
+  "correct_answer": "A",
+  "explanation": "XeF₆ + 3H₂O → XeO₃ + 6HF. Partial hydrolysis gives XeOF₄.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "p-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The shape of the SF₄ molecule is:",
+  "options": {
+   "A": "tetrahedral",
+   "B": "square planar",
+   "C": "see-saw",
+   "D": "trigonal pyramidal"
+  },
+  "correct_answer": "C",
+  "explanation": "S has 4 bond pairs and 1 lone pair (sp³d), giving a see-saw shape.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "p-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which allotrope of phosphorus is the most reactive?",
+  "options": {
+   "A": "Red",
+   "B": "Black",
+   "C": "Violet",
+   "D": "White"
+  },
+  "correct_answer": "D",
+  "explanation": "White phosphorus has strained P₄ tetrahedra with 60° bond angles, so it is highly reactive and glows in the dark.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "p-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following oxides is neutral?",
+  "options": {
+   "A": "N₂O₅",
+   "B": "NO",
+   "C": "P₄O₁₀",
+   "D": "SO₃"
+  },
+  "correct_answer": "B",
+  "explanation": "NO is a neutral oxide. N₂O₅, P₄O₁₀ and SO₃ are acidic.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "p-Block Elements"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which of the following species are pyramidal?",
+  "options": {
+   "A": "NH₃",
+   "B": "PCl₃",
+   "C": "XeO₃",
+   "D": "BF₃"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "NH₃, PCl₃ and XeO₃ each have 3 bond pairs and 1 lone pair. BF₃ is trigonal planar.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "p-Block Elements"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which statements about HF are correct?",
+  "options": {
+   "A": "It is a weak acid in aqueous solution",
+   "B": "It shows strong hydrogen bonding",
+   "C": "It attacks glass",
+   "D": "It is the strongest of the hydrohalic acids"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "HI is the strongest hydrohalic acid. HF is weak because of its strong H–F bond and hydrogen bonding.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "p-Block Elements"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The basicity of orthophosphorous acid (H₃PO₃) is:",
+  "options": null,
+  "correct_answer": "2",
+  "explanation": "Only the two H atoms in P–OH groups are ionisable.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "p-Block Elements"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The oxidation state of phosphorus in pyrophosphoric acid (H₄P₂O₇) is:",
+  "options": null,
+  "correct_answer": "5",
+  "explanation": "4(+1) + 2x + 7(−2) = 0, so x = +5.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "p-Block Elements"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of P–O–P bridges in a molecule of P₄O₁₀ is:",
+  "options": null,
+  "correct_answer": "6",
+  "explanation": "P₄O₁₀ has a P₄ cage with 6 bridging oxygen atoms and 4 terminal P=O bonds.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "p-Block Elements"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of terminal P=O bonds in a molecule of P₄O₁₀ is:",
+  "options": null,
+  "correct_answer": "4",
+  "explanation": "Each of the 4 phosphorus atoms carries one terminal oxygen.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "p-Block Elements"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of lone pairs on the central atom of XeO₃ is:",
+  "options": null,
+  "correct_answer": "1",
+  "explanation": "Xe has 8 valence electrons; 6 are used in three Xe=O bonds, leaving 2 electrons = 1 lone pair.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "p-Block Elements"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The oxidation state of sulphur in peroxodisulphuric acid (H₂S₂O₈) is:",
+  "options": null,
+  "correct_answer": "6",
+  "explanation": "There is one peroxide group (two O at −1) and six O at −2: 2 + 2x − 2 − 12 = 0, so x = +6.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "p-Block Elements"
+ }
+]

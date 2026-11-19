@@ -1,0 +1,482 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "Earthworms exchange gases through their:",
+  "options": {
+   "A": "moist cuticle",
+   "B": "lungs",
+   "C": "gills",
+   "D": "book lungs"
+  },
+  "correct_answer": "A",
+  "explanation": "Annelids like earthworms respire through the moist skin.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Breathing and Exchange of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Insects have a network of tubes for gas exchange called:",
+  "options": {
+   "A": "book lungs",
+   "B": "tracheal tubes",
+   "C": "gills",
+   "D": "air sacs"
+  },
+  "correct_answer": "B",
+  "explanation": "Tracheal tubes carry atmospheric air directly to the tissues.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Breathing and Exchange of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The conducting part of the respiratory system extends from the nostrils up to the:",
+  "options": {
+   "A": "alveoli",
+   "B": "terminal bronchioles",
+   "C": "alveolar ducts",
+   "D": "respiratory bronchioles"
+  },
+  "correct_answer": "B",
+  "explanation": "It transports air, filters and humidifies it, and brings it to body temperature.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Breathing and Exchange of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The actual site of diffusion of O2 and CO2 is the:",
+  "options": {
+   "A": "trachea",
+   "B": "primary bronchi",
+   "C": "alveoli",
+   "D": "pharynx"
+  },
+  "correct_answer": "C",
+  "explanation": "The alveoli and their ducts make up the exchange part.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Breathing and Exchange of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The cartilaginous flap that prevents food from entering the larynx during swallowing is the:",
+  "options": {
+   "A": "glottis",
+   "B": "thyroid cartilage",
+   "C": "cricoid cartilage",
+   "D": "epiglottis"
+  },
+  "correct_answer": "D",
+  "explanation": "It covers the glottis during swallowing.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Breathing and Exchange of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The trachea divides into the right and left primary bronchi at the level of the:",
+  "options": {
+   "A": "2nd thoracic vertebra",
+   "B": "5th thoracic vertebra",
+   "C": "8th thoracic vertebra",
+   "D": "10th thoracic vertebra"
+  },
+  "correct_answer": "B",
+  "explanation": "Each bronchus then divides into secondary and tertiary bronchi and bronchioles.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Breathing and Exchange of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The walls of the trachea are supported by:",
+  "options": {
+   "A": "complete O-shaped rings",
+   "B": "bony plates",
+   "C": "incomplete C-shaped cartilaginous rings",
+   "D": "smooth muscle only"
+  },
+  "correct_answer": "C",
+  "explanation": "The rings keep the trachea from collapsing.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Breathing and Exchange of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The pleural fluid between the two layers of the pleura:",
+  "options": {
+   "A": "reduces friction on the lung surface",
+   "B": "raises blood pressure",
+   "C": "stores CO2",
+   "D": "reduces lung volume"
+  },
+  "correct_answer": "A",
+  "explanation": "The double-layered pleura surrounds each lung.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Breathing and Exchange of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The wall of an alveolus is made of:",
+  "options": {
+   "A": "simple squamous epithelium",
+   "B": "simple columnar epithelium",
+   "C": "stratified cuboidal epithelium",
+   "D": "ciliated cuboidal epithelium"
+  },
+  "correct_answer": "A",
+  "explanation": "It is extremely thin and richly supplied with capillaries.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Breathing and Exchange of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The diffusion membrane is made up of how many major layers?",
+  "options": {
+   "A": "two",
+   "B": "three",
+   "C": "four",
+   "D": "five"
+  },
+  "correct_answer": "B",
+  "explanation": "The thin squamous epithelium of the alveoli, the endothelium of the capillaries and the basement substance between them.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Breathing and Exchange of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Inspiration takes place when the intra-pulmonary pressure is:",
+  "options": {
+   "A": "equal to atmospheric pressure",
+   "B": "greater than atmospheric pressure",
+   "C": "less than atmospheric pressure",
+   "D": "double the atmospheric pressure"
+  },
+  "correct_answer": "C",
+  "explanation": "Air then flows into the lungs from outside.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Breathing and Exchange of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The ribs and sternum are raised during inspiration by contraction of the:",
+  "options": {
+   "A": "internal intercostal muscles",
+   "B": "abdominal muscles",
+   "C": "rectus femoris",
+   "D": "external intercostal muscles"
+  },
+  "correct_answer": "D",
+  "explanation": "The diaphragm also contracts and flattens, increasing the volume of the thoracic chamber.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Breathing and Exchange of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Normal expiration is:",
+  "options": {
+   "A": "an active process using the diaphragm",
+   "B": "a passive process",
+   "C": "always dependent on abdominal muscles",
+   "D": "a voluntary process only"
+  },
+  "correct_answer": "B",
+  "explanation": "The diaphragm and intercostals relax, reducing the thoracic volume and raising the pressure.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Breathing and Exchange of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The volume of air inspired or expired during a normal respiration is the:",
+  "options": {
+   "A": "inspiratory reserve volume",
+   "B": "residual volume",
+   "C": "tidal volume",
+   "D": "vital capacity"
+  },
+  "correct_answer": "C",
+  "explanation": "It is approximately 500 mL in a healthy human.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Breathing and Exchange of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Emphysema is a chronic disorder in which:",
+  "options": {
+   "A": "alveolar walls are damaged, reducing the respiratory surface",
+   "B": "bronchi are inflamed, causing wheezing",
+   "C": "fibrosis occurs because of dust",
+   "D": "the diaphragm is paralysed"
+  },
+  "correct_answer": "A",
+  "explanation": "Cigarette smoking is a major cause.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Breathing and Exchange of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The additional volume of air a person can inspire by a forcible inspiration is the:",
+  "options": {
+   "A": "expiratory reserve volume",
+   "B": "residual volume",
+   "C": "inspiratory reserve volume",
+   "D": "tidal volume"
+  },
+  "correct_answer": "C",
+  "explanation": "It is about 2500 to 3000 mL.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Breathing and Exchange of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The additional volume of air that can be expired by a forcible expiration is the:",
+  "options": {
+   "A": "expiratory reserve volume",
+   "B": "inspiratory reserve volume",
+   "C": "tidal volume",
+   "D": "residual volume"
+  },
+  "correct_answer": "A",
+  "explanation": "It is about 1000 to 1100 mL.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Breathing and Exchange of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The volume of air remaining in the lungs even after a forcible expiration is the:",
+  "options": {
+   "A": "tidal volume",
+   "B": "expiratory reserve volume",
+   "C": "inspiratory capacity",
+   "D": "residual volume"
+  },
+  "correct_answer": "D",
+  "explanation": "It is about 1100 to 1200 mL.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Breathing and Exchange of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The maximum volume of air a person can breathe out after a forced inspiration is the:",
+  "options": {
+   "A": "total lung capacity",
+   "B": "functional residual capacity",
+   "C": "inspiratory capacity",
+   "D": "vital capacity"
+  },
+  "correct_answer": "D",
+  "explanation": "Vital capacity is ERV + TV + IRV.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Breathing and Exchange of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The total volume of air a person can inspire after a normal expiration is the:",
+  "options": {
+   "A": "vital capacity",
+   "B": "inspiratory capacity",
+   "C": "functional residual capacity",
+   "D": "total lung capacity"
+  },
+  "correct_answer": "B",
+  "explanation": "Inspiratory capacity is TV + IRV.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Breathing and Exchange of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Asthma is characterised by:",
+  "options": {
+   "A": "damage to alveolar walls",
+   "B": "inflammation of bronchi and bronchioles causing difficulty in breathing",
+   "C": "fibrosis from silica dust",
+   "D": "paralysis of respiratory muscles"
+  },
+  "correct_answer": "B",
+  "explanation": "It causes wheezing and breathing difficulty.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Breathing and Exchange of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Total lung capacity is the sum of:",
+  "options": {
+   "A": "vital capacity and residual volume",
+   "B": "tidal volume and residual volume",
+   "C": "IRV and ERV",
+   "D": "vital capacity and tidal volume"
+  },
+  "correct_answer": "A",
+  "explanation": "It is the total volume of air accommodated in the lungs at the end of a forced inspiration.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Breathing and Exchange of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The partial pressure of O2 in alveolar air is about:",
+  "options": {
+   "A": "159 mm Hg",
+   "B": "104 mm Hg",
+   "C": "95 mm Hg",
+   "D": "40 mm Hg"
+  },
+  "correct_answer": "B",
+  "explanation": "Atmospheric air has about 159 mm Hg and deoxygenated blood about 40 mm Hg.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Breathing and Exchange of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The partial pressure of CO2 in deoxygenated blood reaching the alveoli is about:",
+  "options": {
+   "A": "40 mm Hg",
+   "B": "104 mm Hg",
+   "C": "45 mm Hg",
+   "D": "0.3 mm Hg"
+  },
+  "correct_answer": "C",
+  "explanation": "In alveolar air it is about 40 mm Hg, so CO2 diffuses from blood to the alveoli.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Breathing and Exchange of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The solubility of CO2 compared with that of O2 is:",
+  "options": {
+   "A": "20 to 25 times higher",
+   "B": "2 to 3 times higher",
+   "C": "1000 times higher",
+   "D": "equal"
+  },
+  "correct_answer": "A",
+  "explanation": "This is why the diffusion of CO2 across the membrane is fast despite the smaller pressure gradient.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Breathing and Exchange of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Each haemoglobin molecule can carry a maximum of how many O2 molecules?",
+  "options": {
+   "A": "two",
+   "B": "three",
+   "C": "four",
+   "D": "eight"
+  },
+  "correct_answer": "C",
+  "explanation": "Each of the four haem groups binds one O2 molecule.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Breathing and Exchange of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The oxygen dissociation curve shifts to the right when there is:",
+  "options": {
+   "A": "low pCO2",
+   "B": "a high H+ concentration (lower pH)",
+   "C": "low temperature",
+   "D": "high pO2"
+  },
+  "correct_answer": "B",
+  "explanation": "These conditions favour the release of O2 in the tissues.",
+  "difficulty": "hard",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Breathing and Exchange of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Most of the CO2 is transported in the blood as:",
+  "options": {
+   "A": "carbamino-haemoglobin",
+   "B": "dissolved CO2 in plasma",
+   "C": "bicarbonate",
+   "D": "carbonic acid"
+  },
+  "correct_answer": "C",
+  "explanation": "About 70 per cent is carried as bicarbonate, about 20 to 25 per cent as carbamino-haemoglobin and about 7 per cent dissolved in plasma.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Breathing and Exchange of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The enzyme that speeds up the reaction CO2 + H2O to H2CO3 in the RBCs is:",
+  "options": {
+   "A": "carboxypeptidase",
+   "B": "catalase",
+   "C": "pepsin",
+   "D": "carbonic anhydrase"
+  },
+  "correct_answer": "D",
+  "explanation": "The reaction runs in the reverse direction at the alveoli.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Breathing and Exchange of Gases"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The respiratory rhythm centre is located in the:",
+  "options": {
+   "A": "pons",
+   "B": "cerebrum",
+   "C": "hypothalamus",
+   "D": "medulla oblongata"
+  },
+  "correct_answer": "D",
+  "explanation": "The pneumotaxic centre in the pons can moderate its function.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Breathing and Exchange of Gases"
+ }
+]

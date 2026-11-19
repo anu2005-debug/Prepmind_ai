@@ -1,0 +1,452 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "The unit of the rate constant for a first-order reaction is:",
+  "options": {
+   "A": "mol L⁻¹ s⁻¹",
+   "B": "s⁻¹",
+   "C": "L mol⁻¹ s⁻¹",
+   "D": "mol² L⁻² s⁻¹"
+  },
+  "correct_answer": "B",
+  "explanation": "rate = k[A], so k = (mol L⁻¹ s⁻¹)/(mol L⁻¹) = s⁻¹.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Kinetics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The unit of the rate constant for a second-order reaction is:",
+  "options": {
+   "A": "s⁻¹",
+   "B": "mol L⁻¹ s⁻¹",
+   "C": "L mol⁻¹ s⁻¹",
+   "D": "L² mol⁻² s⁻¹"
+  },
+  "correct_answer": "C",
+  "explanation": "rate = k[A]², so k = (mol L⁻¹ s⁻¹)/(mol L⁻¹)² = L mol⁻¹ s⁻¹.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Kinetics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The unit of the rate constant for a zero-order reaction is:",
+  "options": {
+   "A": "mol L⁻¹ s⁻¹",
+   "B": "s⁻¹",
+   "C": "L mol⁻¹ s⁻¹",
+   "D": "dimensionless"
+  },
+  "correct_answer": "A",
+  "explanation": "rate = k[A]⁰ = k, so k has the same unit as rate.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Kinetics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The half-life of a first-order reaction:",
+  "options": {
+   "A": "is proportional to the initial concentration",
+   "B": "is independent of the initial concentration",
+   "C": "is inversely proportional to the initial concentration",
+   "D": "is proportional to the square of the initial concentration"
+  },
+  "correct_answer": "B",
+  "explanation": "t½ = 0.693/k, which does not contain the concentration.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Kinetics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A first-order reaction has k = 0.0693 min⁻¹. Its half-life is:",
+  "options": {
+   "A": "10 min",
+   "B": "1 min",
+   "C": "0.693 min",
+   "D": "100 min"
+  },
+  "correct_answer": "A",
+  "explanation": "t½ = 0.693/0.0693 = 10 min.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Kinetics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "For a zero-order reaction the half-life is:",
+  "options": {
+   "A": "independent of the initial concentration",
+   "B": "proportional to the initial concentration",
+   "C": "inversely proportional to the initial concentration",
+   "D": "always 0.693/k"
+  },
+  "correct_answer": "B",
+  "explanation": "For zero order t½ = [A]₀/2k.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Kinetics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "According to the Arrhenius equation, a plot of ln k against 1/T is a straight line with slope:",
+  "options": {
+   "A": "−Ea/R",
+   "B": "Ea/R",
+   "C": "−Ea/(2.303R)",
+   "D": "ln A"
+  },
+  "correct_answer": "A",
+  "explanation": "ln k = ln A − Ea/(RT), so the slope is −Ea/R. (A log₁₀ k plot has slope −Ea/2.303R.)",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Kinetics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A catalyst increases the rate of a reaction by:",
+  "options": {
+   "A": "increasing the activation energy",
+   "B": "providing an alternative path with lower activation energy",
+   "C": "changing ΔH of the reaction",
+   "D": "increasing the temperature"
+  },
+  "correct_answer": "B",
+  "explanation": "A catalyst lowers the activation energy. It does not change ΔH or the equilibrium constant.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Kinetics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The molecularity of an elementary reaction can be:",
+  "options": {
+   "A": "zero",
+   "B": "fractional",
+   "C": "a whole number (1, 2 or 3 in practice)",
+   "D": "negative"
+  },
+  "correct_answer": "C",
+  "explanation": "Molecularity is the number of species colliding in an elementary step, so it is a positive whole number.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Kinetics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The rate of many reactions roughly doubles for a 10 K rise in temperature mainly because:",
+  "options": {
+   "A": "the collision frequency doubles",
+   "B": "the fraction of molecules with energy ≥ Ea increases sharply",
+   "C": "the activation energy is halved",
+   "D": "the concentration doubles"
+  },
+  "correct_answer": "B",
+  "explanation": "The collision frequency rises only slightly, but the fraction of molecules above the threshold energy rises exponentially.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Kinetics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The order of a reaction can be:",
+  "options": {
+   "A": "only a whole number",
+   "B": "only positive",
+   "C": "zero, fractional or a whole number",
+   "D": "only negative"
+  },
+  "correct_answer": "C",
+  "explanation": "Order is found experimentally and can be zero, fractional or integral.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Kinetics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "For a first-order reaction with a half-life of 20 min, the time taken for 75% completion is:",
+  "options": {
+   "A": "20 min",
+   "B": "30 min",
+   "C": "40 min",
+   "D": "60 min"
+  },
+  "correct_answer": "C",
+  "explanation": "75% completion takes 2 half-lives: 2 × 20 = 40 min.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Kinetics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "For a first-order reaction, 99.9% completion takes about how many half-lives?",
+  "options": {
+   "A": "5",
+   "B": "7",
+   "C": "10",
+   "D": "20"
+  },
+  "correct_answer": "C",
+  "explanation": "After 10 half-lives the remaining fraction is 1/2¹⁰ ≈ 1/1000, so 99.9% has reacted.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Kinetics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which plot is a straight line for a first-order reaction?",
+  "options": {
+   "A": "[A] versus t",
+   "B": "ln[A] versus t",
+   "C": "1/[A] versus t",
+   "D": "[A] versus 1/t"
+  },
+  "correct_answer": "B",
+  "explanation": "ln[A] = ln[A]₀ − kt is linear in t with slope −k.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Kinetics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "When the concentration of A is doubled, the rate of the reaction becomes four times. The order of the reaction with respect to A is:",
+  "options": {
+   "A": "0",
+   "B": "1",
+   "C": "2",
+   "D": "4"
+  },
+  "correct_answer": "C",
+  "explanation": "rate ∝ [A]ⁿ gives 2ⁿ = 4, so n = 2.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Kinetics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following does not affect the rate constant of a reaction?",
+  "options": {
+   "A": "Temperature",
+   "B": "Catalyst",
+   "C": "Initial concentration of reactants",
+   "D": "Activation energy"
+  },
+  "correct_answer": "C",
+  "explanation": "k depends on temperature, activation energy and catalyst, but not on concentration.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Kinetics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The acid-catalysed hydrolysis of ethyl acetate in a large excess of water is:",
+  "options": {
+   "A": "zero order",
+   "B": "pseudo first order",
+   "C": "true second order",
+   "D": "third order"
+  },
+  "correct_answer": "B",
+  "explanation": "Water is in large excess, so its concentration is effectively constant and the rate depends only on the ester.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Kinetics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following follows first-order kinetics?",
+  "options": {
+   "A": "Radioactive decay",
+   "B": "Photochemical H₂ + Cl₂ → 2HCl",
+   "C": "Decomposition of NH₃ on a hot platinum surface at high pressure",
+   "D": "Reaction between two different gases at equal concentrations"
+  },
+  "correct_answer": "A",
+  "explanation": "Radioactive decay rate is proportional to the number of nuclei present, which is first order.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Kinetics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The rate-determining step of a multistep reaction is:",
+  "options": {
+   "A": "the fastest step",
+   "B": "the slowest step",
+   "C": "the first step always",
+   "D": "the last step always"
+  },
+  "correct_answer": "B",
+  "explanation": "The overall rate is controlled by the slowest step.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Kinetics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In the collision theory of reaction rates, the steric factor P accounts for:",
+  "options": {
+   "A": "the collision frequency",
+   "B": "the fraction of molecules with energy ≥ Ea",
+   "C": "the proper orientation of colliding molecules",
+   "D": "the temperature dependence of A"
+  },
+  "correct_answer": "C",
+  "explanation": "Only collisions with the proper orientation lead to reaction, and P is the factor for this.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Kinetics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "For a reaction the forward activation energy is 50 kJ/mol and the reverse activation energy is 70 kJ/mol. The ΔH of the forward reaction is:",
+  "options": {
+   "A": "+20 kJ/mol",
+   "B": "−20 kJ/mol",
+   "C": "+120 kJ/mol",
+   "D": "−120 kJ/mol"
+  },
+  "correct_answer": "B",
+  "explanation": "ΔH = Ea(forward) − Ea(reverse) = 50 − 70 = −20 kJ/mol, so the reaction is exothermic.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Kinetics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "For a gaseous reaction with rate = k[A]², the container volume is halved at constant temperature. The rate becomes:",
+  "options": {
+   "A": "2 times",
+   "B": "4 times",
+   "C": "1/2 times",
+   "D": "1/4 times"
+  },
+  "correct_answer": "B",
+  "explanation": "Halving the volume doubles [A], so the rate becomes 2² = 4 times.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Kinetics"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which statements about a first-order reaction are correct?",
+  "options": {
+   "A": "The half-life is independent of the initial concentration",
+   "B": "The unit of k is s⁻¹",
+   "C": "The rate is proportional to the concentration of the reactant",
+   "D": "The half-life is proportional to the initial concentration"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "For first order t½ = 0.693/k, so it does not depend on the initial concentration.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Kinetics"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which factors affect the value of the rate constant k?",
+  "options": {
+   "A": "Temperature",
+   "B": "Presence of a catalyst",
+   "C": "Activation energy",
+   "D": "Initial concentration of reactants"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "k depends on T, Ea and catalyst. It is independent of reactant concentration.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Kinetics"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A first-order reaction has k = 0.0693 s⁻¹. Its half-life (in s) is:",
+  "options": null,
+  "correct_answer": "10",
+  "explanation": "t½ = 0.693/0.0693 = 10 s.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Kinetics"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The overall order of the reaction with rate = k[A]^(1/2)[B]^(3/2) is:",
+  "options": null,
+  "correct_answer": "2",
+  "explanation": "1/2 + 3/2 = 2.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Kinetics"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A first-order reaction takes 40 min for 75% completion. Its half-life (in min) is:",
+  "options": null,
+  "correct_answer": "20",
+  "explanation": "75% completion takes 2 half-lives, so t½ = 40/2 = 20 min.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Kinetics"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A zero-order reaction has an initial concentration of 0.8 M and k = 0.1 mol L⁻¹ s⁻¹. The time (in s) for the reactant to be completely consumed is:",
+  "options": null,
+  "correct_answer": "8",
+  "explanation": "For zero order [A]₀ = kt, so t = 0.8/0.1 = 8 s.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Kinetics"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A first-order reaction has k = 0.1386 min⁻¹. The time (in min) for 75% completion is:",
+  "options": null,
+  "correct_answer": "10",
+  "explanation": "t½ = 0.693/0.1386 = 5 min, and 75% completion takes 2 half-lives = 10 min.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Kinetics"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of half-lives needed for 87.5% completion of a first-order reaction is:",
+  "options": null,
+  "correct_answer": "3",
+  "explanation": "Remaining fraction = 12.5% = 1/8 = (1/2)³, so 3 half-lives.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Chemical Kinetics"
+ }
+]

@@ -1,0 +1,452 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "The IUPAC name of CH₃CH₂CH(Cl)CH₃ is:",
+  "options": {
+   "A": "1-chlorobutane",
+   "B": "2-chlorobutane",
+   "C": "3-chlorobutane",
+   "D": "2-chloro-2-methylpropane"
+  },
+  "correct_answer": "B",
+  "explanation": "The chain has four carbons, and numbering from the end nearer to Cl gives it locant 2.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Halogens"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following alkyl bromides reacts fastest by the SN1 mechanism?",
+  "options": {
+   "A": "CH₃Br",
+   "B": "CH₃CH₂Br",
+   "C": "(CH₃)₂CHBr",
+   "D": "(CH₃)₃CBr"
+  },
+  "correct_answer": "D",
+  "explanation": "SN1 reactivity follows carbocation stability, so the tertiary halide reacts fastest.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Halogens"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following alkyl bromides reacts fastest by the SN2 mechanism?",
+  "options": {
+   "A": "CH₃Br",
+   "B": "CH₃CH₂Br",
+   "C": "(CH₃)₂CHBr",
+   "D": "(CH₃)₃CBr"
+  },
+  "correct_answer": "A",
+  "explanation": "SN2 is hindered by bulky groups near the carbon, so the methyl halide reacts fastest.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Halogens"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "An SN2 reaction at a chiral carbon of an optically active alkyl halide proceeds with:",
+  "options": {
+   "A": "retention of configuration",
+   "B": "inversion of configuration",
+   "C": "complete racemisation",
+   "D": "no change in configuration"
+  },
+  "correct_answer": "B",
+  "explanation": "The nucleophile attacks from the side opposite to the leaving group (backside attack), which inverts the configuration.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Halogens"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "An SN1 reaction at a chiral carbon of an optically active alkyl halide gives mainly:",
+  "options": {
+   "A": "only the inverted product",
+   "B": "only the retained product",
+   "C": "a racemic mixture",
+   "D": "no product"
+  },
+  "correct_answer": "C",
+  "explanation": "The planar carbocation intermediate can be attacked from either face, so both enantiomers form (racemisation).",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Halogens"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is the best leaving group in nucleophilic substitution?",
+  "options": {
+   "A": "F⁻",
+   "B": "Cl⁻",
+   "C": "Br⁻",
+   "D": "I⁻"
+  },
+  "correct_answer": "D",
+  "explanation": "I⁻ is the weakest base and the C–I bond is the weakest, so it leaves most easily.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Halogens"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Chlorobenzene is much less reactive than chloroethane towards nucleophilic substitution mainly because:",
+  "options": {
+   "A": "the C–Cl bond in chlorobenzene has partial double bond character",
+   "B": "chlorobenzene is a gas",
+   "C": "chlorine is more electronegative in chlorobenzene",
+   "D": "chlorobenzene has no lone pair on Cl"
+  },
+  "correct_answer": "A",
+  "explanation": "The lone pair on Cl is delocalised into the ring, and the carbon is sp² hybridised, so the C–Cl bond is shorter and stronger.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Halogens"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Chlorobenzene on heating with sodium metal in dry ether gives:",
+  "options": {
+   "A": "benzene",
+   "B": "toluene",
+   "C": "biphenyl",
+   "D": "phenol"
+  },
+  "correct_answer": "C",
+  "explanation": "This is the Fittig reaction: 2C₆H₅Cl + 2Na → C₆H₅–C₆H₅ + 2NaCl.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Halogens"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Benzenediazonium chloride on treatment with CuCl gives:",
+  "options": {
+   "A": "phenol",
+   "B": "chlorobenzene",
+   "C": "aniline",
+   "D": "benzene"
+  },
+  "correct_answer": "B",
+  "explanation": "This is the Sandmeyer reaction: the diazonium group is replaced by Cl with release of N₂.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Halogens"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "On exposure to air and light, chloroform slowly forms the poisonous gas:",
+  "options": {
+   "A": "phosgene (COCl₂)",
+   "B": "chlorine",
+   "C": "carbon monoxide",
+   "D": "hydrogen chloride only"
+  },
+  "correct_answer": "A",
+  "explanation": "Chloroform is oxidised to phosgene, so it is stored in dark, filled bottles, often with a little ethanol.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Halogens"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The chemical formula of Freon-12 is:",
+  "options": {
+   "A": "CCl₄",
+   "B": "CCl₂F₂",
+   "C": "CHClF₂",
+   "D": "CF₄"
+  },
+  "correct_answer": "B",
+  "explanation": "Freon-12 is dichlorodifluoromethane, CCl₂F₂.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Halogens"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The Swarts reaction is used for the preparation of:",
+  "options": {
+   "A": "alkyl iodides",
+   "B": "alkyl fluorides",
+   "C": "alkyl bromides",
+   "D": "alkenes"
+  },
+  "correct_answer": "B",
+  "explanation": "An alkyl chloride or bromide is heated with a metallic fluoride such as AgF or Hg₂F₂ to give the alkyl fluoride.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Halogens"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In the Finkelstein reaction (R–Cl + NaI in dry acetone), the reaction goes to completion because:",
+  "options": {
+   "A": "NaI is insoluble in acetone",
+   "B": "NaCl is insoluble in acetone and precipitates",
+   "C": "RI is a gas",
+   "D": "acetone reacts with NaCl"
+  },
+  "correct_answer": "B",
+  "explanation": "NaCl precipitates from acetone, which removes it from the equilibrium and drives the reaction forward.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Halogens"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following isomeric bromides has the highest boiling point?",
+  "options": {
+   "A": "1-bromobutane",
+   "B": "2-bromobutane",
+   "C": "2-bromo-2-methylpropane",
+   "D": "1-bromo-2-methylpropane"
+  },
+  "correct_answer": "A",
+  "explanation": "Among isomers, branching reduces surface area and van der Waals forces, so the straight-chain primary bromide boils highest.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Halogens"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Grignard reagents are prepared by reacting an alkyl halide with magnesium in:",
+  "options": {
+   "A": "water",
+   "B": "dry ether",
+   "C": "ethanol",
+   "D": "dilute HCl"
+  },
+  "correct_answer": "B",
+  "explanation": "Grignard reagents are destroyed by water and other protic solvents, so dry ether is used.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Halogens"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A Grignard reagent RMgX reacts with CO₂ and then with dilute acid to give:",
+  "options": {
+   "A": "an alcohol",
+   "B": "an aldehyde",
+   "C": "a carboxylic acid",
+   "D": "an alkane"
+  },
+  "correct_answer": "C",
+  "explanation": "RMgX + CO₂ gives RCOOMgX, which on acid hydrolysis gives RCOOH.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Halogens"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The major product of the reaction of 2-bromo-2-methylbutane with alcoholic KOH is:",
+  "options": {
+   "A": "2-methylbut-1-ene",
+   "B": "2-methylbut-2-ene",
+   "C": "3-methylbutan-2-ol",
+   "D": "2-methylbutan-2-ol"
+  },
+  "correct_answer": "B",
+  "explanation": "By Saytzeff's rule the more substituted alkene is the major elimination product.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Halogens"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The Dow process converts chlorobenzene, using NaOH at 623 K and 300 atm followed by acidification, into:",
+  "options": {
+   "A": "benzene",
+   "B": "phenol",
+   "C": "aniline",
+   "D": "benzoic acid"
+  },
+  "correct_answer": "B",
+  "explanation": "Under these drastic conditions chlorobenzene forms sodium phenoxide, which gives phenol on acidification.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Halogens"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "2,4-Dinitrochlorobenzene undergoes nucleophilic substitution much more easily than chlorobenzene because:",
+  "options": {
+   "A": "the –NO₂ groups at ortho and para positions stabilise the negatively charged intermediate",
+   "B": "the –NO₂ groups are electron-donating",
+   "C": "the –NO₂ groups make the C–Cl bond longer by +I effect",
+   "D": "chlorine is replaced by NO₂"
+  },
+  "correct_answer": "A",
+  "explanation": "Ortho and para –NO₂ groups delocalise the negative charge of the intermediate by –M and –I effects.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Halogens"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following gives a precipitate of AgCl most readily with alcoholic AgNO₃ at room temperature?",
+  "options": {
+   "A": "chlorobenzene",
+   "B": "vinyl chloride",
+   "C": "benzyl chloride",
+   "D": "1-chlorobutane"
+  },
+  "correct_answer": "C",
+  "explanation": "Benzyl chloride forms a resonance-stabilised benzyl carbocation. Aryl and vinyl chlorides have very strong C–Cl bonds.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Halogens"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The –Cl group in chlorobenzene is:",
+  "options": {
+   "A": "activating and ortho/para-directing",
+   "B": "deactivating and meta-directing",
+   "C": "deactivating and ortho/para-directing",
+   "D": "activating and meta-directing"
+  },
+  "correct_answer": "C",
+  "explanation": "The –I effect of Cl deactivates the ring, but the +M effect of its lone pairs directs the electrophile to ortho and para positions.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Halogens"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following molecules is chiral?",
+  "options": {
+   "A": "CH₂Cl₂",
+   "B": "CHFClBr",
+   "C": "CCl₄",
+   "D": "CHCl₃"
+  },
+  "correct_answer": "B",
+  "explanation": "The carbon in CHFClBr carries four different atoms (H, F, Cl, Br).",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Halogens"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which statements about the SN2 mechanism are correct?",
+  "options": {
+   "A": "It occurs in a single step",
+   "B": "It proceeds with inversion of configuration",
+   "C": "The rate depends on both the substrate and the nucleophile",
+   "D": "It involves a carbocation intermediate"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "SN2 is a concerted, bimolecular process with a pentacoordinate transition state and no carbocation. A carbocation intermediate belongs to SN1.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Halogens"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which of the following halides undergo SN1 reaction readily?",
+  "options": {
+   "A": "(CH₃)₃CCl",
+   "B": "C₆H₅CH₂Cl",
+   "C": "CH₂=CH–CH₂Cl",
+   "D": "CH₃Cl"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "These give a tertiary, a benzylic and an allylic carbocation respectively, all stabilised. CH₃⁺ is highly unstable.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Halogens"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of structural isomers of C₄H₉Cl is:",
+  "options": null,
+  "correct_answer": "4",
+  "explanation": "1-chlorobutane, 2-chlorobutane, 1-chloro-2-methylpropane and 2-chloro-2-methylpropane.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Halogens"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of structural isomers of C₃H₆Cl₂ is:",
+  "options": null,
+  "correct_answer": "4",
+  "explanation": "1,1-dichloropropane, 1,2-dichloropropane, 1,3-dichloropropane and 2,2-dichloropropane.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Halogens"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of structural isomers formed on monochlorination of n-pentane is:",
+  "options": null,
+  "correct_answer": "3",
+  "explanation": "1-chloropentane, 2-chloropentane and 3-chloropentane.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Halogens"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The total number of stereoisomers of 2,3-dichlorobutane is:",
+  "options": null,
+  "correct_answer": "3",
+  "explanation": "There are two optically active enantiomers and one meso form.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Halogens"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of chiral carbon atoms in CH₃–CHCl–CHBr–CH₃ is:",
+  "options": null,
+  "correct_answer": "2",
+  "explanation": "C-2 (H, Cl, CH₃, CHBrCH₃) and C-3 (H, Br, CH₃, CHClCH₃) each have four different groups.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Halogens"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "0.1 g of an organic chloride gave 0.287 g of AgCl in a Carius estimation (AgCl = 143.5, Cl = 35.5). The percentage of chlorine is:",
+  "options": null,
+  "correct_answer": "71",
+  "explanation": "Mass of Cl = (35.5/143.5) × 0.287 = 0.071 g. (0.071/0.1) × 100 = 71%.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Halogens"
+ }
+]

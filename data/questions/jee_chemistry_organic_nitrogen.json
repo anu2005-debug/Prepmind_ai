@@ -1,0 +1,452 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "Acetamide on Hoffmann bromamide degradation (Br₂ and KOH) gives:",
+  "options": {
+   "A": "ethylamine",
+   "B": "methylamine",
+   "C": "acetic acid",
+   "D": "ethanol"
+  },
+  "correct_answer": "B",
+  "explanation": "The amide loses its carbonyl carbon as carbonate, so the amine has one carbon less: CH₃CONH₂ → CH₃NH₂.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Nitrogen"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is the strongest base in aqueous solution?",
+  "options": {
+   "A": "NH₃",
+   "B": "CH₃NH₂",
+   "C": "(CH₃)₂NH",
+   "D": "(CH₃)₃N"
+  },
+  "correct_answer": "C",
+  "explanation": "In water the order is (CH₃)₂NH > CH₃NH₂ > (CH₃)₃N > NH₃, from the balance of +I effect, hydration and steric hindrance.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Nitrogen"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Aniline is a weaker base than ammonia mainly because:",
+  "options": {
+   "A": "the lone pair on N is delocalised into the benzene ring",
+   "B": "aniline has a higher molar mass",
+   "C": "aniline is insoluble in water",
+   "D": "the benzene ring is electron-donating by +I effect"
+  },
+  "correct_answer": "A",
+  "explanation": "Resonance delocalises the nitrogen lone pair into the ring, so it is less available to accept a proton.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Nitrogen"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following gives a foul-smelling isocyanide in the carbylamine test (CHCl₃ and alcoholic KOH)?",
+  "options": {
+   "A": "aniline",
+   "B": "N-methylaniline",
+   "C": "N,N-dimethylaniline",
+   "D": "triethylamine"
+  },
+  "correct_answer": "A",
+  "explanation": "Only primary amines (–NH₂) give the carbylamine test. The others are secondary or tertiary.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Nitrogen"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The Hinsberg reagent is:",
+  "options": {
+   "A": "benzenesulphonyl chloride",
+   "B": "benzoyl chloride",
+   "C": "acetyl chloride",
+   "D": "nitrous acid"
+  },
+  "correct_answer": "A",
+  "explanation": "Benzenesulphonyl chloride (C₆H₅SO₂Cl) is used to distinguish primary, secondary and tertiary amines.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Nitrogen"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The sulphonamide formed from a primary amine and benzenesulphonyl chloride dissolves in aqueous KOH because:",
+  "options": {
+   "A": "it has an acidic hydrogen on nitrogen",
+   "B": "it is a tertiary amine",
+   "C": "it has no hydrogen on nitrogen",
+   "D": "it forms a diazonium salt"
+  },
+  "correct_answer": "A",
+  "explanation": "The N–H hydrogen is made acidic by the strongly electron-withdrawing sulphonyl group, so the sulphonamide forms a soluble potassium salt.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Nitrogen"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Aniline reacts with NaNO₂ and HCl at 273–278 K to give:",
+  "options": {
+   "A": "nitrobenzene",
+   "B": "benzenediazonium chloride",
+   "C": "phenol",
+   "D": "azobenzene"
+  },
+  "correct_answer": "B",
+  "explanation": "This is diazotisation of a primary aromatic amine, which must be done at low temperature.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Nitrogen"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Benzenediazonium chloride on warming with water gives:",
+  "options": {
+   "A": "phenol",
+   "B": "aniline",
+   "C": "benzene",
+   "D": "chlorobenzene"
+  },
+  "correct_answer": "A",
+  "explanation": "The diazonium group is replaced by OH with loss of N₂.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Nitrogen"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Benzenediazonium chloride on treatment with hypophosphorous acid (H₃PO₂) gives:",
+  "options": {
+   "A": "phenol",
+   "B": "benzene",
+   "C": "aniline",
+   "D": "nitrobenzene"
+  },
+  "correct_answer": "B",
+  "explanation": "H₃PO₂ reduces the diazonium salt by replacing N₂⁺ with H.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Nitrogen"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Benzenediazonium chloride couples with phenol in alkaline medium to give:",
+  "options": {
+   "A": "p-hydroxyazobenzene",
+   "B": "biphenyl",
+   "C": "p-aminophenol",
+   "D": "diphenylamine"
+  },
+  "correct_answer": "A",
+  "explanation": "The diazonium ion attacks the para position of the phenoxide ion, giving the orange azo dye p-hydroxyazobenzene.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Nitrogen"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Reduction of nitrobenzene with Zn and NH₄Cl (neutral medium) gives:",
+  "options": {
+   "A": "aniline",
+   "B": "N-phenylhydroxylamine",
+   "C": "azoxybenzene",
+   "D": "benzene"
+  },
+  "correct_answer": "B",
+  "explanation": "In neutral medium the reduction stops at the hydroxylamine stage. In acidic medium (Sn/HCl) it gives aniline.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Nitrogen"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Gabriel phthalimide synthesis is used to prepare:",
+  "options": {
+   "A": "aromatic primary amines",
+   "B": "pure aliphatic primary amines",
+   "C": "secondary amines",
+   "D": "tertiary amines"
+  },
+  "correct_answer": "B",
+  "explanation": "Potassium phthalimide reacts with an alkyl halide, and hydrolysis gives the pure primary amine. Aryl halides do not undergo the required substitution.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Nitrogen"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Aniline reacts with bromine water at room temperature to give:",
+  "options": {
+   "A": "o-bromoaniline",
+   "B": "p-bromoaniline",
+   "C": "2,4,6-tribromoaniline",
+   "D": "m-bromoaniline"
+  },
+  "correct_answer": "C",
+  "explanation": "The –NH₂ group strongly activates the ring, so all three ortho and para positions are brominated and a white precipitate forms.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Nitrogen"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Direct nitration of aniline with HNO₃ and H₂SO₄ gives a substantial amount of m-nitroaniline because:",
+  "options": {
+   "A": "–NH₂ is a meta-directing group",
+   "B": "aniline is protonated to the anilinium ion, which is meta-directing",
+   "C": "the nitro group enters through the nitrogen atom",
+   "D": "sulphuric acid blocks the ortho and para positions"
+  },
+  "correct_answer": "B",
+  "explanation": "In strong acid –NH₂ becomes –NH₃⁺, which is deactivating and meta-directing.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Nitrogen"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Ethylamine on treatment with nitrous acid (NaNO₂ and HCl) gives:",
+  "options": {
+   "A": "ethanol and N₂",
+   "B": "ethyl diazonium chloride, stable at 273 K",
+   "C": "nitroethane",
+   "D": "N-nitrosoethylamine"
+  },
+  "correct_answer": "A",
+  "explanation": "Aliphatic diazonium salts are unstable and decompose at once to the alcohol with evolution of N₂.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Nitrogen"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Reduction of CH₃CN with LiAlH₄ gives:",
+  "options": {
+   "A": "methylamine",
+   "B": "ethylamine",
+   "C": "dimethylamine",
+   "D": "acetaldehyde"
+  },
+  "correct_answer": "B",
+  "explanation": "R–C≡N is reduced to R–CH₂NH₂, so CH₃CN gives CH₃CH₂NH₂ with the same number of carbons.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Nitrogen"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Reduction of methyl isocyanide (CH₃NC) with H₂ and Ni gives:",
+  "options": {
+   "A": "methylamine",
+   "B": "ethylamine",
+   "C": "dimethylamine",
+   "D": "trimethylamine"
+  },
+  "correct_answer": "C",
+  "explanation": "R–N≡C is reduced to R–NH–CH₃, so CH₃NC gives the secondary amine (CH₃)₂NH.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Nitrogen"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Among the isomers of C₄H₁₁N, which has the highest boiling point?",
+  "options": {
+   "A": "n-butylamine",
+   "B": "diethylamine",
+   "C": "N,N-dimethylethanamine",
+   "D": "all have the same boiling point"
+  },
+  "correct_answer": "A",
+  "explanation": "Primary amines have two N–H bonds and form the most intermolecular hydrogen bonds. Tertiary amines have none.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Nitrogen"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is the weakest base?",
+  "options": {
+   "A": "methylamine",
+   "B": "aniline",
+   "C": "p-toluidine",
+   "D": "p-nitroaniline"
+  },
+  "correct_answer": "D",
+  "explanation": "The –NO₂ group withdraws electron density by –M and –I effects and makes the lone pair on N least available.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Nitrogen"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The key intermediate in the Hoffmann bromamide degradation is:",
+  "options": {
+   "A": "an isocyanate",
+   "B": "a carbocation",
+   "C": "a carbanion",
+   "D": "a diazonium salt"
+  },
+  "correct_answer": "A",
+  "explanation": "The N-bromoamide rearranges to an isocyanate (R–N=C=O), which is hydrolysed to the amine with loss of CO₂.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Nitrogen"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Aniline reacts with acetyl chloride in the presence of pyridine to give:",
+  "options": {
+   "A": "acetanilide",
+   "B": "N,N-diacetylaniline only",
+   "C": "p-aminoacetophenone",
+   "D": "aniline hydrochloride"
+  },
+  "correct_answer": "A",
+  "explanation": "This is N-acetylation, and pyridine removes the HCl formed.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Nitrogen"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A secondary amine reacts with nitrous acid to give:",
+  "options": {
+   "A": "an alcohol and N₂",
+   "B": "a diazonium salt",
+   "C": "an N-nitrosoamine (yellow oil)",
+   "D": "a quaternary salt"
+  },
+  "correct_answer": "C",
+  "explanation": "R₂NH + HNO₂ → R₂N–N=O + H₂O.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Nitrogen"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which of the following reactions give primary amines?",
+  "options": {
+   "A": "Hoffmann bromamide degradation of amides",
+   "B": "Gabriel phthalimide synthesis",
+   "C": "Reduction of nitriles with LiAlH₄",
+   "D": "Reduction of isocyanides with H₂ and Ni"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "Reduction of isocyanides gives secondary amines (R–NH–CH₃).",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Nitrogen"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which statements about benzenediazonium chloride are correct?",
+  "options": {
+   "A": "It is stable only at about 273–278 K",
+   "B": "It undergoes replacement reactions with loss of N₂",
+   "C": "It undergoes coupling reactions with phenols and aromatic amines",
+   "D": "It is stable at 300 K for several days"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "The salt decomposes on warming, so it is prepared and used cold.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Nitrogen"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of isomeric amines (primary, secondary and tertiary) with the formula C₃H₉N is:",
+  "options": null,
+  "correct_answer": "4",
+  "explanation": "Propylamine, isopropylamine, ethylmethylamine and trimethylamine.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Nitrogen"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of isomeric primary amines with the formula C₄H₁₁N is:",
+  "options": null,
+  "correct_answer": "4",
+  "explanation": "n-Butylamine, sec-butylamine, isobutylamine and tert-butylamine.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Nitrogen"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The moles of N₂ released when 1 mole of ethylamine reacts completely with excess nitrous acid is:",
+  "options": null,
+  "correct_answer": "1",
+  "explanation": "C₂H₅NH₂ + HNO₂ → C₂H₅OH + N₂ + H₂O.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Nitrogen"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The moles of Br₂ consumed by 1 mole of aniline in excess bromine water is:",
+  "options": null,
+  "correct_answer": "3",
+  "explanation": "Three bromine atoms are introduced at the two ortho and one para position, which gives 2,4,6-tribromoaniline.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Nitrogen"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of carbon atoms in the amine formed from propanamide (CH₃CH₂CONH₂) by Hoffmann bromamide degradation is:",
+  "options": null,
+  "correct_answer": "2",
+  "explanation": "One carbon is lost, so the product is ethylamine, C₂H₅NH₂.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Nitrogen"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The oxidation state of nitrogen in nitrobenzene is:",
+  "options": null,
+  "correct_answer": "3",
+  "explanation": "In the nitro group nitrogen is at +3 (as in nitrite), so the answer is +3.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Nitrogen"
+ }
+]

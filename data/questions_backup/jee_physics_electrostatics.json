@@ -1,0 +1,452 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "Two point charges of 2 μC and 3 μC are 3 m apart in vacuum (k = 9 × 10⁹ N m²/C²). The force between them is:",
+  "options": {
+   "A": "2 × 10⁻³ N",
+   "B": "9 × 10⁻³ N",
+   "C": "6 × 10⁻³ N",
+   "D": "18 × 10⁻³ N"
+  },
+  "correct_answer": "C",
+  "explanation": "F = kq₁q₂/r² = 9 × 10⁹ × 6 × 10⁻¹² / 9 = 6 × 10⁻³ N.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electrostatics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "If the distance between two point charges is doubled, the electrostatic force between them becomes:",
+  "options": {
+   "A": "F/2",
+   "B": "F/4",
+   "C": "2F",
+   "D": "F/8"
+  },
+  "correct_answer": "B",
+  "explanation": "F ∝ 1/r², so doubling r makes the force F/4.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electrostatics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The electric field at a distance of 3 m from a point charge of 3 μC is (k = 9 × 10⁹ N m²/C²):",
+  "options": {
+   "A": "9000 N/C",
+   "B": "1000 N/C",
+   "C": "27 000 N/C",
+   "D": "3000 N/C"
+  },
+  "correct_answer": "D",
+  "explanation": "E = kq/r² = 9 × 10⁹ × 3 × 10⁻⁶ / 9 = 3000 N/C.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electrostatics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The electric field inside a charged hollow conducting sphere, at a point inside it, is:",
+  "options": {
+   "A": "zero",
+   "B": "kQ/R²",
+   "C": "kQ/R",
+   "D": "kQ/2R²"
+  },
+  "correct_answer": "A",
+  "explanation": "Charge stays on the outer surface of a conductor, so the field inside is zero.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electrostatics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The electric potential at 0.9 m from a point charge of 1 μC is (k = 9 × 10⁹ N m²/C²):",
+  "options": {
+   "A": "9 × 10³ V",
+   "B": "10⁴ V",
+   "C": "10³ V",
+   "D": "10⁵ V"
+  },
+  "correct_answer": "B",
+  "explanation": "V = kq/r = 9 × 10⁹ × 10⁻⁶ / 0.9 = 10⁴ V.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electrostatics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The work done in moving a 2 μC charge through a potential difference of 100 V is:",
+  "options": {
+   "A": "2 × 10⁻⁶ J",
+   "B": "2 × 10⁻⁸ J",
+   "C": "2 × 10⁻⁴ J",
+   "D": "2 × 10⁻² J"
+  },
+  "correct_answer": "C",
+  "explanation": "W = qΔV = 2 × 10⁻⁶ × 100 = 2 × 10⁻⁴ J.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electrostatics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "When a dielectric slab of dielectric constant K fills the space between the plates of a parallel plate capacitor (battery disconnected or not), the capacitance:",
+  "options": {
+   "A": "becomes 1/K times",
+   "B": "remains unchanged",
+   "C": "becomes K² times",
+   "D": "becomes K times"
+  },
+  "correct_answer": "D",
+  "explanation": "C = Kε₀A/d, so filling the gap with a dielectric multiplies the capacitance by K.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electrostatics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Capacitors of 2 μF and 4 μF are connected in series. The equivalent capacitance is:",
+  "options": {
+   "A": "4/3 μF",
+   "B": "6 μF",
+   "C": "8 μF",
+   "D": "2 μF"
+  },
+  "correct_answer": "A",
+  "explanation": "C = (2 × 4)/(2 + 4) = 4/3 μF.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electrostatics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Capacitors of 2 μF and 4 μF are connected in parallel. The equivalent capacitance is:",
+  "options": {
+   "A": "4/3 μF",
+   "B": "8 μF",
+   "C": "6 μF",
+   "D": "2 μF"
+  },
+  "correct_answer": "C",
+  "explanation": "In parallel the capacitances add: 2 + 4 = 6 μF.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electrostatics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The energy stored in a 10 μF capacitor charged to 100 V is:",
+  "options": {
+   "A": "0.5 J",
+   "B": "0.1 J",
+   "C": "0.005 J",
+   "D": "0.05 J"
+  },
+  "correct_answer": "D",
+  "explanation": "U = ½CV² = ½ × 10 × 10⁻⁶ × 10⁴ = 0.05 J.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electrostatics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Charges +2 μC and −2 μC are separated by 3 cm. The magnitude of the dipole moment is:",
+  "options": {
+   "A": "6 × 10⁻⁶ C m",
+   "B": "6 × 10⁻⁸ C m",
+   "C": "6 × 10⁻⁴ C m",
+   "D": "6 × 10⁻¹⁰ C m"
+  },
+  "correct_answer": "B",
+  "explanation": "p = qd = 2 × 10⁻⁶ × 0.03 = 6 × 10⁻⁸ C m.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electrostatics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A dipole of moment 2 × 10⁻⁸ C m is at 90° to a uniform field of 5 × 10⁴ N/C. The torque on it is:",
+  "options": {
+   "A": "10⁻⁵ N m",
+   "B": "10⁻⁴ N m",
+   "C": "10⁻³ N m",
+   "D": "10⁻² N m"
+  },
+  "correct_answer": "C",
+  "explanation": "τ = pE sin 90° = 2 × 10⁻⁸ × 5 × 10⁴ = 10⁻³ N m.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electrostatics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "According to Gauss's law, the electric flux through a closed surface enclosing a net charge q in vacuum is:",
+  "options": {
+   "A": "qε₀",
+   "B": "q/ε₀²",
+   "C": "zero always",
+   "D": "q/ε₀"
+  },
+  "correct_answer": "D",
+  "explanation": "Gauss's law states Φ = q_enclosed/ε₀.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electrostatics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A point charge q is placed at the centre of a cube. The flux through one face of the cube is:",
+  "options": {
+   "A": "q/6ε₀",
+   "B": "q/ε₀",
+   "C": "q/3ε₀",
+   "D": "6q/ε₀"
+  },
+  "correct_answer": "A",
+  "explanation": "The total flux q/ε₀ divides equally among 6 faces, so each gets q/6ε₀.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electrostatics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The electric field near an infinite plane non-conducting sheet with surface charge density σ is:",
+  "options": {
+   "A": "σ/ε₀",
+   "B": "σ/2ε₀",
+   "C": "2σ/ε₀",
+   "D": "σ/4ε₀"
+  },
+  "correct_answer": "B",
+  "explanation": "By Gauss's law E = σ/2ε₀ on either side of an infinite non-conducting sheet.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electrostatics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The work done in moving a charge between two points on an equipotential surface is:",
+  "options": {
+   "A": "positive",
+   "B": "negative",
+   "C": "zero",
+   "D": "dependent on the length of the path"
+  },
+  "correct_answer": "C",
+  "explanation": "W = qΔV and ΔV = 0 on an equipotential surface, so no work is done.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electrostatics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The electric field at the centre of a uniformly charged ring is:",
+  "options": {
+   "A": "kq/R²",
+   "B": "kq/2R²",
+   "C": "2kq/R²",
+   "D": "zero"
+  },
+  "correct_answer": "D",
+  "explanation": "By symmetry the contributions of opposite elements cancel at the centre.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electrostatics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The electric potential at the midpoint of the line joining charges +q and −q is:",
+  "options": {
+   "A": "zero",
+   "B": "2kq/r",
+   "C": "kq/r",
+   "D": "−2kq/r"
+  },
+  "correct_answer": "A",
+  "explanation": "The potentials of equal and opposite charges at equal distances cancel, so V = 0.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electrostatics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A 5 μF capacitor is charged to 20 V. The charge on it is:",
+  "options": {
+   "A": "25 μC",
+   "B": "4 μC",
+   "C": "100 μC",
+   "D": "1000 μC"
+  },
+  "correct_answer": "C",
+  "explanation": "Q = CV = 5 × 20 = 100 μC.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electrostatics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "An electron (e = 1.6 × 10⁻¹⁹ C, m = 9.1 × 10⁻³¹ kg) is in a field of 10⁴ N/C. Its acceleration is approximately:",
+  "options": {
+   "A": "1.76 × 10¹¹ m/s²",
+   "B": "1.76 × 10⁷ m/s²",
+   "C": "9.8 m/s²",
+   "D": "1.76 × 10¹⁵ m/s²"
+  },
+  "correct_answer": "D",
+  "explanation": "a = eE/m = 1.6 × 10⁻¹⁹ × 10⁴ / 9.1 × 10⁻³¹ ≈ 1.76 × 10¹⁵ m/s².",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electrostatics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Given e = 1.6 × 10⁻¹⁹ C, the number of electrons in a charge of 1 C is approximately:",
+  "options": {
+   "A": "1.6 × 10¹⁹",
+   "B": "6.25 × 10¹⁸",
+   "C": "9 × 10⁹",
+   "D": "6.25 × 10¹⁹"
+  },
+  "correct_answer": "B",
+  "explanation": "n = Q/e = 1/(1.6 × 10⁻¹⁹) = 6.25 × 10¹⁸.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electrostatics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The separation between the plates of a parallel plate capacitor is doubled (area unchanged). Its capacitance:",
+  "options": {
+   "A": "halves",
+   "B": "doubles",
+   "C": "remains the same",
+   "D": "becomes four times"
+  },
+  "correct_answer": "A",
+  "explanation": "C = ε₀A/d, so doubling d halves C.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electrostatics"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which statements are correct for a conductor in electrostatic equilibrium?",
+  "options": {
+   "A": "The electric field inside the conductor is zero",
+   "B": "The potential is the same at every point of the conductor",
+   "C": "The field at the surface is perpendicular to the surface",
+   "D": "The excess charge is distributed throughout the bulk"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "In equilibrium E = 0 inside, the conductor is an equipotential, and E at the surface is normal to it. Excess charge sits on the surface.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electrostatics"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which statements about electric field lines are correct?",
+  "options": {
+   "A": "They start on positive charges and end on negative charges",
+   "B": "Two field lines never intersect",
+   "C": "The tangent to a line gives the direction of the field",
+   "D": "Electrostatic field lines can form closed loops"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "Field lines go from positive to negative charges, cannot cross, and are tangent to the field. Electrostatic fields are conservative, so the lines cannot form closed loops.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electrostatics"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "Charges of 4 μC and 5 μC are 0.2 m apart (k = 9 × 10⁹ N m²/C²). The force between them (in N) is:",
+  "options": null,
+  "correct_answer": "4.5",
+  "explanation": "F = 9 × 10⁹ × 4 × 10⁻⁶ × 5 × 10⁻⁶ / 0.04 = 0.18/0.04 = 4.5 N.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electrostatics"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "Capacitors of 3 μF and 6 μF are connected in series. The equivalent capacitance (in μF) is:",
+  "options": null,
+  "correct_answer": "2",
+  "explanation": "C = (3 × 6)/(3 + 6) = 2 μF.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electrostatics"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A 2 μF capacitor is charged to 100 V. The energy stored (in mJ) is:",
+  "options": null,
+  "correct_answer": "10",
+  "explanation": "U = ½CV² = ½ × 2 × 10⁻⁶ × 10⁴ = 0.01 J = 10 mJ.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electrostatics"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The potential (in V) at 3 cm from a point charge of 2 nC is (k = 9 × 10⁹ N m²/C²):",
+  "options": null,
+  "correct_answer": "600",
+  "explanation": "V = kq/r = 9 × 10⁹ × 2 × 10⁻⁹ / 0.03 = 18/0.03 = 600 V.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electrostatics"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The electric field (in N/C) at 3 m from a point charge of 5 μC is (k = 9 × 10⁹ N m²/C²):",
+  "options": null,
+  "correct_answer": "5000",
+  "explanation": "E = kq/r² = 9 × 10⁹ × 5 × 10⁻⁶ / 9 = 5000 N/C.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electrostatics"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "Capacitors of 4 μF and 12 μF are connected in series across a 12 V battery. The charge on each (in μC) is:",
+  "options": null,
+  "correct_answer": "36",
+  "explanation": "C_eq = (4 × 12)/16 = 3 μF, so Q = C_eq V = 3 × 12 = 36 μC.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Electrostatics"
+ }
+]

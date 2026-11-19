@@ -1,0 +1,452 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "The integral ∫ x² dx equals:",
+  "options": {
+   "A": "2x + C",
+   "B": "x³/3 + C",
+   "C": "x³ + C",
+   "D": "x²/2 + C"
+  },
+  "correct_answer": "B",
+  "explanation": "∫ xⁿ dx = xⁿ⁺¹/(n + 1) + C, so with n = 2 the result is x³/3 + C.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Integral Calculus"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The integral ∫ (1/x) dx equals:",
+  "options": {
+   "A": "ln|x| + C",
+   "B": "−1/x² + C",
+   "C": "x⁰ + C",
+   "D": "eˣ + C"
+  },
+  "correct_answer": "A",
+  "explanation": "The antiderivative of 1/x is ln|x|.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Integral Calculus"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The integral ∫ e²ˣ dx equals:",
+  "options": {
+   "A": "e²ˣ + C",
+   "B": "2e²ˣ + C",
+   "C": "e²ˣ/2 + C",
+   "D": "e²ˣ/x + C"
+  },
+  "correct_answer": "C",
+  "explanation": "Substitute u = 2x: ∫ e²ˣ dx = e²ˣ/2 + C.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Integral Calculus"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The integral ∫ sin x dx equals:",
+  "options": {
+   "A": "cos x + C",
+   "B": "−sin x + C",
+   "C": "tan x + C",
+   "D": "−cos x + C"
+  },
+  "correct_answer": "D",
+  "explanation": "d/dx (−cos x) = sin x.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Integral Calculus"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The integral ∫ sec² x dx equals:",
+  "options": {
+   "A": "tan x + C",
+   "B": "sec x + C",
+   "C": "−cot x + C",
+   "D": "sec x tan x + C"
+  },
+  "correct_answer": "A",
+  "explanation": "d/dx tan x = sec² x.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Integral Calculus"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The value of ∫ from 0 to 1 of x dx is:",
+  "options": {
+   "A": "1",
+   "B": "1/2",
+   "C": "2",
+   "D": "0"
+  },
+  "correct_answer": "B",
+  "explanation": "[x²/2] from 0 to 1 = 1/2.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Integral Calculus"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The value of ∫ from 0 to π of sin x dx is:",
+  "options": {
+   "A": "0",
+   "B": "1",
+   "C": "2",
+   "D": "π"
+  },
+  "correct_answer": "C",
+  "explanation": "[−cos x] from 0 to π = 1 − (−1) = 2.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Integral Calculus"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The value of ∫ from 0 to π/2 of sin² x dx is:",
+  "options": {
+   "A": "π/2",
+   "B": "π/4",
+   "C": "1",
+   "D": "1/2"
+  },
+  "correct_answer": "B",
+  "explanation": "sin² x = (1 − cos 2x)/2, so the integral is [x/2 − sin 2x/4] from 0 to π/2 = π/4.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Integral Calculus"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The integral ∫ 1/(1 + x²) dx equals:",
+  "options": {
+   "A": "ln(1 + x²) + C",
+   "B": "tan⁻¹ x + C",
+   "C": "sin⁻¹ x + C",
+   "D": "1/(2x) + C"
+  },
+  "correct_answer": "B",
+  "explanation": "d/dx tan⁻¹ x = 1/(1 + x²).",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Integral Calculus"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The integral ∫ 1/√(1 − x²) dx equals:",
+  "options": {
+   "A": "tan⁻¹ x + C",
+   "B": "cos⁻¹ x + C",
+   "C": "sin⁻¹ x + C",
+   "D": "√(1 − x²) + C"
+  },
+  "correct_answer": "C",
+  "explanation": "d/dx sin⁻¹ x = 1/√(1 − x²).",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Integral Calculus"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The integral ∫ x eˣ dx equals:",
+  "options": {
+   "A": "eˣ (x − 1) + C",
+   "B": "eˣ (x + 1) + C",
+   "C": "x eˣ + C",
+   "D": "x²eˣ/2 + C"
+  },
+  "correct_answer": "A",
+  "explanation": "By parts: ∫ x eˣ dx = x eˣ − ∫ eˣ dx = x eˣ − eˣ + C = eˣ (x − 1) + C.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Integral Calculus"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The integral ∫ ln x dx equals:",
+  "options": {
+   "A": "1/x + C",
+   "B": "x ln x + C",
+   "C": "x ln x − x + C",
+   "D": "(ln x)²/2 + C"
+  },
+  "correct_answer": "C",
+  "explanation": "By parts with u = ln x and dv = dx: x ln x − ∫ 1 dx = x ln x − x + C.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Integral Calculus"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The value of ∫ from −1 to 1 of x³ dx is:",
+  "options": {
+   "A": "0",
+   "B": "1/2",
+   "C": "1/4",
+   "D": "2"
+  },
+  "correct_answer": "A",
+  "explanation": "x³ is an odd function and the interval is symmetric about 0, so the integral is 0.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Integral Calculus"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The value of ∫ from 0 to 1 of eˣ dx is:",
+  "options": {
+   "A": "e",
+   "B": "e − 1",
+   "C": "1 − e",
+   "D": "e + 1"
+  },
+  "correct_answer": "B",
+  "explanation": "[eˣ] from 0 to 1 = e − 1.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Integral Calculus"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The integral ∫ tan x dx equals:",
+  "options": {
+   "A": "ln|sec x| + C",
+   "B": "ln|sin x| + C",
+   "C": "sec² x + C",
+   "D": "−ln|sec x| + C"
+  },
+  "correct_answer": "A",
+  "explanation": "∫ tan x dx = −ln|cos x| + C = ln|sec x| + C.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Integral Calculus"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The value of ∫ from 0 to π/2 of sin x/(sin x + cos x) dx is:",
+  "options": {
+   "A": "π/2",
+   "B": "1",
+   "C": "π/4",
+   "D": "0"
+  },
+  "correct_answer": "C",
+  "explanation": "Let I be the integral. Using f(a − x), I also equals the integral of cos x/(sin x + cos x). Adding gives 2I = ∫ 1 dx = π/2, so I = π/4.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Integral Calculus"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The area bounded by y = x², the x-axis and the lines x = 0 and x = 3 is:",
+  "options": {
+   "A": "6",
+   "B": "9",
+   "C": "27",
+   "D": "3"
+  },
+  "correct_answer": "B",
+  "explanation": "Area = ∫ from 0 to 3 of x² dx = [x³/3] = 27/3 = 9.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Integral Calculus"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The area enclosed between the curves y = x and y = x² is:",
+  "options": {
+   "A": "1/2",
+   "B": "1/3",
+   "C": "1/6",
+   "D": "1/4"
+  },
+  "correct_answer": "C",
+  "explanation": "The curves meet at x = 0 and x = 1. Area = ∫ from 0 to 1 of (x − x²) dx = 1/2 − 1/3 = 1/6.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Integral Calculus"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The integral ∫ 1/(x² − 1) dx equals:",
+  "options": {
+   "A": "ln|x² − 1| + C",
+   "B": "(1/2) ln|(x − 1)/(x + 1)| + C",
+   "C": "(1/2) ln|(x + 1)/(x − 1)| + C",
+   "D": "tan⁻¹ x + C"
+  },
+  "correct_answer": "B",
+  "explanation": "1/(x² − 1) = (1/2)[1/(x − 1) − 1/(x + 1)], so the integral is (1/2) ln|(x − 1)/(x + 1)| + C.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Integral Calculus"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The value of ∫ from 0 to π of x sin x dx is:",
+  "options": {
+   "A": "0",
+   "B": "π",
+   "C": "2π",
+   "D": "π/2"
+  },
+  "correct_answer": "B",
+  "explanation": "By parts: [−x cos x + sin x] from 0 to π = π.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Integral Calculus"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The integral ∫ sin x cos x dx equals:",
+  "options": {
+   "A": "sin² x / 2 + C",
+   "B": "cos² x / 2 + C",
+   "C": "−sin² x / 2 + C",
+   "D": "sin 2x + C"
+  },
+  "correct_answer": "A",
+  "explanation": "Substitute u = sin x: ∫ u du = u²/2 + C = sin² x / 2 + C.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Integral Calculus"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The integral ∫ 1/(x ln x) dx equals:",
+  "options": {
+   "A": "ln x + C",
+   "B": "(ln x)² + C",
+   "C": "1/ln x + C",
+   "D": "ln|ln x| + C"
+  },
+  "correct_answer": "D",
+  "explanation": "Substitute u = ln x, so du = dx/x. Then ∫ du/u = ln|u| + C = ln|ln x| + C.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Integral Calculus"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which of the following integrals are correct?",
+  "options": {
+   "A": "∫ eˣ dx = eˣ + C",
+   "B": "∫ cos x dx = sin x + C",
+   "C": "∫ xⁿ dx = xⁿ⁺¹/(n + 1) + C for every real n",
+   "D": "∫ (1/x) dx = ln|x| + C"
+  },
+  "correct_answer": "A,B,D",
+  "explanation": "The power rule fails for n = −1, where the integral is ln|x|.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Integral Calculus"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which of the following definite integrals are equal to zero?",
+  "options": {
+   "A": "∫ from −π to π of sin x dx",
+   "B": "∫ from −1 to 1 of x³ dx",
+   "C": "∫ from −1 to 1 of x² dx",
+   "D": "∫ from −π/2 to π/2 of x cos x dx"
+  },
+  "correct_answer": "A,B,D",
+  "explanation": "A, B and D have odd integrands over symmetric intervals. The integrand in C is even and gives 2/3.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Integral Calculus"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The value of ∫ from 0 to 3 of x² dx is:",
+  "options": null,
+  "correct_answer": "9",
+  "explanation": "[x³/3] from 0 to 3 = 9.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Integral Calculus"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The value of ∫ from 0 to 1 of (2x + 3) dx is:",
+  "options": null,
+  "correct_answer": "4",
+  "explanation": "[x² + 3x] from 0 to 1 = 1 + 3 = 4.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Integral Calculus"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The area bounded by y = 2x, the x-axis and the line x = 4 is:",
+  "options": null,
+  "correct_answer": "16",
+  "explanation": "∫ from 0 to 4 of 2x dx = [x²] = 16.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Integral Calculus"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The value of ∫ from 0 to 2 of |x − 1| dx is:",
+  "options": null,
+  "correct_answer": "1",
+  "explanation": "Split at x = 1: ∫ from 0 to 1 of (1 − x) dx + ∫ from 1 to 2 of (x − 1) dx = 1/2 + 1/2 = 1.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Integral Calculus"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The value of ∫ from 1 to 3 of 2x dx is:",
+  "options": null,
+  "correct_answer": "8",
+  "explanation": "[x²] from 1 to 3 = 9 − 1 = 8.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Integral Calculus"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The value of ∫ from 0 to π of (sin x + cos x) dx is:",
+  "options": null,
+  "correct_answer": "2",
+  "explanation": "∫ sin x from 0 to π is 2 and ∫ cos x from 0 to π is 0, so the sum is 2.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Integral Calculus"
+ }
+]

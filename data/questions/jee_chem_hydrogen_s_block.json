@@ -1,0 +1,452 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "Which isotope of hydrogen is the most abundant?",
+  "options": {
+   "A": "Protium",
+   "B": "Deuterium",
+   "C": "Tritium",
+   "D": "All are equally abundant"
+  },
+  "correct_answer": "A",
+  "explanation": "Protium (¹H) makes up about 99.98% of natural hydrogen.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Hydrogen and s-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The number of neutrons in a tritium nucleus is:",
+  "options": {
+   "A": "0",
+   "B": "1",
+   "C": "2",
+   "D": "3"
+  },
+  "correct_answer": "C",
+  "explanation": "Tritium is ³H with 1 proton, so neutrons = 3 − 1 = 2.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Hydrogen and s-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Heavy water (D₂O) is used in nuclear reactors as a:",
+  "options": {
+   "A": "fuel",
+   "B": "moderator",
+   "C": "control rod",
+   "D": "radiation shield"
+  },
+  "correct_answer": "B",
+  "explanation": "Heavy water slows down fast neutrons, so it acts as a moderator.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Hydrogen and s-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The oxidation state of oxygen in hydrogen peroxide (H₂O₂) is:",
+  "options": {
+   "A": "−2",
+   "B": "0",
+   "C": "+1",
+   "D": "−1"
+  },
+  "correct_answer": "D",
+  "explanation": "Each H is +1, so the two O atoms together are −2, giving −1 each.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Hydrogen and s-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Hydrogen is conveniently prepared in the laboratory by the action of dilute H₂SO₄ on:",
+  "options": {
+   "A": "copper",
+   "B": "silver",
+   "C": "zinc",
+   "D": "gold"
+  },
+  "correct_answer": "C",
+  "explanation": "Zn lies above hydrogen in the reactivity series: Zn + H₂SO₄ → ZnSO₄ + H₂.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Hydrogen and s-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is an ionic (saline) hydride?",
+  "options": {
+   "A": "H₂O",
+   "B": "NH₃",
+   "C": "CH₄",
+   "D": "CaH₂"
+  },
+  "correct_answer": "D",
+  "explanation": "Hydrides of the s-block metals such as CaH₂ contain the H⁻ ion.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Hydrogen and s-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Water gas is a mixture of:",
+  "options": {
+   "A": "CO and H₂",
+   "B": "CO₂ and H₂",
+   "C": "CH₄ and H₂",
+   "D": "CO and N₂"
+  },
+  "correct_answer": "A",
+  "explanation": "C + H₂O → CO + H₂ gives water gas.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Hydrogen and s-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Temporary and permanent hardness of water are mainly due to the presence of:",
+  "options": {
+   "A": "Na⁺ and K⁺ salts",
+   "B": "Ca²⁺ and Mg²⁺ salts",
+   "C": "chloride ions only",
+   "D": "ammonium salts"
+  },
+  "correct_answer": "B",
+  "explanation": "Soluble bicarbonates, chlorides and sulphates of calcium and magnesium cause hardness.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Hydrogen and s-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Calgon, used to soften hard water, is chemically:",
+  "options": {
+   "A": "Na₂CO₃",
+   "B": "NaHCO₃",
+   "C": "sodium hexametaphosphate",
+   "D": "NaOH"
+  },
+  "correct_answer": "C",
+  "explanation": "Calgon is sodium hexametaphosphate, Na₆P₆O₁₈, which binds Ca²⁺ and Mg²⁺ in soluble complexes.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Hydrogen and s-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which alkali metal has the lowest melting point?",
+  "options": {
+   "A": "Li",
+   "B": "Na",
+   "C": "K",
+   "D": "Cs"
+  },
+  "correct_answer": "D",
+  "explanation": "Melting points decrease down group 1, and Cs melts at about 28.5°C.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Hydrogen and s-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which alkali metal burns in oxygen to form mainly the normal oxide?",
+  "options": {
+   "A": "Li",
+   "B": "Na",
+   "C": "K",
+   "D": "Rb"
+  },
+  "correct_answer": "A",
+  "explanation": "Li forms Li₂O. Na forms the peroxide, and K, Rb and Cs form superoxides.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Hydrogen and s-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In aqueous solution the strongest reducing agent among the alkali metals is:",
+  "options": {
+   "A": "Na",
+   "B": "K",
+   "C": "Li",
+   "D": "Cs"
+  },
+  "correct_answer": "C",
+  "explanation": "Li has the most negative standard electrode potential because of its very high hydration enthalpy.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Hydrogen and s-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Calcium imparts which colour to a flame?",
+  "options": {
+   "A": "Apple green",
+   "B": "Crimson red",
+   "C": "Golden yellow",
+   "D": "Brick red"
+  },
+  "correct_answer": "D",
+  "explanation": "Ca gives brick red. Sr is crimson, Ba is apple green and Na is golden yellow.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Hydrogen and s-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The number of molecules of water of crystallisation in washing soda is:",
+  "options": {
+   "A": "10",
+   "B": "7",
+   "C": "5",
+   "D": "2"
+  },
+  "correct_answer": "A",
+  "explanation": "Washing soda is Na₂CO₃·10H₂O.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Hydrogen and s-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The formula of plaster of Paris is:",
+  "options": {
+   "A": "CaSO₄·2H₂O",
+   "B": "CaSO₄·½H₂O",
+   "C": "CaSO₄",
+   "D": "CaSO₄·H₂O"
+  },
+  "correct_answer": "B",
+  "explanation": "Plaster of Paris is calcium sulphate hemihydrate, obtained by heating gypsum at about 120°C.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Hydrogen and s-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Quicklime has the formula:",
+  "options": {
+   "A": "Ca(OH)₂",
+   "B": "CaCO₃",
+   "C": "CaO",
+   "D": "CaCl₂"
+  },
+  "correct_answer": "C",
+  "explanation": "Heating limestone gives quicklime: CaCO₃ → CaO + CO₂.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Hydrogen and s-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Lime water turns milky when which gas is passed through it?",
+  "options": {
+   "A": "O₂",
+   "B": "CO₂",
+   "C": "N₂",
+   "D": "H₂"
+  },
+  "correct_answer": "B",
+  "explanation": "Ca(OH)₂ + CO₂ → CaCO₃ (insoluble, milky) + H₂O.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Hydrogen and s-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which alkaline earth metal does NOT impart a characteristic colour to the Bunsen flame?",
+  "options": {
+   "A": "Ca",
+   "B": "Sr",
+   "C": "Ba",
+   "D": "Mg"
+  },
+  "correct_answer": "D",
+  "explanation": "Be and Mg have such high ionisation energies that their electrons are not excited by a flame.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Hydrogen and s-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Down group 2, the solubility of the sulphates in water:",
+  "options": {
+   "A": "increases",
+   "B": "first increases, then decreases",
+   "C": "decreases",
+   "D": "remains constant"
+  },
+  "correct_answer": "C",
+  "explanation": "Hydration enthalpy falls faster than lattice enthalpy, so BeSO₄ and MgSO₄ are soluble and BaSO₄ is almost insoluble.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Hydrogen and s-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which is the strongest base among these hydroxides?",
+  "options": {
+   "A": "CsOH",
+   "B": "KOH",
+   "C": "NaOH",
+   "D": "LiOH"
+  },
+  "correct_answer": "A",
+  "explanation": "Basic strength of alkali metal hydroxides increases down the group.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Hydrogen and s-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which pair of elements shows a diagonal relationship?",
+  "options": {
+   "A": "Li and Al",
+   "B": "Li and Mg",
+   "C": "Na and Mg",
+   "D": "Be and Mg"
+  },
+  "correct_answer": "B",
+  "explanation": "Li and Mg are diagonal neighbours (Be and Al are the other well-known pair). Li and Al are not adjacent diagonally, and Na–Mg and Be–Mg are horizontal and vertical neighbours.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Hydrogen and s-Block Elements"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Beryllium hydroxide, Be(OH)₂, is:",
+  "options": {
+   "A": "strongly basic",
+   "B": "strongly acidic",
+   "C": "amphoteric",
+   "D": "neutral"
+  },
+  "correct_answer": "C",
+  "explanation": "Be(OH)₂ reacts with both acids and strong bases, so it is amphoteric.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Hydrogen and s-Block Elements"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which statements about hydrogen peroxide are correct?",
+  "options": {
+   "A": "It acts as a bleaching agent",
+   "B": "It can act both as an oxidising and a reducing agent",
+   "C": "The oxidation state of oxygen in it is −2",
+   "D": "Its molecule has a non-planar (open-book) structure"
+  },
+  "correct_answer": "A,B,D",
+  "explanation": "In H₂O₂ oxygen is in the −1 state, which is why it can be both oxidised and reduced. So C is false.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Hydrogen and s-Block Elements"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which statements about alkali metals are correct?",
+  "options": {
+   "A": "They are soft and have low melting points",
+   "B": "Their first ionisation enthalpy decreases down the group",
+   "C": "They are strong reducing agents",
+   "D": "Their salts are generally coloured due to d–d transitions"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "Alkali metal ions have noble gas configurations with no d electrons, so their salts are colourless.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Hydrogen and s-Block Elements"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A 10-volume H₂O₂ solution gives 10 mL of O₂ at STP per mL of solution. The volume of O₂ (in mL) obtained from 50 mL of this solution is:",
+  "options": null,
+  "correct_answer": "500",
+  "explanation": "Volume of O₂ = 50 × 10 = 500 mL.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Hydrogen and s-Block Elements"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The molar mass (in g/mol) of heavy water D₂O (D = 2, O = 16) is:",
+  "options": null,
+  "correct_answer": "20",
+  "explanation": "2 × 2 + 16 = 20 g/mol.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Hydrogen and s-Block Elements"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The mass (in g) of CaO obtained on heating 200 g of CaCO₃ (CaCO₃ = 100 g/mol, CaO = 56 g/mol) is:",
+  "options": null,
+  "correct_answer": "112",
+  "explanation": "200 g is 2 mol of CaCO₃, which gives 2 mol of CaO = 112 g.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Hydrogen and s-Block Elements"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The moles of H₂ liberated when 6.5 g of zinc (65 g/mol) reacts with excess dilute H₂SO₄ is:",
+  "options": null,
+  "correct_answer": "0.1",
+  "explanation": "6.5/65 = 0.1 mol of Zn, and each mole of Zn gives one mole of H₂.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Hydrogen and s-Block Elements"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The molar mass (in g/mol) of washing soda, Na₂CO₃·10H₂O (Na = 23, C = 12, O = 16, H = 1), is:",
+  "options": null,
+  "correct_answer": "286",
+  "explanation": "Na₂CO₃ = 106 and 10H₂O = 180, so the total is 286 g/mol.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Hydrogen and s-Block Elements"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A water sample contains 0.001 mol of CaCl₂ per litre (1 L = 1000 g, CaCO₃ = 100 g/mol). Its hardness in ppm of CaCO₃ equivalent is:",
+  "options": null,
+  "correct_answer": "100",
+  "explanation": "0.001 mol of CaCO₃ equivalent = 0.1 g per 1000 g, which is 100 g per 10⁶ g = 100 ppm.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Hydrogen and s-Block Elements"
+ }
+]

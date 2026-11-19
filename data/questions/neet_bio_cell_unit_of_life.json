@@ -1,0 +1,482 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "The cell theory was proposed by:",
+  "options": {
+   "A": "Robert Hooke and Leeuwenhoek",
+   "B": "Schleiden and Schwann",
+   "C": "Virchow and Brown",
+   "D": "Singer and Nicolson"
+  },
+  "correct_answer": "B",
+  "explanation": "Schleiden (botanist) and Schwann (zoologist) proposed it.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell: The Unit of Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Who explained that new cells arise from pre-existing cells?",
+  "options": {
+   "A": "Schleiden",
+   "B": "Schwann",
+   "C": "Rudolf Virchow",
+   "D": "Robert Brown"
+  },
+  "correct_answer": "C",
+  "explanation": "Virchow stated 'omnis cellula-e-cellula' and modified the cell theory.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell: The Unit of Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Cells were first observed in a thin slice of cork by:",
+  "options": {
+   "A": "Leeuwenhoek",
+   "B": "Robert Brown",
+   "C": "Schleiden",
+   "D": "Robert Hooke"
+  },
+  "correct_answer": "D",
+  "explanation": "Hooke saw the dead cells of cork in 1665.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell: The Unit of Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The first living cell was observed by:",
+  "options": {
+   "A": "Anton van Leeuwenhoek",
+   "B": "Robert Brown",
+   "C": "Camillo Golgi",
+   "D": "George Palade"
+  },
+  "correct_answer": "A",
+  "explanation": "Leeuwenhoek saw living cells such as bacteria and protozoa.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell: The Unit of Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The nucleus was discovered by:",
+  "options": {
+   "A": "Palade",
+   "B": "Robert Brown",
+   "C": "Schleiden",
+   "D": "Flemming"
+  },
+  "correct_answer": "B",
+  "explanation": "Robert Brown discovered the nucleus in 1831.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell: The Unit of Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The smallest known cells are:",
+  "options": {
+   "A": "bacteria",
+   "B": "viruses",
+   "C": "mycoplasmas (PPLO)",
+   "D": "yeasts"
+  },
+  "correct_answer": "C",
+  "explanation": "Mycoplasmas are about 0.3 micrometre in length.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell: The Unit of Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The largest isolated single cell is:",
+  "options": {
+   "A": "a human egg",
+   "B": "an ostrich egg",
+   "C": "a frog egg",
+   "D": "a neuron"
+  },
+  "correct_answer": "B",
+  "explanation": "The ostrich egg is the largest single cell.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell: The Unit of Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Mesosomes in bacterial cells are:",
+  "options": {
+   "A": "infoldings of the cell membrane",
+   "B": "ribosome clusters",
+   "C": "storage granules",
+   "D": "gas vacuoles"
+  },
+  "correct_answer": "A",
+  "explanation": "They help in cell wall formation, DNA replication and respiration.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell: The Unit of Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The ribosomes of prokaryotes have a sedimentation coefficient of:",
+  "options": {
+   "A": "40S",
+   "B": "60S",
+   "C": "80S",
+   "D": "70S"
+  },
+  "correct_answer": "D",
+  "explanation": "Prokaryotic ribosomes are 70S (50S + 30S).",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell: The Unit of Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Eukaryotic 80S ribosomes are made of subunits:",
+  "options": {
+   "A": "50S and 30S",
+   "B": "60S and 40S",
+   "C": "50S and 40S",
+   "D": "60S and 30S"
+  },
+  "correct_answer": "B",
+  "explanation": "Sedimentation values do not simply add up.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell: The Unit of Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The fluid mosaic model of the plasma membrane was proposed by:",
+  "options": {
+   "A": "Davson and Danielli",
+   "B": "Robertson",
+   "C": "Singer and Nicolson",
+   "D": "Schleiden and Schwann"
+  },
+  "correct_answer": "C",
+  "explanation": "Singer and Nicolson proposed it in 1972.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell: The Unit of Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The most abundant lipids in the plasma membrane are:",
+  "options": {
+   "A": "triglycerides",
+   "B": "waxes",
+   "C": "phospholipids",
+   "D": "steroids only"
+  },
+  "correct_answer": "C",
+  "explanation": "Phospholipids have hydrophilic heads and hydrophobic tails that form a bilayer.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell: The Unit of Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which transport uses carrier proteins but needs no ATP?",
+  "options": {
+   "A": "Simple diffusion",
+   "B": "Active transport",
+   "C": "Osmosis",
+   "D": "Facilitated diffusion"
+  },
+  "correct_answer": "D",
+  "explanation": "Facilitated diffusion is passive and carrier-mediated.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell: The Unit of Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The Na+/K+ pump is an example of:",
+  "options": {
+   "A": "facilitated diffusion",
+   "B": "active transport",
+   "C": "osmosis",
+   "D": "simple diffusion"
+  },
+  "correct_answer": "B",
+  "explanation": "It moves ions against a gradient using ATP.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell: The Unit of Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The cell wall of fungi is made mainly of:",
+  "options": {
+   "A": "cellulose",
+   "B": "peptidoglycan",
+   "C": "chitin",
+   "D": "pectin"
+  },
+  "correct_answer": "C",
+  "explanation": "Fungal walls contain chitin; plant walls contain cellulose.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell: The Unit of Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The middle lamella of the plant cell wall is made mainly of:",
+  "options": {
+   "A": "calcium pectate",
+   "B": "cellulose",
+   "C": "lignin",
+   "D": "suberin"
+  },
+  "correct_answer": "A",
+  "explanation": "It holds neighbouring cells together.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell: The Unit of Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The cis face of the Golgi apparatus is the:",
+  "options": {
+   "A": "maturing face",
+   "B": "forming (convex) face",
+   "C": "face that releases lysosomes",
+   "D": "face attached to mitochondria"
+  },
+  "correct_answer": "B",
+  "explanation": "The cis face lies near the ER and the trans face is the concave maturing face.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell: The Unit of Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Lysosomal hydrolytic enzymes are most active at:",
+  "options": {
+   "A": "acidic pH",
+   "B": "alkaline pH",
+   "C": "neutral pH",
+   "D": "very high temperature"
+  },
+  "correct_answer": "A",
+  "explanation": "Lysosomes contain acid hydrolases.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell: The Unit of Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The inner mitochondrial membrane forms folds called:",
+  "options": {
+   "A": "grana",
+   "B": "stroma",
+   "C": "thylakoids",
+   "D": "cristae"
+  },
+  "correct_answer": "D",
+  "explanation": "Cristae increase the surface area for ATP production.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell: The Unit of Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which plastids store starch?",
+  "options": {
+   "A": "Chromoplasts",
+   "B": "Elaioplasts",
+   "C": "Amyloplasts",
+   "D": "Aleuroplasts"
+  },
+  "correct_answer": "C",
+  "explanation": "Amyloplasts store carbohydrates, elaioplasts store oils and aleuroplasts store proteins.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell: The Unit of Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Stacks of thylakoids in a chloroplast are called:",
+  "options": {
+   "A": "grana",
+   "B": "cristae",
+   "C": "stroma",
+   "D": "matrix"
+  },
+  "correct_answer": "A",
+  "explanation": "Grana are connected by stroma lamellae.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell: The Unit of Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Rough endoplasmic reticulum looks rough because of:",
+  "options": {
+   "A": "lipid droplets",
+   "B": "glycogen granules",
+   "C": "ribosomes attached to its surface",
+   "D": "vacuoles"
+  },
+  "correct_answer": "C",
+  "explanation": "RER makes proteins for secretion and membranes.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell: The Unit of Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The membrane surrounding the plant vacuole is the:",
+  "options": {
+   "A": "tonoplast",
+   "B": "plasmalemma",
+   "C": "periplasm",
+   "D": "glycocalyx"
+  },
+  "correct_answer": "A",
+  "explanation": "The tonoplast regulates the movement of ions into the vacuole.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell: The Unit of Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Centrioles show an arrangement of:",
+  "options": {
+   "A": "nine peripheral triplets with no central microtubule",
+   "B": "nine doublets with two central microtubules",
+   "C": "nine singlets with one central microtubule",
+   "D": "eleven doublets"
+  },
+  "correct_answer": "A",
+  "explanation": "Cilia and flagella have the 9+2 arrangement; centrioles are 9+0.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell: The Unit of Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The nucleolus is the site of synthesis of:",
+  "options": {
+   "A": "mRNA",
+   "B": "tRNA only",
+   "C": "rRNA",
+   "D": "DNA"
+  },
+  "correct_answer": "C",
+  "explanation": "It is a non-membrane-bound structure active in rRNA synthesis and ribosome assembly.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell: The Unit of Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A chromosome with the centromere at its terminal end is:",
+  "options": {
+   "A": "metacentric",
+   "B": "sub-metacentric",
+   "C": "acrocentric",
+   "D": "telocentric"
+  },
+  "correct_answer": "D",
+  "explanation": "In acrocentric chromosomes the centromere is near one end; in telocentric it is terminal.",
+  "difficulty": "hard",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell: The Unit of Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Satellite chromosomes have:",
+  "options": {
+   "A": "a secondary constriction that forms a satellite",
+   "B": "no centromere",
+   "C": "two centromeres",
+   "D": "only one chromatid"
+  },
+  "correct_answer": "A",
+  "explanation": "A constant non-staining secondary constriction gives a small fragment called the satellite.",
+  "difficulty": "hard",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell: The Unit of Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is absent in prokaryotic cells?",
+  "options": {
+   "A": "ribosomes",
+   "B": "a membrane-bound nucleus",
+   "C": "a cell membrane",
+   "D": "DNA"
+  },
+  "correct_answer": "B",
+  "explanation": "Prokaryotes have a nucleoid, with no nuclear envelope.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell: The Unit of Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The nucleoid of a bacterium is:",
+  "options": {
+   "A": "a membrane-bound organelle",
+   "B": "a ribosome cluster",
+   "C": "the region where the genetic material lies without a membrane",
+   "D": "a storage granule"
+  },
+  "correct_answer": "C",
+  "explanation": "Bacteria have naked circular DNA; many also have plasmids.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell: The Unit of Life"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Inclusion bodies in prokaryotes are:",
+  "options": {
+   "A": "membrane-bound organelles",
+   "B": "non-membrane-bound storage granules",
+   "C": "parts of the cell wall",
+   "D": "parts of the flagellum"
+  },
+  "correct_answer": "B",
+  "explanation": "Examples are phosphate, cyanophycean and glycogen granules.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Cell: The Unit of Life"
+ }
+]

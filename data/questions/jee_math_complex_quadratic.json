@@ -1,0 +1,452 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "The value of i²⁵ is:",
+  "options": {
+   "A": "1",
+   "B": "i",
+   "C": "−1",
+   "D": "−i"
+  },
+  "correct_answer": "B",
+  "explanation": "25 = 4 × 6 + 1, so i²⁵ = i.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Complex Numbers and Quadratic Equations"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The value of i + i² + i³ + i⁴ is:",
+  "options": {
+   "A": "0",
+   "B": "1",
+   "C": "−1",
+   "D": "i"
+  },
+  "correct_answer": "A",
+  "explanation": "i − 1 − i + 1 = 0.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Complex Numbers and Quadratic Equations"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The modulus of 3 + 4i is:",
+  "options": {
+   "A": "3",
+   "B": "4",
+   "C": "5",
+   "D": "7"
+  },
+  "correct_answer": "C",
+  "explanation": "|z| = √(3² + 4²) = 5.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Complex Numbers and Quadratic Equations"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The conjugate of (1 + i)/(1 − i) is:",
+  "options": {
+   "A": "i",
+   "B": "−i",
+   "C": "1",
+   "D": "−1"
+  },
+  "correct_answer": "B",
+  "explanation": "(1 + i)/(1 − i) = (1 + i)²/2 = 2i/2 = i, so its conjugate is −i.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Complex Numbers and Quadratic Equations"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "(1 + i)² equals:",
+  "options": {
+   "A": "2",
+   "B": "2i",
+   "C": "−2",
+   "D": "1 + i"
+  },
+  "correct_answer": "B",
+  "explanation": "(1 + i)² = 1 + 2i + i² = 2i.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Complex Numbers and Quadratic Equations"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The principal argument of −1 + i is:",
+  "options": {
+   "A": "π/4",
+   "B": "3π/4",
+   "C": "−π/4",
+   "D": "−3π/4"
+  },
+  "correct_answer": "B",
+  "explanation": "The point (−1, 1) is in the second quadrant with reference angle π/4, so the argument is π − π/4 = 3π/4.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Complex Numbers and Quadratic Equations"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The principal argument of 1 − i is:",
+  "options": {
+   "A": "π/4",
+   "B": "3π/4",
+   "C": "−π/4",
+   "D": "−3π/4"
+  },
+  "correct_answer": "C",
+  "explanation": "The point (1, −1) is in the fourth quadrant with tan θ = −1, so θ = −π/4.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Complex Numbers and Quadratic Equations"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "|(3 + 4i)/(5 − 12i)| equals:",
+  "options": {
+   "A": "5/13",
+   "B": "13/5",
+   "C": "1/13",
+   "D": "5"
+  },
+  "correct_answer": "A",
+  "explanation": "|3 + 4i| = 5 and |5 − 12i| = 13, so the ratio is 5/13.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Complex Numbers and Quadratic Equations"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "If ω is a complex cube root of unity, then 1 + ω + ω² equals:",
+  "options": {
+   "A": "0",
+   "B": "1",
+   "C": "−1",
+   "D": "ω"
+  },
+  "correct_answer": "A",
+  "explanation": "The sum of all three cube roots of unity (1, ω, ω²) is zero.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Complex Numbers and Quadratic Equations"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "If ω is a complex cube root of unity, then ω¹⁰⁰ + ω²⁰⁰ equals:",
+  "options": {
+   "A": "0",
+   "B": "1",
+   "C": "−1",
+   "D": "2"
+  },
+  "correct_answer": "C",
+  "explanation": "ω¹⁰⁰ = ω (since 100 = 3 × 33 + 1) and ω²⁰⁰ = ω² (since 200 = 3 × 66 + 2). So the sum is ω + ω² = −1.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Complex Numbers and Quadratic Equations"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "If α and β are the roots of x² − 7x + 12 = 0, then α² + β² equals:",
+  "options": {
+   "A": "25",
+   "B": "49",
+   "C": "24",
+   "D": "37"
+  },
+  "correct_answer": "A",
+  "explanation": "α + β = 7 and αβ = 12, so α² + β² = 49 − 24 = 25.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Complex Numbers and Quadratic Equations"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The equation x² − 4x + k = 0 has equal roots when k equals:",
+  "options": {
+   "A": "2",
+   "B": "4",
+   "C": "8",
+   "D": "16"
+  },
+  "correct_answer": "B",
+  "explanation": "The discriminant 16 − 4k = 0 gives k = 4.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Complex Numbers and Quadratic Equations"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The roots of x² + 2x + 5 = 0 are:",
+  "options": {
+   "A": "−1 ± 2i",
+   "B": "1 ± 2i",
+   "C": "−1 ± i",
+   "D": "−2 ± i"
+  },
+  "correct_answer": "A",
+  "explanation": "x = [−2 ± √(4 − 20)]/2 = (−2 ± 4i)/2 = −1 ± 2i.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Complex Numbers and Quadratic Equations"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "If one root of x² + px + q = 0 (p, q real) is 2 + i, then q equals:",
+  "options": {
+   "A": "3",
+   "B": "4",
+   "C": "5",
+   "D": "−5"
+  },
+  "correct_answer": "C",
+  "explanation": "Complex roots of a real quadratic come in conjugate pairs, so the other root is 2 − i. The product is q = (2 + i)(2 − i) = 5.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Complex Numbers and Quadratic Equations"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The quadratic equation with roots 2 and 3 is:",
+  "options": {
+   "A": "x² − 5x + 6 = 0",
+   "B": "x² + 5x + 6 = 0",
+   "C": "x² − 6x + 5 = 0",
+   "D": "x² − x − 6 = 0"
+  },
+  "correct_answer": "A",
+  "explanation": "x² − (sum)x + (product) = x² − 5x + 6.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Complex Numbers and Quadratic Equations"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The locus of the point z satisfying |z − 1| = |z + 1| is:",
+  "options": {
+   "A": "the real axis",
+   "B": "the imaginary axis",
+   "C": "the unit circle",
+   "D": "the line y = x"
+  },
+  "correct_answer": "B",
+  "explanation": "The points are equidistant from 1 and −1, so z lies on the perpendicular bisector of these points, which is the imaginary axis (x = 0).",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Complex Numbers and Quadratic Equations"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The equation |z − 2| = 3 represents a circle with centre:",
+  "options": {
+   "A": "(2, 0)",
+   "B": "(0, 2)",
+   "C": "(−2, 0)",
+   "D": "(3, 0)"
+  },
+  "correct_answer": "A",
+  "explanation": "|z − z₀| = r is a circle with centre z₀ = 2, that is (2, 0), and radius 3.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Complex Numbers and Quadratic Equations"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "If z = 1 + i, then z⁸ equals:",
+  "options": {
+   "A": "16",
+   "B": "−16",
+   "C": "8",
+   "D": "256"
+  },
+  "correct_answer": "A",
+  "explanation": "z² = 2i, z⁴ = (2i)² = −4, z⁸ = (−4)² = 16.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Complex Numbers and Quadratic Equations"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "If |z₁ + z₂| = |z₁ − z₂|, the angle between z₁ and z₂ (as vectors) is:",
+  "options": {
+   "A": "0",
+   "B": "π/4",
+   "C": "π/2",
+   "D": "π"
+  },
+  "correct_answer": "C",
+  "explanation": "The two diagonals of the parallelogram are equal, so it is a rectangle and the vectors are perpendicular.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Complex Numbers and Quadratic Equations"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The roots of 2x² − 3x + 4 = 0 are:",
+  "options": {
+   "A": "real and distinct",
+   "B": "real and equal",
+   "C": "non-real complex conjugates",
+   "D": "rational"
+  },
+  "correct_answer": "C",
+  "explanation": "The discriminant 9 − 32 = −23 is negative, so the roots are non-real conjugates.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Complex Numbers and Quadratic Equations"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The smallest positive integer n for which (1 + i)ⁿ = (1 − i)ⁿ is:",
+  "options": {
+   "A": "2",
+   "B": "4",
+   "C": "6",
+   "D": "8"
+  },
+  "correct_answer": "B",
+  "explanation": "(1 + i)/(1 − i) = i, so we need iⁿ = 1. The smallest positive n is 4.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Complex Numbers and Quadratic Equations"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "If α and β are the roots of x² − x − 1 = 0, then α⁴ + β⁴ equals:",
+  "options": {
+   "A": "5",
+   "B": "7",
+   "C": "9",
+   "D": "11"
+  },
+  "correct_answer": "B",
+  "explanation": "α + β = 1 and αβ = −1, so α² + β² = 1 + 2 = 3. Then α⁴ + β⁴ = 3² − 2(αβ)² = 9 − 2 = 7.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Complex Numbers and Quadratic Equations"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which of the following are true for a complex cube root of unity ω ≠ 1?",
+  "options": {
+   "A": "ω³ = 1",
+   "B": "1 + ω + ω² = 0",
+   "C": "The conjugate of ω is ω²",
+   "D": "ω is a real number"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "ω = (−1 + i√3)/2 is not real, and its conjugate (−1 − i√3)/2 equals ω².",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Complex Numbers and Quadratic Equations"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "For z = 1 + i, which of the following are correct?",
+  "options": {
+   "A": "|z| = √2",
+   "B": "arg z = π/4",
+   "C": "The conjugate of z is 1 − i",
+   "D": "z² = 2"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "z² = 2i, not 2.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Complex Numbers and Quadratic Equations"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The real part of (3 + 2i)(1 − i) is:",
+  "options": null,
+  "correct_answer": "5",
+  "explanation": "(3 + 2i)(1 − i) = 3 − 3i + 2i − 2i² = 5 − i, so the real part is 5.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Complex Numbers and Quadratic Equations"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of real solutions of x² − |x| − 6 = 0 is:",
+  "options": null,
+  "correct_answer": "2",
+  "explanation": "(|x| − 3)(|x| + 2) = 0 gives |x| = 3 (|x| = −2 is impossible), so x = 3 or −3.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Complex Numbers and Quadratic Equations"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The value of |(1 + i)⁶| is:",
+  "options": null,
+  "correct_answer": "8",
+  "explanation": "|1 + i| = √2, so |(1 + i)⁶| = (√2)⁶ = 8.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Complex Numbers and Quadratic Equations"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The equation x² − px + 8 = 0 (p > 0) has one root twice the other. The value of p is:",
+  "options": null,
+  "correct_answer": "6",
+  "explanation": "Let the roots be a and 2a. The product 2a² = 8 gives a = 2 (taking p > 0), and the sum is p = 3a = 6.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Complex Numbers and Quadratic Equations"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The sum of the squares of the roots of x² − 3x + 1 = 0 is:",
+  "options": null,
+  "correct_answer": "7",
+  "explanation": "α + β = 3 and αβ = 1, so α² + β² = 9 − 2 = 7.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Complex Numbers and Quadratic Equations"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of complex numbers z satisfying z² = z̄ (the conjugate of z) is:",
+  "options": null,
+  "correct_answer": "4",
+  "explanation": "Taking moduli gives |z|² = |z|, so z = 0 or |z| = 1. For |z| = 1, multiplying both sides by z gives z³ = 1, which has 3 roots. In total, 1 + 3 = 4.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Complex Numbers and Quadratic Equations"
+ }
+]

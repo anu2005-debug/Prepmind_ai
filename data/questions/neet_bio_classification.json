@@ -1,0 +1,482 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "The five-kingdom classification was proposed by:",
+  "options": {
+   "A": "Carolus Linnaeus",
+   "B": "Carl Woese",
+   "C": "R. H. Whittaker",
+   "D": "Haeckel"
+  },
+  "correct_answer": "C",
+  "explanation": "Whittaker proposed it in 1969.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biological Classification"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Bacteria are placed in the kingdom:",
+  "options": {
+   "A": "Monera",
+   "B": "Protista",
+   "C": "Fungi",
+   "D": "Plantae"
+  },
+  "correct_answer": "A",
+  "explanation": "Monera contains all prokaryotes.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biological Classification"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following are archaebacteria?",
+  "options": {
+   "A": "Nostoc and Anabaena",
+   "B": "Rhizopus and Mucor",
+   "C": "Amoeba and Paramoecium",
+   "D": "Methanogens, halophiles and thermoacidophiles"
+  },
+  "correct_answer": "D",
+  "explanation": "Archaebacteria live in extreme habitats such as salty areas, hot springs and marshy areas.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biological Classification"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The cell wall of eubacteria contains:",
+  "options": {
+   "A": "chitin",
+   "B": "peptidoglycan",
+   "C": "cellulose only",
+   "D": "silica"
+  },
+  "correct_answer": "B",
+  "explanation": "Archaebacteria lack peptidoglycan, and fungi have chitin.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biological Classification"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Heterocysts of Nostoc are the sites of:",
+  "options": {
+   "A": "photosynthesis",
+   "B": "reproduction by spores",
+   "C": "nitrogen fixation",
+   "D": "protein synthesis"
+  },
+  "correct_answer": "C",
+  "explanation": "Heterocysts are specialised cells that fix atmospheric nitrogen.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biological Classification"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The smallest living cells, which have no cell wall and can survive without oxygen, are:",
+  "options": {
+   "A": "mycoplasma",
+   "B": "cyanobacteria",
+   "C": "diatoms",
+   "D": "dinoflagellates"
+  },
+  "correct_answer": "A",
+  "explanation": "Mycoplasma are the smallest known cells and lack a cell wall.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biological Classification"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Bacteria that oxidise inorganic substances such as nitrates and ammonia to get energy are called:",
+  "options": {
+   "A": "photosynthetic autotrophs",
+   "B": "saprophytes",
+   "C": "parasites",
+   "D": "chemosynthetic autotrophs"
+  },
+  "correct_answer": "D",
+  "explanation": "They use the released energy to make ATP, and they play a role in nutrient recycling.",
+  "difficulty": "hard",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biological Classification"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Bacteria that retain the crystal violet stain in the Gram staining procedure are:",
+  "options": {
+   "A": "Gram-negative",
+   "B": "Gram-positive",
+   "C": "archaebacteria only",
+   "D": "viruses"
+  },
+  "correct_answer": "B",
+  "explanation": "Gram-positive bacteria have a thick peptidoglycan layer and appear purple.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biological Classification"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Red tides are caused by the rapid multiplication of:",
+  "options": {
+   "A": "diatoms",
+   "B": "slime moulds",
+   "C": "dinoflagellates such as Gonyaulax",
+   "D": "Euglena"
+  },
+  "correct_answer": "C",
+  "explanation": "Their toxins can kill other marine animals.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biological Classification"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The cell wall of diatoms is made of:",
+  "options": {
+   "A": "silica",
+   "B": "cellulose",
+   "C": "chitin",
+   "D": "peptidoglycan"
+  },
+  "correct_answer": "A",
+  "explanation": "The walls remain as 'diatomaceous earth', which is used in polishing and filtration.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biological Classification"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is a euglenoid with a protein-rich layer called the pellicle?",
+  "options": {
+   "A": "Gonyaulax",
+   "B": "Rhizopus",
+   "C": "Nostoc",
+   "D": "Euglena"
+  },
+  "correct_answer": "D",
+  "explanation": "Euglena has a flexible pellicle and shows both photosynthetic and heterotrophic nutrition.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biological Classification"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The body of a slime mould during the favourable period is a:",
+  "options": {
+   "A": "mycelium",
+   "B": "plasmodium",
+   "C": "thallus with a cell wall",
+   "D": "capsid"
+  },
+  "correct_answer": "B",
+  "explanation": "Slime moulds form an aggregate called a plasmodium, which can grow and spread over several feet.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biological Classification"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following protozoans moves with the help of pseudopodia?",
+  "options": {
+   "A": "Paramoecium",
+   "B": "Trypanosoma",
+   "C": "Amoeba",
+   "D": "Plasmodium"
+  },
+  "correct_answer": "C",
+  "explanation": "Paramoecium has cilia, and Plasmodium is a sporozoan.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biological Classification"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Plasmodium, the cause of malaria, belongs to:",
+  "options": {
+   "A": "sporozoans",
+   "B": "amoeboid protozoans",
+   "C": "flagellated protozoans",
+   "D": "ciliated protozoans"
+  },
+  "correct_answer": "A",
+  "explanation": "Sporozoans have an infectious spore-like stage in their life cycle.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biological Classification"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The cell wall of fungi is made of:",
+  "options": {
+   "A": "peptidoglycan",
+   "B": "cellulose only",
+   "C": "silica",
+   "D": "chitin and polysaccharides"
+  },
+  "correct_answer": "D",
+  "explanation": "Fungal cell walls contain chitin.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biological Classification"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Fungi that have multinucleate hyphae without septa are called:",
+  "options": {
+   "A": "septate",
+   "B": "coenocytic",
+   "C": "unicellular",
+   "D": "autotrophic"
+  },
+  "correct_answer": "B",
+  "explanation": "Coenocytic hyphae have a continuous cytoplasm with many nuclei.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biological Classification"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Rhizopus, Mucor and Albugo belong to:",
+  "options": {
+   "A": "Ascomycetes",
+   "B": "Basidiomycetes",
+   "C": "Phycomycetes (Zygomycetes)",
+   "D": "Deuteromycetes"
+  },
+  "correct_answer": "C",
+  "explanation": "They have aseptate, coenocytic mycelium.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biological Classification"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Penicillium, Aspergillus and Neurospora belong to:",
+  "options": {
+   "A": "Ascomycetes",
+   "B": "Phycomycetes",
+   "C": "Basidiomycetes",
+   "D": "Deuteromycetes"
+  },
+  "correct_answer": "A",
+  "explanation": "They produce sexual spores called ascospores inside asci.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biological Classification"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Mushrooms, bracket fungi and puffballs belong to:",
+  "options": {
+   "A": "Ascomycetes",
+   "B": "Phycomycetes",
+   "C": "Deuteromycetes",
+   "D": "Basidiomycetes"
+  },
+  "correct_answer": "D",
+  "explanation": "They form basidiospores on the basidium.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biological Classification"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Fungi in which only the asexual or vegetative phases are known are placed in:",
+  "options": {
+   "A": "Ascomycetes",
+   "B": "Deuteromycetes",
+   "C": "Basidiomycetes",
+   "D": "Phycomycetes"
+  },
+  "correct_answer": "B",
+  "explanation": "They are called imperfect fungi, and examples include Alternaria, Colletotrichum and Trichoderma.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biological Classification"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The symbiotic association of a fungus with the roots of higher plants is called:",
+  "options": {
+   "A": "lichen",
+   "B": "mycelium",
+   "C": "mycorrhiza",
+   "D": "plasmodium"
+  },
+  "correct_answer": "C",
+  "explanation": "The fungus helps the plant absorb phosphorus and the plant supplies food.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biological Classification"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Lichens are symbiotic associations between:",
+  "options": {
+   "A": "algae and fungi",
+   "B": "bacteria and algae",
+   "C": "fungi and bacteria",
+   "D": "mosses and ferns"
+  },
+  "correct_answer": "A",
+  "explanation": "Lichens are good indicators of air pollution because they do not grow in polluted areas.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biological Classification"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The crystallisation of a virus was first achieved by:",
+  "options": {
+   "A": "D. J. Ivanowsky",
+   "B": "M. W. Beijerinck",
+   "C": "T. O. Diener",
+   "D": "W. M. Stanley"
+  },
+  "correct_answer": "D",
+  "explanation": "Stanley crystallised the tobacco mosaic virus in 1935.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biological Classification"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Viroids, discovered by T. O. Diener, consist of:",
+  "options": {
+   "A": "DNA with a protein coat",
+   "B": "free RNA without a protein coat",
+   "C": "protein only",
+   "D": "a protein coat with RNA"
+  },
+  "correct_answer": "B",
+  "explanation": "The potato spindle tuber disease is caused by a viroid.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biological Classification"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Prions are:",
+  "options": {
+   "A": "small RNA molecules",
+   "B": "bacteria without walls",
+   "C": "abnormally folded infectious proteins",
+   "D": "DNA viruses"
+  },
+  "correct_answer": "C",
+  "explanation": "They cause diseases such as BSE (mad cow disease) and CJD.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biological Classification"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The genetic material of the tobacco mosaic virus is:",
+  "options": {
+   "A": "single-stranded RNA",
+   "B": "double-stranded DNA",
+   "C": "single-stranded DNA",
+   "D": "double-stranded RNA"
+  },
+  "correct_answer": "A",
+  "explanation": "Most plant viruses have single-stranded RNA, while bacteriophages usually have double-stranded DNA.",
+  "difficulty": "hard",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biological Classification"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Bacteria commonly reproduce by:",
+  "options": {
+   "A": "budding only",
+   "B": "fragmentation of a mycelium",
+   "C": "pollination",
+   "D": "binary fission"
+  },
+  "correct_answer": "D",
+  "explanation": "Under favourable conditions a bacterium divides into two cells.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biological Classification"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The antibiotic penicillin is obtained from:",
+  "options": {
+   "A": "Aspergillus niger",
+   "B": "Penicillium notatum",
+   "C": "Rhizopus",
+   "D": "Agaricus"
+  },
+  "correct_answer": "B",
+  "explanation": "Penicillium notatum produces penicillin, which was discovered by Alexander Fleming.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biological Classification"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Most fungi obtain their nutrition by:",
+  "options": {
+   "A": "photosynthesis using chlorophyll",
+   "B": "ingesting food through a mouth",
+   "C": "absorbing dissolved organic matter from the substrate",
+   "D": "chemosynthesis only"
+  },
+  "correct_answer": "C",
+  "explanation": "Fungi are heterotrophs, either saprophytes or parasites, and they absorb their food.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biological Classification"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Unicellular eukaryotic organisms such as diatoms, dinoflagellates and Euglena are placed in the kingdom:",
+  "options": {
+   "A": "Protista",
+   "B": "Monera",
+   "C": "Fungi",
+   "D": "Animalia"
+  },
+  "correct_answer": "A",
+  "explanation": "Protista includes the unicellular eukaryotes, and it forms a link between prokaryotes and the multicellular kingdoms.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Biological Classification"
+ }
+]

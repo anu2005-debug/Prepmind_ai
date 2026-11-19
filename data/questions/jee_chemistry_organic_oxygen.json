@@ -1,0 +1,452 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "Which alcohol gives turbidity immediately with Lucas reagent (conc. HCl + ZnCl₂) at room temperature?",
+  "options": {
+   "A": "butan-1-ol",
+   "B": "butan-2-ol",
+   "C": "2-methylpropan-2-ol",
+   "D": "methanol"
+  },
+  "correct_answer": "C",
+  "explanation": "Tertiary alcohols form the carbocation fastest, so they react immediately. Secondary alcohols take a few minutes and primary alcohols do not react at room temperature.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Oxygen"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Oxidation of a primary alcohol with PCC in CH₂Cl₂ gives:",
+  "options": {
+   "A": "a carboxylic acid",
+   "B": "an aldehyde",
+   "C": "a ketone",
+   "D": "an alkane"
+  },
+  "correct_answer": "B",
+  "explanation": "PCC is a mild oxidising agent and stops at the aldehyde stage.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Oxygen"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Hydroboration–oxidation of propene (B₂H₆, then H₂O₂/NaOH) gives mainly:",
+  "options": {
+   "A": "propan-2-ol",
+   "B": "propan-1-ol",
+   "C": "propanal",
+   "D": "propane"
+  },
+  "correct_answer": "B",
+  "explanation": "The reaction follows anti-Markovnikov addition of water, so OH ends up on the terminal carbon.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Oxygen"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Acid-catalysed hydration of propene gives mainly:",
+  "options": {
+   "A": "propan-1-ol",
+   "B": "propan-2-ol",
+   "C": "propanal",
+   "D": "acetone"
+  },
+  "correct_answer": "B",
+  "explanation": "It follows Markovnikov's rule through the more stable secondary carbocation.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Oxygen"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Phenol is more acidic than ethanol mainly because:",
+  "options": {
+   "A": "phenol has a higher molar mass",
+   "B": "the phenoxide ion is stabilised by resonance",
+   "C": "ethanol is a stronger base than phenol",
+   "D": "the O–H bond in ethanol is weaker"
+  },
+  "correct_answer": "B",
+  "explanation": "The negative charge of the phenoxide ion is delocalised into the ring, while the ethoxide ion has no such stabilisation.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Oxygen"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is the most acidic?",
+  "options": {
+   "A": "phenol",
+   "B": "p-nitrophenol",
+   "C": "p-cresol",
+   "D": "ethanol"
+  },
+  "correct_answer": "B",
+  "explanation": "The –NO₂ group withdraws electrons by –M and –I effects and stabilises the phenoxide ion, while –CH₃ in p-cresol destabilises it.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Oxygen"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Phenol on treatment with CHCl₃ and aqueous NaOH, followed by acidification, gives mainly:",
+  "options": {
+   "A": "salicylic acid",
+   "B": "salicylaldehyde",
+   "C": "benzoic acid",
+   "D": "p-hydroxybenzaldehyde only"
+  },
+  "correct_answer": "B",
+  "explanation": "This is the Reimer–Tiemann reaction, which gives mainly the ortho product, salicylaldehyde.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Oxygen"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Sodium phenoxide heated with CO₂ at high pressure, followed by acidification, gives:",
+  "options": {
+   "A": "salicylaldehyde",
+   "B": "benzoic acid",
+   "C": "salicylic acid",
+   "D": "phenyl benzoate"
+  },
+  "correct_answer": "C",
+  "explanation": "This is the Kolbe reaction, a carboxylation at the ortho position.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Oxygen"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The best Williamson synthesis of tert-butyl methyl ether uses:",
+  "options": {
+   "A": "(CH₃)₃CONa + CH₃Br",
+   "B": "(CH₃)₃CBr + CH₃ONa",
+   "C": "(CH₃)₃CBr + CH₃OH only",
+   "D": "(CH₃)₃COH + CH₃ONa"
+  },
+  "correct_answer": "A",
+  "explanation": "A methyl halide undergoes SN2 with the bulky alkoxide. A tertiary halide with an alkoxide would mainly give elimination (2-methylpropene).",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Oxygen"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following does not undergo aldol condensation?",
+  "options": {
+   "A": "HCHO",
+   "B": "CH₃CHO",
+   "C": "CH₃COCH₃",
+   "D": "CH₃CH₂CHO"
+  },
+  "correct_answer": "A",
+  "explanation": "Aldol condensation needs an α-hydrogen, and formaldehyde has none.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Oxygen"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Benzaldehyde on heating with concentrated NaOH gives:",
+  "options": {
+   "A": "benzyl alcohol and sodium benzoate",
+   "B": "benzoic acid only",
+   "C": "benzyl alcohol only",
+   "D": "an aldol product"
+  },
+  "correct_answer": "A",
+  "explanation": "This is the Cannizzaro reaction, a disproportionation of an aldehyde that has no α-hydrogen.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Oxygen"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following gives a silver mirror with Tollens' reagent?",
+  "options": {
+   "A": "acetone",
+   "B": "benzaldehyde",
+   "C": "acetophenone",
+   "D": "benzophenone"
+  },
+  "correct_answer": "B",
+  "explanation": "Aldehydes reduce Tollens' reagent. Ketones do not.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Oxygen"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following gives a positive iodoform test?",
+  "options": {
+   "A": "CH₃OH",
+   "B": "CH₃CH₂OH",
+   "C": "CH₃CH₂CH₂OH",
+   "D": "(CH₃)₃COH"
+  },
+  "correct_answer": "B",
+  "explanation": "Ethanol is oxidised in situ to acetaldehyde, which has the CH₃CO– group. Methanol and propan-1-ol cannot form it.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Oxygen"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The Clemmensen reduction of a carbonyl compound uses:",
+  "options": {
+   "A": "NH₂NH₂ and KOH",
+   "B": "Zn–Hg and conc. HCl",
+   "C": "LiAlH₄",
+   "D": "H₂ and Pd–BaSO₄"
+  },
+  "correct_answer": "B",
+  "explanation": "Zinc amalgam and conc. HCl reduce C=O to CH₂ in acidic conditions.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Oxygen"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In the Wolff–Kishner reduction, the C=O group of an aldehyde or ketone is converted into:",
+  "options": {
+   "A": "CH–OH",
+   "B": "CH₂",
+   "C": "COOH",
+   "D": "CH=NH"
+  },
+  "correct_answer": "B",
+  "explanation": "Hydrazine and KOH in ethylene glycol convert C=O into CH₂ under basic conditions.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Oxygen"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The Rosenmund reduction converts an acyl chloride into an aldehyde using:",
+  "options": {
+   "A": "H₂ and Pd on BaSO₄ (poisoned)",
+   "B": "LiAlH₄",
+   "C": "Zn–Hg/HCl",
+   "D": "NaBH₄"
+  },
+  "correct_answer": "A",
+  "explanation": "The catalyst is partially poisoned so the reduction stops at the aldehyde.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Oxygen"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The Etard reaction of toluene with CrO₂Cl₂ followed by hydrolysis gives:",
+  "options": {
+   "A": "benzoic acid",
+   "B": "benzaldehyde",
+   "C": "benzyl alcohol",
+   "D": "phenol"
+  },
+  "correct_answer": "B",
+  "explanation": "CrO₂Cl₂ oxidises the methyl group to a chromium complex, which hydrolyses to benzaldehyde without over-oxidation.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Oxygen"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is the strongest acid?",
+  "options": {
+   "A": "CH₃COOH",
+   "B": "BrCH₂COOH",
+   "C": "ClCH₂COOH",
+   "D": "FCH₂COOH"
+  },
+  "correct_answer": "D",
+  "explanation": "Fluorine has the strongest –I effect, so FCH₂COO⁻ is the most stabilised.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Oxygen"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The Hell–Volhard–Zelinsky reaction (Br₂ with red phosphorus) converts a carboxylic acid with an α-hydrogen into:",
+  "options": {
+   "A": "an α-bromo acid",
+   "B": "an acyl bromide only",
+   "C": "an alkyl bromide",
+   "D": "a bromo ester"
+  },
+  "correct_answer": "A",
+  "explanation": "Bromination occurs at the α-carbon of the acid.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Oxygen"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which reagent reduces a carboxylic acid directly to a primary alcohol?",
+  "options": {
+   "A": "NaBH₄",
+   "B": "LiAlH₄",
+   "C": "H₂ and Pd–BaSO₄",
+   "D": "Zn–Hg/HCl"
+  },
+  "correct_answer": "B",
+  "explanation": "LiAlH₄ is strong enough to reduce –COOH. NaBH₄ does not reduce carboxylic acids.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Oxygen"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is the most reactive towards nucleophilic addition?",
+  "options": {
+   "A": "CH₃COCH₃",
+   "B": "CH₃CHO",
+   "C": "HCHO",
+   "D": "C₆H₅CHO"
+  },
+  "correct_answer": "C",
+  "explanation": "Formaldehyde has the least steric hindrance and no electron-donating alkyl groups, so its carbonyl carbon is the most electrophilic.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Oxygen"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Fehling's solution gives a red precipitate with:",
+  "options": {
+   "A": "benzaldehyde",
+   "B": "acetaldehyde",
+   "C": "acetone",
+   "D": "acetophenone"
+  },
+  "correct_answer": "B",
+  "explanation": "Fehling's test is given by aliphatic aldehydes. Aromatic aldehydes such as benzaldehyde and all ketones do not respond.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Oxygen"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which of the following give a positive iodoform test?",
+  "options": {
+   "A": "ethanol",
+   "B": "acetone",
+   "C": "acetaldehyde",
+   "D": "propan-1-ol"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "Each has or forms a CH₃CO– or CH₃CH(OH)– group. Propan-1-ol does not.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Oxygen"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which of the following undergo the Cannizzaro reaction?",
+  "options": {
+   "A": "HCHO",
+   "B": "C₆H₅CHO",
+   "C": "CH₃CHO",
+   "D": "(CH₃)₃CCHO"
+  },
+  "correct_answer": "A,B,D",
+  "explanation": "Aldehydes without α-hydrogens undergo Cannizzaro. Acetaldehyde has α-hydrogens and gives the aldol reaction.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Oxygen"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of alcohol isomers of C₄H₁₀O is:",
+  "options": null,
+  "correct_answer": "4",
+  "explanation": "Butan-1-ol, butan-2-ol, 2-methylpropan-1-ol and 2-methylpropan-2-ol.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Oxygen"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of ether isomers of C₄H₁₀O is:",
+  "options": null,
+  "correct_answer": "3",
+  "explanation": "Methyl propyl ether, methyl isopropyl ether and diethyl ether.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Oxygen"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The moles of silver formed when 1 mole of HCHO is completely oxidised by excess Tollens' reagent is:",
+  "options": null,
+  "correct_answer": "4",
+  "explanation": "HCHO is oxidised to HCOOH (2 Ag) and then to CO₂ (2 more Ag), which gives 4 mol of Ag.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Oxygen"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of aldehyde isomers of C₄H₈O is:",
+  "options": null,
+  "correct_answer": "2",
+  "explanation": "Butanal and 2-methylpropanal.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Oxygen"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of α-hydrogen atoms in acetone (CH₃COCH₃) is:",
+  "options": null,
+  "correct_answer": "6",
+  "explanation": "Both methyl groups are attached to the carbonyl carbon, so 3 + 3 = 6.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Oxygen"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "0.6 g of a monocarboxylic acid is neutralised by 10 mL of 1 M NaOH. Its molar mass (in g/mol) is:",
+  "options": null,
+  "correct_answer": "60",
+  "explanation": "Moles of NaOH = 0.01 = moles of acid, so M = 0.6/0.01 = 60 g/mol.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Chemistry",
+  "chapter": "Organic Compounds Containing Oxygen"
+ }
+]

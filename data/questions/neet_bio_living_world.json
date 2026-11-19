@@ -1,0 +1,482 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "The system of binomial nomenclature was introduced by:",
+  "options": {
+   "A": "Ernst Mayr",
+   "B": "Carolus Linnaeus",
+   "C": "Robert Whittaker",
+   "D": "A. P. de Candolle"
+  },
+  "correct_answer": "B",
+  "explanation": "Linnaeus gave the two-part naming system in which every organism has a genus and species name.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "The Living World"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In the scientific name Mangifera indica, 'Mangifera' is the:",
+  "options": {
+   "A": "species",
+   "B": "family",
+   "C": "order",
+   "D": "genus"
+  },
+  "correct_answer": "D",
+  "explanation": "In a binomial the first word is the genus and the second is the species epithet.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "The Living World"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is the correct way of writing a scientific name?",
+  "options": {
+   "A": "Mangifera indica",
+   "B": "mangifera Indica",
+   "C": "Mangifera Indica",
+   "D": "MANGIFERA indica"
+  },
+  "correct_answer": "A",
+  "explanation": "The genus starts with a capital letter and the species with a small letter, and both are italicised or underlined separately.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "The Living World"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is the lowest taxonomic category?",
+  "options": {
+   "A": "genus",
+   "B": "family",
+   "C": "species",
+   "D": "order"
+  },
+  "correct_answer": "C",
+  "explanation": "Species is the basic unit of classification.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "The Living World"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The correct sequence of taxonomic categories from the highest to the lowest is:",
+  "options": {
+   "A": "kingdom, class, phylum, order, family, genus, species",
+   "B": "kingdom, phylum, class, order, family, genus, species",
+   "C": "species, genus, family, order, class, phylum, kingdom",
+   "D": "kingdom, phylum, order, class, family, genus, species"
+  },
+  "correct_answer": "B",
+  "explanation": "The hierarchy goes from kingdom down to species.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "The Living World"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The lion, tiger and leopard are placed in the same:",
+  "options": {
+   "A": "species",
+   "B": "genus Felis",
+   "C": "order Primata",
+   "D": "genus Panthera"
+  },
+  "correct_answer": "D",
+  "explanation": "Panthera leo, P. tigris and P. pardus share one genus but are different species.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "The Living World"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Potato, tomato and brinjal belong to the same genus Solanum and the family:",
+  "options": {
+   "A": "Solanaceae",
+   "B": "Poaceae",
+   "C": "Anacardiaceae",
+   "D": "Fabaceae"
+  },
+  "correct_answer": "A",
+  "explanation": "They are in the genus Solanum, which falls in the family Solanaceae.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "The Living World"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Man belongs to the order:",
+  "options": {
+   "A": "Carnivora",
+   "B": "Diptera",
+   "C": "Primata",
+   "D": "Sapindales"
+  },
+  "correct_answer": "C",
+  "explanation": "Humans (Homo sapiens) are in the family Hominidae and the order Primata.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "The Living World"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Any unit of classification, of any rank, is called a:",
+  "options": {
+   "A": "species",
+   "B": "taxon",
+   "C": "genus",
+   "D": "key"
+  },
+  "correct_answer": "B",
+  "explanation": "A taxon is a taxonomic group of any rank.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "The Living World"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A herbarium is a:",
+  "options": {
+   "A": "place for living wild animals",
+   "B": "collection of preserved animals",
+   "C": "garden of living plants",
+   "D": "store house of dried, pressed and preserved plant specimens"
+  },
+  "correct_answer": "D",
+  "explanation": "Herbaria keep plant specimens that can be used for identification.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "The Living World"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which of the following is a botanical garden of India?",
+  "options": {
+   "A": "Indian Botanical Garden, Howrah",
+   "B": "Kew Gardens, London",
+   "C": "Kaziranga",
+   "D": "Sundarbans"
+  },
+  "correct_answer": "A",
+  "explanation": "Kew is in England, and the Howrah garden is in India.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "The Living World"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A taxonomic key is based on:",
+  "options": {
+   "A": "the geographical distribution of the organisms",
+   "B": "fossil records only",
+   "C": "contrasting characters in pairs called couplets",
+   "D": "chromosome number only"
+  },
+  "correct_answer": "C",
+  "explanation": "Each couplet has two contrasting statements that lead to the identification of the organism.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "The Living World"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The term 'taxonomy' was coined by:",
+  "options": {
+   "A": "Linnaeus",
+   "B": "A. P. de Candolle",
+   "C": "Whittaker",
+   "D": "Mayr"
+  },
+  "correct_answer": "B",
+  "explanation": "De Candolle introduced the word 'taxonomy' for the science of classification.",
+  "difficulty": "hard",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "The Living World"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The defining feature of all living organisms is:",
+  "options": {
+   "A": "growth by accumulation of material from outside",
+   "B": "reproduction",
+   "C": "movement",
+   "D": "metabolism"
+  },
+  "correct_answer": "D",
+  "explanation": "All living organisms show metabolism, and no non-living object does so in an isolated system.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "The Living World"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Growth in living organisms differs from growth in non-living objects because in living organisms growth is:",
+  "options": {
+   "A": "from inside (intrinsic)",
+   "B": "by accumulation of material on the surface",
+   "C": "found only in plants",
+   "D": "found only in animals"
+  },
+  "correct_answer": "A",
+  "explanation": "Non-living objects grow by external accumulation, while living organisms grow by internal increase in cell mass.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "The Living World"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Reproduction is not an all-inclusive defining characteristic of living organisms because:",
+  "options": {
+   "A": "only plants reproduce",
+   "B": "reproduction occurs in non-living things",
+   "C": "many living organisms such as mules and sterile worker bees do not reproduce",
+   "D": "all animals reproduce asexually"
+  },
+  "correct_answer": "C",
+  "explanation": "Some living organisms are sterile, so reproduction cannot define every living organism.",
+  "difficulty": "hard",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "The Living World"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The ability to sense the environment and respond to it is called:",
+  "options": {
+   "A": "metabolism",
+   "B": "consciousness",
+   "C": "reproduction",
+   "D": "growth"
+  },
+  "correct_answer": "B",
+  "explanation": "All living organisms are aware of their surroundings, and this is a defining property.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "The Living World"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The total number of species described so far is about:",
+  "options": {
+   "A": "17–18 thousand",
+   "B": "170–180 million",
+   "C": "1–2 lakh",
+   "D": "1.7–1.8 million"
+  },
+  "correct_answer": "D",
+  "explanation": "About 1.7–1.8 million species have been described.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "The Living World"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The suffix used for the family of plants is:",
+  "options": {
+   "A": "-aceae",
+   "B": "-idae",
+   "C": "-ales",
+   "D": "-ae"
+  },
+  "correct_answer": "A",
+  "explanation": "Plant families end in -aceae, for example Solanaceae, and animal families end in -idae.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "The Living World"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The highest taxonomic category is:",
+  "options": {
+   "A": "phylum",
+   "B": "division",
+   "C": "kingdom",
+   "D": "domain of species"
+  },
+  "correct_answer": "C",
+  "explanation": "Among the NCERT categories, kingdom is the highest.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "The Living World"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The category 'division' in plants corresponds to which category in animals?",
+  "options": {
+   "A": "class",
+   "B": "phylum",
+   "C": "order",
+   "D": "family"
+  },
+  "correct_answer": "B",
+  "explanation": "Botanists use 'division' where zoologists use 'phylum'.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "The Living World"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The order to which the mango belongs is:",
+  "options": {
+   "A": "Poales",
+   "B": "Diptera",
+   "C": "Carnivora",
+   "D": "Sapindales"
+  },
+  "correct_answer": "D",
+  "explanation": "Mango (Mangifera indica) is in the family Anacardiaceae and the order Sapindales.",
+  "difficulty": "hard",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "The Living World"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Wheat (Triticum aestivum) belongs to the family:",
+  "options": {
+   "A": "Poaceae",
+   "B": "Solanaceae",
+   "C": "Fabaceae",
+   "D": "Anacardiaceae"
+  },
+  "correct_answer": "A",
+  "explanation": "Wheat is a grass and so belongs to Poaceae.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "The Living World"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The housefly (Musca domestica) belongs to the order:",
+  "options": {
+   "A": "Primata",
+   "B": "Carnivora",
+   "C": "Diptera",
+   "D": "Hymenoptera"
+  },
+  "correct_answer": "C",
+  "explanation": "The family is Muscidae and the order is Diptera.",
+  "difficulty": "hard",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "The Living World"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The dog (Canis familiaris) belongs to the family:",
+  "options": {
+   "A": "Felidae",
+   "B": "Canidae",
+   "C": "Hominidae",
+   "D": "Muscidae"
+  },
+  "correct_answer": "B",
+  "explanation": "Dogs, wolves and foxes are in Canidae, and the order is Carnivora.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "The Living World"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The cat (Felis domestica) belongs to the family:",
+  "options": {
+   "A": "Canidae",
+   "B": "Hominidae",
+   "C": "Muscidae",
+   "D": "Felidae"
+  },
+  "correct_answer": "D",
+  "explanation": "Cats are in Felidae, and the order is Carnivora.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "The Living World"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Human beings (Homo sapiens) belong to the class:",
+  "options": {
+   "A": "Mammalia",
+   "B": "Aves",
+   "C": "Reptilia",
+   "D": "Pisces"
+  },
+  "correct_answer": "A",
+  "explanation": "Humans are mammals in the phylum Chordata.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "The Living World"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "According to NCERT, a living organism is best described as a:",
+  "options": {
+   "A": "structure that moves from place to place",
+   "B": "system that never changes",
+   "C": "self-replicating, evolving and self-regulating interactive system capable of responding to external stimuli",
+   "D": "group of non-living molecules in a cell wall"
+  },
+  "correct_answer": "C",
+  "explanation": "This is the textbook's concluding definition.",
+  "difficulty": "hard",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "The Living World"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The word 'systematics' is derived from the Latin word 'systema', which was used by Linnaeus in his publication:",
+  "options": {
+   "A": "Species Plantarum",
+   "B": "Systema Naturae",
+   "C": "Origin of Species",
+   "D": "Genera Plantarum"
+  },
+  "correct_answer": "B",
+  "explanation": "Linnaeus's Systema Naturae gave the word its origin.",
+  "difficulty": "hard",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "The Living World"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The biological species concept is associated with:",
+  "options": {
+   "A": "Carolus Linnaeus",
+   "B": "Whittaker",
+   "C": "Stanley",
+   "D": "Ernst Mayr"
+  },
+  "correct_answer": "D",
+  "explanation": "Mayr proposed that a species is a group of interbreeding natural populations reproductively isolated from others.",
+  "difficulty": "hard",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "The Living World"
+ }
+]

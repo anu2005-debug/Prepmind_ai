@@ -1,0 +1,452 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "The number of terms in the expansion of (x + y)¹⁰ is:",
+  "options": {
+   "A": "10",
+   "B": "11",
+   "C": "12",
+   "D": "9"
+  },
+  "correct_answer": "B",
+  "explanation": "The expansion of (x + y)ⁿ has n + 1 terms, so 11.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Binomial Theorem"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The 4th term in the expansion of (x + 2)⁶ is:",
+  "options": {
+   "A": "160x³",
+   "B": "120x³",
+   "C": "80x³",
+   "D": "240x³"
+  },
+  "correct_answer": "A",
+  "explanation": "T₄ = ⁶C₃ x³ 2³ = 20 × 8 x³ = 160x³.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Binomial Theorem"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The coefficient of x³ in the expansion of (1 + x)⁷ is:",
+  "options": {
+   "A": "21",
+   "B": "35",
+   "C": "7",
+   "D": "70"
+  },
+  "correct_answer": "B",
+  "explanation": "The coefficient is ⁷C₃ = 35.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Binomial Theorem"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The sum of all the coefficients in the expansion of (1 + x)⁸ is:",
+  "options": {
+   "A": "64",
+   "B": "128",
+   "C": "256",
+   "D": "512"
+  },
+  "correct_answer": "C",
+  "explanation": "Put x = 1: 2⁸ = 256.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Binomial Theorem"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The middle term in the expansion of (1 + x)⁸ is:",
+  "options": {
+   "A": "56x⁴",
+   "B": "70x⁴",
+   "C": "56x³",
+   "D": "70x⁵"
+  },
+  "correct_answer": "B",
+  "explanation": "There are 9 terms, so the middle term is T₅ = ⁸C₄ x⁴ = 70x⁴.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Binomial Theorem"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The coefficient of x² in the expansion of (2 − x)⁵ is:",
+  "options": {
+   "A": "80",
+   "B": "−80",
+   "C": "40",
+   "D": "160"
+  },
+  "correct_answer": "A",
+  "explanation": "The coefficient is ⁵C₂ × 2³ × (−1)² = 10 × 8 = 80.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Binomial Theorem"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The value of ⁸C₀ + ⁸C₂ + ⁸C₄ + ⁸C₆ + ⁸C₈ is:",
+  "options": {
+   "A": "64",
+   "B": "128",
+   "C": "256",
+   "D": "127"
+  },
+  "correct_answer": "B",
+  "explanation": "The sum of the even-indexed binomial coefficients is 2ⁿ⁻¹ = 2⁷ = 128.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Binomial Theorem"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The greatest binomial coefficient in the expansion of (1 + x)¹⁰ is:",
+  "options": {
+   "A": "120",
+   "B": "210",
+   "C": "252",
+   "D": "330"
+  },
+  "correct_answer": "C",
+  "explanation": "For n = 10 the greatest coefficient is the middle one, ¹⁰C₅ = 252.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Binomial Theorem"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The term independent of x in the expansion of (x + 1/x)⁶ is:",
+  "options": {
+   "A": "15",
+   "B": "20",
+   "C": "30",
+   "D": "6"
+  },
+  "correct_answer": "B",
+  "explanation": "Tᵣ₊₁ = ⁶Cᵣ x⁶⁻²ʳ. The power of x is zero when r = 3, giving ⁶C₃ = 20.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Binomial Theorem"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The term independent of x in the expansion of (x² + 1/x)⁹ is:",
+  "options": {
+   "A": "84",
+   "B": "126",
+   "C": "36",
+   "D": "72"
+  },
+  "correct_answer": "A",
+  "explanation": "Tᵣ₊₁ = ⁹Cᵣ x¹⁸⁻³ʳ. The power of x is zero when r = 6, giving ⁹C₆ = 84.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Binomial Theorem"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "If ⁿC₄ = ⁿC₆, then n equals:",
+  "options": {
+   "A": "8",
+   "B": "9",
+   "C": "10",
+   "D": "12"
+  },
+  "correct_answer": "C",
+  "explanation": "ⁿCᵣ = ⁿCₙ₋ᵣ, so n − 4 = 6 and n = 10.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Binomial Theorem"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The remainder when 7¹⁰⁰ is divided by 6 is:",
+  "options": {
+   "A": "1",
+   "B": "0",
+   "C": "5",
+   "D": "2"
+  },
+  "correct_answer": "A",
+  "explanation": "7¹⁰⁰ = (6 + 1)¹⁰⁰. Every term except the last is divisible by 6, and the last term is 1.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Binomial Theorem"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The number of terms in the expansion of (x + a)⁵⁰ + (x − a)⁵⁰ is:",
+  "options": {
+   "A": "26",
+   "B": "51",
+   "C": "25",
+   "D": "50"
+  },
+  "correct_answer": "A",
+  "explanation": "The terms with odd powers of a cancel, so only even powers 0, 2, …, 50 of a remain: 26 terms.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Binomial Theorem"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The coefficient of x² in the expansion of (1 + x)³(1 + x)⁴ is:",
+  "options": {
+   "A": "12",
+   "B": "21",
+   "C": "35",
+   "D": "7"
+  },
+  "correct_answer": "B",
+  "explanation": "The product is (1 + x)⁷, so the coefficient is ⁷C₂ = 21.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Binomial Theorem"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The value of Σ ⁴Cᵣ 2ʳ for r = 0 to 4 is:",
+  "options": {
+   "A": "16",
+   "B": "32",
+   "C": "81",
+   "D": "64"
+  },
+  "correct_answer": "C",
+  "explanation": "This is (1 + 2)⁴ = 81.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Binomial Theorem"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The value of 1·⁵C₁ + 2·⁵C₂ + 3·⁵C₃ + 4·⁵C₄ + 5·⁵C₅ is:",
+  "options": {
+   "A": "32",
+   "B": "80",
+   "C": "160",
+   "D": "120"
+  },
+  "correct_answer": "B",
+  "explanation": "Σ r·ⁿCᵣ = n·2ⁿ⁻¹ = 5 × 16 = 80.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Binomial Theorem"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The value of ¹⁰C₃ + ¹⁰C₄ is:",
+  "options": {
+   "A": "210",
+   "B": "330",
+   "C": "120",
+   "D": "462"
+  },
+  "correct_answer": "B",
+  "explanation": "ⁿCᵣ + ⁿCᵣ₋₁ = ⁿ⁺¹Cᵣ, so the sum is ¹¹C₄ = 330.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Binomial Theorem"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In the expansion of (1 + x)⁸, the ratio of the coefficient of x³ to the coefficient of x² is:",
+  "options": {
+   "A": "2",
+   "B": "3",
+   "C": "56/28 = 2 only if n = 7",
+   "D": "8/3"
+  },
+  "correct_answer": "A",
+  "explanation": "⁸C₃/⁸C₂ = 56/28 = 2.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Binomial Theorem"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The sum of all the coefficients in the expansion of (2x − 3y)³ is:",
+  "options": {
+   "A": "−1",
+   "B": "1",
+   "C": "5",
+   "D": "−5"
+  },
+  "correct_answer": "A",
+  "explanation": "Put x = y = 1: (2 − 3)³ = −1.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Binomial Theorem"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In the expansion of (1 + x)ⁿ the coefficients of the 5th, 6th and 7th terms are in AP. Then n equals:",
+  "options": {
+   "A": "7 only",
+   "B": "14 only",
+   "C": "7 or 14",
+   "D": "9"
+  },
+  "correct_answer": "C",
+  "explanation": "2·ⁿC₅ = ⁿC₄ + ⁿC₆ simplifies to n² − 21n + 98 = 0, so n = 7 or 14.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Binomial Theorem"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The number of terms in the expansion of (a + b)⁵(a − b)⁵ is:",
+  "options": {
+   "A": "11",
+   "B": "6",
+   "C": "5",
+   "D": "10"
+  },
+  "correct_answer": "B",
+  "explanation": "The product is (a² − b²)⁵, which has 5 + 1 = 6 terms.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Binomial Theorem"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The coefficient of x¹⁰ in the expansion of (1 + x²)⁸ is:",
+  "options": {
+   "A": "28",
+   "B": "56",
+   "C": "70",
+   "D": "8"
+  },
+  "correct_answer": "B",
+  "explanation": "Tᵣ₊₁ = ⁸Cᵣ x²ʳ, and 2r = 10 gives r = 5, so ⁸C₅ = 56.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Binomial Theorem"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which of the following statements about the expansion of (1 + x)ⁿ are correct?",
+  "options": {
+   "A": "The sum of the coefficients is 2ⁿ",
+   "B": "ⁿC₀ − ⁿC₁ + ⁿC₂ − … = 0 for n ≥ 1",
+   "C": "The number of terms is n + 1",
+   "D": "ⁿC₀ + ⁿC₁ + … + ⁿCₙ = 2ⁿ⁻¹"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "Putting x = 1 gives 2ⁿ and putting x = −1 gives 0. D is false because the sum is 2ⁿ, not 2ⁿ⁻¹.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Binomial Theorem"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which statements about the expansion of (x + 1/x)⁶ are correct?",
+  "options": {
+   "A": "It has 7 terms",
+   "B": "The term independent of x is 15",
+   "C": "The middle term is the 4th term",
+   "D": "The coefficient of x² is 15"
+  },
+  "correct_answer": "A,C,D",
+  "explanation": "The independent term is ⁶C₃ = 20, not 15, so B is false. The coefficient of x² comes from r = 2, which is ⁶C₂ = 15.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Binomial Theorem"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The coefficient of x² in the expansion of (1 + 3x)⁵ is:",
+  "options": null,
+  "correct_answer": "90",
+  "explanation": "⁵C₂ × 3² = 10 × 9 = 90.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Binomial Theorem"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The value of ¹⁰C₀ + ¹⁰C₁ + ¹⁰C₂ + … + ¹⁰C₁₀ is:",
+  "options": null,
+  "correct_answer": "1024",
+  "explanation": "The sum is 2¹⁰ = 1024.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Binomial Theorem"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The number of terms in the expansion of (2x + 3y)¹² is:",
+  "options": null,
+  "correct_answer": "13",
+  "explanation": "The expansion of a binomial to the power n has n + 1 terms.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Binomial Theorem"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The value of ²⁰C₁₈ is:",
+  "options": null,
+  "correct_answer": "190",
+  "explanation": "²⁰C₁₈ = ²⁰C₂ = (20 × 19)/2 = 190.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Binomial Theorem"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The value of (⁶C₀)² + (⁶C₁)² + (⁶C₂)² + … + (⁶C₆)² is:",
+  "options": null,
+  "correct_answer": "924",
+  "explanation": "Σ (ⁿCᵣ)² = ²ⁿCₙ, so the sum is ¹²C₆ = 924.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Binomial Theorem"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The constant term in the expansion of (x − 1/x)⁴ is:",
+  "options": null,
+  "correct_answer": "6",
+  "explanation": "Tᵣ₊₁ = ⁴Cᵣ (−1)ʳ x⁴⁻²ʳ. The power of x is zero when r = 2, giving ⁴C₂ = 6.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Mathematics",
+  "chapter": "Binomial Theorem"
+ }
+]

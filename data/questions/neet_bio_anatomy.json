@@ -1,0 +1,482 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "The meristem found at the tips of roots and shoots is the:",
+  "options": {
+   "A": "intercalary meristem",
+   "B": "apical meristem",
+   "C": "lateral meristem",
+   "D": "secondary meristem"
+  },
+  "correct_answer": "B",
+  "explanation": "Apical meristems produce the primary tissues and increase the length of the plant.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Anatomy of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The meristem that helps grasses regenerate after grazing is the:",
+  "options": {
+   "A": "apical",
+   "B": "lateral",
+   "C": "intercalary",
+   "D": "cork cambium"
+  },
+  "correct_answer": "C",
+  "explanation": "Intercalary meristems lie between mature tissues at the base of internodes and leaves.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Anatomy of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The cork cambium is a:",
+  "options": {
+   "A": "apical meristem",
+   "B": "intercalary meristem",
+   "C": "lateral meristem",
+   "D": "primary meristem"
+  },
+  "correct_answer": "C",
+  "explanation": "Vascular cambium and cork cambium are lateral meristems that cause growth in girth.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Anatomy of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Thin-walled, living, isodiametric cells that store food belong to:",
+  "options": {
+   "A": "parenchyma",
+   "B": "collenchyma",
+   "C": "sclerenchyma",
+   "D": "xylem fibres"
+  },
+  "correct_answer": "A",
+  "explanation": "Parenchyma forms the basic ground tissue and is concerned with photosynthesis, storage and secretion.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Anatomy of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In collenchyma the corners of the cells are thickened with:",
+  "options": {
+   "A": "lignin",
+   "B": "cellulose, hemicellulose and pectin",
+   "C": "suberin",
+   "D": "chitin"
+  },
+  "correct_answer": "B",
+  "explanation": "This thickening gives flexible mechanical support to young stems and petioles.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Anatomy of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "At maturity the cells of sclerenchyma are typically:",
+  "options": {
+   "A": "living with thin walls",
+   "B": "dead without protoplasts",
+   "C": "rich in chloroplasts",
+   "D": "meristematic"
+  },
+  "correct_answer": "B",
+  "explanation": "Sclerenchyma cells have thick lignified walls and are dead at maturity.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Anatomy of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The gritty texture of guava pulp is due to:",
+  "options": {
+   "A": "collenchyma",
+   "B": "parenchyma",
+   "C": "fibres",
+   "D": "sclereids"
+  },
+  "correct_answer": "D",
+  "explanation": "Sclereids are short, dead cells with narrow lumens and are found in fruit walls and seed coats.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Anatomy of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Vessels are generally absent in the xylem of:",
+  "options": {
+   "A": "angiosperms",
+   "B": "gymnosperms",
+   "C": "dicots",
+   "D": "monocots"
+  },
+  "correct_answer": "B",
+  "explanation": "Gymnosperm xylem has tracheids and lacks vessels (except Gnetales).",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Anatomy of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Protoxylem lies toward the periphery (exarch condition) in:",
+  "options": {
+   "A": "stems",
+   "B": "leaves",
+   "C": "roots",
+   "D": "petioles"
+  },
+  "correct_answer": "C",
+  "explanation": "Roots are exarch, while stems are endarch with protoxylem toward the pith.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Anatomy of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Companion cells are closely associated with:",
+  "options": {
+   "A": "tracheids",
+   "B": "vessels",
+   "C": "sieve tube elements",
+   "D": "phloem fibres"
+  },
+  "correct_answer": "C",
+  "explanation": "Companion cells help sieve tube elements load and unload sugars.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Anatomy of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Companion cells are absent in the phloem of:",
+  "options": {
+   "A": "gymnosperms",
+   "B": "dicots",
+   "C": "monocots",
+   "D": "angiosperms"
+  },
+  "correct_answer": "A",
+  "explanation": "Gymnosperms have albuminous cells with sieve cells instead.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Anatomy of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The only living element of the xylem is:",
+  "options": {
+   "A": "vessels",
+   "B": "tracheids",
+   "C": "xylem fibres",
+   "D": "xylem parenchyma"
+  },
+  "correct_answer": "D",
+  "explanation": "Xylem parenchyma stores food and conducts water radially.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Anatomy of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Dumb-bell shaped guard cells are characteristic of:",
+  "options": {
+   "A": "dicots",
+   "B": "grasses",
+   "C": "gymnosperms",
+   "D": "ferns"
+  },
+  "correct_answer": "B",
+  "explanation": "Grasses have dumb-bell shaped guard cells; dicots have kidney-shaped ones.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Anatomy of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Root hairs are:",
+  "options": {
+   "A": "multicellular structures",
+   "B": "dead cells",
+   "C": "trichomes",
+   "D": "unicellular extensions of epidermal cells"
+  },
+  "correct_answer": "D",
+  "explanation": "Root hairs are unicellular elongations of epidermal cells that absorb water and minerals.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Anatomy of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Vascular bundles are open, with cambium between xylem and phloem, in:",
+  "options": {
+   "A": "monocot stems",
+   "B": "dicot stems",
+   "C": "monocot roots",
+   "D": "grass leaves"
+  },
+  "correct_answer": "B",
+  "explanation": "Open bundles allow secondary growth in dicot stems; monocot bundles are closed.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Anatomy of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Scattered, closed vascular bundles are seen in:",
+  "options": {
+   "A": "dicot stems",
+   "B": "dicot roots",
+   "C": "gymnosperm stems",
+   "D": "monocot stems"
+  },
+  "correct_answer": "D",
+  "explanation": "Monocot stems have closed bundles scattered in the ground tissue.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Anatomy of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Xylem and phloem lie on different radii (radial arrangement) in:",
+  "options": {
+   "A": "roots",
+   "B": "stems",
+   "C": "leaves",
+   "D": "petioles"
+  },
+  "correct_answer": "A",
+  "explanation": "Roots have radial bundles; stems and leaves have conjoint bundles.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Anatomy of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The hypodermis of a dicot stem is:",
+  "options": {
+   "A": "parenchymatous",
+   "B": "collenchymatous",
+   "C": "sclerenchymatous",
+   "D": "chlorenchymatous"
+  },
+  "correct_answer": "B",
+  "explanation": "The hypodermis is collenchymatous in dicot stems and sclerenchymatous in monocot stems.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Anatomy of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Pith is small or inconspicuous in:",
+  "options": {
+   "A": "dicot roots",
+   "B": "monocot roots",
+   "C": "dicot stems",
+   "D": "monocot stems"
+  },
+  "correct_answer": "A",
+  "explanation": "Monocot roots have a large well-developed pith, whereas dicot roots have a small pith or none.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Anatomy of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Lateral roots arise from the:",
+  "options": {
+   "A": "epidermis",
+   "B": "cortex",
+   "C": "pericycle",
+   "D": "endodermis"
+  },
+  "correct_answer": "C",
+  "explanation": "Pericycle cells divide to form lateral roots and also contribute to the cambium in dicot roots.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Anatomy of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Casparian strips are found in the:",
+  "options": {
+   "A": "epidermis",
+   "B": "endodermis",
+   "C": "pericycle",
+   "D": "hypodermis"
+  },
+  "correct_answer": "B",
+  "explanation": "They are suberin deposits on the radial and tangential walls of endodermal cells.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Anatomy of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In a dorsiventral leaf the palisade parenchyma lies toward the:",
+  "options": {
+   "A": "abaxial surface",
+   "B": "adaxial surface",
+   "C": "both surfaces equally",
+   "D": "centre of the mesophyll only"
+  },
+  "correct_answer": "B",
+  "explanation": "Palisade cells are elongated and lie below the upper (adaxial) epidermis, and spongy cells lie toward the lower surface.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Anatomy of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "An isobilateral leaf is typical of:",
+  "options": {
+   "A": "dicots",
+   "B": "gymnosperms only",
+   "C": "monocots",
+   "D": "ferns only"
+  },
+  "correct_answer": "C",
+  "explanation": "Monocot leaves have stomata on both surfaces and undifferentiated mesophyll.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Anatomy of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Bulliform cells help in:",
+  "options": {
+   "A": "rolling of leaves in grasses to reduce water loss",
+   "B": "gas exchange",
+   "C": "secretion of resins",
+   "D": "photosynthesis only"
+  },
+  "correct_answer": "A",
+  "explanation": "These large empty colourless cells on the upper epidermis of grass leaves lose water and cause the leaf to curl inward.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Anatomy of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The vascular cambium produces:",
+  "options": {
+   "A": "xylem outward and phloem inward",
+   "B": "xylem inward and phloem outward",
+   "C": "only xylem",
+   "D": "only phloem"
+  },
+  "correct_answer": "B",
+  "explanation": "Secondary xylem is added toward the pith and secondary phloem toward the periphery.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Anatomy of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Compared with autumn wood, spring wood:",
+  "options": {
+   "A": "has narrow vessels and is dark",
+   "B": "has wider vessels and is lighter",
+   "C": "has no vessels",
+   "D": "is formed in winter"
+  },
+  "correct_answer": "B",
+  "explanation": "Spring wood is lighter with wider xylem elements; autumn wood is darker and denser.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Anatomy of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Heartwood:",
+  "options": {
+   "A": "conducts water actively",
+   "B": "contains tannins and resins and does not conduct water",
+   "C": "is the outermost layer of wood",
+   "D": "is secondary phloem"
+  },
+  "correct_answer": "B",
+  "explanation": "Heartwood is dark and dead, resistant to microbes, and gives mechanical support.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Anatomy of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Phelloderm is the:",
+  "options": {
+   "A": "cork",
+   "B": "bark",
+   "C": "secondary cortex",
+   "D": "lenticel"
+  },
+  "correct_answer": "C",
+  "explanation": "Phellogen cuts off phellem (cork) outward and phelloderm (secondary cortex) inward.",
+  "difficulty": "hard",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Anatomy of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Lenticels help in:",
+  "options": {
+   "A": "gaseous exchange in woody stems",
+   "B": "water absorption",
+   "C": "photosynthesis",
+   "D": "hormone secretion"
+  },
+  "correct_answer": "A",
+  "explanation": "Lenticels are lens-shaped openings in the bark that allow gas exchange.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Anatomy of Flowering Plants"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Monocot stems usually lack secondary growth because their vascular bundles:",
+  "options": {
+   "A": "are radial",
+   "B": "have thick walls",
+   "C": "are conjoint",
+   "D": "are closed with no cambium"
+  },
+  "correct_answer": "D",
+  "explanation": "Closed bundles lack cambium, so there is no cambial activity.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Anatomy of Flowering Plants"
+ }
+]

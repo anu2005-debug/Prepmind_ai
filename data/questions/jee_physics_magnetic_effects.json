@@ -1,0 +1,452 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "A charge of 2 μC moves at 5 m/s perpendicular to a uniform magnetic field of 0.4 T. The force on it is:",
+  "options": {
+   "A": "4 × 10⁻⁶ N",
+   "B": "4 × 10⁻⁵ N",
+   "C": "2 × 10⁻⁶ N",
+   "D": "8 × 10⁻⁶ N"
+  },
+  "correct_answer": "A",
+  "explanation": "F = qvB = 2 × 10⁻⁶ × 5 × 0.4 = 4 × 10⁻⁶ N.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Magnetic Effects of Current and Magnetism"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A straight wire 0.5 m long carries 4 A perpendicular to a uniform field of 0.2 T. The force on the wire is:",
+  "options": {
+   "A": "0.04 N",
+   "B": "0.4 N",
+   "C": "4 N",
+   "D": "0.2 N"
+  },
+  "correct_answer": "B",
+  "explanation": "F = ILB = 4 × 0.5 × 0.2 = 0.4 N.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Magnetic Effects of Current and Magnetism"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A circular loop of radius 0.1 m carries 5 A. The magnetic field at its centre is (μ₀ = 4π × 10⁻⁷ T m/A):",
+  "options": {
+   "A": "2π × 10⁻⁵ T",
+   "B": "π × 10⁻⁶ T",
+   "C": "π × 10⁻⁵ T",
+   "D": "10π × 10⁻⁵ T"
+  },
+  "correct_answer": "C",
+  "explanation": "B = μ₀I/2R = 4π × 10⁻⁷ × 5/0.2 = π × 10⁻⁵ T.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Magnetic Effects of Current and Magnetism"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A long straight wire carries 10 A. The magnetic field at 0.2 m from it is:",
+  "options": {
+   "A": "10⁻⁶ T",
+   "B": "2 × 10⁻⁵ T",
+   "C": "5 × 10⁻⁶ T",
+   "D": "10⁻⁵ T"
+  },
+  "correct_answer": "D",
+  "explanation": "B = μ₀I/2πr = 2 × 10⁻⁷ × 10/0.2 = 10⁻⁵ T.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Magnetic Effects of Current and Magnetism"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A long solenoid has 1000 turns per metre and carries 2 A. The magnetic field inside it is:",
+  "options": {
+   "A": "8π × 10⁻⁴ T",
+   "B": "4π × 10⁻⁴ T",
+   "C": "8π × 10⁻⁷ T",
+   "D": "2π × 10⁻³ T"
+  },
+  "correct_answer": "A",
+  "explanation": "B = μ₀nI = 4π × 10⁻⁷ × 1000 × 2 = 8π × 10⁻⁴ T.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Magnetic Effects of Current and Magnetism"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A charged particle moves in a circle of radius r in a uniform magnetic field. If its speed is doubled, the radius becomes:",
+  "options": {
+   "A": "r/2",
+   "B": "r",
+   "C": "2r",
+   "D": "4r"
+  },
+  "correct_answer": "C",
+  "explanation": "r = mv/qB, so r ∝ v and doubling the speed doubles the radius.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Magnetic Effects of Current and Magnetism"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The time period of a charged particle moving in a circle in a uniform magnetic field is independent of:",
+  "options": {
+   "A": "its mass",
+   "B": "its charge",
+   "C": "the magnetic field",
+   "D": "its speed"
+  },
+  "correct_answer": "D",
+  "explanation": "T = 2πm/qB depends on m, q and B but not on the speed.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Magnetic Effects of Current and Magnetism"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A coil of 10 turns and area 0.01 m² carries 2 A. Its magnetic moment is:",
+  "options": {
+   "A": "2 A m²",
+   "B": "0.02 A m²",
+   "C": "20 A m²",
+   "D": "0.2 A m²"
+  },
+  "correct_answer": "D",
+  "explanation": "m = NIA = 10 × 2 × 0.01 = 0.2 A m².",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Magnetic Effects of Current and Magnetism"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A loop of magnetic moment 0.2 A m² is in a 0.5 T field, with the moment perpendicular to the field. The torque on it is:",
+  "options": {
+   "A": "0.4 N m",
+   "B": "0.1 N m",
+   "C": "0.01 N m",
+   "D": "1 N m"
+  },
+  "correct_answer": "B",
+  "explanation": "τ = mB sin 90° = 0.2 × 0.5 = 0.1 N m.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Magnetic Effects of Current and Magnetism"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Two long parallel wires 1 m apart each carry 10 A in the same direction. The force per unit length between them is:",
+  "options": {
+   "A": "2 × 10⁻⁷ N/m",
+   "B": "2 × 10⁻⁶ N/m",
+   "C": "2 × 10⁻⁵ N/m",
+   "D": "2 × 10⁻⁴ N/m"
+  },
+  "correct_answer": "C",
+  "explanation": "F/L = μ₀I₁I₂/2πd = 2 × 10⁻⁷ × 100/1 = 2 × 10⁻⁵ N/m.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Magnetic Effects of Current and Magnetism"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Two long parallel wires carry currents in the same direction. They:",
+  "options": {
+   "A": "attract each other",
+   "B": "repel each other",
+   "C": "exert no force on each other",
+   "D": "rotate about each other with no net force"
+  },
+  "correct_answer": "A",
+  "explanation": "Parallel currents attract and antiparallel currents repel.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Magnetic Effects of Current and Magnetism"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Ampere's circuital law states that the line integral of B around a closed loop equals:",
+  "options": {
+   "A": "I_enclosed/μ₀",
+   "B": "μ₀ I_enclosed",
+   "C": "zero always",
+   "D": "μ₀/I_enclosed"
+  },
+  "correct_answer": "B",
+  "explanation": "∮B·dl = μ₀ I_enclosed.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Magnetic Effects of Current and Magnetism"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The magnetic field at the centre of a semicircular wire arc of radius R carrying current I is:",
+  "options": {
+   "A": "μ₀I/2R",
+   "B": "μ₀I/8R",
+   "C": "μ₀I/πR",
+   "D": "μ₀I/4R"
+  },
+  "correct_answer": "D",
+  "explanation": "A full loop gives μ₀I/2R, so a semicircle gives half of it: μ₀I/4R.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Magnetic Effects of Current and Magnetism"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A charged particle moves perpendicular to a uniform magnetic field. Its kinetic energy:",
+  "options": {
+   "A": "remains constant",
+   "B": "increases",
+   "C": "decreases",
+   "D": "oscillates"
+  },
+  "correct_answer": "A",
+  "explanation": "The magnetic force is perpendicular to the velocity, does no work, and so the speed and kinetic energy stay constant.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Magnetic Effects of Current and Magnetism"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In a velocity selector, E = 2000 V/m and B = 0.5 T. The speed of undeflected particles is:",
+  "options": {
+   "A": "1000 m/s",
+   "B": "4000 m/s",
+   "C": "400 m/s",
+   "D": "10⁴ m/s"
+  },
+  "correct_answer": "B",
+  "explanation": "For no deflection qE = qvB, so v = E/B = 2000/0.5 = 4000 m/s.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Magnetic Effects of Current and Magnetism"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A toroid has 500 turns, mean radius 0.1 m and carries 2 A. The field inside it is:",
+  "options": {
+   "A": "2 × 10⁻³ T",
+   "B": "10⁻³ T",
+   "C": "4 × 10⁻³ T",
+   "D": "2 × 10⁻⁴ T"
+  },
+  "correct_answer": "A",
+  "explanation": "B = μ₀NI/2πr = 2 × 10⁻⁷ × 500 × 2/0.1 = 2 × 10⁻³ T.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Magnetic Effects of Current and Magnetism"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "For a short bar magnet, the ratio of the field on the axial line to the field on the equatorial line at the same distance is:",
+  "options": {
+   "A": "1",
+   "B": "2",
+   "C": "1/2",
+   "D": "4"
+  },
+  "correct_answer": "B",
+  "explanation": "B_axial = μ₀2M/4πd³ and B_equatorial = μ₀M/4πd³, so the ratio is 2.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Magnetic Effects of Current and Magnetism"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A short bar magnet of moment 2 A m² produces what field on its axis at 0.1 m (μ₀/4π = 10⁻⁷ T m/A)?",
+  "options": {
+   "A": "2 × 10⁻⁴ T",
+   "B": "4 × 10⁻⁶ T",
+   "C": "10⁻³ T",
+   "D": "4 × 10⁻⁴ T"
+  },
+  "correct_answer": "D",
+  "explanation": "B = (μ₀/4π)(2M/d³) = 10⁻⁷ × 4/10⁻³ = 4 × 10⁻⁴ T.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Magnetic Effects of Current and Magnetism"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A material that is weakly repelled by a magnetic field is called:",
+  "options": {
+   "A": "diamagnetic",
+   "B": "paramagnetic",
+   "C": "ferromagnetic",
+   "D": "none of these"
+  },
+  "correct_answer": "A",
+  "explanation": "Diamagnetic materials have negative susceptibility and are weakly repelled.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Magnetic Effects of Current and Magnetism"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "By Curie's law, if the absolute temperature of a paramagnetic sample is doubled, its susceptibility becomes:",
+  "options": {
+   "A": "double",
+   "B": "half",
+   "C": "one-fourth",
+   "D": "unchanged"
+  },
+  "correct_answer": "B",
+  "explanation": "χ ∝ 1/T, so doubling T halves χ.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Magnetic Effects of Current and Magnetism"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A material has magnetic susceptibility 999. Its relative permeability is:",
+  "options": {
+   "A": "999",
+   "B": "1001",
+   "C": "1000",
+   "D": "0.001"
+  },
+  "correct_answer": "C",
+  "explanation": "μr = 1 + χ = 1000.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Magnetic Effects of Current and Magnetism"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The area enclosed by a hysteresis loop represents:",
+  "options": {
+   "A": "the retentivity",
+   "B": "the coercivity",
+   "C": "the susceptibility",
+   "D": "the energy dissipated per unit volume per cycle"
+  },
+  "correct_answer": "D",
+  "explanation": "The loop area equals the energy lost as heat per unit volume in one magnetisation cycle.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Magnetic Effects of Current and Magnetism"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which statements are correct for the magnetic force on a moving charge?",
+  "options": {
+   "A": "It is perpendicular to the velocity",
+   "B": "It does work on the charge",
+   "C": "It is zero if the velocity is parallel to the field",
+   "D": "It changes the direction of the velocity but not the speed"
+  },
+  "correct_answer": "A,C,D",
+  "explanation": "F = qv × B is perpendicular to v, vanishes when v ∥ B, and cannot change the speed. It does no work, so B is false.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Magnetic Effects of Current and Magnetism"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which statements are correct for ferromagnetic materials?",
+  "options": {
+   "A": "They are strongly attracted by a magnet",
+   "B": "They have large positive susceptibility",
+   "C": "They become paramagnetic above the Curie temperature",
+   "D": "They are repelled by a magnet"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "Ferromagnets are strongly attracted, have large positive χ, and turn paramagnetic above the Curie temperature. They are not repelled.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Magnetic Effects of Current and Magnetism"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A long straight wire carries 5 A. The magnetic field (in μT) at 0.1 m from it is:",
+  "options": null,
+  "correct_answer": "10",
+  "explanation": "B = μ₀I/2πr = 2 × 10⁻⁷ × 5/0.1 = 10⁻⁵ T = 10 μT.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Magnetic Effects of Current and Magnetism"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A 2 m wire carrying 5 A lies perpendicular to a uniform field of 0.3 T. The force on it (in N) is:",
+  "options": null,
+  "correct_answer": "3",
+  "explanation": "F = ILB = 5 × 2 × 0.3 = 3 N.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Magnetic Effects of Current and Magnetism"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A particle of mass 4 × 10⁻²⁷ kg and charge 3.2 × 10⁻¹⁹ C moves at 4 × 10⁵ m/s perpendicular to a 0.5 T field. The radius of its circular path (in cm) is:",
+  "options": null,
+  "correct_answer": "1",
+  "explanation": "r = mv/qB = 4 × 10⁻²⁷ × 4 × 10⁵/(3.2 × 10⁻¹⁹ × 0.5) = 0.01 m = 1 cm.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Magnetic Effects of Current and Magnetism"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A coil of 200 turns and area 0.02 m² carries 0.5 A. Its magnetic moment (in A m²) is:",
+  "options": null,
+  "correct_answer": "2",
+  "explanation": "m = NIA = 200 × 0.5 × 0.02 = 2 A m².",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Magnetic Effects of Current and Magnetism"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A loop of magnetic moment 4 A m² is in a 0.25 T field with its moment at 30° to the field. The torque (in N m) is:",
+  "options": null,
+  "correct_answer": "0.5",
+  "explanation": "τ = mB sin 30° = 4 × 0.25 × 0.5 = 0.5 N m.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Magnetic Effects of Current and Magnetism"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "Two long parallel wires 0.2 m apart carry 20 A and 10 A. The force per unit length between them (in μN/m) is:",
+  "options": null,
+  "correct_answer": "200",
+  "explanation": "F/L = 2 × 10⁻⁷ × 20 × 10/0.2 = 2 × 10⁻⁴ N/m = 200 μN/m.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Magnetic Effects of Current and Magnetism"
+ }
+]

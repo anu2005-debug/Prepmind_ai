@@ -1,0 +1,452 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "A body of mass 2 kg is acted on by two mutually perpendicular forces of 6 N and 8 N. Its acceleration is:",
+  "options": {
+   "A": "2 m/s²",
+   "B": "7 m/s²",
+   "C": "5 m/s²",
+   "D": "14 m/s²"
+  },
+  "correct_answer": "C",
+  "explanation": "Net force = √(6² + 8²) = 10 N, so a = 10/2 = 5 m/s².",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Laws of Motion"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A man of mass 60 kg stands in a lift that accelerates upward at 2 m/s². Taking g = 10 m/s², the apparent weight is:",
+  "options": {
+   "A": "720 N",
+   "B": "480 N",
+   "C": "600 N",
+   "D": "1200 N"
+  },
+  "correct_answer": "A",
+  "explanation": "N = m(g + a) = 60 × 12 = 720 N.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Laws of Motion"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "If the cable of a lift snaps and the lift falls freely, the apparent weight of a person inside is:",
+  "options": {
+   "A": "mg",
+   "B": "2mg",
+   "C": "mg/2",
+   "D": "zero"
+  },
+  "correct_answer": "D",
+  "explanation": "In free fall a = g, so N = m(g − g) = 0.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Laws of Motion"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A 0.5 kg ball hits a wall at 10 m/s and rebounds along the same line at 10 m/s. The magnitude of the impulse is:",
+  "options": {
+   "A": "0",
+   "B": "10 N s",
+   "C": "5 N s",
+   "D": "20 N s"
+  },
+  "correct_answer": "B",
+  "explanation": "Impulse = change in momentum = 0.5 × (10 − (−10)) = 10 N s.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Laws of Motion"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A constant force of 20 N acts on a 4 kg body initially at rest for 3 s. The final velocity is:",
+  "options": {
+   "A": "5 m/s",
+   "B": "10 m/s",
+   "C": "15 m/s",
+   "D": "60 m/s"
+  },
+  "correct_answer": "C",
+  "explanation": "a = 20/4 = 5 m/s², so v = 5 × 3 = 15 m/s.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Laws of Motion"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A 5 kg block rests on a rough horizontal surface with μs = 0.4 (g = 10 m/s²). The limiting friction is:",
+  "options": {
+   "A": "20 N",
+   "B": "2 N",
+   "C": "50 N",
+   "D": "200 N"
+  },
+  "correct_answer": "A",
+  "explanation": "fmax = μsN = 0.4 × 50 = 20 N.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Laws of Motion"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A 10 kg block rests on a surface with μs = 0.5 (g = 10 m/s²). A horizontal force of 40 N is applied. The friction force acting is:",
+  "options": {
+   "A": "zero",
+   "B": "50 N",
+   "C": "100 N",
+   "D": "40 N"
+  },
+  "correct_answer": "D",
+  "explanation": "The limiting friction is 50 N, which is more than 40 N, so the block stays at rest and static friction equals the applied force, 40 N.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Laws of Motion"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A block slides down a smooth inclined plane of angle 30° (g = 10 m/s²). Its acceleration is:",
+  "options": {
+   "A": "10 m/s²",
+   "B": "5 m/s²",
+   "C": "5√3 m/s²",
+   "D": "2.5 m/s²"
+  },
+  "correct_answer": "B",
+  "explanation": "a = g sinθ = 10 × 0.5 = 5 m/s².",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Laws of Motion"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A block just begins to slide on a rough inclined plane when the angle of inclination is 30°. The coefficient of static friction is:",
+  "options": {
+   "A": "1/2",
+   "B": "√3",
+   "C": "1/√3",
+   "D": "1"
+  },
+  "correct_answer": "C",
+  "explanation": "At the angle of repose, μs = tanθ = tan 30° = 1/√3.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Laws of Motion"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Masses of 3 kg and 1 kg hang from the ends of a light string over a smooth pulley (g = 10 m/s²). The acceleration of the system is:",
+  "options": {
+   "A": "5 m/s²",
+   "B": "2.5 m/s²",
+   "C": "10 m/s²",
+   "D": "20/3 m/s²"
+  },
+  "correct_answer": "A",
+  "explanation": "a = (m₁ − m₂)g/(m₁ + m₂) = 2 × 10/4 = 5 m/s².",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Laws of Motion"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "For the same arrangement of 3 kg and 1 kg masses over a smooth pulley (g = 10 m/s²), the tension in the string is:",
+  "options": {
+   "A": "10 N",
+   "B": "20 N",
+   "C": "30 N",
+   "D": "15 N"
+  },
+  "correct_answer": "D",
+  "explanation": "T = 2m₁m₂g/(m₁ + m₂) = 2 × 3 × 1 × 10/4 = 15 N.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Laws of Motion"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Blocks of 2 kg and 3 kg touch each other on a smooth table. A horizontal force of 10 N pushes the 2 kg block towards the 3 kg block. The contact force on the 3 kg block is:",
+  "options": {
+   "A": "4 N",
+   "B": "6 N",
+   "C": "10 N",
+   "D": "2 N"
+  },
+  "correct_answer": "B",
+  "explanation": "a = 10/5 = 2 m/s². The force on the 3 kg block = 3 × 2 = 6 N.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Laws of Motion"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A 5 kg block on a smooth horizontal table is connected by a light string over a pulley to a 3 kg block hanging freely (g = 10 m/s²). The acceleration is:",
+  "options": {
+   "A": "6 m/s²",
+   "B": "10 m/s²",
+   "C": "3.75 m/s²",
+   "D": "5 m/s²"
+  },
+  "correct_answer": "C",
+  "explanation": "a = m₂g/(m₁ + m₂) = 30/8 = 3.75 m/s².",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Laws of Motion"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A frictionless road of radius 100 m is banked for a speed of 10 m/s (g = 10 m/s²). The angle of banking θ satisfies:",
+  "options": {
+   "A": "tan θ = 0.1",
+   "B": "tan θ = 0.01",
+   "C": "tan θ = 10",
+   "D": "tan θ = 1"
+  },
+  "correct_answer": "A",
+  "explanation": "tan θ = v²/(rg) = 100/(100 × 10) = 0.1.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Laws of Motion"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A 1 kg mass is whirled in a vertical circle of radius 1 m. At the lowest point its speed is 5 m/s (g = 10 m/s²). The tension in the string there is:",
+  "options": {
+   "A": "10 N",
+   "B": "25 N",
+   "C": "15 N",
+   "D": "35 N"
+  },
+  "correct_answer": "D",
+  "explanation": "T = mg + mv²/r = 10 + 25 = 35 N.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Laws of Motion"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A gun of mass 5 kg fires a 20 g bullet at 250 m/s. The recoil speed of the gun is:",
+  "options": {
+   "A": "0.5 m/s",
+   "B": "1 m/s",
+   "C": "2 m/s",
+   "D": "5 m/s"
+  },
+  "correct_answer": "B",
+  "explanation": "Momentum conservation: 5v = 0.02 × 250, so v = 1 m/s.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Laws of Motion"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A book rests on a table. According to Newton's third law, the reaction to the weight of the book (the pull of the Earth on the book) is:",
+  "options": {
+   "A": "the normal force of the table on the book",
+   "B": "the force of the book on the table",
+   "C": "the gravitational pull of the book on the Earth",
+   "D": "the weight of the table"
+  },
+  "correct_answer": "C",
+  "explanation": "Action–reaction pairs act on different bodies and are of the same type. The reaction to the Earth's pull on the book is the book's pull on the Earth.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Laws of Motion"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A pendulum hangs inside a car that accelerates horizontally at 10 m/s² (g = 10 m/s²). The string makes an angle with the vertical of:",
+  "options": {
+   "A": "45°",
+   "B": "30°",
+   "C": "60°",
+   "D": "90°"
+  },
+  "correct_answer": "A",
+  "explanation": "tan θ = a/g = 1, so θ = 45°.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Laws of Motion"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A block slides down a rough incline of angle 37° with μ = 0.5 (take sin 37° = 0.6, cos 37° = 0.8, g = 10 m/s²). Its acceleration is:",
+  "options": {
+   "A": "1 m/s²",
+   "B": "4 m/s²",
+   "C": "6 m/s²",
+   "D": "2 m/s²"
+  },
+  "correct_answer": "D",
+  "explanation": "a = g(sinθ − μcosθ) = 10(0.6 − 0.4) = 2 m/s².",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Laws of Motion"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Two bodies of masses m and 4m have the same kinetic energy. The ratio of their momenta is:",
+  "options": {
+   "A": "1 : 4",
+   "B": "1 : 2",
+   "C": "1 : 1",
+   "D": "2 : 1"
+  },
+  "correct_answer": "B",
+  "explanation": "p = √(2mK), so p₁/p₂ = √(m/4m) = 1/2.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Laws of Motion"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A 0.1 kg ball moving at 20 m/s is stopped by a hand in 0.02 s. The average force exerted is:",
+  "options": {
+   "A": "10 N",
+   "B": "50 N",
+   "C": "100 N",
+   "D": "200 N"
+  },
+  "correct_answer": "C",
+  "explanation": "F = Δp/Δt = 0.1 × 20/0.02 = 100 N.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Laws of Motion"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A uniform rope of mass M and length L lies on a smooth horizontal surface and is pulled at one end by a force F. The tension at the midpoint of the rope is:",
+  "options": {
+   "A": "F/2",
+   "B": "F",
+   "C": "F/4",
+   "D": "zero"
+  },
+  "correct_answer": "A",
+  "explanation": "a = F/M. The half beyond the midpoint has mass M/2, so T = (M/2)(F/M) = F/2.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Laws of Motion"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which of the following statements about friction are correct?",
+  "options": {
+   "A": "Friction always acts opposite to the direction of motion of the body",
+   "B": "Static friction can take any value from zero up to its limiting value",
+   "C": "The limiting static friction is proportional to the normal reaction",
+   "D": "Kinetic friction is generally less than the limiting static friction"
+  },
+  "correct_answer": "B,C,D",
+  "explanation": "Friction on a walking person acts forward, so the claim that friction always opposes the body's motion is false. The other three are standard properties of friction.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Laws of Motion"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "A body of mass m is in a lift that accelerates upward with acceleration a. Which statements are correct?",
+  "options": {
+   "A": "The true weight of the body changes",
+   "B": "The apparent weight is m(g + a)",
+   "C": "The apparent weight is m(g − a)",
+   "D": "The normal reaction on the body exceeds mg"
+  },
+  "correct_answer": "B,D",
+  "explanation": "N − mg = ma gives N = m(g + a), which is greater than mg. The true weight mg does not change.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Laws of Motion"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A constant force of 12 N acts on a 3 kg body initially at rest. Its speed (in m/s) after 5 s is:",
+  "options": null,
+  "correct_answer": "20",
+  "explanation": "a = 12/3 = 4 m/s², so v = 4 × 5 = 20 m/s.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Laws of Motion"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "Masses of 2 kg and 3 kg hang over a light smooth pulley (g = 10 m/s²). The acceleration of the system (in m/s²) is:",
+  "options": null,
+  "correct_answer": "2",
+  "explanation": "a = (3 − 2) × 10/5 = 2 m/s².",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Laws of Motion"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A 10 kg block on a rough surface (μk = 0.2, g = 10 m/s²) is pulled by a horizontal force of 50 N. Its acceleration (in m/s²) is:",
+  "options": null,
+  "correct_answer": "3",
+  "explanation": "Friction = 0.2 × 100 = 20 N, so a = (50 − 20)/10 = 3 m/s².",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Laws of Motion"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A car turns on a flat unbanked road of radius 20 m with μs = 0.5 (g = 10 m/s²). The maximum safe speed (in m/s) is:",
+  "options": null,
+  "correct_answer": "10",
+  "explanation": "v = √(μrg) = √(0.5 × 20 × 10) = 10 m/s.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Laws of Motion"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A force F = 6t newtons acts on a 2 kg body initially at rest. Its speed (in m/s) at t = 2 s is:",
+  "options": null,
+  "correct_answer": "6",
+  "explanation": "Impulse = ∫6t dt = 3t² = 12 N s, so v = 12/2 = 6 m/s.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Laws of Motion"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A 60 kg person stands on a weighing scale in a lift accelerating downward at 2 m/s² (g = 10 m/s²). The scale reads (in N):",
+  "options": null,
+  "correct_answer": "480",
+  "explanation": "N = m(g − a) = 60 × 8 = 480 N.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Laws of Motion"
+ }
+]

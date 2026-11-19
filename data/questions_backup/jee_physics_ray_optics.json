@@ -1,0 +1,452 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "A concave mirror has focal length 20 cm. An object is placed 30 cm in front of it. The image distance is:",
+  "options": {
+   "A": "12 cm",
+   "B": "60 cm",
+   "C": "30 cm",
+   "D": "20 cm"
+  },
+  "correct_answer": "B",
+  "explanation": "With u = −30 and f = −20, 1/v = 1/f − 1/u = −1/20 + 1/30 = −1/60, so v = −60 cm: a real image 60 cm in front of the mirror.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Ray Optics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A convex mirror has focal length 15 cm. An object is placed 15 cm in front of it. The image is:",
+  "options": {
+   "A": "real, 30 cm in front of the mirror",
+   "B": "real, 15 cm in front of the mirror",
+   "C": "virtual, 7.5 cm behind the mirror",
+   "D": "virtual, 7.5 cm in front of the mirror"
+  },
+  "correct_answer": "C",
+  "explanation": "With u = −15 and f = +15, 1/v = 1/15 + 1/15 = 2/15, so v = +7.5 cm: a virtual image behind the mirror.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Ray Optics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The refractive index of glass is 1.5 and the speed of light in vacuum is 3 × 10⁸ m/s. The speed of light in glass is:",
+  "options": {
+   "A": "2 × 10⁸ m/s",
+   "B": "3 × 10⁸ m/s",
+   "C": "4.5 × 10⁸ m/s",
+   "D": "1.5 × 10⁸ m/s"
+  },
+  "correct_answer": "A",
+  "explanation": "v = c/n = 3 × 10⁸/1.5 = 2 × 10⁸ m/s.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Ray Optics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The critical angle for a medium of refractive index √2 (relative to air) is:",
+  "options": {
+   "A": "30°",
+   "B": "60°",
+   "C": "90°",
+   "D": "45°"
+  },
+  "correct_answer": "D",
+  "explanation": "sin C = 1/n = 1/√2, so C = 45°.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Ray Optics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A ray of light in air strikes a medium of refractive index √3 at an angle of incidence of 60°. The angle of refraction is:",
+  "options": {
+   "A": "60°",
+   "B": "30°",
+   "C": "45°",
+   "D": "90°"
+  },
+  "correct_answer": "B",
+  "explanation": "sin r = sin 60°/√3 = (√3/2)/√3 = 1/2, so r = 30°.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Ray Optics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A convex lens has focal length 50 cm. Its power is:",
+  "options": {
+   "A": "0.5 D",
+   "B": "5 D",
+   "C": "2 D",
+   "D": "50 D"
+  },
+  "correct_answer": "C",
+  "explanation": "P = 1/f (in metres) = 1/0.5 = 2 D.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Ray Optics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A thin biconvex lens of refractive index 1.5 has both radii of curvature equal to 20 cm. Its focal length is:",
+  "options": {
+   "A": "10 cm",
+   "B": "40 cm",
+   "C": "30 cm",
+   "D": "20 cm"
+  },
+  "correct_answer": "D",
+  "explanation": "1/f = (n − 1)(1/R₁ − 1/R₂) = 0.5 × (1/20 + 1/20) = 1/20, so f = 20 cm.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Ray Optics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Two thin lenses of focal lengths 10 cm and 15 cm are placed in contact. The focal length of the combination is:",
+  "options": {
+   "A": "6 cm",
+   "B": "25 cm",
+   "C": "5 cm",
+   "D": "12.5 cm"
+  },
+  "correct_answer": "A",
+  "explanation": "1/f = 1/10 + 1/15 = 5/30, so f = 6 cm.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Ray Optics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A prism of angle 60° has a minimum deviation of 30°. Its refractive index is:",
+  "options": {
+   "A": "1.5",
+   "B": "√2",
+   "C": "√3",
+   "D": "2"
+  },
+  "correct_answer": "B",
+  "explanation": "n = sin((A + D)/2)/sin(A/2) = sin 45°/sin 30° = √2.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Ray Optics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "When an object is placed at the centre of curvature of a concave mirror, the image formed is:",
+  "options": {
+   "A": "real, inverted and enlarged",
+   "B": "virtual and erect",
+   "C": "real, inverted and of the same size",
+   "D": "real, erect and diminished"
+  },
+  "correct_answer": "C",
+  "explanation": "At u = 2f the image is also at 2f, real, inverted and the same size as the object.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Ray Optics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Total internal reflection takes place when light travels:",
+  "options": {
+   "A": "from a rarer to a denser medium",
+   "B": "from a denser to a rarer medium at an angle of incidence less than the critical angle",
+   "C": "along the normal to the surface",
+   "D": "from a denser to a rarer medium at an angle of incidence greater than the critical angle"
+  },
+  "correct_answer": "D",
+  "explanation": "Both conditions are needed: denser to rarer medium, and an angle of incidence greater than the critical angle.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Ray Optics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "An object is placed at 2f from a convex lens. The image is:",
+  "options": {
+   "A": "real, inverted, same size, at 2f on the other side",
+   "B": "virtual and enlarged",
+   "C": "real and enlarged, at infinity",
+   "D": "real and diminished, at f"
+  },
+  "correct_answer": "A",
+  "explanation": "With u = −2f, the lens formula gives v = +2f and magnification −1.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Ray Optics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A fish is 12 cm below the surface of water (n = 4/3). Seen from directly above, its apparent depth is:",
+  "options": {
+   "A": "16 cm",
+   "B": "9 cm",
+   "C": "12 cm",
+   "D": "8 cm"
+  },
+  "correct_answer": "B",
+  "explanation": "Apparent depth = real depth/n = 12/(4/3) = 9 cm.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Ray Optics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A concave lens always forms an image of a real object that is:",
+  "options": {
+   "A": "real and inverted",
+   "B": "virtual and enlarged",
+   "C": "virtual, erect and diminished",
+   "D": "real and diminished"
+  },
+  "correct_answer": "C",
+  "explanation": "A diverging lens gives a virtual, erect, diminished image for every position of a real object.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Ray Optics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A simple microscope has focal length 5 cm. With the image at the near point D = 25 cm, its magnifying power is:",
+  "options": {
+   "A": "5",
+   "B": "30",
+   "C": "25",
+   "D": "6"
+  },
+  "correct_answer": "D",
+  "explanation": "M = 1 + D/f = 1 + 25/5 = 6.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Ray Optics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "An astronomical telescope has objective focal length 100 cm and eyepiece focal length 5 cm. In normal adjustment its magnifying power is:",
+  "options": {
+   "A": "20",
+   "B": "500",
+   "C": "95",
+   "D": "105"
+  },
+  "correct_answer": "A",
+  "explanation": "M = f_o/f_e = 100/5 = 20.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Ray Optics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In the visible spectrum produced by a prism, the colour that is deviated the most is:",
+  "options": {
+   "A": "red",
+   "B": "yellow",
+   "C": "green",
+   "D": "violet"
+  },
+  "correct_answer": "D",
+  "explanation": "Refractive index is highest for violet, so it undergoes the greatest deviation.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Ray Optics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A convex glass lens (n = 1.5) is immersed in a liquid of refractive index 1.65. It behaves as a:",
+  "options": {
+   "A": "converging lens",
+   "B": "diverging lens",
+   "C": "plane glass plate",
+   "D": "lens of the same power"
+  },
+  "correct_answer": "B",
+  "explanation": "When the lens is optically rarer than its surrounding medium, the sign of its focal length reverses and it diverges light.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Ray Optics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The mirror used as a rear-view mirror in vehicles is:",
+  "options": {
+   "A": "concave",
+   "B": "plane",
+   "C": "convex",
+   "D": "cylindrical"
+  },
+  "correct_answer": "C",
+  "explanation": "A convex mirror gives an erect, diminished image and a wide field of view.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Ray Optics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A convex lens of focal length 10 cm forms an image of an object placed 15 cm from it. The image distance is:",
+  "options": {
+   "A": "6 cm",
+   "B": "25 cm",
+   "C": "10 cm",
+   "D": "30 cm"
+  },
+  "correct_answer": "D",
+  "explanation": "1/v = 1/f + 1/u = 1/10 − 1/15 = 1/30, so v = 30 cm.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Ray Optics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "For the same lens and object (f = 10 cm, u = −15 cm), the magnification is:",
+  "options": {
+   "A": "−2",
+   "B": "+2",
+   "C": "−0.5",
+   "D": "+0.5"
+  },
+  "correct_answer": "A",
+  "explanation": "m = v/u = 30/(−15) = −2: a real, inverted image twice the size of the object.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Ray Optics"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "An optical fibre works on the principle of:",
+  "options": {
+   "A": "diffraction",
+   "B": "total internal reflection",
+   "C": "dispersion",
+   "D": "polarisation"
+  },
+  "correct_answer": "B",
+  "explanation": "Light is trapped in the core by repeated total internal reflection at the core-cladding boundary.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Ray Optics"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which statements about a concave mirror are correct?",
+  "options": {
+   "A": "It can form a real image",
+   "B": "It forms a virtual, enlarged image when the object is between the pole and the focus",
+   "C": "It always forms a diminished image",
+   "D": "Its focal length is half its radius of curvature"
+  },
+  "correct_answer": "A,B,D",
+  "explanation": "A concave mirror can form real or virtual images, with f = R/2. It forms enlarged images for objects between f and 2f, so C is false.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Ray Optics"
+ },
+ {
+  "question_type": "multiple",
+  "question_text": "Which statements about total internal reflection are correct?",
+  "options": {
+   "A": "It can occur only when light travels from a denser to a rarer medium",
+   "B": "It requires the angle of incidence to exceed the critical angle",
+   "C": "It is used in optical fibres",
+   "D": "It can occur when light travels from air into glass"
+  },
+  "correct_answer": "A,B,C",
+  "explanation": "TIR needs a denser-to-rarer path and an angle of incidence above the critical angle. Light going from air into glass cannot undergo TIR.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Ray Optics"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A concave mirror has radius of curvature 40 cm. An object is placed 60 cm in front of it. The image distance (in cm) is:",
+  "options": null,
+  "correct_answer": "30",
+  "explanation": "f = 20 cm. 1/v = −1/20 + 1/60 = −2/60, so v = −30 cm. The image is real, 30 cm in front.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Ray Optics"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A convex lens of focal length 20 cm has an object 30 cm from it. The image distance (in cm) is:",
+  "options": null,
+  "correct_answer": "60",
+  "explanation": "1/v = 1/20 − 1/30 = 1/60, so v = 60 cm.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Ray Optics"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The power (in dioptres) of a convex lens of focal length 25 cm is:",
+  "options": null,
+  "correct_answer": "4",
+  "explanation": "P = 1/f = 1/0.25 = 4 D.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Ray Optics"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "The refractive index of glass is 1.5 and c = 3 × 10⁸ m/s. The speed of light in glass (in units of 10⁸ m/s) is:",
+  "options": null,
+  "correct_answer": "2",
+  "explanation": "v = c/n = 3/1.5 = 2 × 10⁸ m/s.",
+  "difficulty": "easy",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Ray Optics"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "Two thin lenses of powers +2 D and +3 D are in contact. The focal length of the combination (in cm) is:",
+  "options": null,
+  "correct_answer": "20",
+  "explanation": "P = 2 + 3 = 5 D, so f = 1/5 m = 20 cm.",
+  "difficulty": "medium",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Ray Optics"
+ },
+ {
+  "question_type": "numerical",
+  "question_text": "A prism of angle 60° has refractive index √3. Its angle of minimum deviation (in degrees) is:",
+  "options": null,
+  "correct_answer": "60",
+  "explanation": "sin((A + D)/2) = n sin(A/2) = √3 × 1/2, so (A + D)/2 = 60° and D = 60°.",
+  "difficulty": "hard",
+  "exam": "JEE",
+  "subject": "Physics",
+  "chapter": "Ray Optics"
+ }
+]

@@ -1,0 +1,482 @@
+[
+ {
+  "question_type": "mcq",
+  "question_text": "Which epithelium lines the alveoli of the lungs and the walls of blood vessels?",
+  "options": {
+   "A": "Simple squamous",
+   "B": "Simple cuboidal",
+   "C": "Simple columnar",
+   "D": "Stratified squamous"
+  },
+  "correct_answer": "A",
+  "explanation": "Simple squamous epithelium is a single thin layer of flat cells, suited to diffusion and filtration.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Structural Organisation in Animals"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The simple cuboidal epithelium with a brush border is found in:",
+  "options": {
+   "A": "the skin",
+   "B": "the ducts of salivary glands",
+   "C": "the proximal convoluted tubule of the nephron",
+   "D": "the lining of blood vessels"
+  },
+  "correct_answer": "C",
+  "explanation": "Microvilli in the PCT increase the surface area for absorption.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Structural Organisation in Animals"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Ciliated columnar epithelium is found in:",
+  "options": {
+   "A": "the stomach lining",
+   "B": "the bronchioles and fallopian tubes",
+   "C": "the skin",
+   "D": "the urinary bladder"
+  },
+  "correct_answer": "B",
+  "explanation": "Cilia move particles or mucus in a specific direction, and move the egg in the fallopian tube.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Structural Organisation in Animals"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which cell junctions stop substances from leaking across a tissue?",
+  "options": {
+   "A": "Gap junctions",
+   "B": "Adhering junctions",
+   "C": "Tight junctions",
+   "D": "Plasmodesmata"
+  },
+  "correct_answer": "C",
+  "explanation": "Tight junctions seal the neighbouring cells together, usually near their apical region.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Structural Organisation in Animals"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Gap junctions facilitate:",
+  "options": {
+   "A": "cementing of neighbouring cells",
+   "B": "sealing of the intercellular space",
+   "C": "prevention of water loss",
+   "D": "transfer of ions and small molecules between adjoining cells"
+  },
+  "correct_answer": "D",
+  "explanation": "They connect the cytoplasm of adjoining cells for rapid communication.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Structural Organisation in Animals"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "An example of a unicellular exocrine gland is the:",
+  "options": {
+   "A": "salivary gland",
+   "B": "goblet cell of the alimentary canal",
+   "C": "pancreas",
+   "D": "sebaceous gland"
+  },
+  "correct_answer": "B",
+  "explanation": "Goblet cells secrete mucus; salivary glands are multicellular.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Structural Organisation in Animals"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Exocrine glands differ from endocrine glands because they:",
+  "options": {
+   "A": "secrete their products through ducts",
+   "B": "secrete hormones into the blood",
+   "C": "are always unicellular",
+   "D": "lack secretory cells"
+  },
+  "correct_answer": "A",
+  "explanation": "Exocrine glands (mucus, saliva, enzymes) use ducts; endocrine glands are ductless.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Structural Organisation in Animals"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Areolar tissue present beneath the skin is a type of:",
+  "options": {
+   "A": "dense regular connective tissue",
+   "B": "loose connective tissue",
+   "C": "specialised connective tissue",
+   "D": "epithelial tissue"
+  },
+  "correct_answer": "B",
+  "explanation": "It contains fibroblasts, macrophages and mast cells in a loose matrix.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Structural Organisation in Animals"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Adipose tissue is located mainly:",
+  "options": {
+   "A": "in the walls of arteries",
+   "B": "around nerve cells",
+   "C": "below the skin, where it stores fat",
+   "D": "in tendons and ligaments"
+  },
+  "correct_answer": "C",
+  "explanation": "Its cells store fats and it is a loose connective tissue.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Structural Organisation in Animals"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Tendons attach:",
+  "options": {
+   "A": "bone to bone",
+   "B": "skin to muscle",
+   "C": "muscle to muscle",
+   "D": "skeletal muscle to bone"
+  },
+  "correct_answer": "D",
+  "explanation": "Tendons are dense regular connective tissue with parallel collagen fibres.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Structural Organisation in Animals"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Ligaments attach:",
+  "options": {
+   "A": "bone to bone",
+   "B": "muscle to bone",
+   "C": "skin to bone",
+   "D": "cartilage to skin"
+  },
+  "correct_answer": "A",
+  "explanation": "Ligaments are dense regular connective tissue joining one bone to another.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Structural Organisation in Animals"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Cartilage is found in:",
+  "options": {
+   "A": "the shaft of the femur",
+   "B": "the tip of the nose and the external ear",
+   "C": "the skull bones",
+   "D": "the walls of arteries"
+  },
+  "correct_answer": "B",
+  "explanation": "It is also found between adjacent vertebrae; its matrix is solid and pliable.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Structural Organisation in Animals"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The hard matrix of bone is rich in:",
+  "options": {
+   "A": "calcium salts and collagen fibres",
+   "B": "chondroitin sulphate only",
+   "C": "keratin",
+   "D": "chitin"
+  },
+  "correct_answer": "A",
+  "explanation": "Calcium salts give hardness and collagen gives strength.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Structural Organisation in Animals"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Blood is classified as a:",
+  "options": {
+   "A": "muscular tissue",
+   "B": "neural tissue",
+   "C": "fluid connective tissue",
+   "D": "epithelial tissue"
+  },
+  "correct_answer": "C",
+  "explanation": "It consists of plasma, RBCs, WBCs and platelets.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Structural Organisation in Animals"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The most abundant type of white blood cell is:",
+  "options": {
+   "A": "basophils",
+   "B": "eosinophils",
+   "C": "monocytes",
+   "D": "neutrophils"
+  },
+  "correct_answer": "D",
+  "explanation": "Neutrophils make up about 60-65 per cent of WBCs.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Structural Organisation in Animals"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which muscle is striated and voluntary?",
+  "options": {
+   "A": "Smooth muscle",
+   "B": "Skeletal muscle",
+   "C": "Cardiac muscle",
+   "D": "Visceral muscle"
+  },
+  "correct_answer": "B",
+  "explanation": "Skeletal muscle is attached to bones and shows striations.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Structural Organisation in Animals"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Involuntary, non-striated muscle with tapering cells is found in:",
+  "options": {
+   "A": "the biceps",
+   "B": "the walls of the heart",
+   "C": "the walls of the alimentary canal",
+   "D": "the limb muscles"
+  },
+  "correct_answer": "C",
+  "explanation": "Smooth muscle lines the walls of internal organs such as the gut and blood vessels.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Structural Organisation in Animals"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Intercalated discs are present in:",
+  "options": {
+   "A": "cardiac muscle",
+   "B": "skeletal muscle",
+   "C": "smooth muscle",
+   "D": "neurons"
+  },
+  "correct_answer": "A",
+  "explanation": "They are communication junctions that make cardiac muscle cells contract as a unit.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Structural Organisation in Animals"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Neuroglia:",
+  "options": {
+   "A": "only conduct impulses",
+   "B": "make up over half the volume of neural tissue and support neurons",
+   "C": "are found only in muscles",
+   "D": "secrete hormones"
+  },
+  "correct_answer": "B",
+  "explanation": "Neuroglia protect and support neurons.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Structural Organisation in Animals"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In the earthworm Pheretima the clitellum lies in segments:",
+  "options": {
+   "A": "1-5",
+   "B": "9-11",
+   "C": "14-16",
+   "D": "26-27"
+  },
+  "correct_answer": "C",
+  "explanation": "The clitellar region (segments 14-16) forms the cocoon.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Structural Organisation in Animals"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The typhlosole of the earthworm:",
+  "options": {
+   "A": "is a fold of the intestinal wall that increases the absorptive area",
+   "B": "is a gland",
+   "C": "is a reproductive organ",
+   "D": "is part of the nephridia"
+  },
+  "correct_answer": "A",
+  "explanation": "It starts from the 26th segment.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Structural Organisation in Animals"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The red colour of earthworm blood is due to haemoglobin present in the:",
+  "options": {
+   "A": "RBCs",
+   "B": "plasma",
+   "C": "platelets",
+   "D": "lymph"
+  },
+  "correct_answer": "B",
+  "explanation": "Earthworm haemoglobin is dissolved in the plasma.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Structural Organisation in Animals"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Which earthworm nephridia open into the intestine?",
+  "options": {
+   "A": "Integumentary",
+   "B": "Pharyngeal",
+   "C": "Septal",
+   "D": "Pharyngeal and integumentary"
+  },
+  "correct_answer": "C",
+  "explanation": "Septal nephridia open into the intestine; integumentary ones open on the body surface.",
+  "difficulty": "hard",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Structural Organisation in Animals"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Cockroach has mosaic vision because of:",
+  "options": {
+   "A": "simple eyes",
+   "B": "about 2000 ommatidia in each compound eye",
+   "C": "a single large lens",
+   "D": "ocelli only"
+  },
+  "correct_answer": "B",
+  "explanation": "Each ommatidium forms a separate image fragment.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Structural Organisation in Animals"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Malpighian tubules in the cockroach are present at the junction of the:",
+  "options": {
+   "A": "midgut and hindgut",
+   "B": "foregut and midgut",
+   "C": "crop and gizzard",
+   "D": "hindgut and anus"
+  },
+  "correct_answer": "A",
+  "explanation": "They remove nitrogenous waste and absorb it as uric acid.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Structural Organisation in Animals"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "Anal styles in the cockroach are present in:",
+  "options": {
+   "A": "both sexes",
+   "B": "males only",
+   "C": "females only",
+   "D": "nymphs only"
+  },
+  "correct_answer": "B",
+  "explanation": "Anal styles are absent in females.",
+  "difficulty": "medium",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Structural Organisation in Animals"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The heart of the cockroach consists of:",
+  "options": {
+   "A": "two chambers",
+   "B": "four chambers",
+   "C": "13 funnel-shaped chambers",
+   "D": "three chambers"
+  },
+  "correct_answer": "C",
+  "explanation": "Cockroach has an open circulatory system with a 13-chambered heart.",
+  "difficulty": "hard",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Structural Organisation in Animals"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "The frog has a three-chambered heart consisting of:",
+  "options": {
+   "A": "two atria and one ventricle",
+   "B": "one atrium and two ventricles",
+   "C": "two atria and two ventricles",
+   "D": "one atrium and one ventricle"
+  },
+  "correct_answer": "A",
+  "explanation": "Frogs are cold-blooded with a three-chambered heart.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Structural Organisation in Animals"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "In a frog the alimentary canal, urinary and reproductive tracts open into the:",
+  "options": {
+   "A": "rectum",
+   "B": "urinary bladder",
+   "C": "stomach",
+   "D": "cloaca"
+  },
+  "correct_answer": "D",
+  "explanation": "The cloaca opens to the exterior through the cloacal aperture.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Structural Organisation in Animals"
+ },
+ {
+  "question_type": "mcq",
+  "question_text": "A frog can respire through its skin because the skin is:",
+  "options": {
+   "A": "thick and dry",
+   "B": "covered with scales",
+   "C": "moist and permeable",
+   "D": "keratinised"
+  },
+  "correct_answer": "C",
+  "explanation": "Cutaneous respiration happens through the moist skin, especially in water.",
+  "difficulty": "easy",
+  "exam": "NEET",
+  "subject": "Biology",
+  "chapter": "Structural Organisation in Animals"
+ }
+]
